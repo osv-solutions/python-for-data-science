@@ -18,24 +18,48 @@ response = requests.get(f"{BASE}/shop/", timeout=10)
 soup = BeautifulSoup(response.text, "lxml")
 print(response.status_code, soup.title.get_text())
 
-# %% 7.2 Looking at a page like a scraper
+# %% 7.2 Beautiful Soup in five minutes
+html_doc = """<html><head><title>Tiny Shop</title></head><body>
+<h1>New this week</h1>
+<ul id="new">
+  <li class="book"><a href="/shop/book/emma-1.html">Emma</a>
+    <span class="price">$9.99</span></li>
+  <li class="book sale"><a href="/shop/book/dune-2.html">Dune</a>
+    <span class="price">$12.50</span></li>
+</ul></body></html>"""
+mini = BeautifulSoup(html_doc, "lxml")
+print(mini.title.get_text(), "|", mini.h1.get_text())
+
+# %% 7.2 Beautiful Soup in five minutes
+first = mini.find("li", class_="book")
+print(first.a.get_text(), first.a["href"], first.get("id"))
+for li in mini.find_all("li", class_="book"):
+    price = li.find("span", class_="price").get_text()
+    print(li.a.get_text(), price, li["class"])
+
+# %% 7.2 Beautiful Soup in five minutes
+print([a.get_text() for a in mini.select("ul#new li.book a")])
+print(mini.select_one("li.sale span.price").get_text())
+print(first.parent.name, first.find_next_sibling("li").a.get_text())
+
+# %% 7.3 Looking at a page like a scraper
 card = soup.select_one("article.book")
 print(card.prettify()[:620])
 
-# %% 7.3 CSS selectors in depth
+# %% 7.4 CSS selectors in depth
 print(len(soup.select("article.book")))
 print(len(soup.select("p.stock.out-of-stock")))
 print(soup.select_one("ul.pager > li.current").get_text())
 print([a.get_text() for a in soup.select("ul.categories a")][:4])
 
-# %% 7.4 Text, attributes and links
+# %% 7.5 Text, attributes and links
 link = card.select_one("h3 a")
 print(link["href"])
 print(card.select_one("p.stars")["class"])
 for a in soup.select("article.book h3 a")[1:4]:
     print(a.get_text(strip=True), "|", a["title"])
 
-# %% 7.4 Text, attributes and links
+# %% 7.5 Text, attributes and links
 from pprint import pprint
 from urllib.parse import urljoin
 
@@ -43,7 +67,7 @@ page_url = f"{BASE}/shop/catalogue/page-1.html"
 print(urljoin(page_url, link["href"]))
 print(urljoin(page_url, "page-2.html"))
 
-# %% 7.4 Text, attributes and links
+# %% 7.5 Text, attributes and links
 def parse_card(card, page_url):
     """Return the raw values of one book card as a dictionary."""
     link = card.select_one("h3 a")
@@ -59,14 +83,14 @@ def parse_card(card, page_url):
 raw = [parse_card(c, page_url) for c in soup.select("article.book")]
 pprint(raw[0], width=68)
 
-# %% 7.5 Cleaning scraped values
+# %% 7.6 Cleaning scraped values
 import pandas as pd
 
 books = pd.DataFrame(raw)
 print(books.dtypes.value_counts())
 print(books[["rating", "price", "stock"]].head(3))
 
-# %% 7.5 Cleaning scraped values
+# %% 7.6 Cleaning scraped values
 clean = books.assign(
     author=books["author"].str.removeprefix("by "),
     rating=books["rating"].str.removeprefix("stars-").astype(int),
@@ -75,11 +99,11 @@ clean = books.assign(
 ).drop(columns="stock")
 print(clean.dtypes)
 
-# %% 7.5 Cleaning scraped values
+# %% 7.6 Cleaning scraped values
 print(clean[["title", "rating", "price", "in_stock"]].head(3))
 print(clean.groupby("rating")["price"].mean().round(2))
 
-# %% 7.6 Tables with read_html
+# %% 7.7 Tables with read_html
 from io import StringIO
 
 page = requests.get(f"{BASE}/data/life-expectancy-2007.html",
@@ -89,7 +113,7 @@ print(len(tables))
 print(tables[0].head(3))
 print(tables[0].dtypes)
 
-# %% 7.6 Tables with read_html
+# %% 7.7 Tables with read_html
 page_soup = BeautifulSoup(page, "lxml")
 continents = [h2.get_text() for h2 in page_soup.select("h2")]
 world = pd.concat(
@@ -100,7 +124,7 @@ world["GDP per person"] = pd.to_numeric(
 print(world.shape)
 print(world.groupby("continent")["Life expectancy"].median())
 
-# %% 7.7 Putting it together: a catalog page to a clean table
+# %% 7.8 Putting it together: a catalog page to a clean table
 def scrape_listing(url, session=requests):
     """Return the raw book records on one catalog or category page."""
     response = session.get(url, timeout=10)
@@ -118,7 +142,7 @@ def clean_books(raw):
         in_stock=books["stock"].eq("In stock"),
     ).drop(columns="stock")
 
-# %% 7.7 Putting it together: a catalog page to a clean table
+# %% 7.8 Putting it together: a catalog page to a clean table
 url = f"{BASE}/shop/category/poetry/page-1.html"
 poetry = clean_books(scrape_listing(url))
 print(len(poetry), poetry["price"].mean().round(2))
