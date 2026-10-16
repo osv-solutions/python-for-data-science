@@ -63,6 +63,12 @@ second terminal. Chapter 9 drives a real browser: install it once with
 Project 4's, as a script rather than in a notebook (see the note in the
 chapter).
 
+## Part IV: interactive charts
+
+Chapter 17's Plotly charts open in your browser or notebook. Saving them as
+pictures uses Kaleido, which needs Chrome; if you don't have it, run
+`plotly_get_chrome` once after installing the requirements.
+
 ## Checking everything
 
 `run_all.py` runs every script in the repository and reports any that fail:

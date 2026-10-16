@@ -24,3 +24,7 @@ There is rarely only one correct solution. If your code gets the same result in 
 | 12. Text, Dates and Categories | [ch12_solutions.md](ch12_solutions.md) |
 | 13. Combining Data | [ch13_solutions.md](ch13_solutions.md) |
 | 14. Grouping, Aggregating and Reshaping | [ch14_solutions.md](ch14_solutions.md) |
+| 15. Visualization with Matplotlib | [ch15_solutions.md](ch15_solutions.md) |
+| 16. Statistical Charts with seaborn | [ch16_solutions.md](ch16_solutions.md) |
+| 17. Interactive Charts with Plotly | [ch17_solutions.md](ch17_solutions.md) |
+| 18. Exploratory Data Analysis | [ch18_solutions.md](ch18_solutions.md) |
