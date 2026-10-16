@@ -20,3 +20,7 @@ There is rarely only one correct solution. If your code gets the same result in 
 | 8. Scraping Many Pages | [ch08_solutions.md](ch08_solutions.md) |
 | 9. Scraping JavaScript Pages with Playwright | [ch09_solutions.md](ch09_solutions.md) |
 | 10. Scraping Responsibly | [ch10_solutions.md](ch10_solutions.md) |
+| 11. Cleaning Messy Data | [ch11_solutions.md](ch11_solutions.md) |
+| 12. Text, Dates and Categories | [ch12_solutions.md](ch12_solutions.md) |
+| 13. Combining Data | [ch13_solutions.md](ch13_solutions.md) |
+| 14. Grouping, Aggregating and Reshaping | [ch14_solutions.md](ch14_solutions.md) |

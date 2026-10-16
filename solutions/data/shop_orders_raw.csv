@@ -1,0 +1,1119 @@
+order_id,order_date,customer_id,state,product,bag_size,quantity,unit_price,shipping_days,status,rating
+HC-10001,2026-02-16,C0155,N.Y.,Decaf Swiss Water,500g,2,$26.10,4,delivered,5
+HC-10002,2026-02-10,C0303,Penn.,Sumatra Mandheling,250g,2,$16.00,3,delivered,4
+HC-10003,2026-04-28,C0165,NY,House Blend,1kg,2,$41.25,3,delivered,5
+HC-10004,2026-02-04,C0265,MA,House Blend,500g,1,$22.50,6,delivered,
+HC-10005,2026-05-13,C0194,,Colombia Huila,250g,1,$15.00,3,delivered,5
+HC-10006,2026-05-24,C0122,PA,Espresso Roast,250g,2,$13.50,4,delivered,4
+HC-10007,2026-04-06,C0247,VA,Espresso Roast,250g,1,$13.50,6,delivered,2
+HC-10008,2026-02-25,C0187,MA,House Blend,250g,1,$1250.00,6,delivered,3
+HC-10009,2026-05-07,C0303,PA,Colombia Huila,250g,3,$15.00,4,delivered,4
+HC-10010,2026-02-18,C0021,pa,House Blend,250g,1,$1250.00,6,delivered,
+HC-10011,2026-04-18,C0042,NY,Colombia Huila,500g,4,$27.00,3,delivered,1
+HC-10012,,C0119,Ohio,Espresso Roast,500g,2,$24.30,6,delivered,4
+HC-10013,2026-03-03,C0078,NJ,Colombia Huila,500g,3,$27.00,8,delivered ,3
+HC-10014,2026-04-06,C0267,Virginia,Sumatra Mandheling,500g,4,$28.80,2,delivered ,
+HC-10015,2026-03-02,C0302,pa,Ethiopia Yirgacheffe,250g,3,$17.50,3,delivered,2
+HC-10016,2026-02-08,C0251,VA,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-10017,2026-04-04,C0168,ny,Ethiopia Yirgacheffe,500g,2,$31.50,5,delivered,
+HC-10018,2026-05-05,C0213,N.Y.,House Blend,1kg,1,$41.25,3,delivered,4
+HC-10019,2026-04-24,C0086,Ohio,House Blend,1kg,2,$41.25,4,delivered,44
+HC-10020,2026-01-16,C0280,Penn.,Colombia Huila,500g,3,$27.00,3,delivered,3
+HC-10021,2026-03-25,C0057, PA,Ethiopia Yirgacheffe,250g,,$17.50,3,delivered,
+HC-10022,2026-06-28,C0011,NJ,Colombia Huila,500g,1,$27.00,,processing,
+HC-10023,2026-02-04,C0290,NJ,Decaf Swiss Water,1kg,2,$47.85,5,delivered,4
+HC-10024,2026-06-20,C0237, PA,House Blend,250g,2,$12.50,2,delivered,1
+HC-10025,2026-05-07,C0219,N.Y.,Colombia Huila,250g,1,$15.00,2,delivered,4
+HC-10026,2026-03-24,C0121,N.Y.,House Blend,250g,1,$12.50,4,delivered,
+HC-10027,2026-05-27,C0245,NJ,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,4
+HC-10028,2026-01-09,C0161,NJ,Sumatra Mandheling,500g,1,$28.80,5,delivered,
+HC-10029,2026-06-14,C0208,Maryland,House Blend,500g,3,$22.50,3,delivered,4
+HC-10030,2026-03-01,C0296,NY,House Blend,250g,2,$12.50,3,delivered,
+HC-10031,2026-01-12,C0209,NJ,Colombia Huila,250g,1,$15.00,4,delivered,4
+HC-10032,2026-05-09,C0191,OH,Sumatra Mandheling,1kg,2,$52.80,4,delivered,
+HC-10033,2026-01-14,C0115,NY,Decaf Swiss Water,250g,2,$14.50,,cancelled,
+HC-10034,2026-01-10,C0234,OH,House Blend,500g,2,$22.50,3,delivered,5
+HC-10035,2026-02-09,C0257,VA,House Blend,250g,3,$12.50,5,delivered,5
+HC-10036,2026-03-05,C0212,VA,House Blend,500g,1,$22.50,3,delivered,
+HC-10037,2026-02-27,C0070,NY,Ethiopia Yirgacheffe,500g,2,$31.50,,cancelled,
+HC-10038,2026-05-23,C0135,Pennsylvania,Ethiopia Yirgacheffe,500g,3,$31.50,6,delivered,1
+HC-10039,2026-04-16,C0235,Mass.,Decaf Swiss Water,500g,4,$26.10,4,delivered,4
+HC-10040,2026-05-31,C0200,VA,Sumatra Mandheling,500g,4,,4,delivered,
+HC-10041,2026-03-13,C0233,NJ,Sumatra Mandheling,250g,1,$16.00,4,delivered,0
+HC-10042,2026-02-17,C0082, PA,Sumatra Mandheling,250g,1,$16.00,3,delivered,1
+HC-10043,2026-04-26,C0025,PA,Colombia Huila,1kg,1,$49.50,6,delivered,2
+HC-10044,2026-04-23,C0113,NY,Colombia Huila,500g,4,$27.00,4,delivered,5
+HC-10045,2026-01-31,C0026,N.Y.,Sumatra Mandheling,500g,2,$28.80,5,delivered,
+HC-10046,2026-05-12,C0154,N.Y.,Ethiopia Yirgacheffe,250g,2,$17.50,6,delivered,4
+HC-10047,2026-06-30,C0184,NY,Colombia Huila,250g,2,$15.00,,processing,
+HC-10048,2026-02-27,C0100,pa,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-10049,2026-06-26,C0130,oh ,House Blend,250g,2,-,,Shipped,
+HC-10050,2026-05-13,C0290,NJ,Espresso Roast,1kg,1,$44.55,8,delivered,1
+HC-10051,2026-02-27,C0018,Penn.,House Blend,500g,2,$22.50,3,delivered,
+HC-10052,2026-01-22,C0005,NY,House Blend,1kg,3,$41.25,5,delivered,5
+HC-10053,2026-03-26,C0151,MA,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,
+HC-10054,2026-02-01,C0120,New Jersey,Espresso Roast,1kg,3,$44.55,3,delivered,2
+HC-10055,2026-01-10,C0258,NY,Colombia Huila,500g,1,$27.00,,cancelled,
+HC-10056,2026-02-13,C0261,MD,Decaf Swiss Water,500g,2,$26.10,2,delivered,5
+HC-10057,2026-05-04,C0186,NY,Espresso Roast,250g,1,$13.50,2,delivered,5
+HC-10058,2026-03-05,C0287,Pennsylvania,Colombia Huila,1kg,3,$49.50,3,delivered,
+HC-10059,2026-05-16,C0064,PA,House Blend,250g,2,$12.50,8,delivered,4
+HC-10060,2026-05-15,C0007,Ohio,Decaf Swiss Water,500g,2,$26.10,5,delivered,1
+HC-10061,2026-02-09,C0248,NY,Decaf Swiss Water,1kg,1,$47.85,4,delivered,
+HC-10062,2026-01-19,C0185,NJ,Decaf Swiss Water,250g,1,$14.50,,cancelled,
+HC-10063,2026-02-02,C0121,NY,Colombia Huila,250g,4,$15.00,4,delivered,3
+HC-10064,2026-06-15,C0267,Virginia,Sumatra Mandheling,1kg,1,$52.80,3,delivered,
+HC-10065,2026-04-03,C0267,Virginia,Colombia Huila,500g,1,$27.00,6,delivered,
+HC-10066,2026-05-05,C0284,NJ,Colombia Huila,1kg,1,$49.50,5,delivered,
+HC-10067,2026-04-17,C0115,N.Y.,Sumatra Mandheling,250g,3,$16.00,3,delivered,
+HC-10068,2026-03-12,C0276,New Jersey,Colombia Huila,1kg,3,$49.50,3,delivered,
+HC-10069,2026-01-27,C0298,PA,Colombia Huila,500g,4,$27.00,6,delivered,4
+HC-10070,2026-04-29,C0050,OH,Decaf Swiss Water,500g,2,$26.10,5,delivered,
+HC-10071,2026-06-17,C0237,Penn.,Sumatra Mandheling,500g,2,$28.80,4,delivered,4
+HC-10072,2026-05-03,C0230,Mass.,Ethiopia Yirgacheffe,250g,2,$17.50,4,delivered,4
+HC-10073,2026-06-20,C0176,Ohio,Decaf Swiss Water,1kg,2,$47.85,2,delivered,3
+HC-10074,2026-05-23,C0303,PA,Decaf Swiss Water,500g,2,$26.10,3,delivered,
+HC-10075,2026-06-22,C0202,NY,Espresso Roast,500g,1,$24.30,4,delivered,4
+HC-10076,2026-05-10,C0233,NJ,Sumatra Mandheling,250g,1,$16.00,2,delivered,
+HC-10077,2026-06-06,C0181,NY,Colombia Huila,500g,2,$27.00,8,delivered,
+HC-10078,2026-04-28,C0181,NY,Ethiopia Yirgacheffe,1kg,2,$57.75,4,delivered,
+HC-10079,2026-01-16,C0079,Maryland,House Blend,250g,2,$12.50,4,delivered,5
+HC-10080,2026-05-06,C0132,NY,House Blend,500g,3,$22.50,8,delivered,3
+HC-10081,2026-05-31,C0235,MA,Colombia Huila,500g,4,$27.00,,cancelled,
+HC-10082,2026-03-16,C0068,pa,Colombia Huila,1kg,2,$49.50,3,delivered,5
+HC-10083,2026-01-04,C0314,Pennsylvania,Sumatra Mandheling,1kg,3,52.80,3,delivered,5
+HC-10084,2026-05-10,C0235,Mass.,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,
+HC-10085,2026-02-08,C0190,OH,Ethiopia Yirgacheffe,500g,4,$31.50,6,delivered,
+HC-10086,2026-04-30,C0244,Penn.,Colombia Huila,250g,1,$15.00,2,delivered,1
+HC-10087,2026-04-23,C0223,Penn.,Ethiopia Yirgacheffe,250g,2,$17.50,6,delivered,2
+HC-10088,2026-04-20,C0312,NJ,Ethiopia Yirgacheffe,500g,3,$31.50,,cancelled,
+HC-10089,2026-04-09,C0113,ny,Colombia Huila,250g,2,$15.00,6,delivered,1
+HC-10090,2026-02-28,C0312,nj,Colombia Huila,500g,2,$27.00,6,delivered,
+HC-10091,2026-02-28,C0208,MD,House Blend,500g,2,$22.50,6,delivered,
+HC-10092,2026-06-12,C0191,OH,Sumatra Mandheling,250g,4,$16.00,4,delivered,
+HC-10093,2026-04-06,C0114,Penn.,Colombia Huila,500g,1,$27.00,6,delivered,2
+HC-10094,2026-01-20,C0094,NY,Ethiopia Yirgacheffe,250g,4,$17.50,4,delivered,4
+HC-10095,2026-06-04,C0062,NJ,Espresso Roast,500g,1,$24.30,5,delivered,
+HC-10096,2026-03-28,C0276,nj,House Blend,250g,1,$12.50,6,delivered,
+HC-10097,2026-03-16,C0195,NJ,Colombia Huila,250g,4,$15.00,6,delivered,4
+HC-10098,2026-01-23,C0143,NJ,Ethiopia Yirgacheffe,500g,2,$31.50,3,delivered,1
+HC-10099,2026-03-08,C0024,PA,House Blend,250g,2,$12.50,3,delivered,
+HC-10100,2026-04-30,C0094,NY,Ethiopia Yirgacheffe,250g,2,$17.50,5,delivered,
+HC-10101,2026-05-28,C0007,Virginia,Decaf Swiss Water,1kg,40,$47.85,5,delivered,4
+HC-10102,2026-04-16,C0267,VA,Decaf Swiss Water,500g,3,$26.10,2,delivered,
+HC-10103,2026-03-16,C0255,N.Y.,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,
+HC-10104,2026-02-15,C0227,NY,Colombia Huila,500g,3,$27.00,4,delivered,4
+HC-10105,2026-04-13,C0185,NJ,Ethiopia Yirgacheffe,500g,4,$31.50,3,delivered,2
+HC-10106,2026-01-15,C0127,NJ,House Blend,1kg,1,$41.25,6,delivered,
+HC-10107,2026-02-18,C0020,NY,Decaf Swiss Water,500g,1,$26.10,3,delivered,
+HC-10108,2026-03-01,C0171,NJ,Espresso Roast,250g,2,$13.50,5,delivered,4
+HC-10109,2026-04-28,C0014,PA,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-10109,2026-04-28,C0014,PA,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-10110,2026-05-03,C0076,MA,House Blend,500g,1,$22.50,4,delivered,
+HC-10111,2026-02-25,C0264,nj,Sumatra Mandheling,1kg,2,$52.80,8,delivered,2
+HC-10112,2026-06-13,C0086,oh ,Decaf Swiss Water,250g,1,$14.50,5,delivered,1
+HC-10113,2026-05-31,C0113,New York,Decaf Swiss Water,250g,2,$14.50,6,delivered,4
+HC-10114,2026-05-18,C0036,Pennsylvania,Ethiopia Yirgacheffe,500g,2,$31.50,8,delivered,4
+HC-10115,2026-01-26,C0045,New Jersey,Colombia Huila,500g,3,$27.00,4,delivered,
+HC-10116,2026-05-08,C0081,Maryland,House Blend,500g,2,$22.50,2,delivered,
+HC-10117,2026-01-28,C0147,nj,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,
+HC-10118,2026-01-27,C0072,New York,Sumatra Mandheling,250g,2,$16.00,3,delivered,
+HC-10119,2026-05-22,C0096,MD,Sumatra Mandheling,500g,1,$28.80,3,delivered,
+HC-10120,2026-06-18,C0086,oh ,Espresso Roast,250g,1,$13.50,3,delivered,
+HC-10121,2026-04-17,C0265,Mass.,House Blend,250g,1,$12.50,,cancelled,
+HC-10122,2026-04-18,C0107,pa,Sumatra Mandheling,250g,1,$16.00,4,delivered,2
+HC-10123,2026-03-08,C0278,PA,Colombia Huila,250g,1,$15.00,4,delivered,5
+HC-10124,2026-01-12,C0111,Maryland,Ethiopia Yirgacheffe,1kg,2,$57.75,6,delivered,
+HC-10124,2026-01-12,C0111,Maryland,Ethiopia Yirgacheffe,1kg,2,$57.75,6,delivered,
+HC-10125,2026-06-30,C0108,ny,Espresso Roast,1kg,1,$44.55,,processing,
+HC-10126,2026-03-30,C0247,Virginia,Ethiopia Yirgacheffe,500g,1,$31.50,5,delivered,
+HC-10127,2026-06-28,C0004,VA,Espresso Roast,1kg,1,$44.55,,processing,
+HC-10128,2026-06-24,C0098,PA,Sumatra Mandheling,500g,1,$28.80,2,delivered,5
+HC-10129,2026-03-25,C0117,oh ,Colombia Huila,250g,1,$15.00,8,delivered,4
+HC-10129,2026-03-25,C0117,oh ,Colombia Huila,250g,1,$15.00,8,delivered,4
+HC-10130,2026-03-21,C0215,Penn.,Colombia Huila,1kg,1,$49.50,3,delivered,
+HC-10131,2026-03-07,C0009,VA,Decaf Swiss Water,250g,1,$14.50,8,delivered,4
+HC-10132,2026-06-14,C0009,VA,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,
+HC-10133,2026-02-27,C0274,oh ,Decaf Swiss Water,1kg,4,$47.85,4,delivered,2
+HC-10134,2026-06-13,C0152,Maryland,Colombia Huila,500g,1,$27.00,3,delivered,
+HC-10135,2026-02-27,C0204,ny,Ethiopia Yirgacheffe,500g,2,$31.50,8,delivered,
+HC-10136,2026-04-09,C0167,OH,House Blend,250g,1,$12.50,2,delivered,3
+HC-10137,2026-05-24,C0047,OH,House Blend,1kg,2,$41.25,6,delivered,2
+HC-10138,2026-03-12,C0120,NJ,Colombia Huila,500g,3,$27.00,5,delivered,2
+HC-10139,2026-03-12,C0284,nj,Decaf Swiss Water,250g,1,$14.50,3,delivered,
+HC-10140,2026-04-26,C0009,VA,Sumatra Mandheling,250g,2,$16.00,3,delivered,5
+HC-10141,2026-04-29,C0121,ny,House Blend,250g,3,$12.50,3,delivered,1
+HC-10142,2026-02-11,C0299,PA,Colombia Huila,1kg,2,$49.50,4,delivered,5
+HC-10143,2026-04-06,C0206,PA,Sumatra Mandheling,1kg,4,$52.80,3,delivered,3
+HC-10144,2026-05-01,C0121,NY,Decaf Swiss Water,250g,2,$14.50,,cancelled,
+HC-10145,2026-03-25,C0100,PA,Colombia Huila,250g,1,$15.00,8,delivered,1
+HC-10146,2026-06-26,C0247,VA,Espresso Roast,500g,1,$24.30,,shipped,
+HC-10146,2026-06-26,C0247,VA,Espresso Roast,500g,1,$24.30,4,delivered,
+HC-10147,2026-05-21,C0014,PA,Decaf Swiss Water,250g,4,$14.50,4,delivered,
+HC-10148,2026-03-07,C0045,New Jersey,Sumatra Mandheling,1kg,1,$52.80,,cancelled,
+HC-10149,2026-02-17,C0101,New York,Espresso Roast,250g,4,$13.50,3,delivered,5
+HC-10150,2026-04-07,C0101,ny,Colombia Huila,250g,2,$15.00,8,delivered,3
+HC-10151,2026-05-02,C0310,NY,Colombia Huila,1kg,2,$49.50,3,delivered,
+HC-10152,2026-03-30,C0154,New York,House Blend,500g,4,$22.50,8,delivered,
+HC-10153,2026-05-11,C0066,New Jersey,Ethiopia Yirgacheffe,500g,4,$31.50,6,delivered,2
+HC-10154,2026-02-03,C0043,VA,Colombia Huila,1kg,2,$49.50,8,delivered,2
+HC-10155,2026-02-02,C0106,,Colombia Huila,250g,2,$15.00,3,delivered,4
+HC-10156,2026-03-27,C0132,ny,House Blend,1kg,1,$41.25,2,delivered,
+HC-10157,2026-02-25,C0099,NJ,House Blend,250g,2,$12.50,6,delivered,4
+HC-10158,2026-03-25,C0079,MD,Colombia Huila,500g,1,$27.00,4,delivered,
+HC-10159,2026-03-29,C0298,PA,House Blend,500g,4,$22.50,3,delivered,4
+HC-10160,2026-05-09,C0041,NY,Espresso Roast,500g,2,$24.30,4,delivered,
+HC-10161,2026-05-19,C0131,OH,House Blend,500g,1,$22.50,3,delivered,
+HC-10162,2026-06-14,C0067, PA,Sumatra Mandheling,500g,2,$28.80,4,delivered,
+HC-10163,2026-03-02,C0060,PA,Ethiopia Yirgacheffe,1kg,2,$57.75,3,delivered,4
+HC-10164,2026-05-10,C0285,PA,Colombia Huila,250g,1,$15.00,6,delivered,4
+HC-10165,2026-04-14,C0042,NY,House Blend,250g,1,$12.50,6,delivered,1
+HC-10166,2026-06-10,C0032,pa,House Blend,250g,2,$12.50,4,delivered,4
+HC-10167,2026-03-21,C0245,NJ,Colombia Huila,500g,2,$27.00,4,delivered,4
+HC-10168,2026-01-04,C0272,New York,Decaf Swiss Water,500g,1,$26.10,3,delivered,2
+HC-10169,2026-04-22,C0172,pa,Colombia Huila,250g,1,$15.00,3,delivered,
+HC-10170,2026-01-21,C0114,Pennsylvania,Sumatra Mandheling,1kg,1,$52.80,2,delivered,5
+HC-10171,2026-03-17,C0145,VA,Sumatra Mandheling,500g,2,$28.80,4,delivered,5
+HC-10172,2026-01-02,C0100,Penn.,House Blend,1kg,1,$41.25,8,delivered,3
+HC-10173,2026-06-15,C0024,Penn.,Ethiopia Yirgacheffe,500g,1,$31.50,4,delivered,4
+HC-10174,2026-05-25,C0106,NY,Ethiopia Yirgacheffe,1kg,3,$57.75,3,delivered,
+HC-10175,2026-02-04,C0249,pa,House Blend,250g,3,$12.50,,cancelled,
+HC-10176,2026-02-23,C0009,VA,Colombia Huila,1kg,3,$49.50,6,delivered,
+HC-10177,2026-06-08,C0124,Penn.,Espresso Roast,500g,4,$24.30,3,delivered,
+HC-10178,2026-04-26,C0123,Maryland,Ethiopia Yirgacheffe,1kg,2,$57.75,2,delivered,
+HC-10179,2026-05-31,C0282,NY,House Blend,500g,3,$22.50,4,delivered,4
+HC-10180,2026-01-05,C0153,New Jersey,Decaf Swiss Water,250g,1,$14.50,4,delivered,5
+HC-10181,2026-04-02,C0144,PA,House Blend,250g,1,$12.50,2,delivered,3
+HC-10182,2026-01-08,C0266,Pennsylvania,House Blend,250g,1,$12.50,8,delivered,
+HC-10183,2026-04-24,C0188,NY,Decaf Swiss Water,1kg,1,$47.85,4,delivered,4
+HC-10184,2026-02-25,C0306,pa,Decaf Swiss Water,250g,4,$14.50,3,delivered,0
+HC-10185,2026-05-28,C0218,PA,Decaf Swiss Water,250g,2,$14.50,4,delivered,
+HC-10186,2026-02-28,C0214,NY,Colombia Huila,500g,2,$27.00,4,delivered,1
+HC-10187,2026-01-09,C0045,nj,Colombia Huila,250g,1,$15.00,3,delivered,
+HC-10188,2026-06-03,C0190,OH,Colombia Huila,250g,2,$15.00,6,delivered,
+HC-10189,2026-02-12,C0250,NY,Espresso Roast,500g,1,$24.30,8,delivered,
+HC-10190,2026-03-04,C0261,Maryland,Decaf Swiss Water,500g,2,$26.10,8,delivered,
+HC-10191,2026-02-09,C0078,NJ,House Blend,250g,1,$12.50,4,delivered,5
+HC-10192,2026-05-17,C0212,VA,Espresso Roast,250g,3,$13.50,2,delivered,5
+HC-10193,2026-02-14,C0051,Virginia,Ethiopia Yirgacheffe,1kg,1,$57.75,8,delivered,
+HC-10194,2026-05-25,C0195,NJ,Espresso Roast,250g,4,$13.50,2,delivered,5
+HC-10195,2026-04-03,C0120,NJ,Colombia Huila,250g,1,$15.00,8,delivered,
+HC-10196,2026-03-19,C0234,OH,Colombia Huila,500g,4,$27.00,,cancelled,
+HC-10197,2026-02-14,C0092,Penn.,House Blend,250g,2,$12.50,2,delivered,1
+HC-10198,2026-03-10,C0055,NY,Ethiopia Yirgacheffe,1kg,4,$57.75,4,delivered,
+HC-10199,2026-05-20,C0016,PA,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,
+HC-10200,2026-06-19,C0102,,House Blend,1kg,2,$41.25,8,delivered,2
+HC-10201,2026-02-26,C0162,PA,Colombia Huila,250g,2,$15.00,4,delivered,1
+HC-10202,2026-01-10,C0139,Penn.,Colombia Huila,250g,4,$15.00,3,delivered,
+HC-10203,2026-01-18,C0009,Virginia,House Blend,250g,4,$12.50,5,delivered,
+HC-10204,2026-04-20,C0274,OH,Colombia Huila,1kg,2,$49.50,3,delivered,5
+HC-10205,2026-03-21,C0025,PA,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,2
+HC-10206,2026-04-14,C0053,Virginia,Espresso Roast,250g,2,$13.50,3,delivered,4
+HC-10207,2026-04-25,C0186,NY,Colombia Huila,250g,2,$15.00,2,delivered,1
+HC-10208,2026-01-29,C0111,MD,Sumatra Mandheling,1kg,1,$52.80,4,delivered,2
+HC-10209,2026-02-24,C0060,PA,Espresso Roast,1kg,2,$44.55,8,delivered,2
+HC-10210,2026-03-15,C0220,PA,Colombia Huila,500g,1,$27.00,4,delivered,4
+HC-10211,2026-01-18,C0226,Maryland,House Blend,1kg,2,$41.25,5,delivered,4
+HC-10212,2026-02-30,C0039,ny,Ethiopia Yirgacheffe,500g,2,$31.50,3,delivered,
+HC-10213,2026-05-30,C0219,ny,Espresso Roast,250g,4,$13.50,3,delivered,
+HC-10214,2026-02-17,C0232,MA,Ethiopia Yirgacheffe,250g,4,$17.50,4,delivered,
+HC-10215,2026-06-15,C0123,MD,House Blend,250g,2,$12.50,3,delivered,
+HC-10216,2026-06-21,C0176,oh ,Espresso Roast,500g,1,$24.30,,cancelled,
+HC-10217,2026-05-25,C0262,N.Y.,Colombia Huila,500g,3,$27.00,2,delivered,
+HC-10218,2026-04-18,C0020,N.Y.,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,
+HC-10219,2026-01-15,C0066,NJ,Colombia Huila,250g,2,$15.00,6,delivered,
+HC-10220,2026-02-06,C0014,Pennsylvania,Sumatra Mandheling,250g,1,-,5,delivered,
+HC-10221,2026-01-21,C0008,MD,Sumatra Mandheling,500g,1,$28.80,2,delivered,5
+HC-10222,2026-04-01,C0097,New Jersey,Espresso Roast,500g,1,$24.30,3,delivered,4
+HC-10223,2026-04-05,C0191,Ohio,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,
+HC-10224,2026-02-24,C0279,Penn.,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-10225,2026-03-29,C0136,Pennsylvania,Ethiopia Yirgacheffe,500g,1,$31.50,-2,delivered,
+HC-10226,2026-06-17,C0248,NY,Ethiopia Yirgacheffe,250g,1,,4,delivered,
+HC-10227,2026-05-06,C0052,Virginia,House Blend,500g,2,-,8,delivered,
+HC-10228,2026-03-07,C0038,PA,Espresso Roast,250g,1,$13.50,6,delivered,2
+HC-10229,2026-02-03,C0316,pa,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10230,2026-04-29,C0319, PA,Sumatra Mandheling,500g,1,$28.80,4,delivered,5
+HC-10231,2026-04-22,C0019,Virginia,House Blend,500g,1,$22.50,3,delivered,3
+HC-10232,2026-04-15,C0294,N.Y.,House Blend,1kg,1,$41.25,3,delivered,
+HC-10233,2026-04-27,C0285,Pennsylvania,Colombia Huila,500g,2,$27.00,8,delivered,3
+HC-10234,2026-04-27,C0156,pa,Decaf Swiss Water,1kg,1,$47.85,8,delivered,2
+HC-10235,2026-03-14,C0209,nj,House Blend,250g,2,$12.50,3,delivered,
+HC-10236,2026-03-22,C0096,MD,Colombia Huila,500g,4,$27.00,5,delivered,
+HC-10237,2026-06-19,C0103,NY,Decaf Swiss Water,500g,2,$26.10,4,delivered,
+HC-10238,2026-04-18,C0143,NJ,Espresso Roast,500g,2,$24.30,3,delivered,3
+HC-10239,2026-01-01,C0157,Penn.,House Blend,250g,3,$12.50,4,delivered,4
+HC-10240,2026-06-03,C0011,NJ,Colombia Huila,500g,1,$27.00,8,delivered,2
+HC-10241,2026-06-23,C0241,Ohio,House Blend,500g,1,$22.50,4,delivered,
+HC-10242,2026-05-02,C0005,NY,House Blend,250g,1,$12.50,3,delivered,5
+HC-10243,2026-06-13,C0145,Virginia,Ethiopia Yirgacheffe,1kg,1,$57.75,8,delivered,1
+HC-10244,2026-01-23,C0174,MA,House Blend,250g,1,$12.50,6,delivered,1
+HC-10245,2026-04-05,C0298,Penn.,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,
+HC-10246,2026-06-02,C0075,Virginia,Colombia Huila,500g,4,$27.00,4,delivered,
+HC-10247,2026-04-01,C0255,New York,Colombia Huila,500g,2,$27.00,3,delivered,5
+HC-10248,2026-03-07,C0031,OH,Colombia Huila,1kg,,$49.50,3,delivered,2
+HC-10249,2026-06-23,C0126,nj,Colombia Huila,250g,3,$15.00,4,delivered,4
+HC-10250,2026-01-04,C0306,PA,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-10251,2026-04-12,C0040,NJ,House Blend,500g,1,$22.50,4,delivered,2
+HC-10252,2026-01-17,C0060,Pennsylvania,Sumatra Mandheling,250g,2,$16.00,3,delivered,4
+HC-10253,2026-06-02,C0227,NY,Decaf Swiss Water,500g,1,$26.10,8,DELIVERED,3
+HC-10254,2026-02-04,C0273,PA,Ethiopia Yirgacheffe,500g,1,$31.50,6,delivered,2
+HC-10255,2026-05-11,C0048,pa,Espresso Roast,1kg,2,$44.55,4,Delivered,4
+HC-10256,2026-01-18,C0246,Ohio,Sumatra Mandheling,500g,2,$28.80,5,delivered,
+HC-10257,2026-06-18,C0034,New Jersey,House Blend,1kg,3,$41.25,6,delivered,
+HC-10258,2026-05-14,C0072,NY,Ethiopia Yirgacheffe,500g,3,$31.50,5,delivered,5
+HC-10259,2026-02-16,C0194,Penn.,Espresso Roast,1kg,2,$44.55,4,delivered,3
+HC-10260,2026-06-10,C0172,PA,Colombia Huila,1kg,3,$49.50,5,delivered,
+HC-10261,2026-01-05,C0088,Maryland,House Blend,500g,3,$22.50,5,delivered,3
+HC-10262,2026-02-17,C0282,N.Y.,Sumatra Mandheling,250g,4,$16.00,6,delivered,
+HC-10263,2026-03-29,C0187,Mass.,Colombia Huila,1kg,4,$49.50,5,delivered,
+HC-10264,2026-03-03,C0110, PA,Espresso Roast,500g,3,$24.30,2,delivered,1
+HC-10265,2026-05-06,C0050,OH,House Blend,1kg,4,$41.25,4,delivered,5
+HC-10266,2026-05-20,C0224,New York,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,2
+HC-10267,2026-03-21,C0136,PA,Ethiopia Yirgacheffe,500g,4,$31.50,3,delivered,
+HC-10268,2026-06-30,C0149,,House Blend,250g,4,$12.50,,processing,
+HC-10269,2026-02-09,C0291,Penn.,Colombia Huila,1kg,2,$49.50,4,delivered,3
+HC-10270,2026-04-21,C0117,oh ,Espresso Roast,1kg,2,$44.55,4,delivered,3
+HC-10271,2026-03-01,C0048,PA,Colombia Huila,250g,4,$15.00,,cancelled,
+HC-10271,2026-03-01,C0048,PA,Colombia Huila,250g,4,$15.00,,cancelled,
+HC-10272,2026-01-17,C0004,VA,House Blend,1kg,2,$41.25,8,delivered,4
+HC-10273,2026-05-16,C0168,NY,Sumatra Mandheling,1kg,1,$52.80,4,delivered,
+HC-10274,2026-02-04,C0095,Mass.,Sumatra Mandheling,250g,2,$16.00,4,delivered,5
+HC-10275,2026-03-23,C0176,oh ,Espresso Roast,250g,2,$13.50,6,delivered,
+HC-10276,2026-02-08,C0029, PA,House Blend,250g,2,$12.50,8,delivered,
+HC-10277,2026-02-22,C0102,NY,House Blend,500g,1,$22.50,3,delivered,
+HC-10278,2026-03-12,C0313,New York,Decaf Swiss Water,250g,1,$14.50,6,delivered,2
+HC-10279,2026-06-13,C0180,MD,House Blend,500g,1,$22.50,4,delivered,2
+HC-10280,2026-01-20,C0296,ny,Colombia Huila,1kg,1,$49.50,8,delivered,2
+HC-10281,2026-03-01,C0279,PA,Colombia Huila,250g,2,$15.00,3,delivered,
+HC-10282,2026-04-28,C0139,PA,Sumatra Mandheling,250g,1,$16.00,3,delivered,
+HC-10283,2026-05-21,C0024,pa,Sumatra Mandheling,500g,2,$28.80,5,delivered,4
+HC-10284,2026-06-27,C0146,pa,Colombia Huila,1kg,1,$49.50,,shipped,
+HC-10284,2026-06-27,C0146,pa,Colombia Huila,1kg,1,$49.50,4,delivered,
+HC-10285,2026-05-02,C0152,Maryland,Ethiopia Yirgacheffe,500g,3,$31.50,8,delivered,
+HC-10286,2026-06-18,C0207,PA,Colombia Huila,250g,1,$15.00,4,delivered,5
+HC-10287,2026-04-16,C0096,Maryland,House Blend,250g,2,$12.50,3,delivered,1
+HC-10288,2026-04-05,C0114,Penn.,House Blend,250g,4,$12.50,5,delivered,
+HC-10289,2026-02-06,C0131,OH,Decaf Swiss Water,250g,2,$14.50,6,delivered,1
+HC-10290,2026-03-20,C0052,VA,Colombia Huila,250g,3,$15.00,2,delivered,
+HC-10291,,C0061,OH,Ethiopia Yirgacheffe,1kg,2,$57.75,8,delivered,1
+HC-10292,2026-02-01,C0096,MD,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,1
+HC-10293,2026-06-23,C0204,NY,House Blend,250g,4,$12.50,2,delivered,
+HC-10294,2026-05-07,C0309,NJ,Sumatra Mandheling,500g,2,$28.80,8,delivered,
+HC-10295,2026-03-01,C0217,PA,House Blend,250g,1,$12.50,8,delivered,2
+HC-10296,2026-04-10,C0129,PA,Ethiopia Yirgacheffe,250g,2,$17.50,2,delivered,
+HC-10297,2026-04-26,C0222,NY,House Blend,250g,2,$12.50,8,delivered,1
+HC-10298,2026-04-28,C0192,OH,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-10299,2026-04-15,C0196,NJ,House Blend,500g,1,$22.50,3,delivered,
+HC-10300,2026-03-24,C0235,,Ethiopia Yirgacheffe,1kg,3,$57.75,6,delivered,
+HC-10301,2026-03-27,C0130,oh ,Decaf Swiss Water,500g,2,$26.10,5,delivered,3
+HC-10302,2026-05-30,C0171,NJ,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-10303,2026-02-15,C0116,NJ,Decaf Swiss Water,250g,2,$14.50,3,delivered,2
+HC-10304,2026-03-30,C0163,NY,Colombia Huila,1kg,4,$49.50,4,delivered,4
+HC-10305,2026-04-02,C0138,NJ,House Blend,500g,1,$22.50,8,delivered,
+HC-10306,2026-06-10,C0006,N.Y.,Ethiopia Yirgacheffe,500g,3,$31.50,4,delivered,3
+HC-10307,2026-05-13,C0133,Maryland,Ethiopia Yirgacheffe,1kg,1,$57.75,6,delivered,1
+HC-10308,2026-03-07,C0155,NY,Colombia Huila,500g,1,$27.00,4,delivered,
+HC-10309,2026-04-19,C0319,pa,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-10310,2026-06-14,C0104,PA,House Blend,1kg,,$41.25,4,delivered,
+HC-10311,2026-02-22,C0008,MD,Ethiopia Yirgacheffe,500g,1,$31.50,5,delivered,5
+HC-10312,2026-05-21,C0236,MA,House Blend,250g,4,$12.50,3,delivered,
+HC-10313,2026-06-05,C0222,N.Y.,House Blend,500g,2,$22.50,6,delivered,1
+HC-10314,2026-02-17,C0224,New York,Decaf Swiss Water,250g,1,$14.50,2,delivered ,
+HC-10315,2026-04-07,C0117,OH,Espresso Roast,1kg,1,$44.55,8,delivered,2
+HC-10316,2026-06-28,C0184,NY,House Blend,1kg,2,$41.25,,processing,
+HC-10317,2026-05-28,C0307,PA,Decaf Swiss Water,1kg,1,$47.85,3,delivered,
+HC-10318,2026-04-30,C0275,OH,Colombia Huila,500g,2,$27.00,2,delivered,4
+HC-10319,2026-01-09,C0274,OH,House Blend,500g,3,$22.50,5,DELIVERED,4
+HC-10320,2026-06-15,C0093,VA,Ethiopia Yirgacheffe,500g,3,$31.50,4,delivered,5
+HC-10321,2026-02-26,C0152,Maryland,Ethiopia Yirgacheffe,500g,2,$31.50,2,delivered,
+HC-10322,2026-05-14,C0058,Penn.,Espresso Roast,500g,2,$24.30,2,delivered,1
+HC-10323,2026-04-09,C0028,Maryland,Ethiopia Yirgacheffe,500g,2,$31.50,2,delivered,4
+HC-10324,2026-06-25,C0111,Maryland,Colombia Huila,250g,1,$15.00,,Shipped,
+HC-10325,2026-01-11,C0122,PA,House Blend,500g,4,$22.50,6,delivered,
+HC-10326,2026-01-10,C0221,pa,House Blend,250g,1,$12.50,8,delivered,2
+HC-10327,2026-05-25,C0075,Virginia,Colombia Huila,1kg,2,$49.50,5,delivered,
+HC-10328,2026-01-01,C0264,New Jersey,House Blend,1kg,2,$41.25,3,delivered,
+HC-10329,2026-05-24,C0255,NY,Ethiopia Yirgacheffe,250g,2,$17.50,2,delivered,
+HC-10330,2026-04-04,C0147,NJ,Colombia Huila,1kg,2,$49.50,3,delivered,4
+HC-10331,2026-03-09,C0232,MA,House Blend,250g,1,$12.50,4,DELIVERED,4
+HC-10332,2026-03-14,C0165,N.Y.,Colombia Huila,250g,2,$15.00,8,delivered,
+HC-10333,2026-06-21,C0137,NJ,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,
+HC-10334,2026-05-07,C0129,pa,Decaf Swiss Water,250g,1,$14.50,3,delivered,5
+HC-10335,2026-04-12,C0143,NJ,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,5
+HC-10336,2026-01-25,C0157,PA,House Blend,500g,2,$22.50,3,delivered,
+HC-10337,2026-01-23,C0242,PA,Sumatra Mandheling,500g,1,$28.80,4,delivered,3
+HC-10338,2026-05-10,C0206,PA,Sumatra Mandheling,500g,1,$28.80,,cancelled,
+HC-10339,2026-03-13,C0298,PA,Decaf Swiss Water,500g,2,$26.10,5,delivered,3
+HC-10340,2026-04-16,C0152,Maryland,Colombia Huila,1kg,3,$49.50,6,delivered,
+HC-10341,2026-01-21,C0313,NY,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,
+HC-10342,2026-05-28,C0155,NY,Colombia Huila,250g,2,$15.00,4,delivered,5
+HC-10343,2026-03-26,C0274,OH,Sumatra Mandheling,250g,2,$16.00,5,delivered,2
+HC-10344,2026-01-31,C0277,PA,Sumatra Mandheling,1kg,1,$52.80,3,delivered,3
+HC-10345,2026-02-01,C0035,PA,Colombia Huila,250g,1,$15.00,2,delivered,4
+HC-10346,2026-02-03,C0011,NJ,Espresso Roast,500g,2,$24.30,,cancelled,
+HC-10347,2026-02-08,C0138,nj,Colombia Huila,250g,2,$15.00,2,delivered,
+HC-10348,2026-02-22,C0101,NY,House Blend,250g,1,$12.50,3,delivered,4
+HC-10349,2026-01-31,C0170,VA,Espresso Roast,250g,1,$13.50,5,delivered,
+HC-10350,2026-06-15,C0105,NJ,Ethiopia Yirgacheffe,250g,4,$17.50,4,delivered,5
+HC-10351,2026-05-24,C0045,New Jersey,Sumatra Mandheling,250g,2,$16.00,3,delivered,3
+HC-10352,2026-01-09,C0040,NJ,Colombia Huila,250g,1,$15.00,3,delivered ,4
+HC-10353,2026-04-14,C0250,New York,Decaf Swiss Water,500g,1,$26.10,4,delivered,2
+HC-10354,2026-03-04,C0187,MA,Espresso Roast,250g,3,$13.50,2,delivered,4
+HC-10355,2026-05-22,C0311,MA,House Blend,250g,2,$12.50,4,delivered,5
+HC-10356,,C0046,MA,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,4
+HC-10357,2026-04-29,C0134,PA,Espresso Roast,250g,1,$13.50,-2,delivered,1
+HC-10358,2026-03-23,C0072,New York,House Blend,500g,3,$22.50,3,delivered,
+HC-10359,2026-06-04,C0189,nj,Espresso Roast,250g,1,$13.50,3,delivered,
+HC-10360,2026-01-20,C0010,NY,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10361,2026-06-26,C0099,New Jersey,Ethiopia Yirgacheffe,500g,1,$31.50,,cancelled,
+HC-10362,2026-02-26,C0156,Pennsylvania,House Blend,500g,4,$22.50,4,delivered,
+HC-10363,2026-02-03,C0046,Mass.,Colombia Huila,500g,1,$27.00,4,delivered,
+HC-10364,2026-03-01,C0179,Penn.,Colombia Huila,250g,2,-,3,delivered,2
+HC-10365,2026-06-04,C0138,NJ,Colombia Huila,500g,4,$27.00,6,delivered,
+HC-10366,2026-01-16,C0229,PA,Ethiopia Yirgacheffe,500g,1,$31.50,4,delivered,
+HC-10367,2026-01-22,C0132,NY,Sumatra Mandheling,500g,2,$28.80,6,delivered,2
+HC-10368,2026-04-14,C0143,nj,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,
+HC-10369,2026-04-20,C0124,pa,Espresso Roast,500g,2,$24.30,2,delivered,
+HC-10370,2026-01-27,C0086,Ohio,Decaf Swiss Water,500g,4,$26.10,2,delivered,
+HC-10371,2026-03-29,C0055,NY,Colombia Huila,500g,1,$27.00,6,delivered,
+HC-10372,2026-06-14,C0233,NJ,Colombia Huila,500g,3,$27.00,5,delivered,5
+HC-10373,2026-04-13,C0263,NY,Colombia Huila,250g,4,$15.00,2,delivered,
+HC-10374,2026-04-26,C0034,NJ,Ethiopia Yirgacheffe,1kg,2,$57.75,5,delivered,5
+HC-10375,2026-05-10,C0054,Virginia,Decaf Swiss Water,1kg,1,$47.85,8,delivered,1
+HC-10376,2026-02-04,C0119,Ohio,House Blend,1kg,1,$41.25,3,delivered,5
+HC-10377,2026-02-14,C0003,MD,Colombia Huila,250g,1,$15.00,3,delivered,
+HC-10378,2026-01-23,C0002,PA,Ethiopia Yirgacheffe,500g,1,$31.50,8,delivered,2
+HC-10379,2026-03-09,C0303,Pennsylvania,Espresso Roast,1kg,1,$44.55,4,delivered,4
+HC-10380,2026-01-05,C0310,New York,House Blend,500g,1,$22.50,2,delivered,3
+HC-10381,2026-02-05,C0018, PA,House Blend,250g,1,$12.50,4,delivered,4
+HC-10382,2026-01-04,C0013,New Jersey,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,5
+HC-10383,2026-04-27,C0237,PA,Colombia Huila,250g,2,$15.00,3,delivered,
+HC-10384,2026-01-13,C0092,Pennsylvania,House Blend,1kg,2,$41.25,8,delivered,
+HC-10385,2026-06-03,C0310,NY,Espresso Roast,250g,2,$13.50,6,delivered,
+HC-10386,2026-05-24,C0059,OH,Ethiopia Yirgacheffe,250g,2,$17.50,6,delivered,2
+HC-10387,2026-04-05,C0237,PA,Decaf Swiss Water,250g,2,$14.50,2,delivered,1
+HC-10388,2026-01-08,C0018, PA,Decaf Swiss Water,1kg,1,$47.85,5,delivered,5
+HC-10389,2026-04-19,C0110,pa,Ethiopia Yirgacheffe,1kg,1,$57.75,3,delivered,4
+HC-10390,2026-06-17,C0008,Maryland,Colombia Huila,250g,3,$15.00,3,delivered,
+HC-10391,2026-06-19,C0019,Virginia,Decaf Swiss Water,1kg,1,$47.85,4,delivered,1
+HC-10392,2026-04-16,C0170,Virginia,Ethiopia Yirgacheffe,1kg,1,$57.75,6,delivered,2
+HC-10393,2026-02-24,C0201,Virginia,Espresso Roast,500g,2,$24.30,4,delivered,
+HC-10394,2026-05-05,C0052,VA,Colombia Huila,500g,1,$27.00,5,delivered,5
+HC-10395,2026-02-21,C0186,N.Y.,Espresso Roast,500g,1,$24.30,3,delivered,
+HC-10396,2026-06-24,C0153,NJ,Espresso Roast,500g,2,$24.30,,shipped,
+HC-10396,2026-06-24,C0153,NJ,Espresso Roast,500g,2,$24.30,3,delivered,
+HC-10397,2026-03-15,C0045,NJ,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,
+HC-10398,2026-01-19,C0107,Penn.,Espresso Roast,250g,1,$13.50,3,delivered,1
+HC-10399,2026-05-10,C0073,NY,Espresso Roast,250g,1,13.50,8,delivered,
+HC-10400,2026-03-31,C0236,MA,Ethiopia Yirgacheffe,500g,4,$31.50,3,DELIVERED,5
+HC-10400,2026-03-31,C0236,MA,Ethiopia Yirgacheffe,500g,4,$31.50,3,DELIVERED,5
+HC-10401,2026-05-17,C0050,OH,Decaf Swiss Water,1kg,2,$47.85,3,delivered,
+HC-10402,2026-02-01,C0199,Pennsylvania,Colombia Huila,250g,2,$15.00,3,delivered,
+HC-10403,2026-04-15,C0257,VA,Ethiopia Yirgacheffe,250g,2,$17.50,6,delivered,1
+HC-10404,2026-01-20,C0040,NJ,Decaf Swiss Water,500g,2,26.10,2,delivered,
+HC-10405,2026-01-04,C0299,Pennsylvania,Espresso Roast,1kg,2,$44.55,8,delivered,4
+HC-10406,2026-05-26,C0084,Pennsylvania,Espresso Roast,250g,3,$13.50,3,delivered,4
+HC-10407,2026-06-25,C0266,pa,Sumatra Mandheling,500g,2,$28.80,,cancelled,
+HC-10408,2026-06-12,C0122,Pennsylvania,Ethiopia Yirgacheffe,250g,2,$17.50,4,delivered,
+HC-10409,2026-01-15,C0206,PA,Decaf Swiss Water,1kg,1,$47.85,4,delivered,
+HC-10410,2026-02-11,C0319,Pennsylvania,Colombia Huila,250g,1,$15.00,6,delivered,
+HC-10411,2026-01-19,C0247,Virginia,Decaf Swiss Water,500g,2,$26.10,3,delivered,
+HC-10412,2026-06-26,C0266,PA,Sumatra Mandheling,500g,1,$28.80,8,delivered,2
+HC-10413,2026-03-09,C0204,ny,Sumatra Mandheling,1kg,2,$52.80,3,delivered,
+HC-10414,2026-03-23,C0257,VA,House Blend,500g,2,$22.50,3,delivered,4
+HC-10415,2026-04-01,C0214,New York,Sumatra Mandheling,250g,2,$16.00,5,delivered,
+HC-10416,2026-01-21,C0241,OH,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,2
+HC-10417,2026-04-18,C0296,ny,Sumatra Mandheling,250g,3,$16.00,4,delivered,4
+HC-10418,2026-01-27,C0044,NY,Espresso Roast,500g,1,$24.30,4,delivered,5
+HC-10419,2026-01-12,C0232,Mass.,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,4
+HC-10420,2026-03-26,C0060,PA,Espresso Roast,250g,2,$13.50,3,delivered,1
+HC-10421,2026-04-24,C0018,PA,House Blend,1kg,1,,2,delivered,4
+HC-10422,2026-04-12,C0115,NY,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,5
+HC-10423,2026-03-04,C0253,NY,Decaf Swiss Water,500g,1,$26.10,5,delivered,5
+HC-10424,2026-03-30,C0162,Penn.,Colombia Huila,250g,2,$15.00,3,delivered,4
+HC-10425,2026-01-08,C0219,N.Y.,House Blend,1kg,3,$41.25,4,delivered,
+HC-10426,2026-06-22,C0009,VA,Decaf Swiss Water,500g,1,$26.10,6,delivered,
+HC-10427,2026-05-16,C0105,NJ,Ethiopia Yirgacheffe,1kg,4,$57.75,4,delivered,
+HC-10428,2026-01-10,C0181,ny,Colombia Huila,250g,1,$15.00,5,delivered,5
+HC-10429,2026-01-16,C0240,N.Y.,House Blend,250g,2,$12.50,6,delivered,2
+HC-10430,2026-03-07,C0165,NY,Sumatra Mandheling,1kg,1,$52.80,4,delivered,2
+HC-10431,2026-05-01,C0105,nj,Sumatra Mandheling,1kg,1,$52.80,4,delivered,
+HC-10432,2026-05-14,C0066,NJ,Ethiopia Yirgacheffe,500g,1,$31.50,6,delivered,
+HC-10433,2026-01-24,C0244,Penn.,Sumatra Mandheling,500g,2,$28.80,6,delivered,2
+HC-10434,2026-04-01,C0229, PA,House Blend,250g,2,$12.50,4,delivered,
+HC-10435,2026-06-30,C0072,New York,Espresso Roast,250g,2,$13.50,,processing,
+HC-10436,2026-04-21,C0167,Ohio,Espresso Roast,1kg,1,$44.55,6,delivered,
+HC-10437,2026-05-15,C0243,Maryland,Colombia Huila,250g,1,$15.00,6,delivered,
+HC-10438,2026-03-12,C0217,PA,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,0
+HC-10439,2026-01-02,C0296,ny,House Blend,250g,1,-,5,delivered,5
+HC-10440,2026-01-13,C0207,PA,Decaf Swiss Water,250g,4,$14.50,3,delivered,
+HC-10441,,C0302,PA,Sumatra Mandheling,500g,2,$28.80,6,Delivered,3
+HC-10442,2026-05-12,C0200,VA,Sumatra Mandheling,1kg,4,$52.80,3,delivered,2
+HC-10443,2026-01-24,C0263,NY,Decaf Swiss Water,1kg,1,$47.85,6,delivered,4
+HC-10444,2026-03-15,C0108,NY,Colombia Huila,250g,2,$15.00,3,DELIVERED,5
+HC-10445,2026-06-05,C0003,Maryland,Decaf Swiss Water,1kg,4,$47.85,3,delivered,
+HC-10446,2026-06-15,C0133,MD,Colombia Huila,500g,3,$27.00,4,delivered,
+HC-10447,2026-03-04,C0165,New York,House Blend,250g,2,$12.50,6,delivered,4
+HC-10448,2026-05-17,C0126,nj,Ethiopia Yirgacheffe,1kg,2,$57.75,3,delivered,4
+HC-10449,2026-01-16,C0208,Maryland,House Blend,250g,3,$12.50,2,delivered,
+HC-10450,2026-02-04,C0001,MD,House Blend,500g,4,$22.50,3,delivered,
+HC-10451,2026-06-21,C0047,oh ,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,4
+HC-10452,2026-01-19,C0239,N.Y.,Ethiopia Yirgacheffe,500g,1,$31.50,5,delivered,3
+HC-10453,2026-05-09,C0066,New Jersey,House Blend,1kg,2,$41.25,4,delivered,
+HC-10454,2026-03-22,C0206,PA,Sumatra Mandheling,500g,1,$28.80,8,delivered,2
+HC-10455,2026-02-24,C0096,Maryland,Sumatra Mandheling,500g,2,$28.80,8,delivered,3
+HC-10456,2026-01-27,C0157, PA,Espresso Roast,250g,2,$13.50,4,delivered,
+HC-10457,2026-04-29,C0260,OH,Sumatra Mandheling,250g,3,$16.00,5,delivered,
+HC-10458,2026-05-02,C0274,OH,Sumatra Mandheling,1kg,2,$52.80,2,delivered,1
+HC-10459,2026-06-12,C0197,OH,Colombia Huila,500g,1,$27.00,8,delivered,1
+HC-10460,2026-01-01,C0184,NY,Espresso Roast,500g,1,$24.30,6,delivered,1
+HC-10461,2026-02-16,C0172,pa,House Blend,250g,1,$12.50,3,delivered,4
+HC-10462,2026-01-01,C0035,PA,House Blend,250g,2,$12.50,8,delivered,3
+HC-10463,2026-03-12,C0314,PA,House Blend,1kg,1,$41.25,4,delivered,5
+HC-10464,2026-02-01,C0048,,Sumatra Mandheling,250g,1,$16.00,4,delivered,
+HC-10465,2026-03-08,C0146,PA,Decaf Swiss Water,500g,2,$26.10,,cancelled,
+HC-10466,2026-02-12,C0284,NJ,Ethiopia Yirgacheffe,500g,1,$31.50,2,delivered,
+HC-10467,2026-01-15,C0235,Mass.,House Blend,1kg,2,$41.25,2,delivered,5
+HC-10468,2026-03-31,C0284,nj,Decaf Swiss Water,250g,1,$14.50,6,delivered,
+HC-10469,2026-06-26,C0197,OH,Sumatra Mandheling,250g,4,$16.00,,shipped,
+HC-10469,2026-06-26,C0197,OH,Sumatra Mandheling,250g,4,$16.00,4,delivered,
+HC-10470,2026-02-23,C0263,NY,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,5
+HC-10471,2026-05-08,C0011,NJ,Sumatra Mandheling,500g,4,$28.80,6,delivered,1
+HC-10472,2026-04-19,C0070,N.Y.,House Blend,250g,2,$12.50,3,delivered,
+HC-10473,2026-02-24,C0019,Virginia,Sumatra Mandheling,500g,2,$28.80,8,delivered,
+HC-10474,2026-04-12,C0096,,Sumatra Mandheling,250g,2,$16.00,3,delivered,2
+HC-10475,2026-06-14,C0225,NY,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,
+HC-10476,2026-01-16,C0210,OH,Decaf Swiss Water,1kg,2,$47.85,3,delivered,
+HC-10477,2026-03-10,C0083,nj,Espresso Roast,250g,2,$13.50,4,delivered,1
+HC-10478,2026-04-20,C0048,PA,House Blend,500g,2,$22.50,6,delivered,
+HC-10479,2026-04-13,C0319, PA,Espresso Roast,250g,1,$13.50,3,delivered,
+HC-10480,2026-02-20,C0173,NY,Ethiopia Yirgacheffe,500g,4,$31.50,8,delivered,2
+HC-10481,2026-04-08,C0127,New Jersey,House Blend,1kg,1,$41.25,6,delivered,2
+HC-10482,2026-01-02,C0122, PA,House Blend,1kg,2,$41.25,6,delivered,3
+HC-10483,2026-03-15,C0215, PA,House Blend,250g,2,$12.50,6,delivered,2
+HC-10484,2026-06-27,C0297,Virginia,Decaf Swiss Water,1kg,1,$47.85,,Shipped,
+HC-10485,2026-06-09,C0240,N.Y.,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10486,2026-01-24,C0082,PA,Decaf Swiss Water,500g,,$26.10,4,delivered,2
+HC-10487,2026-05-24,C0014,Pennsylvania,House Blend,500g,1,$22.50,2,delivered,
+HC-10488,2026-06-04,C0230,MA,Colombia Huila,250g,2,$15.00,3,delivered,
+HC-10489,2026-05-31,C0219,NY,House Blend,500g,1,$22.50,8,delivered,3
+HC-10490,2026-04-03,C0039,NY,Ethiopia Yirgacheffe,500g,2,$31.50,3,delivered,4
+HC-10491,2026-05-14,C0230,Mass.,Espresso Roast,1kg,1,$44.55,4,delivered,5
+HC-10492,2026-02-10,C0116,nj,House Blend,250g,3,$12.50,2,delivered,
+HC-10493,2026-01-22,C0302,Pennsylvania,Ethiopia Yirgacheffe,250g,2,$17.50,4,delivered,
+HC-10494,2026-04-03,C0297,VA,Ethiopia Yirgacheffe,1kg,3,$57.75,2,delivered,5
+HC-10495,2026-05-25,C0163,New York,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10496,2026-03-27,C0260,OH,Espresso Roast,500g,3,,8,delivered,3
+HC-10497,2026-03-16,C0280,pa,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,4
+HC-10498,2026-04-27,C0041,NY,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,
+HC-10499,2026-01-13,C0001,MD,Ethiopia Yirgacheffe,1kg,1,$57.75,3,delivered,5
+HC-10500,2026-02-13,C0136,Penn.,Ethiopia Yirgacheffe,250g,1,$17.50,5,delivered,4
+HC-10501,2026-02-17,C0261,MD,Ethiopia Yirgacheffe,500g,1,$31.50,4,delivered,
+HC-10502,2026-03-07,C0250,N.Y.,Sumatra Mandheling,250g,4,$16.00,6,delivered,
+HC-10503,2026-01-24,C0245,NJ,House Blend,1kg,2,$41.25,2,delivered,
+HC-10504,2026-04-11,C0088,MD,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,
+HC-10505,2026-05-09,C0201,VA,Ethiopia Yirgacheffe,250g,2,$17.50,4,delivered,
+HC-10506,2026-03-02,C0080,Ohio,Colombia Huila,500g,1,$27.00,2,delivered,
+HC-10507,2026-04-03,C0029, PA,Espresso Roast,500g,1,$24.30,6,delivered,
+HC-10508,2026-05-24,C0308,NJ,Decaf Swiss Water,250g,2,$14.50,2,delivered,4
+HC-10509,2026-04-06,C0236,MA,Colombia Huila,1kg,2,$49.50,8,delivered,2
+HC-10510,2026-02-06,C0234,OH,Colombia Huila,500g,2,$27.00,6,delivered,4
+HC-10511,2026-03-19,C0038,PA,Colombia Huila,500g,1,$27.00,6,delivered,
+HC-10512,2026-03-30,C0060,pa,Sumatra Mandheling,1kg,4,$52.80,3,delivered,
+HC-10513,2026-04-01,C0250,ny,Colombia Huila,500g,1,$27.00,6,delivered,
+HC-10514,2026-06-09,C0059,Ohio,House Blend,500g,1,$22.50,4,delivered,3
+HC-10515,2026-04-10,C0090,pa,Decaf Swiss Water,500g,1,$26.10,4,Delivered,
+HC-10516,2026-03-19,C0050,OH,Espresso Roast,250g,3,$13.50,6,delivered,
+HC-10517,2026-06-05,C0241,OH,Ethiopia Yirgacheffe,250g,4,$17.50,3,delivered,2
+HC-10518,2026-05-14,C0155,ny,Ethiopia Yirgacheffe,1kg,1,$57.75,3,delivered,1
+HC-10519,2026-02-01,C0217,PA,House Blend,250g,1,$12.50,5,delivered,
+HC-10520,2026-04-10,C0181,NY,Decaf Swiss Water,250g,1,$14.50,8,delivered,2
+HC-10521,2026-05-15,C0200,Virginia,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,
+HC-10522,2026-06-23,C0299,PA,Colombia Huila,500g,2,$27.00,8,delivered,4
+HC-10523,2026-01-04,C0250,N.Y.,Colombia Huila,500g,2,$27.00,2,delivered,4
+HC-10524,2026-06-04,C0116,nj,House Blend,250g,1,$12.50,3,delivered,
+HC-10525,2026-02-07,C0251,VA,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,
+HC-10526,2026-06-08,C0044,N.Y.,House Blend,250g,1,$12.50,4,delivered,3
+HC-10527,2026-06-27,C0131,Ohio,Decaf Swiss Water,1kg,1,$47.85,4,delivered,
+HC-10528,2026-06-14,C0035,PA,Ethiopia Yirgacheffe,250g,1,$17.50,5,delivered,4
+HC-10529,2026-05-07,C0299,Pennsylvania,Espresso Roast,250g,2,$13.50,4,delivered,
+HC-10529,2026-05-07,C0299,Pennsylvania,Espresso Roast,250g,2,$13.50,4,delivered,
+HC-10530,2026-01-31,C0157,PA,Colombia Huila,250g,4,$15.00,4,delivered,
+HC-10531,2026-05-16,C0158,VA,Decaf Swiss Water,1kg,4,$47.85,3,delivered,
+HC-10532,2026-06-17,C0202,NY,Colombia Huila,500g,2,$27.00,2,delivered,
+HC-10533,2026-04-10,C0035,PA,House Blend,250g,1,$12.50,4,delivered,5
+HC-10534,2026-05-29,C0129,pa,Espresso Roast,250g,1,$13.50,4,delivered,4
+HC-10535,2026-04-06,C0290,nj,Sumatra Mandheling,250g,1,$16.00,6,delivered,
+HC-10536,2026-06-26,C0204,NY,Espresso Roast,1kg,1,$44.55,,cancelled,
+HC-10537,2026-04-12,C0208,MD,Espresso Roast,1kg,3,$44.55,4,delivered,1
+HC-10538,2026-03-26,C0254,New York,Colombia Huila,250g,1,$15.00,8,delivered,
+HC-10539,2026-02-12,C0131,OH,Espresso Roast,1kg,1,$44.55,5,delivered,
+HC-10540,2026-05-16,C0283,pa,House Blend,250g,1,$12.50,6,delivered,2
+HC-10541,2026-04-24,C0183,NJ,Sumatra Mandheling,500g,4,$28.80,4,delivered,
+HC-10542,2026-05-05,C0177,VA,Ethiopia Yirgacheffe,1kg,1,$57.75,3,delivered,
+HC-10543,2026-03-23,C0296,NY,Decaf Swiss Water,250g,1,$14.50,8,delivered,2
+HC-10544,2026-03-03,C0174,MA,Colombia Huila,250g,2,$15.00,8,delivered,4
+HC-10545,2026-03-11,C0086,OH,Colombia Huila,500g,2,$27.00,3,delivered,1
+HC-10546,2026-01-20,C0101,NY,Sumatra Mandheling,250g,1,$16.00,3,delivered,3
+HC-10547,2026-06-20,C0036,PA,Colombia Huila,250g,3,$15.00,3,delivered,3
+HC-10548,2026-05-22,C0086,oh ,Decaf Swiss Water,250g,3,$14.50,2,delivered ,
+HC-10549,2026-04-17,C0310,New York,Colombia Huila,250g,3,$15.00,4,delivered,5
+HC-10550,2026-01-09,C0254,NY,House Blend,500g,2,$22.50,2,delivered,
+HC-10551,2026-05-11,C0220,pa,Sumatra Mandheling,1kg,3,$52.80,6,delivered,3
+HC-10552,2026-04-27,C0231, PA,Espresso Roast,250g,1,$13.50,3,delivered,
+HC-10553,2026-06-09,C0210,oh ,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,4
+HC-10554,2026-05-11,C0304,OH,Sumatra Mandheling,250g,1,$16.00,4,delivered,
+HC-10555,2026-03-19,C0239,NY,Ethiopia Yirgacheffe,1kg,2,$57.75,2,delivered,5
+HC-10556,2026-05-28,C0319,PA,Colombia Huila,500g,1,$27.00,5,delivered,5
+HC-10557,2026-04-14,C0066,NJ,Espresso Roast,500g,1,$24.30,4,delivered,5
+HC-10558,2026-01-18,C0079,MD,Espresso Roast,1kg,2,$44.55,5,delivered,5
+HC-10559,2026-05-06,C0267,VA,Colombia Huila,250g,4,$15.00,3,delivered,
+HC-10560,2026-05-06,C0299, PA,House Blend,1kg,2,$41.25,8,delivered,1
+HC-10561,2026-04-13,C0088,MD,Ethiopia Yirgacheffe,250g,2,$17.50,2,delivered,5
+HC-10562,2026-03-21,C0185,New Jersey,House Blend,500g,3,$22.50,3,delivered,1
+HC-10563,2026-02-02,C0249,Pennsylvania,Colombia Huila,500g,1,$27.00,8,delivered,
+HC-10564,2026-01-06,C0216,NY,House Blend,500g,2,$22.50,4,delivered,3
+HC-10565,2026-05-17,C0008,MD,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,
+HC-10566,2026-03-30,C0113,New York,House Blend,500g,1,$22.50,3,delivered,2
+HC-10567,2026-05-10,C0112,Pennsylvania,House Blend,500g,1,$22.50,3,delivered,
+HC-10568,2026-06-27,C0058,PA,Decaf Swiss Water,500g,1,$26.10,,shipped,
+HC-10568,2026-06-27,C0058,PA,Decaf Swiss Water,500g,1,$26.10,4,delivered,
+HC-10569,2026-01-21,C0049,PA,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,4
+HC-10570,2026-02-02,C0180,MD,House Blend,1kg,2,$41.25,6,delivered,2
+HC-10571,2026-02-23,C0228,New York,Decaf Swiss Water,500g,2,$26.10,4,delivered,2
+HC-10572,2026-02-23,C0139, PA,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-10573,2026-04-04,C0277,PA,Decaf Swiss Water,500g,1,$26.10,4,delivered,5
+HC-10574,2026-01-24,C0282,NY,Decaf Swiss Water,250g,1,$14.50,3,delivered,
+HC-10575,2026-04-04,C0296,N.Y.,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,4
+HC-10576,2026-05-22,C0103,N.Y.,Sumatra Mandheling,250g,2,$16.00,3,delivered ,4
+HC-10577,2026-06-29,C0084, PA,Sumatra Mandheling,250g,4,$16.00,,processing,
+HC-10578,2026-01-19,C0250,New York,Decaf Swiss Water,500g,2,$26.10,4,DELIVERED,1
+HC-10579,2026-01-11,C0017,NY,Sumatra Mandheling,500g,4,$28.80,6,delivered,2
+HC-10580,2026-03-23,C0122,Pennsylvania,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10581,2026-02-16,C0211,NJ,Colombia Huila,1kg,1,$49.50,2,delivered,3
+HC-10582,2026-06-03,C0306,Penn.,Espresso Roast,500g,1,$24.30,4,delivered,
+HC-10583,2026-02-06,C0037,Maryland,Ethiopia Yirgacheffe,250g,2,$17.50,5,delivered,
+HC-10584,2026-04-19,C0185,nj,Sumatra Mandheling,500g,2,$28.80,8,delivered,
+HC-10585,2026-01-26,C0038,Pennsylvania,House Blend,500g,2,$22.50,3,delivered,5
+HC-10586,2026-06-05,C0112,PA,Colombia Huila,1kg,1,$49.50,5,delivered,
+HC-10587,2026-01-15,C0115,New York,Colombia Huila,1kg,1,$49.50,2,Delivered,1
+HC-10588,2026-05-10,C0091,Pennsylvania,Sumatra Mandheling,250g,1,$16.00,3,delivered,
+HC-10589,2026-06-12,C0214,NY,Colombia Huila,500g,1,$27.00,5,delivered,4
+HC-10590,2026-05-25,C0196,NJ,Colombia Huila,500g,2,$27.00,4,delivered,4
+HC-10591,2026-04-27,C0252,NY,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,1
+HC-10592,2026-05-07,C0005,New York,Sumatra Mandheling,250g,1,$16.00,3,delivered,
+HC-10593,2026-03-02,C0171,nj,Ethiopia Yirgacheffe,500g,4,$31.50,8,delivered,2
+HC-10594,2026-05-13,C0318,VA,Ethiopia Yirgacheffe,1kg,4,$57.75,3,delivered,4
+HC-10595,2026-06-15,C0063,Penn.,Decaf Swiss Water,500g,1,$26.10,,cancelled,
+HC-10596,2026-01-25,C0176,OH,House Blend,250g,2,$12.50,3,delivered,1
+HC-10597,2026-05-19,C0180,Maryland,House Blend,500g,2,$22.50,3,delivered,
+HC-10598,2026-02-10,C0024,Pennsylvania,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10599,2026-04-12,C0049,PA,Colombia Huila,500g,2,$27.00,3,delivered,
+HC-10600,2026-05-30,C0193,PA,Colombia Huila,1kg,1,$49.50,5,delivered,5
+HC-10601,2026-02-12,C0062,nj,Espresso Roast,500g,1,$24.30,8,delivered,
+HC-10602,2026-03-17,C0292,MD,Ethiopia Yirgacheffe,500g,2,$31.50,3,delivered,4
+HC-10603,2026-05-02,C0293,NY,Ethiopia Yirgacheffe,250g,1,$17.50,5,delivered,2
+HC-10604,2026-01-07,C0219,ny,House Blend,250g,3,$12.50,4,delivered,
+HC-10605,2026-02-18,C0252,N.Y.,Sumatra Mandheling,250g,4,$16.00,4,delivered,3
+HC-10606,2026-05-15,C0251,Virginia,Espresso Roast,1kg,1,$44.55,4,delivered,
+HC-10607,2026-02-04,C0187,Mass.,House Blend,250g,4,$12.50,8,Delivered,
+HC-10608,2026-03-26,C0274,OH,Espresso Roast,250g,2,$13.50,8,delivered,
+HC-10609,2026-03-23,C0290,New Jersey,Espresso Roast,250g,2,$13.50,6,delivered,
+HC-10610,2026-04-14,C0103,N.Y.,Colombia Huila,500g,2,$27.00,3,delivered,1
+HC-10611,2026-06-24,C0257,Virginia,Colombia Huila,250g,2,$15.00,6,delivered,
+HC-10611,2026-06-24,C0257,Virginia,Colombia Huila,250g,2,$15.00,6,delivered,
+HC-10612,2026-01-02,C0010,NY,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-10613,2026-03-15,C0291, PA,Ethiopia Yirgacheffe,1kg,2,$57.75,3,delivered,1
+HC-10614,2026-05-06,C0079,MD,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,
+HC-10615,2026-06-07,C0025,PA,House Blend,250g,1,$12.50,4,delivered,2
+HC-10616,2026-04-03,C0091,PA,Colombia Huila,250g,1,$15.00,4,delivered,3
+HC-10617,2026-03-29,C0200,VA,Sumatra Mandheling,1kg,2,$52.80,6,delivered,3
+HC-10618,2026-03-08,C0262,New York,Colombia Huila,1kg,1,$49.50,3,delivered,2
+HC-10619,2026-06-27,C0085, PA,Ethiopia Yirgacheffe,250g,1,$17.50,,shipped,
+HC-10619,2026-06-27,C0085, PA,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,
+HC-10620,2026-04-09,C0123,MD,Colombia Huila,500g,2,$27.00,5,delivered,5
+HC-10621,2026-01-11,C0188,N.Y.,Ethiopia Yirgacheffe,250g,2,$17.50,2,delivered,3
+HC-10622,2026-02-22,C0068,PA,House Blend,1kg,2,$41.25,6,delivered,1
+HC-10623,2026-03-07,C0022,NJ,House Blend,250g,1,$12.50,2,delivered,5
+HC-10624,2026-05-18,C0186,N.Y.,Decaf Swiss Water,1kg,2,$47.85,,cancelled,
+HC-10625,2026-01-01,C0028,Maryland,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,4
+HC-10626,2026-03-25,C0276,NJ,Colombia Huila,500g,3,$27.00,4,delivered,
+HC-10627,2026-03-24,C0155,ny,House Blend,250g,1,$12.50,2,delivered,
+HC-10628,2026-06-19,C0289,Virginia,House Blend,250g,1,$12.50,4,delivered,1
+HC-10629,2026-02-15,C0098,pa,Colombia Huila,500g,4,$27.00,6,delivered,4
+HC-10630,2026-06-05,C0082,PA,House Blend,250g,1,$12.50,3,delivered,
+HC-10631,2026-05-31,C0192,OH,Espresso Roast,250g,3,$13.50,3,delivered,
+HC-10632,2026-06-22,C0299,PA,Colombia Huila,250g,1,$15.00,3,delivered,5
+HC-10633,2026-03-29,C0187,Mass.,Espresso Roast,250g,4,$13.50,3,delivered,5
+HC-10634,2026-02-05,C0028,MD,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,4
+HC-10635,2026-05-08,C0162, PA,Espresso Roast,1kg,3,$44.55,3,delivered,5
+HC-10636,2026-05-05,C0073,NY,House Blend,500g,2,$22.50,2,delivered,5
+HC-10637,2026-06-12,C0239,ny,Espresso Roast,250g,2,$13.50,4,delivered,
+HC-10638,2026-03-21,C0207,pa,Colombia Huila,1kg,1,$49.50,4,delivered,
+HC-10639,2026-04-27,C0274,OH,House Blend,500g,1,$22.50,6,delivered,
+HC-10640,2026-01-03,C0286,Penn.,House Blend,1kg,1,$41.25,5,delivered,4
+HC-10641,2026-02-04,C0007,PA,House Blend,1kg,60,$41.25,3,delivered,1
+HC-10642,,C0090,Penn.,Sumatra Mandheling,250g,2,$16.00,8,delivered,4
+HC-10643,2026-04-07,C0169,Penn.,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,4
+HC-10644,2026-06-18,C0069,Penn.,Sumatra Mandheling,1kg,4,$52.80,6,delivered,2
+HC-10645,2026-02-01,C0109,NJ,Colombia Huila,500g,1,$27.00,3,delivered,
+HC-10646,2026-03-22,C0037,MD,Decaf Swiss Water,500g,1,$26.10,8,delivered,2
+HC-10647,2026-03-02,C0071,OH,Sumatra Mandheling,250g,1,$16.00,4,delivered,
+HC-10648,2026-03-31,C0296,NY,Colombia Huila,250g,1,$15.00,6,delivered,
+HC-10649,2026-05-15,C0119,oh ,Ethiopia Yirgacheffe,500g,3,$31.50,4,delivered,4
+HC-10650,2026-05-03,C0130,oh ,Colombia Huila,1kg,1,$49.50,8,delivered,3
+HC-10651,2026-06-22,C0025,Penn.,Colombia Huila,500g,1,$27.00,3,delivered,1
+HC-10652,2026-03-08,C0066,New Jersey,House Blend,1kg,1,$41.25,4,delivered,1
+HC-10653,2026-05-27,C0200,VA,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,4
+HC-10654,2026-02-03,C0210,OH,Colombia Huila,250g,3,$15.00,3,delivered,4
+HC-10655,2026-02-12,C0208,MD,House Blend,250g,3,$12.50,3,delivered,5
+HC-10656,2026-02-23,C0039,NY,Sumatra Mandheling,500g,4,$28.80,2,delivered,5
+HC-10657,2026-05-25,C0121,ny,House Blend,500g,1,$22.50,6,delivered,3
+HC-10658,2026-04-01,C0080,Ohio,House Blend,250g,1,$12.50,6,delivered,1
+HC-10659,,C0086,OH,Ethiopia Yirgacheffe,500g,1,$31.50,4,delivered,
+HC-10660,2026-05-08,C0265,MA,Ethiopia Yirgacheffe,1kg,1,$57.75,5,delivered,5
+HC-10661,2026-06-29,C0168,N.Y.,Colombia Huila,250g,1,$15.00,,processing,
+HC-10662,2026-06-22,C0072,New York,Decaf Swiss Water,250g,3,$14.50,4,delivered,
+HC-10663,2026-05-02,C0297,VA,House Blend,500g,1,$22.50,3,delivered,
+HC-10664,2026-02-05,C0227,ny,Ethiopia Yirgacheffe,250g,4,$17.50,5,delivered,
+HC-10665,2026-06-27,C0175,VA,House Blend,500g,1,$22.50,,Shipped,
+HC-10666,2026-03-02,C0277,Pennsylvania,Colombia Huila,250g,1,$15.00,5,delivered,4
+HC-10667,2026-05-01,C0294,NY,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,3
+HC-10668,2026-04-14,C0235,MA,Ethiopia Yirgacheffe,500g,2,$31.50,6,delivered,2
+HC-10669,2026-06-09,C0131,OH,Sumatra Mandheling,250g,1,$16.00,3,delivered,
+HC-10670,2026-03-06,C0032,Pennsylvania,Espresso Roast,1kg,2,$44.55,4,delivered,5
+HC-10671,2026-04-26,C0187,MA,Ethiopia Yirgacheffe,250g,2,$17.50,4,delivered,5
+HC-10672,2026-05-27,C0095,Mass.,Ethiopia Yirgacheffe,1kg,3,$57.75,3,delivered,
+HC-10673,2026-02-05,C0198,ny,Espresso Roast,500g,1,$24.30,8,delivered,
+HC-10674,2026-02-26,C0210,OH,Espresso Roast,250g,2,$13.50,6,delivered,3
+HC-10675,2026-03-22,C0241,OH,Ethiopia Yirgacheffe,1kg,2,$57.75,6,delivered,
+HC-10676,2026-05-14,C0197,OH,Sumatra Mandheling,500g,1,$28.80,5,delivered,
+HC-10677,2026-03-21,C0114,PA,House Blend,500g,2,$22.50,8,delivered,
+HC-10678,2026-03-05,C0125,oh ,House Blend,1kg,2,$41.25,3,delivered,
+HC-10679,2026-04-16,C0229,PA,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,
+HC-10680,2026-05-24,C0149,PA,Espresso Roast,1kg,3,$44.55,,cancelled,
+HC-10681,2026-02-17,C0191,OH,House Blend,500g,3,$22.50,5,delivered,
+HC-10682,2026-01-25,C0300,Pennsylvania,Sumatra Mandheling,250g,3,$16.00,4,delivered,5
+HC-10683,2026-04-26,C0168,NY,Colombia Huila,500g,2,$27.00,2,delivered,4
+HC-10684,2026-04-29,C0219,NY,Espresso Roast,500g,2,$24.30,6,delivered,2
+HC-10685,2026-05-16,C0051,VA,Ethiopia Yirgacheffe,1kg,2,$57.75,8,delivered,
+HC-10686,2026-05-14,C0215,Penn.,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,
+HC-10687,2026-03-27,C0181,New York,Ethiopia Yirgacheffe,500g,2,$31.50,6,delivered,
+HC-10688,2026-03-22,C0028,MD,Colombia Huila,250g,2,$15.00,4,delivered,2
+HC-10689,2026-02-09,C0103,NY,Decaf Swiss Water,250g,1,$14.50,4,delivered,5
+HC-10690,2026-05-05,C0229,pa,Espresso Roast,500g,2,$24.30,3,delivered,4
+HC-10691,2026-02-07,C0224,NY,Espresso Roast,500g,1,$24.30,8,delivered,
+HC-10692,2026-01-04,C0271,MA,House Blend,250g,4,$12.50,8,delivered,
+HC-10693,2026-01-31,C0063,Pennsylvania,House Blend,250g,1,$12.50,4,delivered,5
+HC-10694,2026-04-09,C0124,Pennsylvania,Sumatra Mandheling,1kg,1,$52.80,,cancelled,
+HC-10695,2026-05-26,C0174,MA,House Blend,250g,2,$12.50,8,delivered,2
+HC-10696,2026-05-26,C0188,New York,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,2
+HC-10697,2026-01-24,C0197,OH,Colombia Huila,500g,1,$27.00,4,delivered,3
+HC-10698,2026-02-07,C0155,NY,House Blend,500g,3,$22.50,8,delivered,
+HC-10699,2026-05-15,C0231,PA,Sumatra Mandheling,250g,1,$16.00,3,delivered,2
+HC-10700,2026-05-30,C0049,Pennsylvania,Espresso Roast,250g,3,$13.50,4,DELIVERED,1
+HC-10701,2026-02-12,C0069,Penn.,Colombia Huila,500g,1,$27.00,5,delivered,
+HC-10702,2026-04-13,C0276,NJ,Ethiopia Yirgacheffe,1kg,2,$57.75,3,delivered,
+HC-10703,2026-05-06,C0264,NJ,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,1
+HC-10704,2026-04-12,C0002, PA,House Blend,500g,1,$22.50,4,delivered,2
+HC-10705,2026-06-16,C0087,oh ,Sumatra Mandheling,250g,2,$16.00,4,delivered,
+HC-10706,2026-06-17,C0059,Ohio,Sumatra Mandheling,250g,2,$16.00,2,delivered,4
+HC-10707,2026-02-27,C0116,NJ,House Blend,1kg,1,$41.25,4,delivered,4
+HC-10708,2026-02-10,C0061,oh ,Espresso Roast,500g,3,$24.30,6,delivered,2
+HC-10709,2026-05-20,C0045,nj,Espresso Roast,250g,1,$13.50,8,delivered,
+HC-10710,2026-03-16,C0072,NY,Decaf Swiss Water,500g,2,$26.10,8,delivered,2
+HC-10711,2026-03-07,C0151,Mass.,Colombia Huila,250g,2,$15.00,4,delivered,0
+HC-10712,2026-01-13,C0128,MA,Sumatra Mandheling,250g,1,$16.00,4,delivered,5
+HC-10713,2026-03-10,C0049,,Colombia Huila,250g,1,$15.00,6,delivered,2
+HC-10714,2026-04-01,C0304,Ohio,Espresso Roast,250g,2,$13.50,8,delivered,
+HC-10715,2026-01-31,C0025,PA,Ethiopia Yirgacheffe,1kg,2,$57.75,4,delivered,
+HC-10716,2026-06-19,C0249,Pennsylvania,Sumatra Mandheling,500g,1,$28.80,3,Delivered,3
+HC-10717,2026-05-19,C0082,PA,Decaf Swiss Water,1kg,2,$47.85,4,delivered,
+HC-10718,2026-06-18,C0198,ny,House Blend,500g,1,$22.50,4,delivered,
+HC-10719,2026-06-17,C0028,MD,Ethiopia Yirgacheffe,500g,2,$31.50,3,delivered,
+HC-10720,2026-01-24,C0111,MD,Espresso Roast,500g,1,$24.30,,cancelled,
+HC-10721,2026-02-27,C0248,ny,Colombia Huila,500g,1,$27.00,6,delivered,2
+HC-10722,2026-03-02,C0047,OH,Decaf Swiss Water,1kg,1,$47.85,4,delivered,1
+HC-10723,2026-02-10,C0061,OH,Sumatra Mandheling,250g,1,-,8,delivered,4
+HC-10724,2026-01-07,C0180,Maryland,House Blend,1kg,4,$41.25,6,delivered,3
+HC-10725,2026-02-28,C0049,PA,Colombia Huila,250g,1,15.00,3,delivered,4
+HC-10726,2026-04-10,C0273,Pennsylvania,Espresso Roast,500g,2,$24.30,8,delivered,
+HC-10727,2026-06-28,C0138,nj,Colombia Huila,1kg,3,$49.50,,processing,
+HC-10728,2026-03-21,C0194,pa,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,
+HC-10729,2026-03-08,C0228,NY,Decaf Swiss Water,1kg,1,$47.85,2,delivered,
+HC-10730,2026-04-19,C0118,NY,Sumatra Mandheling,250g,2,$16.00,8,delivered,
+HC-10731,,C0075,VA,House Blend,250g,2,$12.50,4,delivered,
+HC-10732,2026-01-21,C0119,OH,House Blend,250g,2,$12.50,4,delivered,5
+HC-10733,2026-05-11,C0202,NY,Colombia Huila,250g,2,$15.00,3,delivered,4
+HC-10734,2026-01-10,C0236,MA,Espresso Roast,500g,1,$24.30,6,delivered,2
+HC-10735,2026-01-29,C0137,nj,House Blend,250g,2,$12.50,2,delivered,
+HC-10735,2026-01-29,C0137,nj,House Blend,250g,2,$12.50,2,delivered,
+HC-10736,2026-04-10,C0307,pa,Decaf Swiss Water,500g,1,$26.10,3,delivered,5
+HC-10737,2026-04-01,C0011,NJ,Decaf Swiss Water,1kg,1,$47.85,3,delivered,1
+HC-10738,2026-04-18,C0100,PA,Espresso Roast,1kg,2,$44.55,5,delivered,4
+HC-10739,2026-02-05,C0052,Virginia,Ethiopia Yirgacheffe,250g,4,$17.50,5,delivered,5
+HC-10740,2026-02-05,C0230,Mass.,Sumatra Mandheling,500g,2,$28.80,5,delivered,1
+HC-10741,2026-06-18,C0160,PA,Colombia Huila,250g,1,$15.00,3,delivered,
+HC-10742,2026-03-17,C0298,Penn.,House Blend,500g,1,$22.50,4,delivered,
+HC-10743,2026-04-15,C0100,Pennsylvania,Colombia Huila,1kg,2,$49.50,4,delivered,
+HC-10744,2026-03-17,C0313,NY,Colombia Huila,250g,1,$15.00,3,delivered,4
+HC-10745,2026-06-21,C0135,Pennsylvania,House Blend,500g,4,$22.50,2,delivered,2
+HC-10746,2026-02-05,C0075,VA,Decaf Swiss Water,250g,2,$14.50,4,delivered,
+HC-10747,2026-05-15,C0298,pa,Colombia Huila,250g,2,$15.00,6,delivered,2
+HC-10748,2026-05-30,C0102,NY,Sumatra Mandheling,1kg,3,$52.80,2,delivered,3
+HC-10749,2026-01-06,C0100,PA,Decaf Swiss Water,250g,1,$14.50,2,delivered,5
+HC-10749,2026-01-06,C0100,PA,Decaf Swiss Water,250g,1,$14.50,2,delivered,5
+HC-10750,2026-05-10,C0273,Penn.,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,5
+HC-10751,2026-04-29,C0150,NY,House Blend,1kg,1,$41.25,4,delivered,5
+HC-10752,2026-03-23,C0098, PA,Colombia Huila,250g,1,$15.00,5,delivered,4
+HC-10753,2026-04-02,C0253,NY,House Blend,1kg,2,$41.25,3,delivered,5
+HC-10754,2026-05-13,C0016,Penn.,Espresso Roast,500g,4,$24.30,2,delivered,
+HC-10755,2026-06-17,C0225,NY,Colombia Huila,250g,1,$15.00,4,delivered,3
+HC-10756,2026-01-30,C0043,Virginia,House Blend,250g,1,$12.50,8,delivered,2
+HC-10757,2026-04-18,C0154,N.Y.,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,2
+HC-10758,2026-05-14,C0277,PA,Sumatra Mandheling,500g,2,$28.80,2,delivered,5
+HC-10759,2026-05-01,C0096,MD,House Blend,500g,2,$22.50,3,delivered,4
+HC-10760,2026-04-01,C0209,NJ,House Blend,1kg,1,$41.25,2,delivered,
+HC-10761,2026-03-27,C0271,MA,Colombia Huila,500g,2,$27.00,8,delivered,
+HC-10762,2026-03-26,C0184,NY,Colombia Huila,250g,1,$15.00,4,delivered,
+HC-10763,2026-06-17,C0246,Ohio,Colombia Huila,500g,4,$27.00,4,delivered,
+HC-10764,2026-01-19,C0239,New York,Sumatra Mandheling,250g,2,$16.00,4,Delivered,1
+HC-10765,2026-04-19,C0302,pa,House Blend,1kg,1,$41.25,4,delivered,1
+HC-10766,2026-04-15,C0004,VA,Decaf Swiss Water,250g,1,$14.50,2,delivered,3
+HC-10767,2026-04-27,C0186,NY,House Blend,1kg,1,$41.25,3,DELIVERED,
+HC-10768,2026-06-19,C0245,NJ,Espresso Roast,1kg,2,$44.55,6,delivered,1
+HC-10769,2026-03-26,C0221,Pennsylvania,Ethiopia Yirgacheffe,250g,4,$17.50,2,delivered,1
+HC-10770,2026-02-07,C0024,PA,Decaf Swiss Water,250g,1,$14.50,5,delivered,
+HC-10771,2026-02-18,C0181,NY,Sumatra Mandheling,1kg,1,$52.80,4,delivered,5
+HC-10772,2026-05-17,C0128,Mass.,House Blend,500g,1,$22.50,4,Delivered,5
+HC-10773,2026-04-10,C0015,Penn.,Espresso Roast,250g,2,$13.50,8,delivered,2
+HC-10774,2026-03-17,C0118,N.Y.,Decaf Swiss Water,1kg,3,$47.85,2,delivered,
+HC-10775,2026-02-23,C0280,Pennsylvania,Espresso Roast,250g,4,$13.50,3,delivered,
+HC-10776,2026-04-06,C0289,VA,Ethiopia Yirgacheffe,500g,1,$31.50,5,delivered,
+HC-10777,2026-03-12,C0313,NY,Espresso Roast,250g,2,$13.50,4,delivered,4
+HC-10778,2026-05-23,C0315,NJ,Colombia Huila,250g,999,$15.00,4,delivered,5
+HC-10779,2026-05-17,C0252,NY,House Blend,500g,1,$22.50,3,delivered,4
+HC-10780,2026-02-08,C0132,NY,Espresso Roast,1kg,4,$44.55,4,delivered,
+HC-10781,2026-06-12,C0190,Ohio,House Blend,250g,2,$12.50,3,delivered,
+HC-10782,2026-05-30,C0128,MA,Ethiopia Yirgacheffe,250g,4,$17.50,,cancelled,
+HC-10783,2026-05-28,C0006,NY,Espresso Roast,500g,2,$24.30,6,delivered,1
+HC-10784,2026-01-09,C0247,Virginia,Decaf Swiss Water,500g,1,$26.10,5,delivered,
+HC-10785,2026-05-06,C0024,PA,House Blend,250g,1,$12.50,2,delivered,
+HC-10786,2026-06-18,C0216,NY,House Blend,250g,1,$12.50,5,delivered,
+HC-10787,2026-01-17,C0318,VA,Decaf Swiss Water,1kg,1,$47.85,8,delivered,2
+HC-10788,2026-02-05,C0109,nj,House Blend,250g,1,$12.50,4,delivered,
+HC-10789,2026-03-28,C0219,NY,Decaf Swiss Water,500g,1,$26.10,6,delivered,
+HC-10789,2026-03-28,C0219,NY,Decaf Swiss Water,500g,1,$26.10,6,delivered,
+HC-10790,2026-06-25,C0145,VA,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,2
+HC-10791,2026-04-22,C0105,New Jersey,Ethiopia Yirgacheffe,250g,3,$17.50,4,delivered,
+HC-10792,2026-01-21,C0211,NJ,Espresso Roast,500g,2,$24.30,6,delivered,
+HC-10793,2026-04-14,C0034,NJ,Sumatra Mandheling,250g,3,$16.00,4,delivered,
+HC-10794,2026-06-25,C0244,PA,Decaf Swiss Water,500g,2,$26.10,,shipped,
+HC-10795,2026-05-24,C0002, PA,Ethiopia Yirgacheffe,1kg,4,$57.75,6,delivered,
+HC-10796,2026-03-17,C0261,MD,House Blend,1kg,1,$41.25,2,delivered,2
+HC-10797,2026-03-01,C0069,PA,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,5
+HC-10798,2026-01-28,C0193,Penn.,Colombia Huila,250g,2,$15.00,8,delivered,2
+HC-10799,2026-03-04,C0004,VA,Colombia Huila,1kg,1,$49.50,8,delivered,
+HC-10800,2026-01-30,C0005,N.Y.,Decaf Swiss Water,500g,2,$26.10,5,delivered,
+HC-10801,2026-04-13,C0135,PA,Decaf Swiss Water,250g,1,$14.50,4,delivered,1
+HC-10802,2026-06-21,C0273,Pennsylvania,House Blend,250g,1,$12.50,3,delivered,4
+HC-10803,2026-04-13,C0180,Maryland,Ethiopia Yirgacheffe,500g,1,$31.50,8,delivered,3
+HC-10804,2026-01-17,C0311,MA,Ethiopia Yirgacheffe,500g,1,$31.50,4,delivered,4
+HC-10805,2026-01-20,C0135,Penn.,Sumatra Mandheling,250g,2,$16.00,8,delivered,
+HC-10806,2026-02-07,C0317,Pennsylvania,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,2
+HC-10807,2026-01-10,C0054,VA,Decaf Swiss Water,250g,2,$14.50,6,delivered,2
+HC-10808,2026-02-08,C0165,N.Y.,Espresso Roast,1kg,1,$44.55,2,delivered,5
+HC-10809,2026-04-14,C0058,Penn.,Espresso Roast,250g,1,$13.50,6,delivered,2
+HC-10810,2026-02-27,C0075,Virginia,Ethiopia Yirgacheffe,250g,4,$17.50,3,delivered,
+HC-10811,2026-01-11,C0100,Penn.,House Blend,500g,1,$22.50,4,delivered,4
+HC-10812,2026-04-12,C0155,ny,House Blend,500g,2,$22.50,6,delivered,3
+HC-10813,2026-04-15,C0083,nj,Colombia Huila,250g,2,15.00,6,delivered,
+HC-10814,2026-03-01,C0315,NJ,House Blend,250g,1,$12.50,3,delivered,5
+HC-10815,2026-06-10,C0243,MD,Decaf Swiss Water,250g,1,$14.50,3,delivered,
+HC-10816,2026-06-16,C0057,PA,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,5
+HC-10817,2026-01-20,C0231,pa,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,5
+HC-10818,2026-05-09,C0131,Ohio,House Blend,500g,3,$22.50,4,delivered,2
+HC-10819,2026-01-28,C0010,NY,House Blend,250g,1,$12.50,8,delivered,
+HC-10820,2026-02-10,C0298,PA,Espresso Roast,250g,1,$13.50,6,delivered,2
+HC-10821,2026-03-30,C0278,PA,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,
+HC-10822,2026-04-16,C0306,pa,Sumatra Mandheling,250g,2,$16.00,8,delivered,2
+HC-10823,2026-01-26,C0087,OH,Sumatra Mandheling,250g,2,$16.00,5,delivered,1
+HC-10824,2026-06-23,C0248,NY,Sumatra Mandheling,250g,3,$16.00,8,delivered,
+HC-10825,2026-01-02,C0046,MA,Colombia Huila,250g,2,$15.00,4,delivered,5
+HC-10826,2026-04-29,C0318,VA,Ethiopia Yirgacheffe,500g,4,$31.50,3,delivered,
+HC-10827,2026-05-15,C0156,PA,Espresso Roast,500g,1,$24.30,4,delivered,
+HC-10828,2026-03-16,C0219,NY,Sumatra Mandheling,500g,2,$28.80,8,delivered,
+HC-10829,2026-01-19,C0248,N.Y.,Espresso Roast,1kg,4,$44.55,3,delivered,
+HC-10830,2026-04-07,C0303,PA,Ethiopia Yirgacheffe,500g,3,$31.50,2,delivered,
+HC-10831,2026-02-26,C0053,Virginia,Sumatra Mandheling,250g,2,$16.00,5,delivered,
+HC-10832,2026-01-25,C0240,ny,Espresso Roast,500g,1,$24.30,3,delivered,5
+HC-10833,2026-03-17,C0127,NJ,Colombia Huila,250g,1,$15.00,4,delivered,4
+HC-10834,2026-06-08,C0306,pa,Decaf Swiss Water,1kg,3,$47.85,-2,delivered,4
+HC-10835,2026-04-23,C0193, PA,Colombia Huila,1kg,3,$49.50,3,delivered,
+HC-10836,2026-06-26,C0257,VA,Espresso Roast,500g,1,$24.30,,shipped,
+HC-10837,2026-04-14,C0130,OH,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,
+HC-10838,2026-06-16,C0086,OH,Espresso Roast,250g,2,13.50,3,delivered,
+HC-10839,2026-05-31,C0262,N.Y.,Colombia Huila,1kg,4,$49.50,3,delivered,
+HC-10840,2026-04-09,C0073,N.Y.,Colombia Huila,250g,2,$15.00,4,delivered,4
+HC-10841,2026-06-12,C0072,N.Y.,House Blend,250g,1,$12.50,3,delivered,4
+HC-10842,2026-01-31,C0082,PA,Ethiopia Yirgacheffe,250g,2,$17.50,4,delivered,5
+HC-10843,2026-05-01,C0298,PA,Sumatra Mandheling,1kg,1,$52.80,4,delivered ,1
+HC-10844,2026-06-16,C0260,OH,Colombia Huila,500g,1,$27.00,4,delivered,1
+HC-10845,2026-04-27,C0075,VA,Ethiopia Yirgacheffe,1kg,1,$57.75,5,delivered,2
+HC-10846,2026-04-27,C0285,PA,Colombia Huila,250g,2,$15.00,3,delivered,5
+HC-10847,2026-03-16,C0154,ny,Sumatra Mandheling,1kg,4,$52.80,,cancelled,
+HC-10848,2026-01-17,C0301,VA,Ethiopia Yirgacheffe,250g,1,-,3,delivered,
+HC-10849,2026-04-11,C0097,NJ,Espresso Roast,250g,3,$13.50,3,delivered,5
+HC-10850,2026-01-24,C0306,pa,Espresso Roast,500g,4,$24.30,8,Delivered,3
+HC-10851,2026-01-26,C0103,ny,Sumatra Mandheling,500g,2,$28.80,6,delivered,
+HC-10852,2026-06-28,C0308,NJ,House Blend,1kg,4,$41.25,,processing,
+HC-10853,2026-03-26,C0007,Ohio,House Blend,250g,4,$12.50,8,delivered ,2
+HC-10854,2026-04-02,C0225,ny,Ethiopia Yirgacheffe,500g,3,$31.50,8,delivered,
+HC-10855,2026-04-25,C0237, PA,House Blend,500g,1,$22.50,2,delivered ,4
+HC-10856,2026-04-03,C0047,Ohio,Colombia Huila,500g,2,$27.00,8,delivered,
+HC-10857,2026-04-28,C0066,nj,Espresso Roast,500g,2,$24.30,2,delivered,3
+HC-10858,2026-05-20,C0053,Virginia,Ethiopia Yirgacheffe,500g,1,$31.50,5,delivered,
+HC-10859,2026-01-17,C0228,ny,House Blend,500g,2,$22.50,4,delivered,
+HC-10860,2026-02-03,C0118,NY,House Blend,500g,4,$22.50,4,delivered,
+HC-10861,2026-01-31,C0170,Virginia,House Blend,250g,1,$12.50,3,delivered,5
+HC-10862,2026-03-21,C0148,pa,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,4
+HC-10863,2026-02-13,C0100,PA,Sumatra Mandheling,500g,2,$28.80,4,delivered,
+HC-10864,2026-04-06,C0134,Penn.,House Blend,1kg,1,$41.25,4,delivered,
+HC-10865,2026-05-16,C0232,MA,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,
+HC-10866,2026-02-21,C0197,OH,House Blend,500g,2,$22.50,4,delivered,
+HC-10867,2026-06-24,C0053,Virginia,House Blend,1kg,1,$41.25,2,delivered,3
+HC-10868,2026-02-26,C0081,Maryland,House Blend,500g,2,$22.50,4,delivered,5
+HC-10869,2026-01-24,C0029,Pennsylvania,Sumatra Mandheling,250g,1,$16.00,,cancelled,
+HC-10870,2026-01-14,C0007,Ohio,Sumatra Mandheling,1kg,1,$52.80,5,delivered,
+HC-10871,2026-06-03,C0247,VA,Sumatra Mandheling,250g,2,$16.00,3,delivered,2
+HC-10872,2026-05-09,C0165,New York,Espresso Roast,1kg,1,$44.55,8,delivered,4
+HC-10873,2026-04-26,C0207,PA,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,4
+HC-10874,2026-04-11,C0202,NY,Colombia Huila,500g,4,$27.00,3,delivered,4
+HC-10875,2026-03-28,C0190,oh ,Espresso Roast,250g,3,$13.50,6,delivered,
+HC-10876,2026-06-08,C0196,NJ,Sumatra Mandheling,250g,1,$16.00,6,delivered,2
+HC-10877,2026-02-18,C0213,ny,Decaf Swiss Water,250g,1,$14.50,,cancelled,
+HC-10878,2026-06-02,C0261,MD,Espresso Roast,1kg,4,$44.55,4,delivered,4
+HC-10879,2026-03-07,C0146,Pennsylvania,Ethiopia Yirgacheffe,250g,2,$17.50,5,delivered,1
+HC-10880,2026-04-29,C0292,MD,House Blend,1kg,3,$41.25,3,delivered,
+HC-10881,2026-01-15,C0220,PA,Sumatra Mandheling,250g,2,$16.00,3,delivered,2
+HC-10882,2026-01-01,C0106,N.Y.,Colombia Huila,500g,3,$27.00,2,delivered,
+HC-10883,2026-06-02,C0255,ny,Espresso Roast,500g,1,$24.30,6,delivered,3
+HC-10884,2026-03-20,C0246,oh ,Colombia Huila,250g,3,$15.00,6,delivered,
+HC-10885,2026-02-14,C0175,Virginia,Sumatra Mandheling,500g,3,$28.80,3,delivered,3
+HC-10886,2026-01-30,C0011,nj,House Blend,1kg,2,$41.25,2,delivered,
+HC-10887,2026-03-18,C0158,VA,Espresso Roast,250g,1,$13.50,6,delivered,2
+HC-10888,2026-04-02,C0110,pa,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,4
+HC-10889,2026-06-28,C0261,Maryland,House Blend,250g,2,$12.50,,processing,
+HC-10890,2026-02-05,C0240,NY,Ethiopia Yirgacheffe,250g,4,$17.50,6,delivered,3
+HC-10891,2026-06-09,C0063, PA,House Blend,250g,1,$12.50,8,delivered,
+HC-10892,2026-04-09,C0150,New York,Colombia Huila,250g,1,$15.00,3,delivered,5
+HC-10893,2026-06-16,C0094,New York,House Blend,500g,1,$22.50,2,delivered,1
+HC-10894,2026-01-26,C0053,VA,House Blend,1kg,2,$41.25,4,delivered,
+HC-10895,2026-03-21,C0244,PA,Espresso Roast,1kg,2,$44.55,4,delivered,4
+HC-10896,2026-01-10,C0107,PA,House Blend,500g,1,$22.50,6,delivered,4
+HC-10897,2026-03-13,C0038,PA,House Blend,250g,2,$12.50,2,delivered,1
+HC-10898,2026-02-17,C0003,MD,Colombia Huila,1kg,1,$49.50,3,delivered,5
+HC-10899,2026-04-06,C0250,NY,Sumatra Mandheling,500g,2,$28.80,4,delivered,3
+HC-10900,2026-05-26,C0125,OH,Decaf Swiss Water,250g,2,$14.50,3,delivered,5
+HC-10901,2026-01-18,C0302,PA,Espresso Roast,500g,1,$24.30,6,delivered,3
+HC-10901,2026-01-18,C0302,PA,Espresso Roast,500g,1,$24.30,6,delivered,3
+HC-10902,2026-02-27,C0028,Maryland,Ethiopia Yirgacheffe,500g,3,$31.50,4,delivered,1
+HC-10903,2026-03-02,C0276,New Jersey,Decaf Swiss Water,250g,2,$14.50,8,delivered,2
+HC-10904,2026-06-02,C0153,New Jersey,Colombia Huila,500g,4,$27.00,8,delivered,
+HC-10905,2026-05-15,C0217,PA,Colombia Huila,250g,2,$15.00,2,delivered,5
+HC-10906,2026-04-31,C0111,MD,Decaf Swiss Water,1kg,4,$47.85,8,delivered,3
+HC-10907,2026-01-08,C0190,oh ,Ethiopia Yirgacheffe,250g,2,$17.50,6,delivered,1
+HC-10908,2026-01-10,C0071,Ohio,Colombia Huila,500g,1,$27.00,5,delivered,5
+HC-10909,2026-05-03,C0114, PA,Espresso Roast,1kg,1,$44.55,2,delivered,
+HC-10910,2026-04-04,C0258,NY,Ethiopia Yirgacheffe,500g,3,$31.50,2,delivered,
+HC-10911,2026-06-15,C0210,Ohio,House Blend,250g,3,$12.50,4,delivered,5
+HC-10912,2026-04-25,C0080,,Espresso Roast,250g,1,$13.50,8,delivered,
+HC-10913,2026-02-24,C0294,NY,Sumatra Mandheling,250g,1,$16.00,8,delivered,
+HC-10914,2026-03-01,C0087,OH,Sumatra Mandheling,1kg,2,$52.80,2,delivered,2
+HC-10915,2026-03-01,C0107,PA,House Blend,500g,1,$22.50,8,delivered,1
+HC-10916,2026-02-18,C0269,nj,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,5
+HC-10917,2026-05-04,C0127,nj,Espresso Roast,1kg,1,$44.55,6,delivered,
+HC-10918,2026-04-03,C0041,N.Y.,Colombia Huila,500g,3,$27.00,2,delivered,5
+HC-10919,2026-04-21,C0243,Maryland,House Blend,250g,2,$12.50,8,delivered,
+HC-10920,2026-05-21,C0001,MD,Colombia Huila,250g,1,$15.00,3,delivered,1
+HC-10921,2026-04-30,C0067,pa,House Blend,500g,2,$22.50,6,delivered,
+HC-10922,2026-02-09,C0182,MA,Decaf Swiss Water,250g,1,$14.50,5,delivered,1
+HC-10923,2026-01-18,C0143,nj,Colombia Huila,250g,1,$15.00,6,delivered,1
+HC-10924,2026-01-25,C0028,Maryland,Decaf Swiss Water,500g,1,$26.10,4,delivered,5
+HC-10925,2026-02-11,C0266,Pennsylvania,Espresso Roast,250g,2,$13.50,4,delivered,4
+HC-10926,2026-05-14,C0197,oh ,House Blend,1kg,4,$41.25,3,delivered,5
+HC-10927,2026-02-24,C0230,Mass.,Sumatra Mandheling,500g,2,$28.80,3,delivered,4
+HC-10928,2026-04-19,C0244,pa,House Blend,1kg,1,$41.25,3,delivered,1
+HC-10929,2026-03-21,C0262,NY,Ethiopia Yirgacheffe,1kg,1,$57.75,3,DELIVERED,
+HC-10930,2026-03-24,C0188,NY,Colombia Huila,1kg,1,$49.50,3,delivered,
+HC-10931,2026-06-26,C0069,Penn.,Sumatra Mandheling,250g,1,$16.00,,Shipped,
+HC-10932,2026-04-01,C0311,MA,Sumatra Mandheling,500g,1,$28.80,5,delivered,
+HC-10933,2026-03-11,C0055,,Decaf Swiss Water,250g,1,$14.50,3,delivered,5
+HC-10934,2026-05-04,C0155,NY,Espresso Roast,1kg,3,$44.55,3,delivered,5
+HC-10935,2026-03-12,C0192,OH,Ethiopia Yirgacheffe,1kg,2,$57.75,2,Delivered,2
+HC-10936,2026-04-15,C0255,New York,House Blend,250g,4,$12.50,3,delivered,5
+HC-10937,2026-05-16,C0109,New Jersey,Colombia Huila,250g,2,$15.00,3,delivered,4
+HC-10938,2026-06-30,C0069,Penn.,Espresso Roast,1kg,2,$44.55,,processing,
+HC-10939,2026-02-27,C0147,New Jersey,Colombia Huila,500g,1,$27.00,4,delivered,2
+HC-10940,2026-01-14,C0192,OH,Decaf Swiss Water,1kg,3,$47.85,5,delivered,
+HC-10941,2026-02-08,C0076,Mass.,Colombia Huila,500g,2,$27.00,2,delivered,4
+HC-10942,2026-06-01,C0116,nj,Ethiopia Yirgacheffe,250g,2,$17.50,3,delivered,5
+HC-10943,2026-05-18,C0317,PA,House Blend,250g,1,$12.50,4,delivered ,
+HC-10944,2026-04-22,C0065,NJ,House Blend,1kg,1,$41.25,3,delivered,
+HC-10945,2026-01-31,C0095,MA,Colombia Huila,250g,1,$15.00,8,delivered,1
+HC-10946,2026-02-14,C0111,MD,House Blend,500g,2,$22.50,8,delivered ,2
+HC-10947,2026-05-22,C0169,pa,Ethiopia Yirgacheffe,500g,1,$31.50,2,delivered,1
+HC-10948,2026-02-13,C0141,Pennsylvania,Espresso Roast,1kg,3,$44.55,5,delivered,5
+HC-10949,2026-02-03,C0124, PA,House Blend,500g,1,$22.50,3,delivered,5
+HC-10950,2026-02-05,C0288,New York,Colombia Huila,250g,2,$15.00,4,delivered,4
+HC-10951,2026-01-27,C0188,N.Y.,Decaf Swiss Water,250g,1,$14.50,6,delivered,
+HC-10952,2026-01-20,C0287,pa,Colombia Huila,500g,2,$27.00,3,delivered,
+HC-10953,2026-01-07,C0132,NY,House Blend,500g,4,$22.50,3,delivered,
+HC-10954,2026-02-04,C0300,Pennsylvania,Decaf Swiss Water,250g,1,$14.50,6,DELIVERED,3
+HC-10955,2026-02-10,C0257,Virginia,House Blend,500g,4,$22.50,2,delivered,
+HC-10956,2026-02-05,C0214,NY,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,5
+HC-10957,2026-03-19,C0297,VA,House Blend,250g,1,$12.50,6,delivered,
+HC-10958,2026-01-06,C0004,Virginia,House Blend,1kg,1,$41.25,3,delivered,
+HC-10959,2026-05-04,C0272,NY,House Blend,500g,2,$22.50,6,delivered,1
+HC-10960,2026-06-01,C0082,Pennsylvania,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-10961,2026-02-04,C0270,MD,House Blend,250g,1,$12.50,4,delivered,
+HC-10962,2026-06-15,C0127,NJ,Colombia Huila,250g,3,$15.00,4,delivered,2
+HC-10963,2026-02-26,C0126,NJ,Ethiopia Yirgacheffe,500g,1,$31.50,6,delivered,
+HC-10964,2026-04-21,C0072,New York,Colombia Huila,1kg,1,$49.50,,cancelled,
+HC-10965,2026-03-15,C0061,OH,Ethiopia Yirgacheffe,250g,4,$17.50,5,delivered,4
+HC-10966,2026-03-25,C0042,ny,Espresso Roast,1kg,2,$44.55,6,DELIVERED,0
+HC-10967,2026-01-01,C0169,Penn.,Ethiopia Yirgacheffe,250g,4,$17.50,6,delivered,
+HC-10968,2026-02-09,C0048,pa,House Blend,250g,2,$12.50,3,delivered,3
+HC-10969,2026-05-30,C0248,NY,Ethiopia Yirgacheffe,250g,1,$17.50,2,delivered,5
+HC-10970,2026-02-14,C0177,VA,House Blend,500g,2,$22.50,4,delivered,5
+HC-10971,2026-04-07,C0067,PA,Sumatra Mandheling,250g,1,$16.00,3,delivered,2
+HC-10972,2026-06-02,C0318,VA,Decaf Swiss Water,500g,2,$26.10,3,delivered,5
+HC-10973,2026-04-03,C0079,Maryland,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,5
+HC-10974,2026-04-06,C0063,PA,Espresso Roast,500g,1,$24.30,8,delivered,
+HC-10975,2026-06-24,C0002, PA,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,
+HC-10976,2026-01-08,C0279,pa,Sumatra Mandheling,1kg,2,$52.80,8,delivered,
+HC-10977,2026-04-30,C0243,MD,House Blend,1kg,3,$41.25,3,delivered,5
+HC-10978,2026-02-20,C0136,pa,House Blend,1kg,2,$41.25,8,delivered,
+HC-10979,2026-01-13,C0149,Penn.,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,
+HC-10980,2026-04-20,C0248,NY,Colombia Huila,250g,1,$15.00,8,delivered,
+HC-10981,2026-01-23,C0172,Pennsylvania,Ethiopia Yirgacheffe,250g,1,$17.50,5,delivered,
+HC-10982,2026-03-06,C0060,pa,Ethiopia Yirgacheffe,250g,3,$17.50,2,delivered,2
+HC-10983,2026-06-27,C0216,New York,Decaf Swiss Water,500g,2,$26.10,,shipped,
+HC-10984,2026-03-19,C0060,pa,Colombia Huila,1kg,1,$49.50,4,delivered,2
+HC-10985,2026-05-20,C0028,Maryland,Espresso Roast,250g,2,-,2,delivered,
+HC-10986,2026-02-28,C0188,NY,Espresso Roast,1kg,3,$44.55,3,delivered,5
+HC-10987,2026-04-28,C0085,pa,Espresso Roast,1kg,1,$44.55,2,delivered,5
+HC-10988,2026-06-26,C0021,Pennsylvania,Sumatra Mandheling,500g,1,$28.80,,shipped,
+HC-10989,2026-01-26,C0252,N.Y.,Espresso Roast,250g,2,$13.50,3,delivered,3
+HC-10990,2026-06-17,C0300,pa,Espresso Roast,250g,1,$13.50,8,delivered ,2
+HC-10991,2026-01-17,C0119,Ohio,Espresso Roast,250g,1,$13.50,4,delivered,
+HC-10992,2026-06-24,C0065,NJ,Decaf Swiss Water,250g,3,$14.50,6,delivered,4
+HC-10993,2026-01-25,C0107,PA,Ethiopia Yirgacheffe,1kg,1,$57.75,3,delivered,
+HC-10994,2026-02-26,C0049,pa,Ethiopia Yirgacheffe,500g,1,$31.50,2,delivered,4
+HC-10995,2026-06-23,C0170,VA,Colombia Huila,250g,1,$15.00,5,delivered,
+HC-10996,2026-03-09,C0064, PA,Ethiopia Yirgacheffe,250g,3,$17.50,2,delivered,
+HC-10997,2026-03-28,C0106,NY,Decaf Swiss Water,500g,3,$26.10,5,delivered,
+HC-10998,2026-01-06,C0069, PA,Decaf Swiss Water,250g,1,$14.50,8,delivered,
+HC-10999,2026-03-28,C0113,NY,Colombia Huila,500g,1,$27.00,8,delivered,
+HC-11000,2026-06-28,C0210,OH,Ethiopia Yirgacheffe,250g,4,$17.50,,processing,
+HC-11001,2026-04-04,C0157,Pennsylvania,Decaf Swiss Water,1kg,1,$47.85,8,delivered,4
+HC-11002,2026-06-22,C0066,New Jersey,Espresso Roast,500g,1,$24.30,6,delivered,3
+HC-11003,2026-05-14,C0305, PA,Ethiopia Yirgacheffe,1kg,1,$57.75,8,delivered,3
+HC-11004,2026-01-28,C0062,New Jersey,House Blend,250g,2,$12.50,8,delivered,3
+HC-11005,2026-05-28,C0149, PA,Colombia Huila,1kg,2,$49.50,8,delivered,1
+HC-11006,2026-01-04,C0206, PA,Colombia Huila,500g,2,$27.00,4,delivered,
+HC-11007,2026-06-19,C0003,Maryland,Ethiopia Yirgacheffe,250g,1,$17.50,8,delivered,3
+HC-11008,2026-05-06,C0093,Virginia,Ethiopia Yirgacheffe,1kg,3,$57.75,8,delivered,
+HC-11009,2026-02-27,C0186,NY,Ethiopia Yirgacheffe,500g,3,$31.50,8,delivered,2
+HC-11010,2026-04-06,C0181,NY,Colombia Huila,250g,1,$15.00,3,delivered,2
+HC-11011,2026-02-21,C0318,Virginia,Colombia Huila,500g,3,$27.00,3,delivered,5
+HC-11012,2026-05-27,C0080,OH,Ethiopia Yirgacheffe,250g,1,17.50,3,delivered,
+HC-11013,2026-05-03,C0316,PA,Decaf Swiss Water,250g,1,$14.50,4,delivered,4
+HC-11014,2026-04-17,C0089, PA,House Blend,500g,3,$22.50,6,delivered,2
+HC-11015,2026-04-06,C0249,Penn.,House Blend,250g,2,$12.50,4,delivered,1
+HC-11016,2026-06-09,C0151,Mass.,Decaf Swiss Water,250g,1,$14.50,4,delivered,
+HC-11017,2026-06-12,C0107,PA,Espresso Roast,250g,1,-,4,DELIVERED,5
+HC-11018,2026-06-05,C0136,pa,Ethiopia Yirgacheffe,250g,1,$17.50,6,delivered,3
+HC-11019,2026-06-10,C0061,OH,Espresso Roast,500g,2,$24.30,4,delivered,5
+HC-11020,2026-05-14,C0054,Virginia,Ethiopia Yirgacheffe,1kg,1,$57.75,4,delivered,5
+HC-11021,2026-06-27,C0143,NJ,House Blend,250g,1,$12.50,,Shipped,
+HC-11022,2026-03-23,C0077,MD,Espresso Roast,500g,1,$24.30,3,delivered,5
+HC-11023,2026-01-07,C0036, PA,Ethiopia Yirgacheffe,250g,1,$17.50,4,Delivered,
+HC-11024,2026-04-08,C0021,,Espresso Roast,500g,4,$24.30,2,delivered,1
+HC-11025,2026-02-27,C0307, PA,Colombia Huila,500g,1,$27.00,3,delivered,2
+HC-11026,2026-04-03,C0265,MA,House Blend,250g,2,$12.50,5,delivered,5
+HC-11027,2026-03-04,C0318,VA,House Blend,250g,4,$12.50,4,delivered,
+HC-11028,2026-05-26,C0225,NY,House Blend,500g,2,$22.50,3,delivered,4
+HC-11029,2026-06-14,C0100,Penn.,Colombia Huila,250g,2,$15.00,4,delivered,4
+HC-11030,2026-03-29,C0027,NY,Colombia Huila,500g,1,$27.00,3,delivered,
+HC-11031,2026-05-19,C0149,PA,Sumatra Mandheling,250g,2,$16.00,2,delivered,
+HC-11032,2026-01-15,C0108,New York,Espresso Roast,1kg,1,$44.55,2,delivered,0
+HC-11033,2026-02-18,C0249,Pennsylvania,Decaf Swiss Water,250g,3,$14.50,6,delivered,
+HC-11034,2026-05-09,C0300,Pennsylvania,House Blend,250g,4,$12.50,5,delivered,
+HC-11035,2026-05-29,C0106,NY,Sumatra Mandheling,250g,1,$16.00,3,delivered,5
+HC-11036,2026-03-05,C0076,MA,Ethiopia Yirgacheffe,1kg,1,$57.75,3,delivered,1
+HC-11037,2026-01-19,C0255,NY,Ethiopia Yirgacheffe,250g,2,$17.50,5,delivered,
+HC-11038,2026-06-13,C0098,pa,House Blend,250g,4,$12.50,4,delivered,
+HC-11039,2026-03-12,C0184,NY,House Blend,500g,1,$22.50,2,delivered,2
+HC-11040,2026-06-16,C0125,Ohio,House Blend,1kg,2,$41.25,4,delivered,
+HC-11041,2026-05-21,C0131,OH,Sumatra Mandheling,250g,4,$16.00,3,delivered,
+HC-11042,2026-01-22,C0249,Penn.,Colombia Huila,250g,2,$15.00,3,delivered,
+HC-11043,2026-02-09,C0303,Pennsylvania,Decaf Swiss Water,500g,4,$26.10,4,delivered,4
+HC-11044,2026-01-30,C0032,pa,Sumatra Mandheling,250g,1,$16.00,6,delivered,
+HC-11045,2026-04-14,C0131,Ohio,House Blend,1kg,1,$41.25,6,delivered,
+HC-11046,2026-02-18,C0215,pa,Sumatra Mandheling,250g,3,$16.00,,cancelled,
+HC-11047,2026-02-20,C0248,N.Y.,Sumatra Mandheling,500g,3,$28.80,8,delivered,2
+HC-11048,2026-03-04,C0090,pa,Decaf Swiss Water,1kg,1,$47.85,8,delivered,
+HC-11049,2026-03-18,C0191,OH,Ethiopia Yirgacheffe,250g,2,$17.50,2,delivered,
+HC-11050,2026-06-22,C0279,Penn.,Espresso Roast,500g,2,$24.30,8,delivered,2
+HC-11051,2026-02-06,C0187,Mass.,Ethiopia Yirgacheffe,250g,1,$17.50,4,delivered,3
+HC-11052,2026-01-12,C0302, PA,Colombia Huila,250g,1,$15.00,2,delivered,5
+HC-11053,2026-03-15,C0053,VA,Ethiopia Yirgacheffe,250g,1,$17.50,5,delivered,5
+HC-11054,2026-03-28,C0105,nj,Sumatra Mandheling,1kg,3,$52.80,6,delivered,
+HC-11055,2026-03-27,C0141,PA,Ethiopia Yirgacheffe,1kg,1,$57.75,5,delivered,4
+HC-11056,2026-01-26,C0070,NY,Decaf Swiss Water,500g,1,$26.10,3,delivered,4
+HC-11057,2026-06-27,C0196,NJ,Decaf Swiss Water,250g,1,$14.50,,shipped,
+HC-11058,2026-05-21,C0197,Ohio,Ethiopia Yirgacheffe,500g,3,$31.50,8,delivered,
+HC-11058,2026-05-21,C0197,Ohio,Ethiopia Yirgacheffe,500g,3,$31.50,8,delivered,
+HC-11059,2026-02-23,C0300,PA,Colombia Huila,250g,1,$15.00,8,delivered,2
+HC-11060,2026-06-28,C0118,NY,Decaf Swiss Water,250g,1,$14.50,,processing,
+HC-11061,2026-02-06,C0046,MA,House Blend,500g,1,$22.50,3,delivered,
+HC-11062,2026-02-15,C0070,NY,House Blend,1kg,1,$41.25,5,Delivered,
+HC-11063,2026-06-05,C0203,Penn.,Colombia Huila,500g,2,$27.00,3,delivered,1
+HC-11064,2026-03-18,C0035,pa,Colombia Huila,250g,1,$15.00,8,delivered,3
+HC-11065,2026-03-04,C0187,Mass.,Colombia Huila,500g,2,$27.00,4,delivered,
+HC-11066,2026-04-30,C0119,OH,Colombia Huila,1kg,1,$49.50,8,delivered,
+HC-11067,2026-05-29,C0278,pa,Espresso Roast,500g,4,$24.30,3,delivered,
+HC-11068,2026-06-10,C0253,NY,House Blend,500g,1,$22.50,3,delivered,4
+HC-11069,2026-05-01,C0038, PA,Espresso Roast,500g,3,$24.30,6,delivered,2
+HC-11070,2026-01-03,C0142,NY,Ethiopia Yirgacheffe,500g,1,$31.50,5,delivered,3
+HC-11071,2026-02-28,C0064,PA,House Blend,250g,1,$12.50,3,delivered,4
+HC-11072,2026-03-19,C0010,NY,Decaf Swiss Water,250g,2,$14.50,3,delivered,3
+HC-11073,2026-04-22,C0174,Mass.,House Blend,1kg,4,$41.25,3,delivered,
+HC-11074,2026-03-27,C0318,VA,Decaf Swiss Water,250g,2,$14.50,4,delivered,5
+HC-11075,2026-04-26,C0176,OH,House Blend,250g,,$12.50,3,delivered,4
+HC-11076,2026-06-02,C0205,Maryland,House Blend,1kg,2,$41.25,2,delivered,
+HC-11077,2026-03-24,C0168,NY,Ethiopia Yirgacheffe,250g,2,$17.50,8,delivered,2
+HC-11078,2026-04-19,C0174,MA,Colombia Huila,250g,1,$15.00,3,delivered,4
+HC-11079,2026-02-11,C0225,NY,House Blend,250g,2,$12.50,2,delivered,
+HC-11080,2026-01-03,C0100,PA,Ethiopia Yirgacheffe,250g,1,$17.50,3,delivered,
+HC-11081,2026-06-27,C0068,Pennsylvania,Sumatra Mandheling,500g,4,$28.80,,shipped,
+HC-11082,2026-01-17,C0227,New York,Colombia Huila,1kg,1,$49.50,3,delivered,
+HC-11083,2026-03-04,C0285,PA,House Blend,250g,1,$12.50,3,delivered,5
+HC-11084,2026-04-01,C0230,MA,Sumatra Mandheling,250g,2,$16.00,8,delivered,1
+HC-11085,2026-02-19,C0265,Mass.,Ethiopia Yirgacheffe,500g,2,$31.50,2,delivered,5
+HC-11086,2026-04-29,C0004,VA,Espresso Roast,1kg,4,$44.55,3,delivered,5
+HC-11087,2026-06-29,C0056,NJ,Colombia Huila,250g,2,$15.00,,processing,
+HC-11088,2026-02-05,C0059,oh ,House Blend,250g,3,$12.50,3,delivered,3
+HC-11089,2026-04-09,C0282,New York,Ethiopia Yirgacheffe,250g,2,$17.50,2,delivered,5
+HC-11090,2026-03-23,C0258,NY,House Blend,250g,4,$12.50,4,delivered,
+HC-11091,2026-05-12,C0166,Pennsylvania,House Blend,500g,4,$22.50,5,delivered,4
+HC-11092,2026-04-14,C0203, PA,Colombia Huila,250g,4,$15.00,4,delivered,5
+HC-11093,2026-02-18,C0037,Maryland,Colombia Huila,250g,2,$15.00,4,delivered,
+HC-11094,2026-04-19,C0181,NY,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,
+HC-11095,2026-06-13,C0271,Mass.,Sumatra Mandheling,1kg,1,$52.80,6,delivered,2
+HC-11096,2026-05-05,C0205,MD,Ethiopia Yirgacheffe,500g,1,$31.50,3,delivered,3
+HC-11097,2026-05-28,C0105,New Jersey,House Blend,250g,1,$12.50,5,delivered,2
+HC-11098,2026-03-23,C0077,MD,Colombia Huila,250g,1,$15.00,4,delivered,4
+HC-11099,2026-06-06,C0210,Ohio,House Blend,250g,3,$12.50,8,delivered,3
+HC-11100,2026-02-13,C0046,MA,Colombia Huila,250g,1,$15.00,,cancelled,

@@ -1,0 +1,641 @@
+ticket_id,channel,opened,closed,customer,subject,priority,agent
+T-0001,web,2026-03-05T13:07:56Z,2026-03-06T13:04:20Z,ben.ortiz@example.org,Can't log in,Normal,Luis
+T-0002,web,2026-03-08T20:46:14Z,2026-03-11T10:30:02Z,Ben.Berg@Yahoo.Com,Subscription: skip next delivery,Low,Maya
+T-0003,web,2026-04-25T13:48:48Z,2026-04-25T15:52:59Z,chen.berg@gmail.com,Grinder setting for Espresso Roast?,Normal,Tom
+T-0004,web,2026-03-12T16:20:54Z,2026-03-12T22:49:42Z,ivan.rao@hilltop-partners.com,Order HC-10685 arrived damaged,Low,Luis
+T-0005,phone,2026-04-07 12:24:34-04:00,2026-04-10 11:26:22-04:00, chen.berg@gmail.com,Bag of Sumatra Mandheling tastes stale (order #HC-10293),Low,Maya
+T-0006,email,04/15/2026 02:53 PM,04/15/2026 04:33 PM,jo.novak@hilltop-partners.com,"Wrong bag size (500g instead of 250g), order HC-11014",high,Maya
+T-0007,phone,2026-04-03 12:37:01-04:00,2026-04-03 16:29:49-04:00,ivan.kim@hilltop-partners.com,Order HC-10403 arrived damaged,Normal,Priya
+T-0008,email,04/16/2026 12:09 PM,04/16/2026 01:49 PM,dana.li@outlook.com,Order HC-10611 arrived damaged,High,Maya
+T-0009,email,03/07/2026 03:49 PM,03/08/2026 11:45 PM,chen.rao@yahoo.com,Refund request - HC-10606,low,Luis
+T-0010,email,03/12/2026 05:20 PM,03/13/2026 12:13 AM,eli.novak@outlook.com,Change address on HC-10361 please,low,Luis
+T-0011,email,03/19/2026 11:49 PM,03/20/2026 02:20 PM,farah.li@hilltop-partners.com,Bag of Decaf Swiss Water tastes stale (order #HC-10915),Normal,Priya
+T-0012,email,03/15/2026 12:06 PM,03/17/2026 12:00 PM,farah.kim@hilltop-partners.com,  CHANGE ADDRESS ON HC-10976 PLEASE ,low,Priya
+T-0013,web,2026-04-05T01:17:15Z,2026-04-05T10:33:27Z,asha.berg@example.org,order hc 10957 still not here,LOW,Priya
+T-0014,web,2026-03-21T17:09:50Z,2026-03-22T23:47:02Z,gus.berg@gmail.com,Refund request - HC-10135,Normal,Luis
+T-0015,phone,2026-04-22 18:29:27-04:00,2026-04-23 05:06:03-04:00,lena.novak@outlook.com,order hc 10901 still not here,low,Maya
+T-0016,email,03/09/2026 02:44 PM,03/09/2026 05:02 PM,eli.ortiz@hilltop-partners.com,Refund request - HC-10711,High,Maya
+T-0017,web,2026-03-05T09:08:41Z,2026-03-07T07:09:17Z,dana.li@hilltop-partners.com,Refund request - HC-10666,normal,Maya
+T-0018,web,2026-04-11T21:38:01Z,2026-04-12T09:44:01Z,Chen.Ortiz@Example.Org,Order HC-10632 arrived damaged,Normal,Tom
+T-0019,phone,2026-04-10 10:07:57-04:00,2026-04-10 18:36:09-04:00,gus.berg@outlook.com,Subscription: skip next delivery,Normal,Tom
+T-0020,phone,2026-04-18 10:21:58-04:00,2026-04-19 12:29:10-04:00,lena.rao@outlook.com,"Wrong bag size (500g instead of 1kg), order HC-10068",LOW,Priya
+T-0021,web,2026-03-30T03:35:50Z,2026-04-01T10:47:50Z, chen.novak@gmail.com,Bag of Colombia Huila tastes stale (order #HC-10897),low,Priya
+T-0022,web,2026-04-25T18:21:15Z,2026-04-26T02:45:51Z,Ben.Ortiz@Yahoo.Com,Subscription: skip next delivery,Normal,Priya
+T-0023,email,04/24/2026 07:56 PM,04/24/2026 11:50 PM,dana.ortiz@example.org,Bag of Decaf Swiss Water tastes stale (order #HC-10508),URGENT,Priya
+T-0024,web,2026-04-11T15:01:30Z,2026-04-12T05:13:30Z,jo.novak@hilltop-partners.com,Change address on HC-10434 please,Normal,Luis
+T-0025,web,2026-04-27T23:31:34Z,2026-04-28T20:39:58Z,eli.berg@outlook.com,Bag of Sumatra Mandheling tastes stale (order #HC-10337),Normal,Maya
+T-0026,email,04/29/2026 09:56 AM,04/29/2026 01:54 PM,Eli.Ortiz@Yahoo.Com,Order HC-11065 arrived damaged,High,Tom
+T-0027,web,2026-03-17T16:09:51Z,2026-03-18T05:29:39Z,gus.li@yahoo.com,Refund request - HC-10473,normal,Luis
+T-0028,web,2026-03-02T04:08:39Z,2026-03-03T04:27:51Z,Eli.Novak@Hilltop-Partners.Com,Subscription: skip next delivery,Low,Maya
+T-0029,email,03/03/2026 06:30 AM,03/05/2026 01:08 PM,lena.rao@outlook.com,  GRINDER SETTING FOR DECAF SWISS WATER? ,low,Maya
+T-0030,email,03/30/2026 11:10 AM,03/31/2026 01:17 AM,ben.novak@example.org,Subscription: skip next delivery,normal,Luis
+T-0031,phone,2026-03-20 15:49:29-04:00,2026-03-21 03:26:05-04:00,kai.kim@example.org,  GRINDER SETTING FOR SUMATRA MANDHELING? ,normal,Luis
+T-0032,email,04/21/2026 07:08 PM,04/22/2026 02:13 PM,kai.berg@hilltop-partners.com,Where is my order #HC-10295?,normal,Luis
+T-0033,web,2026-04-16T13:02:55Z,2026-04-18T01:17:19Z,eli.novak@yahoo.com,Where is my order #HC-10923?,Normal,Maya
+T-0034,email,04/28/2026 01:23 PM,04/29/2026 02:32 PM,kai.berg@yahoo.com,Grinder setting for Sumatra Mandheling?,Low,Priya
+T-0035,web,2026-04-22T19:42:49Z,2026-04-24T05:35:37Z,eli.ortiz@yahoo.com,  WHERE IS MY ORDER #HC-10378? ,Low,Priya
+T-0036,email,04/21/2026 04:46 PM,04/24/2026 04:19 AM,Chen.Ortiz@Hilltop-Partners.Com,Order HC-10227 arrived damaged,low,Tom
+T-0037,web,2026-04-14T19:49:47Z,2026-04-18T09:22:11Z,eli.berg@outlook.com,Refund request - HC-10681,normal,Maya
+T-0038,web,2026-04-22T17:57:18Z,2026-04-23T03:42:18Z,lena.novak@outlook.com,Bag of Espresso Roast tastes stale (order #HC-10479),Normal,Priya
+T-0039,email,03/09/2026 04:38 PM,03/12/2026 09:28 PM,dana.ortiz@yahoo.com,Subscription: skip next delivery,Low,Priya
+T-0040,phone,2026-03-13 12:47:28-04:00,2026-03-15 21:27:04-04:00,asha.ortiz@outlook.com,  BAG OF SUMATRA MANDHELING TASTES STALE (ORDER #HC-10755) ,Normal,Tom
+T-0041,email,03/14/2026 12:56 PM,03/15/2026 10:09 AM, ivan.rao@hilltop-partners.com,"Wrong bag size (250g instead of 500g), order HC-10657",High,Maya
+T-0042,phone,2026-03-07 09:41:49-05:00,2026-03-07 17:29:13-05:00,asha.ortiz@outlook.com,Order HC-11000 arrived damaged,LOW,Tom
+T-0043,web,2026-03-24T18:04:28Z,2026-03-24T23:26:40Z,Lena.Novak@Outlook.Com,Change address on HC-10980 please,high,Tom
+T-0044,email,03/22/2026 12:43 PM,03/23/2026 01:11 AM,lena.novak@outlook.com,Bag of Colombia Huila tastes stale (order #HC-11065),Normal,Priya
+T-0045,web,2026-04-03T15:28:17Z,2026-04-05T16:09:41Z,asha.li@gmail.com,"Wrong bag size (250g instead of 500g), order HC-10079",Low,Maya
+T-0046,web,2026-03-28T19:27:44Z,2026-03-29T17:49:20Z,kai.kim@example.org,"  WRONG BAG SIZE (1KG INSTEAD OF 250G), ORDER HC-10097 ",normal,Maya
+T-0047,web,2026-03-13T20:14:42Z,2026-03-14T04:17:42Z,Eli.Novak@Outlook.Com,Subscription: skip next delivery,Normal,Tom
+T-0048,email,03/19/2026 10:31 PM,03/20/2026 01:31 PM, hana.kim@outlook.com,Can't log in,High,Tom
+T-0049,web,2026-04-03T15:42:37Z,2026-04-04T21:02:25Z,hana.kim@outlook.com,  REFUND REQUEST - HC-10019 ,low,Priya
+T-0050,web,2026-04-05T23:49:11Z,2026-04-06T02:35:59Z,ivan.kim@hilltop-partners.com,  CHANGE ADDRESS ON HC-10471 PLEASE ,high,Priya
+T-0051,web,2026-03-24T20:39:20Z,2026-03-25T01:36:56Z,ivan.kim@outlook.com,Change address on HC-10229 please,Low,Maya
+T-0052,phone,2026-03-16 14:28:50-04:00,2026-03-16 19:08:26-04:00,hana.ortiz@gmail.com,  CHANGE ADDRESS ON HC-10371 PLEASE ,HIGH ,Priya
+T-0053,email,04/17/2026 12:16 PM,04/18/2026 10:45 PM,ben.ortiz@yahoo.com,Refund request - HC-10275,Normal,Tom
+T-0054,web,2026-04-04T22:22:01Z,2026-04-06T02:19:37Z, Gus.Berg@Outlook.Com,  REFUND REQUEST - HC-10182 ,Normal,Maya
+T-0055,email,03/23/2026 03:30 PM,03/24/2026 10:21 AM,ben.ortiz@yahoo.com,Can't log in,Normal,Tom
+T-0056,phone,2026-03-12 10:42:20-04:00,2026-03-13 00:35:08-04:00,Chen.Berg@Gmail.Com,  REFUND REQUEST - HC-10773 ,Low,Tom
+T-0057,web,2026-04-30T12:24:33Z,,jo.novak@hilltop-partners.com,Subscription: skip next delivery,normal,Tom
+T-0058,phone,2026-03-07 18:07:34-05:00,2026-03-10 03:53:10-04:00,asha.li@gmail.com,Subscription: skip next delivery,Low,Maya
+T-0059,email,03/24/2026 09:24 PM,03/25/2026 06:31 AM,lena.rao@outlook.com,"Wrong bag size (250g instead of 1kg), order HC-11089",normal,Tom
+T-0060,web,2026-04-20T16:48:25Z,2026-04-22T01:43:00Z,hana.rao@outlook.com,"Wrong bag size (500g instead of 1kg), order HC-10107",low,Maya
+T-0061,web,2026-04-04T19:41:07Z,2026-04-05T11:50:43Z,Asha.Berg@Example.Org,Can't log in,Low,Tom
+T-0062,email,03/16/2026 07:28 PM,03/17/2026 01:44 AM, Hana.Kim@Outlook.Com,  ORDER HC 10203 STILL NOT HERE ,high,Maya
+T-0063,email,04/17/2026 09:11 PM,04/19/2026 03:01 AM,eli.ortiz@yahoo.com,  ORDER HC 10059 STILL NOT HERE ,normal,Maya
+T-0064,web,2026-04-09T02:36:02Z,2026-04-09T21:49:14Z,Lena.Rao@Hilltop-Partners.Com,order hc 10365 still not here,normal,Tom
+T-0065,phone,2026-03-02 17:30:03-05:00,2026-03-03 16:45:03-05:00,eli.ortiz@hilltop-partners.com,Grinder setting for Decaf Swiss Water?,High,Luis
+T-0066,phone,2026-04-06 18:58:07-04:00,2026-04-07 05:08:55-04:00,ivan.kim@hilltop-partners.com,Refund request - HC-10876,normal,Priya
+T-0067,email,04/18/2026 12:07 PM,04/20/2026 04:49 AM,farah.kim@hilltop-partners.com,Refund request - HC-10153,Normal,Tom
+T-0068,email,03/19/2026 06:37 AM,03/19/2026 08:01 PM,ben.ortiz@yahoo.com,  ORDER HC-10903 ARRIVED DAMAGED ,Low,Luis
+T-0069,email,03/08/2026 08:50 AM,03/09/2026 01:04 AM, asha.berg@example.org,  REFUND REQUEST - HC-10013 ,Low,Luis
+T-0070,phone,2026-03-04 11:29:53-05:00,2026-03-05 00:26:53-05:00,hana.ortiz@yahoo.com,Subscription: skip next delivery,normal,Tom
+T-0071,email,04/28/2026 10:15 PM,04/28/2026 11:51 PM,asha.berg@example.org,Where is my order #HC-10171?,urgent,Priya
+T-0072,phone,2026-04-13 14:31:25-04:00,2026-04-15 01:05:37-04:00,gus.berg@gmail.com,Order HC-10089 arrived damaged,Normal,Maya
+T-0073,phone,2026-03-22 23:01:10-04:00,2026-03-24 01:14:22-04:00,eli.novak@hilltop-partners.com,Bag of Decaf Swiss Water tastes stale (order #HC-10381),Normal,Tom
+T-0074,email,03/17/2026 09:32 AM,03/20/2026 10:18 AM,farah.kim@hilltop-partners.com,Bag of Sumatra Mandheling tastes stale (order #HC-10216),low,Luis
+T-0075,web,2026-04-04T18:43:51Z,2026-04-05T09:18:39Z,eli.berg@outlook.com,Refund request - HC-10391,low,Priya
+T-0076,email,04/14/2026 11:41 AM,04/14/2026 05:25 PM,eli.ortiz@yahoo.com,Where is my order #HC-10698?,Normal,Luis
+T-0077,web,2026-03-28T22:50:02Z,2026-03-29T22:10:26Z,ivan.kim@outlook.com,  ORDER HC 10568 STILL NOT HERE ,Normal,Luis
+T-0078,web,2026-03-25T17:39:54Z,2026-03-27T15:02:06Z, Ivan.Kim@Outlook.Com,Where is my order #HC-10789?,low,Priya
+T-0079,email,03/02/2026 09:12 AM,03/04/2026 01:02 AM,dana.ortiz@hilltop-partners.com,order hc 11005 still not here,LOW,Priya
+T-0080,web,2026-04-03T04:47:55Z,2026-04-03T18:13:43Z,ivan.kim@outlook.com,"  WRONG BAG SIZE (1KG INSTEAD OF 250G), ORDER HC-10777 ",normal,Tom
+T-0081,web,2026-03-07T13:17:06Z,2026-03-07T18:10:30Z,eli.berg@outlook.com,Where is my order #HC-10547?,Normal,Luis
+T-0082,web,2026-04-18T04:48:58Z,2026-04-18T12:51:58Z,Asha.Li@Gmail.Com,Refund request - HC-10037,high,Priya
+T-0083,phone,2026-03-10 09:32:59-04:00,2026-03-10 14:26:59-04:00,gus.berg@example.org,Where is my order #HC-10931?,High,Maya
+T-0084,web,2026-04-05T11:13:59Z,2026-04-08T13:08:35Z,lena.novak@outlook.com,Bag of Sumatra Mandheling tastes stale (order #HC-10845),normal,Maya
+T-0085,email,04/13/2026 10:29 PM,04/14/2026 12:57 PM,chen.berg@gmail.com,Where is my order #HC-11058?,normal,Luis
+T-0086,phone,2026-04-09 22:56:25-04:00,2026-04-11 07:21:00-04:00,eli.novak@hilltop-partners.com,Order HC-10228 arrived damaged,Normal,Maya
+T-0087,phone,2026-04-24 12:38:56-04:00,2026-04-24 15:43:44-04:00,Jo.Ortiz@Yahoo.Com,Order HC-10363 arrived damaged,urgent,Tom
+T-0088,web,2026-04-05T20:00:14Z,2026-04-06T10:18:14Z,chen.rao@example.org,Can't log in,High,Priya
+T-0089,email,03/13/2026 03:49 PM,03/15/2026 12:52 AM,asha.ortiz@outlook.com,Change address on HC-10914 please,normal,Priya
+T-0090,web,2026-03-23T15:13:32Z,2026-03-23T15:33:56Z,gus.li@yahoo.com,"Wrong bag size (500g instead of 1kg), order HC-10802",URGENT,Luis
+T-0091,email,03/02/2026 07:58 AM,03/04/2026 09:23 AM,Ben.Novak@Example.Org,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-10450),Normal,Luis
+T-0092,web,2026-03-25T14:33:29Z,2026-03-27T14:34:41Z,kai.novak@yahoo.com,Order HC-10839 arrived damaged,Normal,Tom
+T-0093,phone,2026-04-05 22:26:05-04:00,2026-04-06 09:26:05-04:00,Gus.Berg@Example.Org,Can't log in,normal,Luis
+T-0094,web,2026-04-20T09:34:49Z,2026-04-20T23:47:25Z,eli.ortiz@yahoo.com,"Wrong bag size (500g instead of 250g), order HC-11097",High,Tom
+T-0095,phone,2026-04-28 18:30:07-04:00,2026-04-28 19:06:43-04:00, farah.li@hilltop-partners.com,  REFUND REQUEST - HC-10659 ,urgent,Luis
+T-0096,web,2026-03-09T14:01:16Z,2026-03-13T01:49:52Z,Chen.Rao@Example.Org,Refund request - HC-10060,Normal,Priya
+T-0097,email,04/06/2026 05:42 PM,04/07/2026 03:44 PM,gus.rao@hilltop-partners.com,Change address on HC-10276 please,LOW,Maya
+T-0098,email,03/11/2026 02:35 PM,03/12/2026 02:32 AM,Farah.Li@Hilltop-Partners.Com,Can't log in,Normal,Tom
+T-0099,email,03/24/2026 04:05 PM,03/24/2026 05:19 PM, kai.novak@yahoo.com,Where is my order #HC-10403?,low,Luis
+T-0100,web,2026-03-14T19:14:57Z,2026-03-15T12:52:09Z,dana.ortiz@yahoo.com,Grinder setting for Espresso Roast?,Normal,Tom
+T-0101,web,2026-04-16T20:09:46Z,2026-04-17T11:12:46Z,Asha.Berg@Example.Org,Can't log in,normal,Maya
+T-0102,phone,2026-04-25 07:58:01-04:00,2026-04-27 14:12:25-04:00, Eli.Berg@Outlook.Com,Where is my order #HC-10822?,LOW,Priya
+T-0103,phone,2026-03-12 16:06:56-04:00,2026-03-13 01:42:56-04:00, chen.rao@yahoo.com,Refund request - HC-10031,Normal,Luis
+T-0104,web,2026-04-08T23:01:44Z,2026-04-09T03:33:32Z,gus.novak@yahoo.com,Grinder setting for Espresso Roast?,HIGH ,Luis
+T-0105,web,2026-03-31T11:40:44Z,2026-03-31T19:32:56Z,ivan.rao@hilltop-partners.com,Where is my order #HC-11004?,HIGH ,Luis
+T-0106,web,2026-03-13T02:49:19Z,2026-03-13T21:02:31Z,gus.rao@hilltop-partners.com,"Wrong bag size (500g instead of 1kg), order HC-11035",normal,Priya
+T-0107,phone,2026-03-17 09:09:48-04:00,2026-03-17 14:39:48-04:00,ben.ortiz@yahoo.com,order hc 10977 still not here,high,Priya
+T-0108,phone,2026-04-09 14:02:07-04:00,2026-04-10 15:35:07-04:00,gus.rao@hilltop-partners.com,"  WRONG BAG SIZE (500G INSTEAD OF 250G), ORDER HC-10056 ",Normal,Luis
+T-0109,web,2026-03-11T16:02:53Z,2026-03-11T20:59:53Z,dana.li@hilltop-partners.com,Can't log in,normal,Priya
+T-0110,web,2026-03-19T15:39:32Z,2026-03-19T23:02:56Z,ivan.rao@hilltop-partners.com,Refund request - HC-10945,normal,Luis
+T-0111,web,2026-03-23T13:52:33Z,2026-03-23T18:38:09Z,eli.berg@outlook.com,Bag of House Blend tastes stale (order #HC-10515),normal,Maya
+T-0112,web,2026-04-20T22:44:47Z,2026-04-21T03:36:23Z, hana.kim@outlook.com,  GRINDER SETTING FOR COLOMBIA HUILA? ,High,Maya
+T-0113,web,2026-03-01T07:23:00Z,2026-03-01T17:26:00Z,gus.li@yahoo.com,Where is my order #HC-10455?,HIGH ,Luis
+T-0114,email,04/13/2026 12:13 PM,04/15/2026 04:25 PM,Ivan.Kim@Hilltop-Partners.Com,Grinder setting for Decaf Swiss Water?,LOW,Priya
+T-0115,phone,2026-04-12 12:49:07-04:00,2026-04-12 13:38:55-04:00,eli.rao@gmail.com,"Wrong bag size (500g instead of 1kg), order HC-11081",URGENT,Maya
+T-0116,web,2026-04-02T00:35:23Z,2026-04-03T22:28:47Z,gus.novak@yahoo.com,order hc 10090 still not here,normal,Priya
+T-0117,phone,2026-04-16 14:47:49-04:00,2026-04-18 08:44:13-04:00, ben.novak@example.org,Refund request - HC-10734,Low,Priya
+T-0118,web,2026-03-03T20:43:31Z,2026-03-04T10:44:07Z,ben.novak@example.org,Order HC-10088 arrived damaged,High,Tom
+T-0119,web,2026-04-29T16:38:42Z,2026-04-30T00:26:42Z,farah.li@hilltop-partners.com,Bag of Colombia Huila tastes stale (order #HC-10063),HIGH ,Priya
+T-0120,web,2026-04-19T20:28:17Z,2026-04-20T16:16:53Z,Kai.Berg@Yahoo.Com,"Wrong bag size (250g instead of 1kg), order HC-10547",HIGH ,Luis
+T-0121,phone,2026-03-14 01:25:56-04:00,2026-03-16 01:59:32-04:00,Hana.Rao@Outlook.Com,order hc 10756 still not here,Normal,Tom
+T-0122,web,2026-04-13T20:13:15Z,2026-04-18T08:49:15Z,chen.novak@gmail.com,Subscription: skip next delivery,LOW,Maya
+T-0123,email,04/11/2026 09:06 AM,04/12/2026 09:58 PM,dana.ortiz@hilltop-partners.com,order hc 10294 still not here,Low,Tom
+T-0124,web,2026-04-21T16:39:02Z,2026-04-22T20:24:38Z,ivan.kim@hilltop-partners.com,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-10078),normal,Tom
+T-0125,web,2026-04-27T16:07:53Z,2026-04-28T11:48:41Z,Gus.Berg@Example.Org,order hc 10521 still not here,Normal,Priya
+T-0126,email,04/12/2026 06:55 AM,04/12/2026 10:45 AM,Eli.Novak@Hilltop-Partners.Com,"Wrong bag size (500g instead of 250g), order HC-10582",urgent,Luis
+T-0127,web,2026-03-14T17:31:58Z,2026-03-15T00:06:10Z,ben.ortiz@yahoo.com,Subscription: skip next delivery,high,Maya
+T-0128,web,2026-03-12T07:29:13Z,2026-03-12T21:51:25Z,chen.novak@gmail.com,Where is my order #HC-11045?,normal,Tom
+T-0129,email,03/20/2026 12:39 PM,03/20/2026 08:52 PM,kai.berg@yahoo.com,Bag of Colombia Huila tastes stale (order #HC-11087),Normal,Tom
+T-0130,web,2026-03-18T21:39:53Z,2026-03-20T21:34:29Z,Chen.Rao@Example.Org,Order HC-10083 arrived damaged,Normal,Luis
+T-0131,web,2026-04-06T17:02:03Z,2026-04-08T03:04:27Z,lena.rao@hilltop-partners.com,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-10757),Low,Tom
+T-0132,web,2026-03-27T16:20:55Z,2026-03-29T21:01:43Z,kai.ortiz@example.org,"Wrong bag size (1kg instead of 250g), order HC-10808",normal,Maya
+T-0133,phone,2026-04-29 20:39:26-04:00,2026-04-30 06:06:26-04:00,chen.rao@example.org,  WHERE IS MY ORDER #HC-10482? ,Normal,Priya
+T-0134,phone,2026-03-10 22:27:41-04:00,2026-03-12 16:13:17-04:00,kai.ortiz@example.org,Grinder setting for Espresso Roast?,Normal,Priya
+T-0135,email,04/20/2026 01:13 PM,04/21/2026 03:03 AM,ben.ortiz@yahoo.com,"Wrong bag size (500g instead of 1kg), order HC-10668",normal,Maya
+T-0136,email,03/06/2026 02:38 PM,03/07/2026 01:20 PM,Dana.Li@Hilltop-Partners.Com,"Wrong bag size (1kg instead of 250g), order HC-10281",normal,Priya
+T-0137,email,04/28/2026 01:03 PM,04/29/2026 04:44 AM,lena.rao@hilltop-partners.com,Refund request - HC-10512,HIGH ,Maya
+T-0138,email,04/29/2026 12:00 PM,04/29/2026 01:15 PM,Kai.Ortiz@Example.Org,Where is my order #HC-10715?,High,Maya
+T-0139,email,04/06/2026 12:18 PM,04/06/2026 06:34 PM,Asha.Li@Gmail.Com,order hc 10300 still not here,urgent,Tom
+T-0140,web,2026-04-28T23:10:02Z,2026-04-29T13:02:50Z,lena.rao@outlook.com,Can't log in,HIGH ,Luis
+T-0141,phone,2026-03-24 20:13:49-04:00,2026-03-28 13:25:49-04:00,dana.li@outlook.com,Bag of Decaf Swiss Water tastes stale (order #HC-10558),low,Priya
+T-0142,email,03/17/2026 12:56 PM,03/20/2026 02:03 AM,gus.rao@hilltop-partners.com,Order HC-10444 arrived damaged,Normal,Luis
+T-0143,email,04/04/2026 11:14 AM,04/05/2026 07:26 AM,jo.novak@hilltop-partners.com,Grinder setting for House Blend?,normal,Tom
+T-0144,web,2026-04-13T15:31:46Z,2026-04-13T23:08:22Z,chen.berg@gmail.com,Change address on HC-10451 please,high,Tom
+T-0145,web,2026-04-22T14:35:01Z,2026-04-22T17:08:01Z,lena.rao@example.org,order hc 10590 still not here,high,Priya
+T-0146,web,2026-04-17T23:28:57Z,2026-04-19T04:19:21Z,chen.ortiz@example.org,Refund request - HC-10807,normal,Luis
+T-0147,phone,2026-03-17 14:14:05-04:00,2026-03-17 23:38:41-04:00,gus.rao@hilltop-partners.com,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-10918),Low,Luis
+T-0148,web,2026-03-05T21:49:02Z,2026-03-07T06:45:25Z,gus.li@yahoo.com,Grinder setting for Ethiopia Yirgacheffe?,Normal,Priya
+T-0149,email,03/11/2026 12:47 PM,03/11/2026 11:33 PM,Eli.Ortiz@Yahoo.Com,order hc 10723 still not here,Normal,Tom
+T-0150,web,2026-03-21T13:38:25Z,2026-03-23T01:14:25Z,Ben.Ortiz@Example.Org,  CAN'T LOG IN ,Normal,Tom
+T-0151,email,03/23/2026 05:07 PM,03/24/2026 05:51 AM,dana.ortiz@yahoo.com,Refund request - HC-10793,Normal,Luis
+T-0152,email,04/19/2026 11:12 AM,04/20/2026 12:54 PM,ben.ortiz@example.org,Can't log in,normal,Priya
+T-0153,web,2026-04-02T20:11:27Z,2026-04-04T16:28:51Z,chen.rao@yahoo.com,order hc 10525 still not here,low,Luis
+T-0154,web,2026-03-21T12:57:08Z,2026-03-21T13:58:20Z,Ben.Ortiz@Example.Org,"Wrong bag size (1kg instead of 500g), order HC-10868",urgent,Maya
+T-0155,web,2026-04-13T21:37:24Z,2026-04-15T19:34:24Z, Ivan.Rao@Hilltop-Partners.Com,Subscription: skip next delivery,normal,Maya
+T-0156,email,03/04/2026 12:29 PM,03/09/2026 11:58 AM,eli.novak@hilltop-partners.com,Where is my order #HC-10956?,Low,Priya
+T-0157,email,03/15/2026 09:08 AM,03/15/2026 01:24 PM,hana.ortiz@gmail.com,Can't log in,high,Maya
+T-0158,web,2026-03-27T18:36:00Z,2026-03-28T09:28:12Z, lena.novak@outlook.com,  REFUND REQUEST - HC-10649 ,normal,Maya
+T-0159,email,03/19/2026 05:08 PM,03/19/2026 07:13 PM, ben.berg@yahoo.com,Change address on HC-11056 please,normal,Maya
+T-0160,web,2026-04-10T18:34:10Z,2026-04-11T12:44:58Z,ben.novak@example.org,Order HC-10165 arrived damaged,Normal,Maya
+T-0161,web,2026-03-27T05:53:26Z,2026-03-28T00:03:38Z,gus.rao@hilltop-partners.com,Can't log in,High,Priya
+T-0162,phone,2026-03-05 09:12:31-05:00,2026-03-05 12:20:19-05:00,chen.ortiz@example.org,Subscription: skip next delivery,LOW,Maya
+T-0163,email,03/30/2026 05:14 PM,03/31/2026 09:34 PM,chen.ortiz@example.org,  ORDER HC 10851 STILL NOT HERE ,normal,Tom
+T-0164,email,03/25/2026 04:26 PM,03/25/2026 11:41 PM,gus.berg@gmail.com,Bag of Espresso Roast tastes stale (order #HC-10656),normal,Luis
+T-0165,email,03/27/2026 07:55 PM,03/28/2026 12:00 AM,eli.novak@hilltop-partners.com,"Wrong bag size (1kg instead of 500g), order HC-10557",Normal,Tom
+T-0166,phone,2026-04-03 15:09:56-04:00,2026-04-06 14:51:56-04:00,Gus.Novak@Yahoo.Com,  CAN'T LOG IN ,Low,Maya
+T-0167,web,2026-04-10T11:33:43Z,2026-04-12T18:02:31Z,asha.berg@example.org,Order HC-10959 arrived damaged,Low,Luis
+T-0168,web,2026-04-30T23:08:45Z,,gus.rao@hilltop-partners.com,Subscription: skip next delivery,normal,Maya
+T-0169,web,2026-03-19T14:37:56Z,2026-03-24T00:54:08Z,eli.ortiz@hilltop-partners.com,Grinder setting for Decaf Swiss Water?,LOW,Luis
+T-0170,web,2026-04-20T21:19:27Z,2026-04-23T01:02:39Z,jo.novak@gmail.com,Bag of House Blend tastes stale (order #HC-10695),Low,Priya
+T-0171,web,2026-03-20T19:38:19Z,2026-03-21T09:17:19Z,chen.rao@example.org,Change address on HC-10428 please,normal,Luis
+T-0172,web,2026-04-12T16:27:09Z,2026-04-13T09:58:57Z,dana.ortiz@hilltop-partners.com,Order HC-10222 arrived damaged,LOW,Tom
+T-0173,phone,2026-03-03 11:03:30-05:00,2026-03-03 23:16:42-05:00,eli.ortiz@hilltop-partners.com,"Wrong bag size (1kg instead of 500g), order HC-10114",HIGH ,Luis
+T-0174,phone,2026-04-23 16:23:57-04:00,2026-04-24 09:50:57-04:00,Dana.Ortiz@Hilltop-Partners.Com,Subscription: skip next delivery,low,Maya
+T-0175,email,04/10/2026 04:21 PM,04/12/2026 08:32 AM,Chen.Ortiz@Example.Org,  SUBSCRIPTION: SKIP NEXT DELIVERY ,normal,Luis
+T-0176,web,2026-04-21T14:08:55Z,2026-04-23T00:16:06Z,kai.novak@yahoo.com,Subscription: skip next delivery,Low,Luis
+T-0177,web,2026-04-02T20:15:01Z,2026-04-03T07:07:49Z,eli.ortiz@hilltop-partners.com,Refund request - HC-11013,normal,Tom
+T-0178,web,2026-04-30T22:12:11Z,, asha.li@outlook.com,Refund request - HC-10513,high,Maya
+T-0179,email,03/22/2026 08:41 PM,03/23/2026 05:28 AM,chen.rao@example.org,Change address on HC-10245 please,Normal,Tom
+T-0180,web,2026-03-15T01:48:37Z,2026-03-16T14:56:25Z,ben.ortiz@example.org,Where is my order #HC-11048?,LOW,Maya
+T-0181,web,2026-04-03T21:13:25Z,2026-04-05T08:42:49Z,chen.berg@gmail.com,  BAG OF DECAF SWISS WATER TASTES STALE (ORDER #HC-10304) ,High,Priya
+T-0182,phone,2026-04-24 18:44:42-04:00,2026-04-26 09:59:42-04:00,chen.novak@gmail.com,order hc 10135 still not here,LOW,Luis
+T-0183,phone,2026-04-21 14:15:48-04:00,2026-04-21 19:32:00-04:00,hana.rao@outlook.com,Change address on HC-10650 please,normal,Maya
+T-0184,web,2026-03-25T13:28:08Z,2026-03-26T17:14:56Z,eli.ortiz@hilltop-partners.com,Can't log in,normal,Tom
+T-0185,email,03/16/2026 10:31 AM,03/16/2026 02:36 PM,jo.ortiz@yahoo.com,Bag of Colombia Huila tastes stale (order #HC-11036),normal,Tom
+T-0186,phone,2026-04-04 08:51:40-04:00,2026-04-06 15:40:16-04:00, dana.li@hilltop-partners.com,Where is my order #HC-10455?,normal,Tom
+T-0187,phone,2026-03-21 14:00:33-04:00,2026-03-21 18:32:21-04:00,farah.li@hilltop-partners.com,Change address on HC-10298 please,High,Luis
+T-0188,phone,2026-03-23 20:55:28-04:00,2026-03-26 18:35:04-04:00,eli.ortiz@yahoo.com,Change address on HC-10764 please,Normal,Luis
+T-0189,web,2026-04-25T14:52:25Z,2026-04-25T23:05:37Z,eli.berg@outlook.com,Change address on HC-10259 please,Normal,Maya
+T-0190,web,2026-03-15T22:24:49Z,2026-03-17T08:20:01Z,eli.novak@hilltop-partners.com,order hc 10111 still not here,LOW,Tom
+T-0191,web,2026-04-20T20:38:17Z,2026-04-21T20:25:05Z,lena.rao@outlook.com,  SUBSCRIPTION: SKIP NEXT DELIVERY ,Normal,Maya
+T-0192,web,2026-04-03T00:10:33Z,2026-04-05T12:12:57Z,ben.ortiz@yahoo.com,Subscription: skip next delivery,normal,Priya
+T-0193,phone,2026-03-23 21:06:03-04:00,2026-03-24 04:06:39-04:00,ivan.kim@hilltop-partners.com,  ORDER HC-10196 ARRIVED DAMAGED ,High,Maya
+T-0194,web,2026-04-15T07:40:34Z,2026-04-15T23:43:34Z, kai.kim@example.org,Change address on HC-10716 please,Normal,Luis
+T-0195,web,2026-03-20T20:03:22Z,2026-03-20T23:50:46Z,chen.berg@gmail.com,Where is my order #HC-10153?,normal,Maya
+T-0196,web,2026-03-01T15:33:45Z,2026-03-02T03:57:09Z,ivan.kim@hilltop-partners.com,Grinder setting for Decaf Swiss Water?,high,Luis
+T-0197,email,04/16/2026 02:58 PM,04/17/2026 06:35 PM,lena.rao@outlook.com,Can't log in,LOW,Maya
+T-0198,web,2026-04-13T17:25:24Z,2026-04-14T02:43:24Z,gus.berg@outlook.com,Refund request - HC-10113,High,Tom
+T-0199,email,03/16/2026 01:26 AM,03/16/2026 07:32 PM,Ivan.Kim@Hilltop-Partners.Com,order hc 10890 still not here,normal,Maya
+T-0200,email,03/05/2026 08:28 AM,03/05/2026 05:42 PM, ivan.kim@outlook.com,Where is my order #HC-10355?,URGENT,Priya
+T-0201,phone,2026-03-13 15:05:10-04:00,2026-03-15 19:02:10-04:00,hana.kim@yahoo.com,Subscription: skip next delivery,normal,Tom
+T-0202,email,03/15/2026 04:06 PM,03/16/2026 04:05 AM,eli.ortiz@yahoo.com,order hc 10919 still not here,normal,Luis
+T-0203,web,2026-03-05T16:28:51Z,2026-03-05T21:46:15Z,jo.novak@hilltop-partners.com,Subscription: skip next delivery,Normal,Luis
+T-0204,phone,2026-03-24 15:27:52-04:00,2026-03-25 14:58:28-04:00, eli.novak@yahoo.com,Can't log in,normal,Tom
+T-0205,web,2026-04-28T14:27:50Z,2026-04-28T21:36:14Z,eli.novak@yahoo.com,Where is my order #HC-10117?,Normal,Luis
+T-0206,web,2026-03-31T20:27:31Z,2026-04-01T02:11:19Z,eli.rao@gmail.com,Where is my order #HC-10154?,high,Priya
+T-0207,web,2026-04-05T00:23:42Z,2026-04-06T17:25:30Z, lena.rao@example.org,Order HC-10311 arrived damaged,LOW,Luis
+T-0208,web,2026-04-10T22:33:55Z,2026-04-14T22:42:55Z, Gus.Li@Yahoo.Com,Grinder setting for Decaf Swiss Water?,normal,Tom
+T-0209,web,2026-04-15T06:28:42Z,2026-04-15T10:07:06Z,kai.berg@hilltop-partners.com,Order HC-10012 arrived damaged,Normal,Maya
+T-0210,web,2026-04-15T01:09:39Z,2026-04-15T03:26:27Z,gus.berg@example.org,Grinder setting for Espresso Roast?,HIGH ,Maya
+T-0211,web,2026-04-09T17:46:40Z,2026-04-09T22:53:52Z,asha.ortiz@outlook.com,Refund request - HC-10132,urgent,Tom
+T-0212,web,2026-04-24T14:21:16Z,2026-04-24T19:00:52Z,eli.ortiz@hilltop-partners.com,Subscription: skip next delivery,HIGH ,Maya
+T-0213,web,2026-03-21T16:46:06Z,2026-03-22T04:57:30Z,eli.novak@yahoo.com,Change address on HC-10434 please,Normal,Priya
+T-0214,email,04/01/2026 09:01 PM,04/02/2026 05:11 AM,Jo.Novak@Gmail.Com,  WHERE IS MY ORDER #HC-10838? ,HIGH ,Tom
+T-0215,web,2026-03-07T16:51:36Z,2026-03-07T21:32:24Z,eli.ortiz@yahoo.com,  CAN'T LOG IN ,HIGH ,Priya
+T-0216,phone,2026-03-25 12:27:34-04:00,2026-03-27 20:59:58-04:00,jo.ortiz@yahoo.com,Refund request - HC-10383,Normal,Maya
+T-0217,web,2026-03-08T19:14:28Z,2026-03-08T22:38:28Z,asha.ortiz@outlook.com,Where is my order #HC-10086?,high,Priya
+T-0218,phone,2026-03-26 08:23:39-04:00,2026-03-27 00:41:39-04:00, hana.kim@outlook.com,  BAG OF ETHIOPIA YIRGACHEFFE TASTES STALE (ORDER #HC-10972) ,high,Priya
+T-0219,phone,2026-03-14 22:25:56-04:00,2026-03-16 07:48:07-04:00,chen.novak@gmail.com,Can't log in,normal,Tom
+T-0220,email,03/28/2026 05:06 PM,03/29/2026 01:35 PM,ben.ortiz@example.org,order hc 10254 still not here,Normal,Priya
+T-0221,phone,2026-03-11 19:22:22-04:00,2026-03-12 07:48:10-04:00,farah.li@hilltop-partners.com,Order HC-10650 arrived damaged,high,Luis
+T-0222,email,04/03/2026 03:57 PM,04/04/2026 09:01 PM,dana.li@hilltop-partners.com,order hc 10477 still not here,normal,Tom
+T-0223,web,2026-04-07T16:24:27Z,2026-04-07T20:21:27Z,ben.berg@yahoo.com,Bag of Espresso Roast tastes stale (order #HC-10819),normal,Tom
+T-0224,web,2026-03-15T15:57:29Z,2026-03-17T00:43:41Z,Chen.Rao@Yahoo.Com,Refund request - HC-10884,LOW,Priya
+T-0225,email,03/16/2026 09:58 AM,03/16/2026 11:02 PM,ivan.kim@hilltop-partners.com,  REFUND REQUEST - HC-10854 ,Low,Maya
+T-0226,web,2026-03-24T19:01:10Z,2026-03-25T06:14:58Z, Hana.Ortiz@Yahoo.Com,order hc 10723 still not here,low,Tom
+T-0227,web,2026-03-20T21:47:06Z,2026-03-24T06:27:18Z,gus.berg@gmail.com,"Wrong bag size (1kg instead of 500g), order HC-11020",LOW,Tom
+T-0228,web,2026-04-17T19:36:44Z,2026-04-19T17:43:56Z,eli.novak@yahoo.com,Order HC-10718 arrived damaged,low,Priya
+T-0229,web,2026-03-10T21:14:56Z,2026-03-12T21:16:08Z,Jo.Novak@Hilltop-Partners.Com,Can't log in,High,Luis
+T-0230,web,2026-04-19T18:11:20Z,2026-04-19T22:51:32Z,lena.rao@hilltop-partners.com,"Wrong bag size (1kg instead of 500g), order HC-10290",normal,Maya
+T-0231,phone,2026-04-26 08:43:21-04:00,2026-04-28 18:06:45-04:00,kai.novak@yahoo.com,order hc 10333 still not here,Low,Priya
+T-0232,web,2026-03-11T22:03:52Z,2026-03-12T04:03:16Z,Ivan.Kim@Hilltop-Partners.Com,Grinder setting for Ethiopia Yirgacheffe?,normal,Luis
+T-0233,phone,2026-04-06 07:32:36-04:00,2026-04-13 07:33:48-04:00,gus.berg@outlook.com,  ORDER HC-10462 ARRIVED DAMAGED ,LOW,Priya
+T-0234,web,2026-04-30T18:21:50Z,,jo.ortiz@yahoo.com,Refund request - HC-10881,HIGH ,Maya
+T-0235,web,2026-04-17T22:33:17Z,2026-04-20T07:57:17Z,kai.kim@example.org,"  WRONG BAG SIZE (1KG INSTEAD OF 500G), ORDER HC-10594 ",low,Tom
+T-0236,phone,2026-04-24 23:24:08-04:00,2026-04-27 23:35:32-04:00,Chen.Rao@Yahoo.Com,Can't log in,Low,Tom
+T-0237,phone,2026-04-26 18:55:05-04:00,2026-04-27 05:13:41-04:00, Gus.Berg@Gmail.Com,Grinder setting for Sumatra Mandheling?,high,Tom
+T-0238,web,2026-04-17T17:12:50Z,2026-04-18T06:20:38Z,dana.li@hilltop-partners.com,Order HC-11077 arrived damaged,normal,Luis
+T-0239,web,2026-03-24T01:56:20Z,2026-03-26T01:32:56Z, lena.rao@example.org,  ORDER HC-10315 ARRIVED DAMAGED ,low,Priya
+T-0240,web,2026-04-22T16:05:45Z,2026-04-24T03:44:45Z,asha.berg@example.org,Grinder setting for Colombia Huila?,normal,Maya
+T-0241,web,2026-04-14T14:18:15Z,2026-04-17T11:25:27Z,Dana.Ortiz@Example.Org,order hc 10644 still not here,LOW,Luis
+T-0242,email,04/18/2026 05:24 PM,04/19/2026 07:07 PM,asha.li@outlook.com,Refund request - HC-10761,low,Maya
+T-0243,web,2026-04-08T20:59:00Z,2026-04-12T15:20:00Z,hana.ortiz@gmail.com,  GRINDER SETTING FOR ETHIOPIA YIRGACHEFFE? ,Low,Maya
+T-0244,phone,2026-03-26 21:57:43-04:00,2026-03-27 11:36:07-04:00,Hana.Kim@Yahoo.Com,Subscription: skip next delivery,HIGH ,Priya
+T-0245,email,04/02/2026 10:48 PM,04/04/2026 03:42 AM,Asha.Berg@Example.Org,Subscription: skip next delivery,normal,Maya
+T-0246,email,04/30/2026 10:22 AM,,farah.kim@hilltop-partners.com,Order HC-10751 arrived damaged,normal,Luis
+T-0247,web,2026-04-03T16:08:28Z,2026-04-04T00:08:28Z,lena.rao@outlook.com,Refund request - HC-10992,HIGH ,Luis
+T-0248,web,2026-03-29T16:29:20Z,2026-03-29T21:15:32Z,gus.novak@yahoo.com,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-11083),HIGH ,Tom
+T-0249,web,2026-04-20T02:46:57Z,2026-04-20T13:57:45Z,Hana.Ortiz@Gmail.Com,Refund request - HC-10604,Normal,Tom
+T-0250,email,03/08/2026 02:53 PM,03/09/2026 03:50 PM,kai.novak@yahoo.com,Where is my order #HC-10770?,low,Luis
+T-0251,web,2026-04-22T20:17:11Z,2026-04-23T18:33:59Z,gus.berg@example.org,Grinder setting for Espresso Roast?,High,Maya
+T-0252,email,04/12/2026 02:34 AM,04/13/2026 12:11 AM,Chen.Ortiz@Hilltop-Partners.Com,Grinder setting for House Blend?,High,Tom
+T-0253,web,2026-03-25T18:32:16Z,2026-03-27T07:31:40Z,kai.berg@hilltop-partners.com,Can't log in,normal,Tom
+T-0254,email,04/02/2026 07:44 PM,04/03/2026 07:54 PM,asha.berg@example.org,  ORDER HC-10734 ARRIVED DAMAGED ,Normal,Maya
+T-0255,web,2026-03-13T19:26:35Z,2026-03-14T09:48:47Z,dana.li@outlook.com,"Wrong bag size (500g instead of 250g), order HC-10950",Normal,Tom
+T-0256,web,2026-04-18T12:22:38Z,2026-04-19T20:52:02Z,dana.li@hilltop-partners.com,  GRINDER SETTING FOR SUMATRA MANDHELING? ,normal,Luis
+T-0257,web,2026-04-19T20:24:54Z,2026-04-22T19:47:06Z,kai.kim@example.org,Change address on HC-10539 please,low,Priya
+T-0258,web,2026-03-24T21:41:21Z,2026-03-24T22:24:33Z,gus.berg@outlook.com,Refund request - HC-10288,urgent,Maya
+T-0259,phone,2026-04-20 11:07:59-04:00,2026-04-23 10:11:35-04:00,Gus.Rao@Hilltop-Partners.Com,Where is my order #HC-10811?,low,Luis
+T-0260,phone,2026-04-13 14:54:17-04:00,2026-04-16 01:10:29-04:00,Lena.Novak@Outlook.Com,Grinder setting for Ethiopia Yirgacheffe?,normal,Tom
+T-0261,email,03/01/2026 04:51 PM,03/04/2026 01:10 AM,gus.berg@outlook.com,Grinder setting for Espresso Roast?,low,Maya
+T-0262,web,2026-04-29T14:58:02Z,2026-04-30T08:59:14Z,ivan.kim@hilltop-partners.com,  REFUND REQUEST - HC-10997 ,Normal,Tom
+T-0263,email,03/30/2026 12:15 PM,03/30/2026 11:56 PM,ben.ortiz@yahoo.com,Subscription: skip next delivery,normal,Priya
+T-0264,web,2026-04-05T02:37:15Z,2026-04-08T00:22:51Z,Eli.Ortiz@Hilltop-Partners.Com,Refund request - HC-10286,Low,Tom
+T-0265,email,03/24/2026 06:14 PM,03/26/2026 08:30 AM,hana.ortiz@gmail.com,Change address on HC-10135 please,low,Priya
+T-0266,web,2026-03-18T03:46:21Z,2026-03-18T14:43:57Z,eli.rao@gmail.com,"Wrong bag size (250g instead of 500g), order HC-10676",HIGH ,Luis
+T-0267,email,04/10/2026 11:40 AM,04/13/2026 07:01 AM,jo.ortiz@yahoo.com,Where is my order #HC-10291?,Normal,Tom
+T-0268,web,2026-03-06T15:37:02Z,2026-03-07T15:04:38Z,Eli.Ortiz@Hilltop-Partners.Com,"Wrong bag size (500g instead of 1kg), order HC-11022",Normal,Luis
+T-0269,phone,2026-03-10 17:22:48-04:00,2026-03-11 23:54:00-04:00,kai.berg@yahoo.com,Order HC-10280 arrived damaged,Normal,Luis
+T-0270,email,03/12/2026 05:58 PM,03/13/2026 02:14 PM,Ben.Novak@Example.Org,Grinder setting for Ethiopia Yirgacheffe?,normal,Priya
+T-0271,web,2026-03-12T18:45:34Z,2026-03-12T19:25:10Z,eli.ortiz@yahoo.com,Subscription: skip next delivery,URGENT,Tom
+T-0272,email,04/25/2026 04:58 PM,04/26/2026 01:55 AM,gus.berg@gmail.com,Bag of Sumatra Mandheling tastes stale (order #HC-10599),Low,Luis
+T-0273,web,2026-04-17T16:34:46Z,2026-04-18T06:56:22Z, eli.novak@yahoo.com,"Wrong bag size (250g instead of 1kg), order HC-10443",normal,Priya
+T-0274,email,04/16/2026 02:17 PM,04/16/2026 04:56 PM,chen.ortiz@example.org,Where is my order #HC-10851?,normal,Luis
+T-0275,email,04/19/2026 06:28 PM,04/20/2026 05:32 AM,ivan.kim@hilltop-partners.com,  ORDER HC-10427 ARRIVED DAMAGED ,Normal,Priya
+T-0276,phone,2026-03-08 12:56:01-04:00,2026-03-09 04:17:37-04:00,lena.novak@outlook.com,Grinder setting for Sumatra Mandheling?,Normal,Maya
+T-0277,web,2026-03-09T13:37:52Z,2026-03-13T00:08:28Z,chen.ortiz@example.org,order hc 10708 still not here,low,Luis
+T-0278,web,2026-03-08T11:43:03Z,2026-03-10T23:47:51Z,eli.berg@outlook.com,Where is my order #HC-10065?,Normal,Tom
+T-0279,phone,2026-04-21 11:19:04-04:00,2026-04-21 18:36:28-04:00,Farah.Li@Hilltop-Partners.Com,order hc 10013 still not here,normal,Maya
+T-0280,web,2026-04-29T15:17:33Z,2026-04-29T19:04:21Z,asha.ortiz@outlook.com,Can't log in,normal,Luis
+T-0281,email,04/17/2026 11:02 AM,04/18/2026 05:10 AM,eli.ortiz@hilltop-partners.com,Order HC-11033 arrived damaged,LOW,Maya
+T-0282,phone,2026-04-06 13:39:29-04:00,2026-04-07 07:36:29-04:00,Ivan.Kim@Outlook.Com,"Wrong bag size (250g instead of 500g), order HC-10739",Low,Maya
+T-0283,email,04/07/2026 05:29 PM,04/08/2026 08:46 AM,chen.ortiz@example.org,  CAN'T LOG IN ,low,Tom
+T-0284,email,03/25/2026 05:11 PM,03/28/2026 06:10 AM,Kai.Kim@Example.Org,"Wrong bag size (500g instead of 1kg), order HC-10479",normal,Tom
+T-0285,web,2026-04-25T22:58:36Z,2026-04-26T01:56:12Z,farah.kim@hilltop-partners.com,Where is my order #HC-10639?,HIGH ,Priya
+T-0286,phone,2026-04-02 17:01:33-04:00,2026-04-03 02:27:57-04:00, Eli.Novak@Outlook.Com,Change address on HC-10618 please,Normal,Maya
+T-0287,web,2026-03-05T20:28:26Z,2026-03-08T22:18:50Z,hana.rao@outlook.com,order hc 10240 still not here,normal,Priya
+T-0288,web,2026-04-21T18:12:53Z,2026-04-23T04:55:29Z,chen.ortiz@hilltop-partners.com,Change address on HC-10337 please,normal,Tom
+T-0289,email,03/25/2026 11:16 AM,03/25/2026 11:30 PM,hana.ortiz@yahoo.com,Where is my order #HC-10157?,LOW,Tom
+T-0290,web,2026-03-14T17:08:26Z,2026-03-15T01:09:38Z,eli.novak@outlook.com,Refund request - HC-10776,low,Luis
+T-0291,phone,2026-03-15 17:46:31-04:00,2026-03-17 03:54:19-04:00,jo.ortiz@yahoo.com,Subscription: skip next delivery,low,Luis
+T-0292,web,2026-03-15T20:40:07Z,2026-03-15T23:02:19Z,hana.rao@outlook.com,Change address on HC-10687 please,Normal,Luis
+T-0293,email,04/23/2026 06:28 PM,04/23/2026 10:56 PM,Ben.Berg@Yahoo.Com,Change address on HC-10590 please,normal,Maya
+T-0294,email,03/18/2026 10:23 AM,03/18/2026 08:56 PM,eli.novak@hilltop-partners.com,Refund request - HC-10186,HIGH ,Priya
+T-0295,phone,2026-03-26 10:37:16-04:00,2026-03-27 17:39:40-04:00,Ivan.Rao@Hilltop-Partners.Com,Order HC-10759 arrived damaged,normal,Luis
+T-0296,phone,2026-03-22 21:05:59-04:00,2026-03-24 11:05:59-04:00,hana.kim@yahoo.com,Refund request - HC-10333,Low,Priya
+T-0297,web,2026-04-28T21:59:39Z,2026-04-29T06:48:15Z,ben.novak@example.org,"Wrong bag size (500g instead of 250g), order HC-10853",normal,Priya
+T-0298,web,2026-04-29T20:37:55Z,2026-04-30T13:18:43Z,Hana.Rao@Outlook.Com,order hc 10967 still not here,HIGH ,Tom
+T-0299,web,2026-04-05T13:49:33Z,2026-04-06T02:01:33Z,lena.rao@hilltop-partners.com,Change address on HC-10188 please,high,Maya
+T-0300,web,2026-04-11T10:19:29Z,2026-04-12T21:01:29Z,ivan.kim@outlook.com,Subscription: skip next delivery,Low,Maya
+T-0301,phone,2026-03-07 11:37:33-05:00,2026-03-07 20:35:45-05:00,gus.li@hilltop-partners.com,Order HC-10030 arrived damaged,normal,Tom
+T-0302,phone,2026-04-27 11:07:05-04:00,2026-04-29 05:25:41-04:00, jo.ortiz@yahoo.com,Bag of Espresso Roast tastes stale (order #HC-11090),High,Luis
+T-0303,web,2026-03-16T16:23:00Z,2026-03-16T17:29:00Z,chen.novak@gmail.com,Where is my order #HC-11049?,URGENT,Priya
+T-0304,web,2026-03-27T16:33:00Z,2026-03-28T22:16:48Z,Hana.Ortiz@Yahoo.Com,Can't log in,normal,Priya
+T-0305,web,2026-04-05T18:47:16Z,2026-04-06T15:59:16Z,hana.ortiz@gmail.com,order hc 10842 still not here,Normal,Maya
+T-0306,email,04/10/2026 04:31 PM,04/10/2026 09:23 PM,Ivan.Rao@Hilltop-Partners.Com,Grinder setting for Ethiopia Yirgacheffe?,normal,Tom
+T-0307,web,2026-04-05T14:05:41Z,2026-04-06T00:59:41Z,chen.ortiz@hilltop-partners.com,"Wrong bag size (1kg instead of 250g), order HC-10523",Low,Priya
+T-0308,web,2026-03-14T14:01:37Z,2026-03-15T04:01:37Z,asha.li@gmail.com,Grinder setting for Sumatra Mandheling?,normal,Maya
+T-0309,phone,2026-04-21 20:29:41-04:00,2026-04-24 10:57:17-04:00,chen.rao@yahoo.com,Order HC-10919 arrived damaged,low,Maya
+T-0310,email,03/24/2026 06:10 PM,03/25/2026 01:25 PM,jo.novak@hilltop-partners.com,Refund request - HC-10305,Low,Luis
+T-0311,phone,2026-04-11 19:27:34-04:00,2026-04-12 08:58:10-04:00,eli.ortiz@hilltop-partners.com,  CAN'T LOG IN ,High,Priya
+T-0312,email,03/22/2026 09:18 AM,03/22/2026 11:03 PM,eli.berg@outlook.com,Can't log in,low,Maya
+T-0313,web,2026-03-04T15:46:41Z,2026-03-04T18:17:53Z, eli.berg@outlook.com,Bag of Colombia Huila tastes stale (order #HC-10222),HIGH ,Tom
+T-0314,email,03/03/2026 03:31 PM,03/04/2026 05:15 AM,chen.ortiz@example.org,Where is my order #HC-10234?,Normal,Priya
+T-0315,web,2026-04-13T18:31:35Z,2026-04-14T13:53:47Z,Eli.Berg@Outlook.Com,Order HC-10998 arrived damaged,Normal,Maya
+T-0316,phone,2026-04-30 03:33:58-04:00,2026-04-30 10:15:58-04:00,eli.ortiz@yahoo.com,order hc 10124 still not here,Normal,Luis
+T-0317,email,04/22/2026 01:15 PM,04/24/2026 08:19 AM,Eli.Novak@Outlook.Com,Refund request - HC-10568,normal,Tom
+T-0318,email,03/03/2026 03:45 PM,03/04/2026 02:06 AM,ivan.rao@hilltop-partners.com,Can't log in,High,Luis
+T-0319,email,04/23/2026 10:33 AM,04/23/2026 03:05 PM,kai.ortiz@example.org,Bag of Colombia Huila tastes stale (order #HC-10638),Normal,Priya
+T-0320,web,2026-03-06T01:35:22Z,2026-03-06T11:49:10Z,ben.ortiz@example.org,Where is my order #HC-10368?,LOW,Priya
+T-0321,phone,2026-04-26 09:21:39-04:00,2026-04-26 11:24:38-04:00,gus.rao@hilltop-partners.com,"Wrong bag size (250g instead of 1kg), order HC-10056",URGENT,Priya
+T-0322,phone,2026-03-04 09:33:51-05:00,2026-03-06 03:32:03-05:00, Eli.Ortiz@Hilltop-Partners.Com,"  WRONG BAG SIZE (500G INSTEAD OF 1KG), ORDER HC-10747 ",Low,Priya
+T-0323,phone,2026-03-22 16:36:56-04:00,2026-03-23 13:44:44-04:00,Asha.Berg@Example.Org,Bag of Colombia Huila tastes stale (order #HC-10698),normal,Priya
+T-0324,phone,2026-03-17 00:47:13-04:00,2026-03-17 17:07:00-04:00,Kai.Novak@Yahoo.Com,order hc 10466 still not here,Normal,Luis
+T-0325,phone,2026-03-08 04:34:52-04:00,2026-03-08 11:09:04-04:00,ben.novak@example.org,Where is my order #HC-10914?,normal,Priya
+T-0326,email,03/06/2026 09:00 AM,03/08/2026 12:57 AM,ben.novak@example.org,"Wrong bag size (250g instead of 500g), order HC-10188",Normal,Maya
+T-0327,email,04/16/2026 01:22 PM,04/19/2026 12:32 AM,gus.novak@yahoo.com,order hc 10145 still not here,Low,Priya
+T-0328,web,2026-04-19T22:02:31Z,2026-04-22T12:41:31Z,farah.kim@hilltop-partners.com,Order HC-10695 arrived damaged,Low,Priya
+T-0329,email,03/20/2026 09:49 AM,03/22/2026 12:55 AM,kai.ortiz@example.org,Can't log in,normal,Tom
+T-0330,email,04/06/2026 12:24 AM,04/10/2026 03:09 AM,gus.berg@outlook.com,Refund request - HC-10947,LOW,Priya
+T-0331,web,2026-03-06T00:36:30Z,2026-03-06T23:09:30Z, eli.berg@outlook.com,Grinder setting for Ethiopia Yirgacheffe?,Normal,Tom
+T-0332,email,03/30/2026 10:00 AM,03/30/2026 10:23 PM,kai.berg@yahoo.com,Subscription: skip next delivery,normal,Tom
+T-0333,web,2026-03-19T16:12:18Z,2026-03-20T01:14:05Z,Hana.Kim@Yahoo.Com,Order HC-10168 arrived damaged,Normal,Maya
+T-0334,web,2026-03-24T00:08:28Z,2026-03-24T07:55:16Z,gus.li@hilltop-partners.com,Refund request - HC-10782,normal,Tom
+T-0335,web,2026-04-17T21:02:28Z,2026-04-18T21:31:52Z,chen.ortiz@hilltop-partners.com,Refund request - HC-10691,Normal,Luis
+T-0336,email,04/27/2026 11:45 AM,,gus.berg@example.org,"Wrong bag size (500g instead of 250g), order HC-10166",Low,Priya
+T-0337,email,03/17/2026 02:06 PM,03/17/2026 03:48 PM,lena.rao@outlook.com,Where is my order #HC-10851?,URGENT,Tom
+T-0338,web,2026-03-20T18:53:24Z,2026-03-22T00:00:00Z,gus.novak@yahoo.com,Subscription: skip next delivery,Normal,Luis
+T-0339,phone,2026-04-11 03:32:55-04:00,2026-04-11 13:13:07-04:00,Dana.Ortiz@Hilltop-Partners.Com,Subscription: skip next delivery,normal,Tom
+T-0340,web,2026-04-03T14:06:25Z,2026-04-04T07:25:00Z,hana.rao@outlook.com,Where is my order #HC-10154?,Normal,Tom
+T-0341,phone,2026-03-13 09:03:50-04:00,2026-03-15 03:33:14-04:00, Farah.Li@Hilltop-Partners.Com,Subscription: skip next delivery,Low,Tom
+T-0342,phone,2026-04-26 12:30:23-04:00,2026-04-27 05:12:59-04:00,Jo.Novak@Hilltop-Partners.Com,order hc 11044 still not here,normal,Tom
+T-0343,web,2026-03-04T01:41:36Z,2026-03-06T23:10:24Z,gus.berg@example.org,Refund request - HC-10735,low,Luis
+T-0344,web,2026-03-23T23:55:48Z,2026-03-27T00:47:24Z,hana.ortiz@gmail.com,"Wrong bag size (250g instead of 500g), order HC-10220",Low,Priya
+T-0345,email,04/02/2026 11:56 AM,04/02/2026 04:46 PM,ben.berg@yahoo.com,order hc 10101 still not here,normal,Maya
+T-0346,phone,2026-03-11 17:45:21-04:00,2026-03-13 12:12:57-04:00,hana.kim@yahoo.com,order hc 10381 still not here,LOW,Priya
+T-0347,web,2026-03-13T19:46:38Z,2026-03-14T14:35:14Z,ivan.kim@hilltop-partners.com,Where is my order #HC-10300?,Low,Tom
+T-0348,email,03/29/2026 05:41 PM,03/29/2026 07:53 PM,Gus.Li@Yahoo.Com,Change address on HC-10300 please,normal,Priya
+T-0349,email,03/04/2026 03:55 PM,03/05/2026 02:46 PM,hana.kim@outlook.com,Order HC-10535 arrived damaged,normal,Maya
+T-0350,email,04/20/2026 07:51 AM,04/22/2026 05:49 AM, lena.rao@example.org,Where is my order #HC-10471?,Normal,Maya
+T-0351,web,2026-04-24T16:38:39Z,2026-04-26T00:00:15Z, ben.novak@example.org,Refund request - HC-10881,normal,Luis
+T-0352,email,03/25/2026 09:02 PM,03/26/2026 06:05 AM,Ben.Ortiz@Example.Org,Can't log in,high,Luis
+T-0353,email,03/02/2026 11:22 AM,03/03/2026 02:50 AM,gus.berg@gmail.com,Order HC-10262 arrived damaged,Normal,Maya
+T-0354,email,04/03/2026 12:43 PM,04/03/2026 02:09 PM,kai.kim@example.org,Can't log in,high,Luis
+T-0355,email,04/24/2026 10:46 AM,04/24/2026 11:52 PM,ben.ortiz@yahoo.com,  CHANGE ADDRESS ON HC-10148 PLEASE ,High,Maya
+T-0356,email,04/07/2026 11:17 AM,04/10/2026 05:56 AM, chen.novak@gmail.com,  CHANGE ADDRESS ON HC-10840 PLEASE ,Low,Tom
+T-0357,web,2026-04-30T15:06:16Z,,eli.ortiz@yahoo.com,"Wrong bag size (250g instead of 1kg), order HC-10212",Low,Luis
+T-0358,email,03/14/2026 03:03 PM,03/15/2026 02:19 AM,dana.ortiz@hilltop-partners.com,Order HC-10315 arrived damaged,normal,Maya
+T-0359,email,03/01/2026 11:12 PM,03/03/2026 11:44 AM,Chen.Berg@Gmail.Com,"  WRONG BAG SIZE (250G INSTEAD OF 500G), ORDER HC-10108 ",Normal,Maya
+T-0360,web,2026-04-11T13:26:33Z,2026-04-13T20:04:21Z, Eli.Ortiz@Yahoo.Com,  ORDER HC-10187 ARRIVED DAMAGED ,low,Tom
+T-0361,web,2026-04-13T15:00:50Z,2026-04-15T13:12:50Z,hana.kim@outlook.com,Order HC-10236 arrived damaged,LOW,Priya
+T-0362,email,04/21/2026 08:44 PM,04/24/2026 11:29 AM,Eli.Berg@Outlook.Com,  CHANGE ADDRESS ON HC-10521 PLEASE ,low,Maya
+T-0363,email,04/06/2026 01:54 PM,04/06/2026 08:49 PM,hana.kim@yahoo.com,  CAN'T LOG IN ,Normal,Maya
+T-0364,web,2026-03-04T18:48:14Z,2026-03-05T05:55:26Z,hana.rao@outlook.com,Subscription: skip next delivery,LOW,Luis
+T-0365,email,04/09/2026 12:00 PM,04/11/2026 07:49 AM,Ivan.Kim@Hilltop-Partners.Com,Grinder setting for Sumatra Mandheling?,normal,Luis
+T-0366,web,2026-03-26T20:33:27Z,2026-03-27T03:53:15Z,gus.berg@gmail.com,"Wrong bag size (1kg instead of 500g), order HC-10673",Normal,Priya
+T-0367,email,03/25/2026 12:53 PM,03/25/2026 09:23 PM,chen.rao@example.org,"Wrong bag size (1kg instead of 250g), order HC-10728",High,Luis
+T-0368,web,2026-04-10T13:15:07Z,2026-04-14T07:58:19Z,gus.berg@outlook.com,Refund request - HC-10688,LOW,Maya
+T-0369,web,2026-03-19T22:05:43Z,2026-03-22T17:53:43Z,ben.novak@example.org,"Wrong bag size (1kg instead of 500g), order HC-10926",normal,Priya
+T-0370,web,2026-04-13T14:48:27Z,2026-04-14T22:35:51Z,dana.ortiz@example.org,Can't log in,Normal,Priya
+T-0371,email,04/04/2026 09:09 AM,04/04/2026 10:21 AM,jo.novak@gmail.com,Bag of Decaf Swiss Water tastes stale (order #HC-10278),normal,Luis
+T-0372,web,2026-03-17T14:25:20Z,2026-03-17T17:32:32Z,jo.ortiz@yahoo.com,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-10334),high,Tom
+T-0373,web,2026-03-20T20:14:59Z,2026-03-21T03:25:11Z,dana.li@outlook.com,  SUBSCRIPTION: SKIP NEXT DELIVERY ,High,Luis
+T-0374,phone,2026-03-18 11:22:15-04:00,2026-03-18 13:52:15-04:00,lena.rao@hilltop-partners.com,Can't log in,high,Luis
+T-0375,web,2026-03-14T23:06:14Z,2026-03-15T09:45:50Z, jo.ortiz@yahoo.com,  REFUND REQUEST - HC-10051 ,Normal,Luis
+T-0376,email,04/04/2026 01:41 PM,04/04/2026 06:10 PM,chen.rao@example.org,Bag of Espresso Roast tastes stale (order #HC-10747),Normal,Luis
+T-0377,email,04/21/2026 09:12 AM,04/24/2026 08:32 AM,eli.berg@outlook.com,Order HC-10282 arrived damaged,LOW,Tom
+T-0378,email,03/26/2026 03:24 AM,03/26/2026 12:43 PM,gus.novak@yahoo.com,  BAG OF COLOMBIA HUILA TASTES STALE (ORDER #HC-10151) ,High,Maya
+T-0379,web,2026-04-29T23:31:17Z,2026-04-30T12:30:41Z, lena.rao@outlook.com,Order HC-10400 arrived damaged,high,Priya
+T-0380,web,2026-04-07T19:50:17Z,2026-04-08T18:20:53Z,dana.li@hilltop-partners.com,Can't log in,normal,Tom
+T-0381,web,2026-03-10T13:47:42Z,2026-03-11T02:58:30Z,eli.rao@gmail.com,Can't log in,LOW,Luis
+T-0382,email,03/01/2026 11:57 AM,03/01/2026 07:19 PM,kai.berg@yahoo.com,order hc 10904 still not here,normal,Priya
+T-0383,phone,2026-04-17 14:22:12-04:00,2026-04-18 06:25:47-04:00,asha.berg@example.org,  SUBSCRIPTION: SKIP NEXT DELIVERY ,HIGH ,Luis
+T-0384,web,2026-04-20T17:48:22Z,2026-04-21T05:44:46Z,kai.berg@hilltop-partners.com,Refund request - HC-10468,Normal,Priya
+T-0385,web,2026-04-10T20:50:04Z,2026-04-12T15:03:16Z,lena.rao@example.org,Refund request - HC-10065,low,Priya
+T-0386,phone,2026-04-16 14:04:20-04:00,2026-04-17 05:43:56-04:00,dana.ortiz@yahoo.com,"Wrong bag size (500g instead of 1kg), order HC-10999",Normal,Luis
+T-0387,email,04/08/2026 07:34 PM,04/09/2026 09:22 PM,gus.berg@outlook.com,order hc 10609 still not here,low,Luis
+T-0388,web,2026-04-13T21:03:27Z,2026-04-14T03:19:03Z,Chen.Novak@Gmail.Com,order hc 10591 still not here,High,Maya
+T-0389,web,2026-03-18T12:43:43Z,2026-03-18T17:39:31Z,kai.ortiz@example.org,Subscription: skip next delivery,Normal,Maya
+T-0390,web,2026-03-13T15:44:13Z,2026-03-15T11:19:37Z,ivan.kim@outlook.com,Change address on HC-10240 please,Normal,Tom
+T-0391,phone,2026-03-30 19:39:46-04:00,2026-03-30 21:42:45-04:00,gus.novak@yahoo.com,Grinder setting for Sumatra Mandheling?,LOW,Tom
+T-0392,web,2026-04-27T13:24:31Z,2026-04-29T17:28:43Z,gus.novak@yahoo.com,Subscription: skip next delivery,Normal,Luis
+T-0393,web,2026-03-12T16:05:27Z,2026-03-14T14:06:03Z,kai.novak@yahoo.com,"  WRONG BAG SIZE (1KG INSTEAD OF 250G), ORDER HC-10968 ",LOW,Maya
+T-0394,web,2026-03-28T21:00:24Z,2026-03-29T05:58:00Z,ivan.kim@hilltop-partners.com,Where is my order #HC-10145?,Normal,Priya
+T-0395,phone,2026-03-27 12:47:17-04:00,2026-03-28 00:22:05-04:00, eli.novak@hilltop-partners.com,"Wrong bag size (250g instead of 1kg), order HC-10580",HIGH ,Tom
+T-0396,email,03/01/2026 09:23 AM,03/02/2026 07:08 AM,ivan.kim@outlook.com,Change address on HC-10119 please,Low,Luis
+T-0397,email,03/10/2026 12:07 PM,03/13/2026 04:19 AM,ben.ortiz@yahoo.com,Change address on HC-10543 please,Normal,Luis
+T-0398,phone,2026-04-21 11:55:03-04:00,2026-04-23 23:38:15-04:00, ivan.kim@hilltop-partners.com,Where is my order #HC-10593?,normal,Maya
+T-0399,web,2026-04-11T16:36:56Z,2026-04-11T20:05:44Z,gus.li@yahoo.com,Change address on HC-10201 please,normal,Tom
+T-0400,web,2026-03-11T18:23:41Z,2026-03-14T19:11:05Z,ivan.rao@hilltop-partners.com,Grinder setting for House Blend?,low,Tom
+T-0401,email,03/21/2026 03:31 PM,03/22/2026 03:20 AM,ivan.kim@hilltop-partners.com,order hc 10646 still not here,High,Luis
+T-0402,web,2026-04-25T17:48:59Z,2026-04-25T23:58:35Z,ivan.kim@hilltop-partners.com,Where is my order #HC-10375?,normal,Priya
+T-0403,email,04/29/2026 09:26 AM,04/30/2026 02:15 AM,asha.li@gmail.com,Subscription: skip next delivery,Low,Tom
+T-0404,email,04/19/2026 09:51 PM,04/26/2026 05:37 PM, Eli.Ortiz@Yahoo.Com,Subscription: skip next delivery,LOW,Maya
+T-0405,email,03/11/2026 08:00 AM,03/11/2026 02:36 PM,farah.li@hilltop-partners.com,Order HC-10455 arrived damaged,normal,Priya
+T-0406,email,04/10/2026 09:33 AM,04/10/2026 02:33 PM,Eli.Berg@Outlook.Com,Change address on HC-10805 please,High,Luis
+T-0407,web,2026-04-05T17:12:09Z,2026-04-07T19:27:09Z,hana.rao@outlook.com,  CAN'T LOG IN ,low,Priya
+T-0408,phone,2026-04-14 13:41:33-04:00,2026-04-15 02:49:21-04:00,gus.novak@yahoo.com,order hc 10136 still not here,Normal,Tom
+T-0409,web,2026-03-31T20:35:29Z,2026-04-01T15:05:29Z,jo.novak@hilltop-partners.com,Change address on HC-10251 please,high,Tom
+T-0410,email,03/04/2026 09:06 AM,03/08/2026 10:09 AM,ivan.kim@hilltop-partners.com,Refund request - HC-10517,Low,Luis
+T-0411,phone,2026-04-26 23:48:28-04:00,2026-04-28 03:14:16-04:00,eli.ortiz@yahoo.com,  CHANGE ADDRESS ON HC-10191 PLEASE ,Low,Luis
+T-0412,web,2026-04-03T17:58:39Z,2026-04-04T20:40:03Z,kai.berg@yahoo.com,Order HC-10344 arrived damaged,LOW,Priya
+T-0413,email,03/05/2026 07:56 AM,03/05/2026 06:05 PM,eli.berg@outlook.com,Refund request - HC-10024,normal,Maya
+T-0414,web,2026-04-26T18:49:14Z,2026-04-27T04:46:50Z,asha.berg@example.org,"Wrong bag size (500g instead of 1kg), order HC-10442",LOW,Tom
+T-0415,web,2026-03-09T13:47:27Z,2026-03-10T04:18:03Z,kai.ortiz@example.org,Change address on HC-10078 please,Normal,Tom
+T-0416,web,2026-03-14T17:38:35Z,2026-03-16T02:00:46Z,jo.novak@gmail.com,Change address on HC-10142 please,Normal,Maya
+T-0417,web,2026-03-06T21:55:54Z,2026-03-07T03:30:06Z,kai.kim@example.org,  ORDER HC 10674 STILL NOT HERE ,normal,Priya
+T-0418,email,03/30/2026 01:19 PM,03/31/2026 11:03 AM,dana.ortiz@hilltop-partners.com,Grinder setting for Decaf Swiss Water?,low,Tom
+T-0419,phone,2026-04-22 09:11:07-04:00,2026-04-24 07:27:19-04:00,asha.li@gmail.com,  CAN'T LOG IN ,normal,Maya
+T-0420,phone,2026-03-25 16:41:51-04:00,2026-03-27 06:55:39-04:00,kai.berg@hilltop-partners.com,Grinder setting for Espresso Roast?,Normal,Priya
+T-0421,email,04/15/2026 01:21 PM,04/15/2026 09:09 PM,ben.ortiz@yahoo.com,Refund request - HC-10270,normal,Tom
+T-0422,email,04/11/2026 04:52 PM,04/12/2026 08:18 AM,ben.ortiz@example.org,Refund request - HC-10935,Normal,Priya
+T-0423,web,2026-04-29T00:00:02Z,2026-04-29T16:57:02Z,gus.li@yahoo.com,Change address on HC-10274 please,normal,Tom
+T-0424,email,03/03/2026 09:18 AM,03/03/2026 10:51 AM,gus.berg@gmail.com,Refund request - HC-10316,urgent,Priya
+T-0425,web,2026-03-31T23:00:06Z,2026-04-01T09:05:30Z,eli.ortiz@hilltop-partners.com,Order HC-10963 arrived damaged,normal,Tom
+T-0426,web,2026-03-03T03:29:14Z,2026-03-04T05:03:26Z,jo.ortiz@yahoo.com,Grinder setting for Ethiopia Yirgacheffe?,High,Tom
+T-0427,web,2026-04-16T09:40:57Z,2026-04-17T02:54:08Z,jo.novak@gmail.com,Change address on HC-10625 please,normal,Tom
+T-0428,web,2026-03-05T12:28:04Z,2026-03-06T12:23:16Z,ivan.kim@hilltop-partners.com,Order HC-10917 arrived damaged,normal,Maya
+T-0429,web,2026-03-04T14:23:46Z,2026-03-05T16:30:58Z,chen.ortiz@hilltop-partners.com,Order HC-10124 arrived damaged,normal,Priya
+T-0430,web,2026-03-18T08:19:48Z,2026-03-18T11:33:36Z,Gus.Rao@Hilltop-Partners.Com,  GRINDER SETTING FOR COLOMBIA HUILA? ,URGENT,Maya
+T-0431,web,2026-03-31T00:54:16Z,2026-03-31T12:04:28Z,hana.kim@yahoo.com,Change address on HC-10225 please,Normal,Tom
+T-0432,phone,2026-04-09 13:53:08-04:00,2026-04-10 06:44:44-04:00,gus.berg@outlook.com,Order HC-10633 arrived damaged,normal,Luis
+T-0433,email,03/07/2026 05:45 PM,03/08/2026 10:59 PM,chen.rao@example.org,Can't log in,low,Maya
+T-0434,web,2026-04-10T13:25:29Z,2026-04-10T16:52:29Z,ben.berg@yahoo.com,  CAN'T LOG IN ,URGENT,Maya
+T-0435,web,2026-04-09T17:20:52Z,2026-04-10T01:10:40Z,Ivan.Kim@Outlook.Com,Grinder setting for Espresso Roast?,high,Maya
+T-0436,phone,2026-04-19 11:26:25-04:00,2026-04-19 19:51:37-04:00,jo.novak@hilltop-partners.com,Can't log in,Low,Tom
+T-0437,email,03/16/2026 07:38 PM,03/17/2026 10:08 PM,Kai.Ortiz@Example.Org,Refund request - HC-10156,Low,Priya
+T-0438,phone,2026-03-20 19:39:52-04:00,2026-03-24 11:01:28-04:00,Gus.Berg@Gmail.Com,"Wrong bag size (250g instead of 500g), order HC-10896",Low,Priya
+T-0439,web,2026-04-14T00:01:29Z,2026-04-16T05:42:53Z,lena.rao@example.org,  SUBSCRIPTION: SKIP NEXT DELIVERY ,low,Maya
+T-0440,email,03/25/2026 10:14 PM,03/27/2026 03:33 PM,Jo.Ortiz@Yahoo.Com,Grinder setting for Colombia Huila?,LOW,Tom
+T-0441,web,2026-03-09T15:31:33Z,2026-03-16T08:42:21Z,eli.berg@outlook.com,Refund request - HC-10201,Low,Maya
+T-0442,email,03/01/2026 07:04 PM,03/02/2026 11:42 AM,Ivan.Kim@Hilltop-Partners.Com,order hc 10803 still not here,high,Tom
+T-0443,web,2026-04-08T16:53:47Z,2026-04-09T13:56:47Z,eli.novak@yahoo.com,Refund request - HC-10984,High,Luis
+T-0444,email,04/30/2026 04:55 PM,,dana.ortiz@example.org,order hc 10483 still not here,High,Tom
+T-0445,web,2026-03-18T21:06:19Z,2026-03-18T22:05:43Z,gus.rao@hilltop-partners.com,  REFUND REQUEST - HC-11045 ,high,Tom
+T-0446,email,04/24/2026 04:32 PM,04/25/2026 08:52 PM,jo.novak@hilltop-partners.com,  CHANGE ADDRESS ON HC-11098 PLEASE ,high,Maya
+T-0447,web,2026-04-29T02:07:09Z,2026-04-29T21:49:09Z,chen.ortiz@hilltop-partners.com,Where is my order #HC-10602?,normal,Luis
+T-0448,email,04/20/2026 10:16 AM,04/23/2026 12:36 AM,chen.berg@gmail.com,Bag of House Blend tastes stale (order #HC-10673),LOW,Maya
+T-0449,web,2026-03-12T13:45:59Z,2026-03-13T09:49:35Z,gus.li@hilltop-partners.com,Subscription: skip next delivery,Low,Luis
+T-0450,email,03/22/2026 09:47 AM,03/24/2026 04:37 PM,gus.rao@hilltop-partners.com,"Wrong bag size (500g instead of 1kg), order HC-10258",normal,Maya
+T-0451,email,03/08/2026 02:02 PM,03/08/2026 09:08 PM,lena.rao@example.org,Subscription: skip next delivery,URGENT,Priya
+T-0452,web,2026-04-18T17:26:43Z,2026-04-21T00:50:07Z,eli.berg@outlook.com,Grinder setting for Colombia Huila?,normal,Tom
+T-0453,web,2026-03-16T13:06:52Z,2026-03-16T18:26:40Z,eli.ortiz@yahoo.com,  WHERE IS MY ORDER #HC-10280? ,urgent,Priya
+T-0454,phone,2026-03-28 10:50:16-04:00,2026-03-30 11:44:16-04:00,eli.rao@gmail.com,Grinder setting for Decaf Swiss Water?,normal,Maya
+T-0455,phone,2026-04-19 17:07:17-04:00,2026-04-21 22:56:29-04:00, asha.berg@example.org,order hc 10614 still not here,LOW,Tom
+T-0456,web,2026-03-08T14:47:13Z,2026-03-09T09:38:13Z,kai.berg@yahoo.com,"Wrong bag size (250g instead of 500g), order HC-10069",Normal,Maya
+T-0457,email,04/19/2026 05:47 PM,04/21/2026 02:53 PM,eli.berg@outlook.com,Can't log in,low,Tom
+T-0458,email,04/17/2026 03:26 PM,04/17/2026 11:42 PM,gus.li@yahoo.com,Where is my order #HC-10108?,normal,Tom
+T-0459,web,2026-03-10T19:07:06Z,2026-03-10T22:17:54Z,hana.rao@outlook.com,order hc 10611 still not here,High,Luis
+T-0460,phone,2026-04-26 08:32:44-04:00,2026-04-26 13:54:20-04:00,Jo.Novak@Gmail.Com,Where is my order #HC-10158?,Normal,Priya
+T-0461,web,2026-03-16T14:29:41Z,2026-03-16T18:28:29Z,ivan.rao@hilltop-partners.com,  ORDER HC-10326 ARRIVED DAMAGED ,Normal,Priya
+T-0462,web,2026-03-02T11:04:29Z,2026-03-04T11:11:05Z,Farah.Li@Hilltop-Partners.Com,Can't log in,LOW,Maya
+T-0463,email,04/06/2026 02:55 PM,04/07/2026 06:37 AM,gus.rao@hilltop-partners.com,Where is my order #HC-10993?,Normal,Priya
+T-0464,phone,2026-03-09 15:38:15-04:00,2026-03-09 20:31:03-04:00,ben.novak@example.org,"Wrong bag size (500g instead of 250g), order HC-10904",Normal,Priya
+T-0465,web,2026-03-24T12:33:13Z,2026-03-25T03:36:13Z,eli.berg@outlook.com,Where is my order #HC-10300?,High,Maya
+T-0466,email,03/08/2026 09:33 AM,03/09/2026 10:29 AM,lena.rao@example.org,Refund request - HC-10115,Low,Tom
+T-0467,web,2026-03-16T22:08:41Z,2026-03-17T20:47:41Z,kai.ortiz@example.org,Grinder setting for Decaf Swiss Water?,LOW,Maya
+T-0468,phone,2026-03-06 15:21:40-05:00,2026-03-08 21:53:28-04:00,hana.ortiz@yahoo.com,  WHERE IS MY ORDER #HC-10639? ,normal,Priya
+T-0469,web,2026-03-12T02:47:22Z,2026-03-12T09:34:46Z,ben.berg@yahoo.com,  BAG OF ETHIOPIA YIRGACHEFFE TASTES STALE (ORDER #HC-10702) ,Normal,Luis
+T-0470,email,03/13/2026 05:47 PM,03/14/2026 02:43 AM,chen.novak@gmail.com,"  WRONG BAG SIZE (250G INSTEAD OF 1KG), ORDER HC-10114 ",low,Tom
+T-0471,web,2026-03-14T17:22:19Z,2026-03-16T05:30:07Z,chen.rao@example.org,Can't log in,low,Priya
+T-0472,web,2026-04-01T17:28:19Z,2026-04-03T04:22:54Z,chen.rao@example.org,Bag of Espresso Roast tastes stale (order #HC-10978),Normal,Priya
+T-0473,web,2026-03-11T15:02:10Z,2026-03-12T01:32:46Z,hana.kim@yahoo.com,"Wrong bag size (1kg instead of 500g), order HC-10699",LOW,Luis
+T-0474,web,2026-03-13T14:55:16Z,2026-03-14T12:08:28Z,gus.li@hilltop-partners.com,Subscription: skip next delivery,Normal,Maya
+T-0475,web,2026-03-31T19:48:50Z,2026-04-02T20:51:50Z,dana.ortiz@example.org,  ORDER HC-10505 ARRIVED DAMAGED ,normal,Luis
+T-0476,phone,2026-04-13 13:31:05-04:00,2026-04-14 18:52:41-04:00,asha.li@outlook.com,Refund request - HC-10781,high,Luis
+T-0477,phone,2026-04-25 14:26:11-04:00,2026-04-26 16:56:11-04:00,dana.ortiz@yahoo.com,Refund request - HC-10371,normal,Maya
+T-0478,web,2026-03-26T21:46:07Z,2026-03-28T06:51:31Z,hana.kim@outlook.com,Grinder setting for House Blend?,LOW,Priya
+T-0479,web,2026-04-13T18:34:26Z,2026-04-17T08:50:38Z, chen.novak@gmail.com,Change address on HC-10200 please,normal,Tom
+T-0480,phone,2026-03-13 18:40:25-04:00,2026-03-17 00:58:25-04:00,Asha.Li@Gmail.Com,Refund request - HC-10473,LOW,Luis
+T-0481,phone,2026-03-10 16:12:14-04:00,2026-03-13 21:52:26-04:00,ben.ortiz@example.org,  WHERE IS MY ORDER #HC-11081? ,low,Maya
+T-0482,email,04/19/2026 02:08 PM,04/20/2026 08:18 AM,Ben.Ortiz@Yahoo.Com,Subscription: skip next delivery,High,Tom
+T-0483,phone,2026-04-02 13:57:23-04:00,2026-04-03 02:36:23-04:00,Gus.Rao@Hilltop-Partners.Com,Grinder setting for Sumatra Mandheling?,High,Priya
+T-0484,phone,2026-03-16 11:49:54-04:00,2026-03-16 19:16:18-04:00,gus.rao@hilltop-partners.com,Bag of Decaf Swiss Water tastes stale (order #HC-10429),High,Maya
+T-0485,email,04/18/2026 09:46 AM,04/19/2026 04:24 PM, ben.ortiz@yahoo.com,  ORDER HC-10819 ARRIVED DAMAGED ,normal,Luis
+T-0486,web,2026-03-04T02:29:44Z,2026-03-04T16:29:08Z,eli.berg@outlook.com,  BAG OF DECAF SWISS WATER TASTES STALE (ORDER #HC-10525) ,high,Tom
+T-0487,web,2026-03-07T18:59:40Z,2026-03-08T22:29:40Z,kai.berg@hilltop-partners.com,Change address on HC-10414 please,normal,Tom
+T-0488,email,04/20/2026 02:44 PM,04/21/2026 03:55 AM, chen.berg@gmail.com,  WHERE IS MY ORDER #HC-10443? ,high,Tom
+T-0489,email,03/08/2026 07:26 PM,03/08/2026 11:25 PM,Hana.Kim@Yahoo.Com,Bag of Colombia Huila tastes stale (order #HC-10449),High,Maya
+T-0490,email,04/05/2026 07:05 PM,04/08/2026 03:05 AM,ben.novak@example.org,Where is my order #HC-10124?,Normal,Tom
+T-0491,web,2026-03-25T15:30:04Z,2026-03-28T09:57:04Z,eli.novak@yahoo.com,order hc 10004 still not here,LOW,Luis
+T-0492,web,2026-04-04T03:53:27Z,2026-04-04T20:55:15Z,dana.ortiz@hilltop-partners.com,Change address on HC-10024 please,Normal,Priya
+T-0493,web,2026-03-19T12:54:26Z,2026-03-19T21:14:14Z,hana.ortiz@yahoo.com,Grinder setting for Colombia Huila?,URGENT,Luis
+T-0494,web,2026-03-04T17:18:20Z,2026-03-06T05:08:44Z,ivan.rao@hilltop-partners.com,Bag of Ethiopia Yirgacheffe tastes stale (order #HC-10415),Normal,Priya
+T-0495,email,05/01/2026 12:14 AM,,eli.ortiz@yahoo.com,Can't log in,normal,Tom
+T-0496,web,2026-03-28T21:28:47Z,2026-03-29T03:42:35Z,chen.novak@gmail.com,Where is my order #HC-10455?,URGENT,Tom
+T-0497,web,2026-04-27T17:45:34Z,2026-04-28T10:13:45Z,chen.berg@gmail.com,Refund request - HC-10727,LOW,Luis
+T-0498,phone,2026-03-02 13:46:11-05:00,2026-03-04 01:44:58-05:00,chen.ortiz@example.org,Refund request - HC-10041,Low,Luis
+T-0499,web,2026-04-06T06:51:13Z,2026-04-06T18:25:25Z,hana.rao@outlook.com,Can't log in,normal,Tom
+T-0500,web,2026-04-20T15:25:21Z,2026-04-20T22:25:21Z,gus.novak@yahoo.com,Grinder setting for Ethiopia Yirgacheffe?,HIGH ,Maya
+T-0501,web,2026-03-14T14:25:10Z,2026-03-15T01:38:22Z,eli.berg@outlook.com,"  WRONG BAG SIZE (500G INSTEAD OF 1KG), ORDER HC-10445 ",Low,Maya
+T-0502,email,04/18/2026 06:55 PM,04/21/2026 10:53 AM,asha.li@gmail.com,"  WRONG BAG SIZE (1KG INSTEAD OF 250G), ORDER HC-10250 ",Low,Maya
+T-0503,web,2026-03-23T13:05:39Z,2026-03-23T15:32:39Z,hana.ortiz@gmail.com,Where is my order #HC-10163?,Normal,Maya
+T-0504,phone,2026-03-30 09:13:08-04:00,2026-04-01 18:46:08-04:00,eli.berg@outlook.com,  CHANGE ADDRESS ON HC-10558 PLEASE ,Normal,Priya
+T-0505,email,04/06/2026 09:57 AM,04/06/2026 11:52 PM,ben.ortiz@yahoo.com,"Wrong bag size (1kg instead of 500g), order HC-10634",Low,Tom
+T-0506,web,2026-04-14T00:36:42Z,2026-04-18T19:22:54Z,eli.rao@gmail.com,  WHERE IS MY ORDER #HC-10219? ,Low,Luis
+T-0507,email,03/16/2026 03:08 PM,03/17/2026 05:56 PM,Kai.Berg@Yahoo.Com,  BAG OF COLOMBIA HUILA TASTES STALE (ORDER #HC-10170) ,HIGH ,Maya
+T-0508,web,2026-03-06T14:13:23Z,2026-03-08T22:37:59Z,ben.berg@yahoo.com,  ORDER HC 10974 STILL NOT HERE ,Normal,Tom
+T-0509,phone,2026-03-24 13:36:44-04:00,2026-03-24 19:58:56-04:00,kai.novak@yahoo.com,Grinder setting for Sumatra Mandheling?,Normal,Luis
+T-0510,web,2026-03-13T01:02:32Z,2026-03-13T03:34:20Z,hana.kim@yahoo.com,  SUBSCRIPTION: SKIP NEXT DELIVERY ,HIGH ,Priya
+T-0511,email,04/10/2026 09:17 AM,04/11/2026 06:15 PM,eli.rao@gmail.com,Grinder setting for Decaf Swiss Water?,normal,Luis
+T-0512,phone,2026-04-11 22:21:05-04:00,2026-04-13 00:01:53-04:00, farah.li@hilltop-partners.com,  ORDER HC-10974 ARRIVED DAMAGED ,LOW,Priya
+T-0513,email,03/07/2026 01:50 PM,03/07/2026 06:18 PM,ben.ortiz@example.org,Order HC-10901 arrived damaged,Normal,Luis
+T-0514,email,03/07/2026 07:55 PM,03/09/2026 02:02 AM,ivan.kim@hilltop-partners.com,Refund request - HC-10896,normal,Luis
+T-0515,web,2026-04-29T22:33:13Z,,lena.novak@outlook.com,  GRINDER SETTING FOR DECAF SWISS WATER? ,normal,Tom
+T-0516,web,2026-03-13T11:57:40Z,2026-03-14T21:04:16Z,hana.ortiz@yahoo.com,Bag of Decaf Swiss Water tastes stale (order #HC-11033),LOW,Luis
+T-0517,phone,2026-04-06 16:09:19-04:00,2026-04-07 11:40:31-04:00,eli.ortiz@yahoo.com,Change address on HC-10646 please,Normal,Priya
+T-0518,email,04/08/2026 12:29 PM,04/09/2026 05:29 AM, Hana.Ortiz@Yahoo.Com,Can't log in,low,Maya
+T-0519,web,2026-04-05T23:59:06Z,2026-04-07T02:59:06Z,Eli.Novak@Hilltop-Partners.Com,Bag of Decaf Swiss Water tastes stale (order #HC-10815),Normal,Maya
+T-0520,email,03/17/2026 06:36 PM,03/18/2026 09:22 AM,gus.berg@example.org,  WHERE IS MY ORDER #HC-10906? ,normal,Tom
+T-0521,email,04/14/2026 03:23 PM,04/14/2026 06:35 PM,Dana.Ortiz@Hilltop-Partners.Com,Subscription: skip next delivery,High,Luis
+T-0522,web,2026-04-29T13:56:28Z,2026-04-29T16:42:04Z,eli.rao@gmail.com,"Wrong bag size (1kg instead of 500g), order HC-10860",LOW,Tom
+T-0523,email,04/04/2026 08:23 PM,04/07/2026 02:56 AM,Asha.Berg@Example.Org,Can't log in,LOW,Luis
+T-0524,web,2026-04-14T02:58:40Z,2026-04-16T19:01:04Z,ben.novak@example.org,Can't log in,Normal,Luis
+T-0525,email,04/10/2026 11:41 AM,04/12/2026 08:39 AM,ben.ortiz@yahoo.com,Subscription: skip next delivery,Normal,Priya
+T-0526,phone,2026-03-10 17:18:59-04:00,2026-03-10 22:20:11-04:00,asha.li@outlook.com,Grinder setting for Sumatra Mandheling?,Low,Maya
+T-0527,web,2026-04-06T15:14:36Z,2026-04-08T22:19:24Z,Chen.Berg@Gmail.Com,Subscription: skip next delivery,low,Luis
+T-0528,email,03/26/2026 06:17 PM,03/26/2026 11:55 PM,kai.berg@yahoo.com,Subscription: skip next delivery,HIGH ,Luis
+T-0529,phone,2026-03-01 15:29:17-05:00,2026-03-02 02:07:05-05:00,hana.rao@outlook.com,Grinder setting for Decaf Swiss Water?,urgent,Luis
+T-0530,web,2026-03-01T15:19:31Z,2026-03-02T10:21:19Z,gus.li@hilltop-partners.com,Bag of Colombia Huila tastes stale (order #HC-10820),normal,Luis
+T-0531,web,2026-04-13T08:00:57Z,2026-04-14T14:53:09Z,eli.ortiz@hilltop-partners.com,Where is my order #HC-10982?,normal,Tom
+T-0532,web,2026-04-11T12:48:57Z,2026-04-11T15:00:57Z,jo.novak@gmail.com,  WHERE IS MY ORDER #HC-10814? ,high,Luis
+T-0533,phone,2026-03-24 10:48:56-04:00,2026-03-27 00:47:44-04:00,chen.rao@example.org,Can't log in,Normal,Luis
+T-0534,web,2026-04-04T12:35:12Z,2026-04-05T13:08:48Z,farah.li@hilltop-partners.com,  GRINDER SETTING FOR ESPRESSO ROAST? ,normal,Priya
+T-0535,phone,2026-03-23 23:24:01-04:00,2026-03-24 04:25:13-04:00,chen.rao@example.org,Bag of Decaf Swiss Water tastes stale (order #HC-10304),normal,Priya
+T-0536,phone,2026-04-12 21:59:40-04:00,2026-04-13 07:53:40-04:00,ben.ortiz@yahoo.com,Change address on HC-10340 please,HIGH ,Maya
+T-0537,web,2026-03-12T21:31:00Z,2026-03-13T23:08:48Z,hana.ortiz@gmail.com,Where is my order #HC-10052?,Normal,Maya
+T-0538,web,2026-03-21T18:34:17Z,2026-03-22T20:54:05Z,Hana.Ortiz@Gmail.Com,Grinder setting for Decaf Swiss Water?,normal,Priya
+T-0539,phone,2026-03-30 11:22:59-04:00,2026-03-30 20:46:59-04:00,gus.li@yahoo.com,Order HC-10270 arrived damaged,normal,Tom
+T-0540,phone,2026-04-26 15:29:58-04:00,2026-04-26 19:44:58-04:00,gus.novak@yahoo.com,order hc 10368 still not here,HIGH ,Priya
+T-0541,email,04/16/2026 11:11 AM,04/18/2026 05:25 AM,Jo.Novak@Gmail.Com,order hc 11009 still not here,normal,Maya
+T-0542,web,2026-04-25T17:08:08Z,2026-04-25T18:53:44Z,eli.rao@gmail.com,  REFUND REQUEST - HC-10580 ,HIGH ,Luis
+T-0543,web,2026-03-04T18:00:50Z,2026-03-05T22:08:02Z,ben.novak@example.org,  REFUND REQUEST - HC-10918 ,Normal,Luis
+T-0544,web,2026-04-18T20:53:37Z,2026-04-20T13:36:13Z,lena.rao@example.org,Where is my order #HC-11050?,normal,Maya
+T-0545,email,04/06/2026 06:20 PM,04/08/2026 03:51 AM,ben.ortiz@yahoo.com,Order HC-11003 arrived damaged,LOW,Priya
+T-0546,web,2026-04-24T06:15:32Z,2026-04-24T10:01:08Z,kai.kim@example.org,Can't log in,normal,Luis
+T-0547,web,2026-03-10T15:06:35Z,2026-03-10T16:20:59Z,chen.ortiz@example.org,"Wrong bag size (250g instead of 500g), order HC-10340",low,Tom
+T-0548,web,2026-04-04T21:53:43Z,2026-04-05T21:50:07Z,hana.ortiz@yahoo.com,Bag of Colombia Huila tastes stale (order #HC-10068),Normal,Tom
+T-0549,web,2026-04-09T00:29:18Z,2026-04-09T16:13:42Z, chen.ortiz@hilltop-partners.com,Grinder setting for Espresso Roast?,normal,Priya
+T-0550,phone,2026-03-18 11:09:08-04:00,2026-03-19 19:04:20-04:00,dana.li@hilltop-partners.com,  SUBSCRIPTION: SKIP NEXT DELIVERY ,normal,Tom
+T-0551,phone,2026-04-22 13:10:20-04:00,2026-04-22 23:40:56-04:00,jo.novak@gmail.com,Subscription: skip next delivery,Normal,Priya
+T-0552,web,2026-04-13T13:04:31Z,2026-04-16T18:02:07Z, eli.rao@gmail.com,Refund request - HC-10185,low,Priya
+T-0553,web,2026-03-02T17:16:03Z,2026-03-02T23:10:03Z,eli.ortiz@hilltop-partners.com,Change address on HC-10851 please,normal,Maya
+T-0554,web,2026-03-04T01:09:29Z,2026-03-04T06:31:41Z,gus.berg@gmail.com,Order HC-10004 arrived damaged,high,Tom
+T-0555,web,2026-04-18T23:23:22Z,2026-04-21T07:19:10Z,chen.ortiz@example.org,order hc 10525 still not here,normal,Luis
+T-0556,web,2026-03-11T14:52:42Z,2026-03-11T19:40:42Z,Eli.Rao@Gmail.Com,Order HC-10069 arrived damaged,High,Priya
+T-0557,web,2026-04-18T18:59:46Z,2026-04-19T18:53:46Z,asha.ortiz@outlook.com,Grinder setting for House Blend?,LOW,Tom
+T-0558,web,2026-03-05T17:53:13Z,2026-03-07T04:37:37Z,eli.ortiz@yahoo.com,Can't log in,LOW,Maya
+T-0559,web,2026-03-25T19:09:25Z,2026-03-26T06:02:13Z,gus.berg@example.org,Change address on HC-10120 please,Normal,Tom
+T-0560,phone,2026-04-25 22:12:19-04:00,2026-04-26 04:57:55-04:00,Hana.Ortiz@Yahoo.Com,  GRINDER SETTING FOR DECAF SWISS WATER? ,High,Tom
+T-0561,email,04/19/2026 04:40 PM,04/21/2026 05:58 PM, Kai.Berg@Hilltop-Partners.Com,Grinder setting for Sumatra Mandheling?,Normal,Tom
+T-0562,web,2026-03-06T15:06:36Z,2026-03-06T23:03:36Z,eli.novak@yahoo.com,Subscription: skip next delivery,High,Maya
+T-0563,phone,2026-04-27 16:15:17-04:00,2026-04-28 01:12:16-04:00,eli.novak@yahoo.com,Order HC-10481 arrived damaged,low,Tom
+T-0564,web,2026-03-16T15:41:40Z,2026-03-17T02:15:52Z,ivan.kim@hilltop-partners.com,Subscription: skip next delivery,Normal,Maya
+T-0565,phone,2026-03-04 11:31:26-05:00,2026-03-08 16:05:02-04:00, Eli.Ortiz@Yahoo.Com,  REFUND REQUEST - HC-10574 ,low,Tom
+T-0566,email,04/26/2026 03:38 PM,04/27/2026 01:30 PM,jo.novak@gmail.com,Order HC-10828 arrived damaged,low,Luis
+T-0567,phone,2026-03-16 15:08:07-04:00,2026-03-16 20:57:19-04:00,hana.ortiz@gmail.com,Order HC-10999 arrived damaged,urgent,Tom
+T-0568,email,04/16/2026 08:07 AM,04/16/2026 11:43 AM,jo.novak@hilltop-partners.com,Grinder setting for Espresso Roast?,High,Tom
+T-0569,web,2026-03-23T10:22:52Z,2026-03-23T17:57:40Z,dana.ortiz@hilltop-partners.com,Change address on HC-10135 please,high,Tom
+T-0570,phone,2026-03-16 15:53:21-04:00,2026-03-16 17:27:33-04:00, jo.ortiz@yahoo.com,Change address on HC-10964 please,Normal,Tom
+T-0571,email,03/10/2026 12:53 PM,03/12/2026 02:46 PM,ben.ortiz@example.org,Change address on HC-11061 please,Normal,Maya
+T-0572,phone,2026-03-30 09:51:17-04:00,2026-03-30 16:38:41-04:00,Asha.Li@Outlook.Com,Order HC-10235 arrived damaged,URGENT,Maya
+T-0573,web,2026-03-29T14:47:14Z,2026-03-29T22:22:02Z,chen.ortiz@hilltop-partners.com,"  WRONG BAG SIZE (1KG INSTEAD OF 500G), ORDER HC-10048 ",LOW,Priya
+T-0574,phone,2026-04-06 09:28:50-04:00,2026-04-06 10:33:02-04:00,ivan.rao@hilltop-partners.com,order hc 10658 still not here,LOW,Tom
+T-0575,phone,2026-04-19 16:24:06-04:00,2026-04-19 17:45:42-04:00,hana.ortiz@gmail.com,  REFUND REQUEST - HC-10434 ,high,Luis
+T-0576,web,2026-04-06T15:21:31Z,2026-04-08T02:35:55Z,dana.ortiz@yahoo.com,Grinder setting for Colombia Huila?,Normal,Luis
+T-0577,web,2026-04-27T22:55:30Z,2026-04-29T11:08:42Z,gus.berg@gmail.com,  WHERE IS MY ORDER #HC-11010? ,Low,Priya
+T-0578,web,2026-04-26T19:41:57Z,2026-04-28T05:02:57Z,eli.novak@outlook.com,  ORDER HC 10629 STILL NOT HERE ,low,Priya
+T-0579,web,2026-03-17T18:07:45Z,2026-03-18T05:01:45Z,gus.li@yahoo.com,Refund request - HC-10814,Normal,Luis
+T-0580,web,2026-03-12T00:08:45Z,2026-03-14T02:54:21Z,chen.rao@example.org,Can't log in,Low,Luis
+T-0581,email,04/16/2026 09:38 AM,04/16/2026 11:41 PM,Chen.Ortiz@Hilltop-Partners.Com,Refund request - HC-10705,HIGH ,Luis
+T-0582,web,2026-03-10T15:00:22Z,2026-03-11T00:38:10Z,chen.rao@example.org,Can't log in,normal,Priya
+T-0583,web,2026-03-31T08:42:25Z,2026-03-31T11:18:25Z,ben.ortiz@yahoo.com,Can't log in,High,Luis
+T-0584,phone,2026-04-20 11:03:13-04:00,2026-04-24 16:27:49-04:00,Ivan.Kim@Outlook.Com,Refund request - HC-10185,low,Priya
+T-0585,web,2026-03-02T16:14:32Z,2026-03-03T16:45:44Z,jo.ortiz@yahoo.com,  WHERE IS MY ORDER #HC-10150? ,normal,Luis
+T-0586,phone,2026-04-18 17:17:08-04:00,2026-04-19 19:39:56-04:00,gus.berg@example.org,Grinder setting for House Blend?,LOW,Tom
+T-0587,email,03/16/2026 03:21 PM,03/16/2026 10:02 PM,gus.berg@gmail.com,Order HC-10368 arrived damaged,High,Tom
+T-0588,web,2026-03-31T03:41:46Z,2026-04-02T10:15:58Z,hana.rao@outlook.com,Change address on HC-10907 please,LOW,Maya
+T-0589,web,2026-04-19T18:29:22Z,2026-04-20T08:55:10Z,lena.rao@outlook.com,order hc 11054 still not here,normal,Luis
+T-0590,email,04/12/2026 06:03 PM,04/13/2026 12:04 AM,ben.ortiz@yahoo.com,Change address on HC-10799 please,normal,Luis
+T-0591,web,2026-04-21T22:59:50Z,2026-04-25T18:00:26Z,asha.li@outlook.com,Can't log in,low,Maya
+T-0592,web,2026-04-27T15:47:52Z,2026-04-28T13:02:16Z,ivan.kim@hilltop-partners.com,Bag of Espresso Roast tastes stale (order #HC-11046),LOW,Maya
+T-0593,email,03/10/2026 11:43 AM,03/10/2026 05:35 PM,eli.ortiz@yahoo.com,Grinder setting for Decaf Swiss Water?,HIGH ,Maya
+T-0594,phone,2026-04-04 13:02:49-04:00,2026-04-04 20:20:49-04:00,hana.kim@outlook.com,order hc 10315 still not here,High,Maya
+T-0595,web,2026-04-11T09:46:12Z,2026-04-11T12:31:12Z,Jo.Novak@Hilltop-Partners.Com,"Wrong bag size (1kg instead of 500g), order HC-10744",Normal,Luis
+T-0596,web,2026-03-10T22:31:49Z,2026-03-11T14:28:49Z,kai.ortiz@example.org,  CHANGE ADDRESS ON HC-10535 PLEASE ,HIGH ,Maya
+T-0597,email,04/04/2026 09:56 AM,04/04/2026 12:12 PM,eli.rao@gmail.com,Where is my order #HC-10164?,URGENT,Maya
+T-0598,email,03/20/2026 12:00 AM,03/20/2026 05:06 AM,Chen.Ortiz@Example.Org,Change address on HC-10809 please,high,Maya
+T-0599,web,2026-03-19T23:19:03Z,2026-03-22T03:35:15Z,eli.ortiz@yahoo.com,  GRINDER SETTING FOR DECAF SWISS WATER? ,normal,Maya
+T-0600,email,04/08/2026 05:52 PM,04/10/2026 12:02 AM,lena.rao@example.org,Bag of Decaf Swiss Water tastes stale (order #HC-10163),Normal,Luis
+T-0601,email,04/14/2026 10:22 AM,04/14/2026 09:51 PM,farah.li@hilltop-partners.com,"  WRONG BAG SIZE (250G INSTEAD OF 500G), ORDER HC-11053 ",HIGH ,Priya
+T-0602,email,04/28/2026 10:57 AM,04/30/2026 03:04 AM,Ben.Ortiz@Yahoo.Com,Refund request - HC-10789,high,Priya
+T-0603,web,2026-03-21T21:46:54Z,2026-03-22T16:46:54Z,asha.ortiz@outlook.com,Can't log in,normal,Priya
+T-0604,web,2026-04-16T01:42:45Z,2026-04-17T18:36:45Z,gus.berg@gmail.com,Change address on HC-10810 please,Low,Maya
+T-0605,web,2026-03-26T15:16:51Z,2026-03-27T02:36:39Z,eli.ortiz@yahoo.com,Change address on HC-10534 please,High,Maya
+T-0606,email,04/21/2026 04:09 PM,04/26/2026 02:57 AM,ivan.kim@outlook.com,Change address on HC-10722 please,LOW,Maya
+T-0607,web,2026-04-13T20:21:35Z,2026-04-14T20:41:59Z,chen.berg@gmail.com,order hc 11014 still not here,Low,Maya
+T-0608,web,2026-04-01T21:35:30Z,2026-04-02T00:25:54Z,gus.rao@hilltop-partners.com,  CHANGE ADDRESS ON HC-10221 PLEASE ,High,Priya
+T-0609,phone,2026-03-14 11:58:05-04:00,2026-03-14 12:23:53-04:00, Chen.Ortiz@Hilltop-Partners.Com,Order HC-10622 arrived damaged,URGENT,Maya
+T-0610,web,2026-03-24T16:26:48Z,2026-03-25T14:04:00Z,gus.li@yahoo.com,Bag of Colombia Huila tastes stale (order #HC-10306),Normal,Luis
+T-0611,web,2026-04-27T20:51:23Z,2026-04-28T03:08:47Z,gus.berg@example.org,Grinder setting for Ethiopia Yirgacheffe?,LOW,Maya
+T-0612,phone,2026-03-24 12:40:25-04:00,2026-03-27 03:02:37-04:00,chen.novak@gmail.com,Order HC-10399 arrived damaged,LOW,Tom
+T-0613,web,2026-03-30T16:28:55Z,2026-04-05T00:04:55Z,hana.rao@outlook.com,order hc 10756 still not here,LOW,Priya
+T-0614,web,2026-03-08T12:54:37Z,2026-03-08T16:42:01Z,jo.novak@gmail.com,Bag of Decaf Swiss Water tastes stale (order #HC-10563),URGENT,Maya
+T-0615,email,04/15/2026 05:32 PM,04/16/2026 12:00 AM,chen.novak@gmail.com,Refund request - HC-10737,HIGH ,Maya
+T-0616,email,03/18/2026 01:48 AM,03/18/2026 04:09 PM, gus.rao@hilltop-partners.com,Can't log in,low,Maya
+T-0617,phone,2026-03-13 09:59:38-04:00,2026-03-14 03:52:26-04:00,eli.rao@gmail.com,"Wrong bag size (1kg instead of 250g), order HC-10355",normal,Luis
+T-0618,web,2026-04-19T16:34:02Z,2026-04-19T17:50:50Z,eli.rao@gmail.com,Grinder setting for Decaf Swiss Water?,URGENT,Priya
+T-0619,web,2026-03-20T15:48:49Z,2026-03-20T19:05:37Z,eli.ortiz@hilltop-partners.com,Subscription: skip next delivery,urgent,Tom
+T-0620,web,2026-03-11T12:45:44Z,2026-03-12T04:28:56Z,ben.berg@yahoo.com,Refund request - HC-11005,LOW,Maya
+T-0621,web,2026-03-15T15:06:57Z,2026-03-16T14:25:33Z,Hana.Kim@Outlook.Com,Order HC-10978 arrived damaged,low,Maya
+T-0622,web,2026-04-07T15:56:58Z,2026-04-09T02:21:33Z,ivan.kim@outlook.com,order hc 10593 still not here,normal,Tom
+T-0623,web,2026-03-17T23:03:07Z,2026-03-18T04:20:31Z,chen.berg@gmail.com,Can't log in,URGENT,Tom
+T-0624,email,04/21/2026 05:59 AM,04/21/2026 12:35 PM,Gus.Berg@Gmail.Com,order hc 10405 still not here,HIGH ,Priya
+T-0625,web,2026-04-10T17:12:46Z,2026-04-11T04:46:22Z,dana.li@hilltop-partners.com,Can't log in,normal,Maya
+T-0626,web,2026-04-09T16:59:35Z,2026-04-11T10:10:59Z, dana.li@hilltop-partners.com,Grinder setting for Ethiopia Yirgacheffe?,Normal,Luis
+T-0627,email,04/14/2026 08:30 AM,04/15/2026 02:13 AM,Hana.Rao@Outlook.Com,order hc 10451 still not here,Normal,Priya
+T-0628,web,2026-04-16T02:33:27Z,2026-04-16T12:02:51Z,Gus.Rao@Hilltop-Partners.Com,Can't log in,high,Priya
+T-0629,phone,2026-04-22 08:43:01-04:00,2026-04-22 20:19:01-04:00,chen.ortiz@hilltop-partners.com,Bag of Colombia Huila tastes stale (order #HC-11075),high,Luis
+T-0630,phone,2026-04-08 09:49:12-04:00,2026-04-11 23:59:24-04:00,gus.li@hilltop-partners.com,"Wrong bag size (250g instead of 500g), order HC-10461",LOW,Tom
+T-0631,email,04/02/2026 02:36 PM,04/03/2026 03:03 PM,eli.berg@outlook.com,Subscription: skip next delivery,low,Maya
+T-0632,web,2026-04-17T15:26:17Z,2026-04-18T18:00:29Z,gus.berg@gmail.com,Refund request - HC-10064,Normal,Luis
+T-0633,web,2026-03-29T00:41:13Z,2026-03-29T05:20:13Z,gus.li@hilltop-partners.com,Order HC-10289 arrived damaged,Normal,Priya
+T-0634,web,2026-04-28T19:38:05Z,2026-04-30T12:17:41Z,farah.kim@hilltop-partners.com,Change address on HC-10890 please,normal,Priya
+T-0635,web,2026-03-16T15:19:23Z,2026-03-17T05:58:59Z,asha.ortiz@outlook.com,Change address on HC-10516 please,high,Priya
+T-0636,phone,2026-04-16 20:30:16-04:00,2026-04-17 14:09:15-04:00,hana.rao@outlook.com,Order HC-10496 arrived damaged,LOW,Luis
+T-0637,web,2026-04-05T20:34:26Z,2026-04-06T00:23:38Z, Gus.Berg@Outlook.Com,  CHANGE ADDRESS ON HC-10436 PLEASE ,high,Luis
+T-0638,email,04/23/2026 06:42 PM,,eli.ortiz@yahoo.com,Grinder setting for Sumatra Mandheling?,low,Luis
+T-0639,web,2026-04-29T00:50:30Z,2026-04-29T19:58:54Z,Kai.Novak@Yahoo.Com,order hc 10183 still not here,normal,Luis
+T-0640,web,2026-04-12T21:52:56Z,2026-04-13T02:01:56Z,Gus.Novak@Yahoo.Com,order hc 10923 still not here,Normal,Maya

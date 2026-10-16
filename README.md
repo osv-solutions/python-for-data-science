@@ -48,17 +48,20 @@ is not found.
 | `chinook.sqlite` | Chinook sample database, Luis Rocha | MIT |
 | `gapminder.csv` (Part II folders, served by `practice_web.py`) | Gapminder Foundation, gapminder.org | CC BY 4.0 |
 | `transactions.csv`, `store_sales.xlsx`, `orders.json` | Created for this book | Free to use |
+| `shop_orders_raw.csv`, `shop_orders.parquet`, `shop_customers.csv`, `support_tickets.csv` (Part III) | Created for this book: a fictional coffee shop | Free to use |
+| `service_requests.csv`, `agencies.csv`, `districts.csv` (Project 5) | Created for this book, modeled on cities' open 311 data | Free to use |
 
 ## Part II: the practice server
 
-Chapters 6 to 10 and Projects 2 and 3 talk to `practice_web.py`, a small web
+Chapters 6 to 10 and Projects 2 to 4 talk to `practice_web.py`, a small web
 server that runs on your own computer and plays the part of a bike-share API,
 a development-indicators API, an online bookstore and a JavaScript store. Each
 Part II folder has its own copy. The book's code starts it in the background
 with `practice_web.start()`; you can also run `python practice_web.py` in a
 second terminal. Chapter 9 drives a real browser: install it once with
-`python -m playwright install chromium`, and run that chapter's code as a
-script rather than in a notebook (see the note in the chapter).
+`python -m playwright install chromium`, and run that chapter's code, and
+Project 4's, as a script rather than in a notebook (see the note in the
+chapter).
 
 ## Checking everything
 
