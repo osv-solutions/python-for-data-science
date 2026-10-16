@@ -28,3 +28,8 @@ There is rarely only one correct solution. If your code gets the same result in 
 | 16. Statistical Charts with seaborn | [ch16_solutions.md](ch16_solutions.md) |
 | 17. Interactive Charts with Plotly | [ch17_solutions.md](ch17_solutions.md) |
 | 18. Exploratory Data Analysis | [ch18_solutions.md](ch18_solutions.md) |
+| 19. Statistics for Data Science | [ch19_solutions.md](ch19_solutions.md) |
+| 20. Hypothesis Testing and A/B Tests | [ch20_solutions.md](ch20_solutions.md) |
+| 21. Time Series Analysis | [ch21_solutions.md](ch21_solutions.md) |
+| 22. Faster and Bigger Data: Polars and DuckDB | [ch22_solutions.md](ch22_solutions.md) |
+| 23. Sharing Results | [ch23_solutions.md](ch23_solutions.md) |

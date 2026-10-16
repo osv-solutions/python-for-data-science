@@ -1,0 +1,1801 @@
+listing_id,district,bedrooms,bathrooms,sqft,rent,year_built,distance_km,parking,pets_allowed,laundry,listed,days_on_market
+R00001,West,2,1.5,935,1425,2000,4.1,True,True,in unit,2025-09-17,17
+R00002,Central,3,2.5,1352,2490,1925,0.5,False,True,in building,2025-07-18,13
+R00003,West,3,2.0,1222,1920,1983,3.2,False,True,none,2025-08-24,14
+R00004,Harbor,1,1.0,653,1535,2008,0.4,False,False,in unit,2025-09-11,15
+R00005,Central,1,1.0,697,1210,1918,0.6,False,False,none,2025-04-07,23
+R00006,Harbor,1,1.5,848,2290,2012,1.6,True,True,none,2025-11-06,52
+R00007,North,2,1.5,997,1665,1968,0.9,False,True,in building,2025-09-20,42
+R00008,South,3,2.5,1146,1520,2003,4.1,True,True,none,2025-12-17,6
+R00009,North,1,1.0,708,1160,1960,7.4,True,False,in building,2025-04-06,44
+R00010,South,1,1.5,622,735,1962,3.4,True,True,in building,2025-09-18,23
+R00011,South,0,1.0,534,805,2025,2.8,True,True,in building,2025-06-22,11
+R00012,Central,2,1.5,1021,1635,,1.2,False,False,in unit,2025-05-28,12
+R00013,Harbor,2,2.0,844,2085,2016,1.7,False,False,in building,2025-08-10,18
+R00014,West,4,2.5,1451,2585,2007,0.7,False,True,in building,2025-11-17,44
+R00015,Central,1,1.0,,1750,1928,0.9,False,False,in unit,2025-09-12,15
+R00016,South,3,2.5,,1530,1978,3.9,True,True,in unit,2025-03-15,56
+R00017,Harbor,3,2.0,1205,3410,2025,1.8,True,False,in unit,2025-05-24,22
+R00018,Central,1,1.5,613,1265,1965,0.7,False,False,in building,2025-07-26,9
+R00019,West,4,2.5,1372,1675,1947,9.1,True,True,in building,2025-07-22,16
+R00020,West,3,2.5,1131,1650,1996,6.3,True,True,in unit,2025-12-26,16
+R00021,North,0,1.0,413,565,1954,5.9,False,True,in building,2025-12-19,13
+R00022,South,4,2.5,1432,1830,1971,5.3,True,False,in building,2025-09-03,16
+R00023,West,1,1.5,601,670,1969,11.3,False,True,in building,2025-10-21,19
+R00024,Harbor,3,2.0,1382,3790,2025,0.9,True,False,in unit,2025-03-09,28
+R00025,Harbor,2,1.5,1024,2975,1993,2.5,True,False,in unit,2025-10-09,37
+R00026,West,0,1.0,404,765,1992,2.4,False,False,in unit,2025-09-23,10
+R00027,Harbor,0,1.0,465,1240,2007,1.6,True,True,in building,2025-04-23,42
+R00028,South,1,1.0,746,1195,2008,4.7,True,True,in unit,2025-08-28,73
+R00029,Central,4,3.0,1496,3185,1952,1.4,False,False,in unit,2025-05-17,30
+R00030,Harbor,0,1.5,509,1330,,1.3,False,False,in unit,2025-06-17,31
+R00031,Central,1,1.0,839,1985,1967,1.3,True,True,in unit,2025-07-24,14
+R00032,South,3,2.5,1205,1345,1974,2.6,True,True,in building,2025-01-02,2
+R00033,West,2,1.5,,1175,1999,9.1,True,True,in building,2025-03-02,13
+R00034,North,3,2.0,1074,1640,1997,4.6,False,False,in unit,2025-05-24,15
+R00035,South,4,2.5,1594,1525,1954,9.5,True,True,in building,2025-07-15,26
+R00036,South,4,3.0,1452,2025,2016,5.3,False,False,in unit,2025-02-11,9
+R00037,North,1,1.0,479,820,1955,3.0,True,True,in building,2025-08-03,44
+R00038,East,3,2.0,1246,1965,2010,3.1,False,True,in unit,2025-08-01,13
+R00039,North,3,2.0,1187,1715,1982,5.5,True,True,in unit,2025-08-21,19
+R00040,South,1,1.0,667,630,1973,8.8,False,False,none,2025-11-18,5
+R00041,West,1,1.5,691,985,1967,7.6,True,True,none,2025-09-15,61
+R00042,South,3,2.5,1047,1125,1978,8.5,False,False,in building,2025-07-03,8
+R00043,North,2,2.0,,1470,1967,2.7,True,False,in unit,2025-09-11,21
+R00044,West,4,2.5,1438,2300,2003,3.8,True,True,none,2025-02-13,5
+R00045,Central,2,1.5,935,2000,1913,0.5,True,True,in unit,2025-05-04,45
+R00046,Harbor,3,2.5,1165,3050,2010,1.2,True,False,in building,2025-12-18,31
+R00047,Harbor,2,1.5,890,2530,2016,2.1,True,True,in unit,2025-11-22,41
+R00048,West,2,2.0,955,1310,1996,3.4,False,False,in building,2025-10-05,4
+R00049,South,1,1.0,,890,1949,4.8,False,False,in unit,2025-10-28,64
+R00050,North,2,2.0,898,1215,,5.4,True,True,none,2025-03-10,8
+R00051,South,4,3.0,1645,2060,1983,1.4,False,True,in unit,2025-05-01,17
+R00052,Central,1,1.5,753,1495,1924,0.7,False,True,none,2025-01-20,22
+R00053,South,2,1.5,923,1095,1990,3.5,False,True,in building,2025-09-05,18
+R00054,Harbor,1,1.5,615,1695,,0.7,False,True,in unit,2025-03-27,23
+R00055,South,2,2.0,876,1270,1949,6.3,True,True,in unit,2025-07-14,6
+R00056,West,2,2.0,939,1610,,5.5,True,True,in building,2025-02-18,67
+R00057,Harbor,1,1.5,675,1840,2025,4.0,True,False,none,2025-05-24,4
+R00058,Harbor,1,1.5,826,1765,1959,1.1,True,True,in building,2025-04-13,11
+R00059,Harbor,3,2.5,1174,2890,2021,2.2,False,False,in unit,2025-07-24,18
+R00060,Central,3,2.5,1234,2870,1972,1.3,True,True,in unit,2025-02-15,62
+R00061,East,1,1.0,695,985,1971,2.7,False,True,in building,2025-08-21,27
+R00062,East,2,1.5,888,1235,1981,5.6,True,True,none,2025-05-22,40
+R00063,East,3,2.5,1239,1755,1973,4.3,True,False,none,2025-09-13,46
+R00064,Central,3,2.0,1180,2170,1927,0.7,False,False,in unit,2025-04-10,27
+R00065,Harbor,4,3.5,3400,12500,1998,2.7,False,True,in building,2025-08-23,8
+R00066,South,3,2.0,1274,1650,1959,2.0,False,False,none,2025-01-27,5
+R00067,North,2,1.5,922,1175,1928,3.5,False,True,in unit,2025-01-24,4
+R00068,Central,0,1.0,447,1095,1913,0.6,True,True,in unit,2025-05-03,84
+R00069,North,2,1.5,742,1245,1961,0.7,True,False,in unit,2025-03-25,12
+R00070,Central,0,1.5,393,795,1951,1.4,False,False,in building,2025-07-18,51
+R00071,North,0,1.0,325,610,1967,6.8,False,True,in unit,2025-07-05,17
+R00072,East,3,2.5,1259,1870,1976,3.5,False,False,none,2025-08-15,34
+R00073,Central,3,2.0,1170,2295,1946,0.9,False,True,none,2025-05-14,18
+R00074,East,3,2.0,1325,1910,1984,2.5,True,False,in building,2025-02-10,14
+R00075,Central,2,2.0,841,1465,1900,0.8,False,False,in unit,2025-04-14,27
+R00076,East,1,1.5,619,830,1995,6.4,False,True,in building,2025-07-06,1
+R00077,South,1,1.5,497,705,1955,9.6,True,True,in unit,2025-07-10,39
+R00078,South,3,2.0,1032,1295,1963,5.3,True,True,in unit,2025-08-13,5
+R00079,East,1,1.0,733,1045,1981,3.1,True,False,in building,2025-12-02,17
+R00080,Central,3,2.5,1263,2615,1937,0.6,False,True,in building,2025-06-17,15
+R00081,North,3,2.0,1349,1880,1971,7.4,False,True,in unit,2025-07-09,15
+R00082,North,2,2.0,812,1250,1987,5.3,False,False,in unit,2025-01-25,40
+R00083,North,3,2.0,1313,2060,1947,0.7,False,False,in unit,2025-06-28,25
+R00084,East,3,2.0,1050,1520,1945,2.3,True,True,in unit,2025-07-01,27
+R00085,Central,2,2.0,976,1940,1953,1.1,False,True,none,2025-11-03,9
+R00086,East,0,1.0,,525,1950,1.6,True,True,none,2025-09-22,6
+R00087,East,1,1.0,771,1165,1967,3.8,True,True,in building,2025-08-25,37
+R00088,Harbor,2,1.5,951,1980,2019,1.3,True,True,none,2025-11-18,10
+R00089,East,0,1.5,332,525,1996,4.4,True,False,none,2025-11-27,47
+R00090,East,2,1.5,914,1115,1957,3.5,True,True,none,2025-05-28,11
+R00091,Central,2,1.5,904,1890,1949,0.9,False,False,in building,2025-11-28,17
+R00092,Central,0,1.0,332,745,1952,0.3,False,True,none,2025-07-22,42
+R00093,North,1,1.0,685,835,1955,7.0,False,False,in building,2025-10-15,10
+R00094,North,3,2.0,1045,1675,1963,3.9,True,False,in building,2025-07-09,10
+R00095,West,0,1.0,557,875,1961,5.8,True,True,none,2025-11-03,15
+R00096,Harbor,4,2.5,1640,4320,2025,1.9,False,False,in unit,2025-11-26,4
+R00097,East,2,1.5,799,1125,1971,4.1,False,True,in unit,2025-11-06,70
+R00098,Harbor,2,1.5,1019,2290,2025,4.6,True,False,in unit,2025-03-24,37
+R00099,South,2,2.0,850,1090,1986,5.7,True,True,none,2025-08-28,23
+R00100,South,1,1.5,677,875,1974,6.7,True,False,in building,2025-04-11,24
+R00101,North,3,2.0,1122,1760,1954,2.2,False,True,in building,2025-09-03,11
+R00102,North,2,2.0,942,1390,1969,7.3,True,True,in building,2025-06-24,9
+R00103,South,2,2.0,947,1160,2010,8.6,False,True,in building,2025-02-09,53
+R00104,North,2,1.5,929,1295,1949,3.2,True,True,in unit,2025-05-08,5
+R00105,Central,2,1.5,846,1645,1946,0.4,False,False,none,2025-12-02,55
+R00106,Harbor,3,2.0,1332,2805,,2.5,False,True,in building,2025-12-27,21
+R00107,South,2,1.5,924,1115,1982,4.1,False,False,in building,2025-04-09,14
+R00108,Central,1,1.0,666,1545,1936,0.2,False,False,in unit,2025-05-02,87
+R00109,Harbor,1,1.0,534,1575,2010,2.2,False,True,in unit,2025-05-21,21
+R00110,Central,0,1.0,443,1075,1948,1.2,False,True,in unit,2025-11-22,51
+R00111,North,1,1.5,762,1175,1954,5.2,False,False,in unit,2025-04-23,1
+R00112,East,0,1.0,466,575,1943,8.1,True,False,in building,2025-08-07,10
+R00113,West,1,1.0,724,1035,1960,4.0,True,True,none,2025-09-01,47
+R00114,Central,1,1.0,639,1175,1919,1.5,False,True,in building,2025-04-08,9
+R00115,Central,2,1.5,1046,2485,1980,1.2,True,True,in building,2025-09-18,34
+R00116,East,3,2.0,1386,2170,2008,3.0,True,True,none,2025-10-08,30
+R00117,Central,3,2.0,1102,2400,1925,0.6,False,False,in building,2025-10-02,20
+R00118,East,1,1.0,922,1220,1953,2.5,True,True,in building,2025-03-07,3
+R00119,South,1,1.0,755,910,1968,3.0,False,False,in unit,2025-08-08,11
+R00120,West,3,2.5,1142,2150,1984,3.6,True,True,in unit,2025-05-14,48
+R00121,South,2,1.5,1004,1305,1951,5.2,True,False,in unit,2025-03-13,16
+R00122,Harbor,0,1.5,258,785,2018,1.3,False,False,in unit,2025-04-05,41
+R00123,Harbor,2,1.5,872,2260,2011,2.0,False,True,in building,2025-09-23,73
+R00124,West,2,2.0,955,1320,1948,6.5,False,True,in unit,2025-11-06,35
+R00125,South,2,1.5,802,1035,1982,5.2,True,False,in unit,2025-07-07,90
+R00126,East,1,1.0,732,975,1979,8.1,False,True,in building,2025-11-13,9
+R00127,East,3,2.5,1112,1550,1961,2.7,False,False,in building,2025-12-17,13
+R00128,Central,2,1.5,975,1775,1916,0.6,False,True,in building,2025-06-02,19
+R00129,Central,2,1.5,861,1930,1949,0.4,False,True,in unit,2025-08-20,19
+R00130,South,2,1.5,878,1190,1960,4.2,False,False,in unit,2025-10-24,60
+R00131,South,1,1.0,620,730,1964,5.7,True,False,in building,2025-07-17,60
+R00132,East,1,1.0,684,840,1968,3.9,False,False,none,2025-04-17,2
+R00133,North,1,1.5,637,1110,1979,4.7,True,False,in building,2025-04-21,85
+R00134,West,0,1.0,,615,1979,5.7,False,False,in unit,2025-03-04,18
+R00135,Central,1,1.5,758,1545,1932,1.1,True,True,in building,2025-10-28,6
+R00136,West,1,1.0,498,900,1981,0.8,True,False,in building,2025-03-17,32
+R00137,North,2,2.0,816,1270,1988,2.2,True,False,in building,2025-07-20,34
+R00138,East,3,2.0,1213,1815,1983,3.3,False,True,none,2025-07-17,10
+R00139,North,1,1.0,605,875,1941,2.6,True,True,in building,2025-07-09,6
+R00140,East,1,1.5,,1095,2008,5.8,True,False,none,2025-02-17,38
+R00141,East,1,1.5,728,1140,1989,4.1,True,True,in unit,2025-10-16,11
+R00142,South,0,1.0,,525,1956,4.9,True,True,in unit,2025-12-03,21
+R00143,West,2,1.5,929,1330,1990,10.4,True,True,in unit,2025-07-03,28
+R00144,Central,0,1.0,544,1220,1956,1.0,False,False,none,2025-10-04,34
+R00145,North,2,1.5,789,1340,1985,2.5,True,True,in unit,2025-04-08,45
+R00146,North,3,2.0,1149,1685,1969,4.5,False,True,in unit,2025-11-19,3
+R00147,East,3,2.5,1091,1495,1948,5.1,True,True,in building,2025-11-19,2
+R00148,South,2,1.5,1023,1085,1967,1.5,False,False,in building,2025-07-12,24
+R00149,East,0,1.0,468,845,1977,2.0,True,True,in building,2025-03-12,48
+R00150,South,4,3.0,1592,2115,2003,4.0,True,True,in unit,2025-02-21,18
+R00151,North,1,1.0,718,1110,1970,4.2,True,False,none,2025-11-09,5
+R00152,South,2,1.5,923,1265,,6.3,True,False,in unit,2025-11-23,6
+R00153,East,3,2.5,1140,1480,1953,5.3,True,False,in building,2025-08-25,25
+R00154,Harbor,3,2.0,1362,3730,2025,1.3,True,False,in building,2025-06-22,47
+R00155,Central,3,2.0,1264,2670,1964,1.3,False,True,none,2025-06-10,24
+R00156,East,0,1.0,378,500,1968,0.4,False,True,none,2025-12-26,39
+R00157,West,2,2.0,1086,1880,2013,5.1,False,False,in unit,2025-08-08,63
+R00158,North,3,2.0,1216,2075,1975,2.8,True,True,in unit,2025-10-08,17
+R00159,Central,3,2.0,1144,2110,1917,0.7,False,True,in building,2025-09-24,9
+R00160,Central,2,1.5,948,2000,1922,0.8,False,False,in unit,2025-03-18,32
+R00161,North,0,1.0,682,885,,16.3,True,False,in unit,2025-05-24,24
+R00162,West,3,2.0,1298,1645,1963,7.6,False,False,in unit,2025-04-07,26
+R00163,West,2,1.5,854,1565,1992,3.6,True,True,in unit,2025-11-18,17
+R00164,South,3,2.5,1154,1405,1988,6.5,True,True,in building,2025-11-10,7
+R00165,North,2,1.5,941,1195,1950,2.2,False,False,none,2025-12-28,11
+R00166,South,2,1.5,987,1110,1982,8.1,False,True,in building,2025-06-20,25
+R00167,North,2,1.5,905,1475,1953,5.1,True,False,in unit,2025-04-05,18
+R00168,East,4,2.5,1416,2045,1964,1.2,True,True,none,2025-04-25,11
+R00169,Central,1,1.0,616,1280,1910,0.4,False,True,in unit,2025-03-18,27
+R00170,Harbor,1,1.0,812,2400,2017,0.9,True,True,in unit,2025-03-24,21
+R00171,East,3,2.5,1203,1735,1954,3.5,False,True,in unit,2025-12-04,58
+R00172,South,3,2.0,1191,1385,1971,6.0,False,True,in unit,2025-06-27,17
+R00173,North,2,1.5,872,1360,1945,1.7,False,True,none,2025-09-22,41
+R00174,Harbor,2,2.0,990,2605,1993,1.8,False,False,in unit,2025-03-14,18
+R00175,West,1,1.0,688,1245,2020,2.6,False,False,in unit,2025-04-01,59
+R00176,Harbor,2,1.5,902,2395,2025,3.3,True,False,none,2025-06-17,26
+R00177,South,2,1.5,703,730,1918,8.2,True,False,none,2025-05-07,35
+R00178,South,2,1.5,975,1585,2025,3.7,True,True,in unit,2025-06-13,25
+R00179,South,1,1.5,630,775,1966,6.0,False,True,in building,2025-06-28,3
+R00180,North,1,1.0,629,1025,1977,3.3,False,False,in unit,2025-08-28,15
+R00181,South,4,3.0,1516,2210,1976,3.3,True,False,in unit,2025-07-17,3
+R00182,West,0,1.5,479,640,1954,5.3,True,True,in building,2025-06-12,31
+R00183,Central,3,2.0,1350,2660,1965,1.3,False,False,in building,2025-03-04,40
+R00184,South,2,1.5,1043,1315,1974,2.6,False,False,in unit,2025-09-26,33
+R00185,Harbor,3,2.0,1243,3430,2015,2.0,True,False,in unit,2025-08-07,27
+R00186,East,3,2.0,1317,1725,1963,7.0,True,False,none,2025-12-23,22
+R00187,West,4,2.5,1461,1925,1978,5.1,True,True,none,2025-08-17,24
+R00188,North,0,1.0,536,935,1948,2.1,True,True,in unit,2025-05-08,70
+R00189,North,2,1.5,877,1500,1972,0.9,True,False,in building,2025-07-09,11
+R00190,Central,4,2.5,1442,2940,1915,0.9,False,False,none,2025-06-14,19
+R00191,South,3,2.5,1206,1675,1965,1.5,False,False,none,2025-06-17,14
+R00192,North,1,1.0,688,1020,,5.3,False,False,in unit,2025-02-24,24
+R00193,West,2,1.5,989,1575,1974,1.8,False,True,in unit,2025-06-23,3
+R00194,West,4,2.5,1506,1840,1950,4.4,False,True,in building,2025-07-12,31
+R00195,East,2,1.5,976,1420,1956,3.9,False,True,in unit,2025-04-11,14
+R00196,West,2,2.0,862,1365,,6.6,True,True,in unit,2025-03-09,7
+R00197,Central,1,1.5,728,1710,1951,0.4,False,True,in building,2025-07-22,98
+R00198,North,3,2.0,1110,1820,1944,4.8,True,True,in unit,2025-09-22,11
+R00199,West,4,2.5,1392,1860,1973,7.4,False,True,in building,2025-04-27,30
+R00200,Central,1,1.0,705,1265,1929,0.5,False,True,in building,2025-07-17,6
+R00201,East,3,2.5,1210,1665,1970,1.0,False,False,in building,2025-07-27,16
+R00202,East,0,1.5,512,830,1963,1.6,True,True,in unit,2025-08-16,78
+R00203,West,3,2.0,1121,1640,1990,1.3,False,False,in unit,2025-05-17,18
+R00204,North,1,1.5,607,930,,3.9,True,False,none,2025-08-11,20
+R00205,Central,2,2.0,887,1885,1946,0.9,False,True,in building,2025-06-01,22
+R00206,South,3,2.5,1212,1220,1946,8.1,False,True,in unit,2025-07-25,27
+R00207,West,1,1.0,710,975,1954,4.9,True,False,none,2025-06-02,14
+R00208,North,3,2.0,1162,1515,1959,7.6,False,True,in building,2025-05-17,23
+R00209,West,2,1.5,947,1325,1972,3.3,False,True,none,2025-05-01,19
+R00210,North,2,1.5,909,1400,1971,3.6,True,True,in building,2025-06-06,21
+R00211,Central,1,1.5,701,1300,1921,0.7,False,False,in unit,2025-03-09,30
+R00212,East,1,1.5,756,1325,1982,2.7,True,True,none,2025-07-15,59
+R00213,North,1,1.0,570,840,1945,5.7,True,True,in building,2025-07-07,22
+R00214,North,1,1.0,850,1350,1985,3.3,True,False,in unit,2025-12-21,23
+R00215,West,1,1.0,675,1135,1986,2.0,False,False,in building,2025-05-22,36
+R00216,West,2,1.5,986,1365,1985,3.4,False,True,in building,2025-02-05,21
+R00217,South,3,2.5,1195,1660,1991,2.6,True,True,in unit,2025-03-05,35
+R00218,West,2,2.0,842,1205,1976,5.0,True,True,in unit,2025-01-13,18
+R00219,North,3,2.0,1192,1775,1950,1.7,True,True,in unit,2025-05-02,21
+R00220,North,2,1.5,917,1305,1958,6.3,True,False,in unit,2025-08-11,20
+R00221,West,2,1.5,821,1230,2005,5.3,False,True,in unit,2025-07-15,9
+R00222,North,0,1.5,528,680,1958,8.7,True,True,none,2025-03-08,97
+R00223,Harbor,3,2.0,1135,3115,2025,1.0,False,True,none,2025-01-14,50
+R00224,Harbor,3,2.5,1128,2565,2025,1.3,True,True,none,2025-02-01,18
+R00225,West,1,1.0,802,1180,1973,3.7,False,False,in building,2025-05-20,10
+R00226,West,1,1.0,617,890,1996,13.3,True,True,in unit,2025-10-17,27
+R00227,West,4,2.5,1348,2040,2015,7.3,True,False,none,2025-07-03,50
+R00228,South,1,1.5,770,970,1989,4.4,True,False,in building,2025-09-04,13
+R00229,East,2,2.0,881,1280,1960,4.1,True,False,in unit,2025-12-17,9
+R00230,Central,4,3.0,1562,3540,1958,0.7,False,False,in building,2025-07-27,18
+R00231,West,1,1.0,736,1350,2025,6.0,True,False,none,2025-05-10,26
+R00232,South,2,1.5,1122,1635,2007,0.9,False,True,in building,2025-03-03,6
+R00233,South,3,2.0,1164,1350,1966,8.9,True,False,in unit,2025-08-01,41
+R00234,West,3,2.0,1236,1830,2006,5.7,False,False,none,2025-10-12,20
+R00235,Harbor,4,2.5,1520,3720,1986,1.6,True,True,none,2025-07-12,121
+R00236,East,3,2.0,1208,1615,1966,6.0,True,True,in building,2025-07-01,17
+R00237,East,0,1.0,363,595,1961,5.7,False,True,in unit,2025-08-08,14
+R00238,Harbor,2,1.5,1003,2220,2007,1.2,False,True,none,2025-06-04,1
+R00239,South,1,1.0,731,885,1974,4.4,False,True,in unit,2025-04-13,34
+R00240,South,2,1.5,1002,1235,1978,8.1,True,True,in building,2025-11-18,25
+R00241,East,1,1.0,577,910,1977,6.1,True,False,in building,2025-06-15,17
+R00242,West,3,2.0,1076,1620,,3.7,True,False,in unit,2025-08-06,36
+R00243,North,4,3.0,1389,2040,1957,6.3,True,False,none,2025-07-23,8
+R00244,East,0,1.0,477,815,1973,3.5,True,False,in unit,2025-12-14,10
+R00245,North,1,1.0,663,1090,1963,6.2,True,True,in unit,2025-10-08,57
+R00246,South,3,2.0,1149,1390,1966,8.8,True,False,in building,2025-04-05,20
+R00247,South,2,1.5,1069,1395,1974,5.3,True,False,in unit,2025-05-20,14
+R00248,West,4,2.5,1384,2160,1989,4.9,True,True,in building,2025-03-14,14
+R00249,East,3,2.5,1126,1500,1983,6.3,True,True,none,2025-07-05,7
+R00250,South,2,1.5,1060,1420,1988,8.4,False,True,in unit,2025-11-11,13
+R00251,North,1,1.5,549,925,1951,3.1,True,True,in unit,2025-06-11,56
+R00252,Central,2,2.0,818,1570,1920,0.9,True,False,in unit,2025-04-05,32
+R00253,East,3,2.0,1276,1820,1986,4.9,True,False,in building,2025-03-26,10
+R00254,Central,3,2.0,1106,2135,1930,0.6,False,False,in building,2025-07-08,26
+R00255,East,2,1.5,836,1205,1967,2.6,True,False,none,2025-04-04,17
+R00256,South,2,2.0,813,1120,1978,1.7,True,True,none,2025-06-05,58
+R00257,East,0,1.5,328,595,1989,2.5,True,False,in building,2025-06-09,10
+R00258,East,1,1.5,640,1005,1991,5.4,True,True,in building,2025-05-22,2
+R00259,East,3,2.5,1204,1760,1984,3.1,True,False,in building,2025-09-04,7
+R00260,South,1,1.0,790,985,,4.5,True,False,none,2025-05-11,19
+R00261,North,0,1.5,496,1035,1976,2.5,True,True,in unit,2025-07-12,11
+R00262,East,3,2.0,1187,1910,1958,3.0,True,False,in unit,2025-02-17,18
+R00263,South,0,1.0,,730,1959,4.9,True,True,in building,2025-06-18,20
+R00264,South,3,2.5,1271,1680,,6.8,True,False,in building,2025-05-08,36
+R00265,West,4,2.5,,2000,2006,4.9,True,False,in unit,2025-06-20,15
+R00266,Harbor,3,2.5,1349,3585,2025,2.0,False,True,in building,2025-10-06,21
+R00267,South,1,1.0,695,1025,1973,7.9,True,False,in unit,2025-07-03,3
+R00268,North,1,1.0,602,915,1922,5.3,False,True,in unit,2025-08-19,54
+R00269,Harbor,3,2.0,1225,2970,1999,3.6,True,True,in building,2025-07-01,21
+R00270,East,3,2.0,1378,1790,1935,2.1,False,True,in unit,2025-04-26,16
+R00271,North,1,1.0,742,1090,1967,4.8,False,False,in building,2025-01-25,28
+R00272,North,1,1.0,668,1000,1983,4.2,False,True,none,2025-06-05,25
+R00273,South,3,2.5,1296,1555,1954,10.1,True,True,none,2025-06-14,26
+R00274,East,4,3.0,1597,2080,1983,7.7,False,True,in building,2025-11-28,30
+R00275,North,2,2.0,973,1570,1956,3.4,True,True,in unit,2025-03-09,48
+R00276,West,2,1.5,985,1690,1967,5.8,True,True,in unit,2025-10-26,21
+R00277,South,1,1.0,565,905,1949,5.0,True,True,in unit,2025-12-06,82
+R00278,South,2,1.5,713,995,1968,6.4,True,True,in unit,2025-05-18,37
+R00279,North,3,2.0,1172,1465,1936,9.9,False,True,in building,2025-09-12,34
+R00280,West,0,1.0,464,830,1998,2.1,True,False,in building,2025-08-24,16
+R00281,Harbor,3,2.0,1239,2690,2012,3.0,False,True,in building,2025-02-02,36
+R00282,West,1,1.0,771,1160,2004,3.7,True,True,in building,2025-04-03,3
+R00283,North,2,2.0,798,1315,,6.1,True,True,none,2025-11-05,35
+R00284,West,0,1.0,519,1000,,7.3,True,True,in unit,2025-06-28,126
+R00285,North,1,1.5,722,1345,1987,2.7,False,True,in unit,2025-06-01,16
+R00286,Central,2,2.0,929,1795,1924,0.8,False,False,in building,2025-08-14,12
+R00287,Harbor,2,1.5,1097,2535,2007,3.1,False,True,in building,2025-07-02,15
+R00288,South,3,2.5,1143,1245,1978,9.5,False,True,none,2025-08-09,19
+R00289,Harbor,3,2.5,1217,2595,2025,0.9,False,False,in building,2025-07-26,1
+R00290,South,4,2.5,1501,2070,1950,4.9,True,True,in unit,2025-09-02,25
+R00291,Central,0,1.0,434,1110,1950,0.5,True,False,in unit,2025-07-25,23
+R00292,North,2,1.5,808,1300,1965,2.5,True,False,none,2025-02-08,47
+R00293,West,2,2.0,856,1325,2025,3.8,True,True,in building,2025-07-28,11
+R00294,West,2,2.0,947,1355,,8.9,True,True,none,2025-09-14,16
+R00295,West,2,1.5,983,1520,1999,3.5,True,False,none,2025-05-25,28
+R00296,East,1,1.0,632,1080,1977,2.5,True,False,in unit,2025-08-16,15
+R00297,Harbor,2,1.5,915,2380,2000,2.1,True,True,in unit,2025-04-17,20
+R00298,Harbor,3,2.0,1352,3745,,1.3,False,True,none,2025-09-21,38
+R00299,Central,4,2.5,1414,2755,1949,0.9,False,True,in building,2025-05-27,25
+R00300,South,3,2.0,1231,1550,1981,4.9,True,False,in unit,2025-05-01,5
+R00301,East,2,1.5,882,1545,1979,2.4,True,True,none,2025-05-24,15
+R00302,Central,2,1.5,810,1740,1947,1.9,False,False,none,2025-04-26,7
+R00303,West,2,1.5,914,1730,2025,4.8,False,True,in unit,2025-07-02,11
+R00304,Central,3,2.5,1249,2605,1913,0.5,False,False,in unit,2025-04-05,21
+R00305,North,1,1.5,624,945,1994,8.0,False,False,none,2025-10-08,58
+R00306,South,2,1.5,1038,1180,1953,8.9,True,False,in building,2025-12-04,48
+R00307,South,4,3.0,1596,1835,1970,4.9,False,False,in building,2025-12-21,10
+R00308,West,2,1.5,771,1225,1989,3.6,True,False,in building,2025-10-13,6
+R00309,East,1,1.5,710,1185,1992,5.1,True,True,in unit,2025-08-19,22
+R00310,Harbor,4,2.5,1523,4080,2011,1.5,True,False,in unit,2025-08-07,8
+R00311,Harbor,1,1.0,583,1615,1988,2.2,True,True,none,2025-12-18,23
+R00312,South,3,2.0,1160,1570,2008,6.2,True,True,in unit,2025-04-15,35
+R00313,West,3,2.0,1123,1715,1967,8.4,True,False,in unit,2025-06-13,18
+R00314,East,1,1.0,591,795,1944,4.7,False,True,in building,2025-11-09,43
+R00315,North,1,1.0,614,875,,3.7,False,True,in building,2025-08-15,1
+R00316,North,4,2.5,1486,2065,1928,3.0,True,True,in building,2025-12-11,7
+R00317,East,2,1.5,641,1085,1979,7.1,True,True,in building,2025-11-16,40
+R00318,North,1,1.0,745,1425,1968,7.4,True,True,in unit,2025-04-03,25
+R00319,West,3,2.0,1272,1825,1986,6.2,False,False,none,2025-06-23,36
+R00320,West,0,1.5,572,940,1980,6.9,True,False,in unit,2025-06-14,31
+R00321,West,1,1.5,774,1185,1966,7.2,False,True,in unit,2025-05-12,19
+R00322,West,4,2.5,1457,2480,2014,4.8,True,False,none,2025-03-03,42
+R00323,Central,2,2.0,756,1585,1950,0.5,False,True,in building,2025-02-10,18
+R00324,North,1,1.0,765,1205,1958,3.6,True,False,in unit,2025-11-24,54
+R00325,North,3,2.0,1165,1670,1972,9.3,False,False,in unit,2025-07-05,3
+R00326,South,1,1.0,531,615,1981,4.8,False,True,in building,2025-08-02,8
+R00327,West,1,1.0,854,1425,,4.3,True,True,in building,2025-12-28,11
+R00328,Harbor,2,1.5,847,2310,2006,1.7,False,False,in unit,2025-01-22,24
+R00329,South,3,2.0,1236,1270,1959,9.2,True,True,none,2025-04-28,12
+R00330,North,2,1.5,931,1115,1984,11.6,False,False,none,2025-09-04,7
+R00331,East,3,2.0,1211,1645,1986,3.8,True,True,in building,2025-06-20,46
+R00332,West,4,3.0,1523,2180,1973,7.2,True,True,in unit,2025-09-14,50
+R00333,South,2,1.5,1027,1235,1974,5.0,True,False,none,2025-05-09,28
+R00334,North,4,3.0,1604,2340,1980,4.3,False,True,none,2025-09-08,12
+R00335,South,1,1.0,697,775,1942,4.8,True,False,in building,2025-03-11,27
+R00336,East,4,2.5,1671,2605,2000,3.1,True,False,in building,2025-11-27,14
+R00337,Central,3,2.0,1075,2285,1933,0.7,False,True,in building,2025-07-14,62
+R00338,South,1,1.0,521,520,1962,4.6,False,False,in building,2025-07-16,37
+R00339,South,3,2.0,1117,1185,1943,5.4,True,False,none,2025-10-18,27
+R00340,North,0,1.0,581,930,1988,8.6,True,True,in building,2025-07-11,7
+R00341,North,3,2.5,1205,1825,,2.3,True,False,in unit,2025-08-25,26
+R00342,Central,0,1.5,361,990,1940,0.8,True,True,in building,2025-04-12,8
+R00343,South,4,3.0,1607,1710,1973,5.5,True,True,in unit,2025-04-22,18
+R00344,South,3,2.5,1120,1355,1989,6.0,False,True,in building,2025-11-26,53
+R00345,South,2,2.0,842,1045,1958,4.5,False,True,in unit,2025-11-08,28
+R00346,West,0,1.0,483,735,1984,5.8,False,True,in unit,2025-10-06,29
+R00347,Harbor,3,2.5,1052,2720,2025,1.0,False,False,in unit,2025-07-14,38
+R00348,West,4,3.0,1548,1890,1952,9.8,True,True,in unit,2025-07-05,14
+R00349,East,2,1.5,1008,1385,1968,4.5,False,True,in unit,2025-07-15,11
+R00350,East,2,1.5,,1300,1962,5.4,False,True,in building,2025-08-01,19
+R00351,Harbor,0,1.5,452,1050,1993,1.4,True,False,in unit,2025-02-20,10
+R00352,East,4,2.5,1488,2010,,3.3,False,True,in building,2025-06-23,20
+R00353,West,1,1.5,764,1415,1970,2.3,True,False,in unit,2025-09-17,8
+R00354,South,2,2.0,934,1245,1993,5.0,True,False,in unit,2025-06-24,24
+R00355,West,2,1.5,1107,1460,1967,7.3,False,True,in building,2025-07-22,28
+R00356,North,2,1.5,915,1085,1936,4.6,False,True,in building,2025-09-14,15
+R00357,North,3,2.5,1287,1830,1954,3.8,False,False,in building,2025-03-09,15
+R00358,South,0,1.5,444,565,2004,1.6,False,False,none,2025-07-14,18
+R00359,West,1,1.0,714,955,1992,2.2,False,True,none,2025-06-02,10
+R00360,North,1,1.0,619,1065,,2.3,True,False,in unit,2025-07-12,5
+R00361,Central,1,1.5,704,1470,,1.1,False,False,in building,2025-11-11,23
+R00362,West,4,2.5,1478,2575,2016,3.2,True,True,in unit,2025-08-14,30
+R00363,West,3,2.0,1210,1965,1993,2.5,True,False,in building,2025-04-27,20
+R00364,East,4,2.5,1660,2280,1974,2.0,False,True,in building,2025-07-15,3
+R00365,Harbor,1,1.0,641,1800,2008,2.1,True,False,in building,2025-08-19,9
+R00366,West,2,1.5,919,1310,1978,4.5,False,True,in building,2025-08-06,19
+R00367,South,0,1.0,494,610,1962,1.9,False,True,in building,2025-10-10,49
+R00368,Harbor,4,2.5,1450,3430,2007,1.4,False,False,in unit,2025-04-14,8
+R00369,South,2,2.0,1101,1245,1956,7.9,True,True,in unit,2025-01-10,43
+R00370,East,1,1.0,561,705,1985,5.9,False,False,none,2025-09-20,7
+R00371,South,1,1.5,747,925,1968,3.5,True,True,in building,2025-11-25,14
+R00372,West,0,1.0,397,570,,10.2,False,False,in building,2025-08-23,40
+R00373,North,0,1.0,404,620,1981,5.3,False,True,in building,2025-03-10,7
+R00374,South,1,1.0,706,850,2004,3.2,False,False,none,2025-08-25,18
+R00375,Central,4,2.5,1529,2975,1928,0.9,False,True,in building,2025-07-20,39
+R00376,South,1,1.5,633,840,1985,3.4,True,False,none,2025-03-25,17
+R00377,East,4,2.5,1592,2025,1964,1.9,False,False,in building,2025-08-02,6
+R00378,North,2,1.5,1000,1770,1961,0.9,True,True,in unit,2025-10-18,38
+R00379,South,1,1.5,641,885,1992,2.2,True,True,none,2025-04-20,10
+R00380,North,2,1.5,1028,1580,1984,5.3,False,False,in unit,2025-03-19,19
+R00381,West,4,2.5,1596,2525,2025,7.1,False,False,in unit,2025-01-10,2
+R00382,West,2,2.0,1061,1680,1980,2.4,True,False,in building,2025-05-04,45
+R00383,West,3,2.5,1205,1970,1992,2.6,True,True,in building,2025-08-07,6
+R00384,South,3,2.0,1307,1740,2001,4.2,True,False,none,2025-04-24,8
+R00385,North,0,1.5,509,845,1962,4.4,True,False,in unit,2025-07-22,29
+R00386,North,1,1.0,488,845,1979,3.5,True,False,in building,2025-04-05,18
+R00387,North,3,2.0,1109,1595,1962,3.7,True,True,in unit,2025-06-23,16
+R00388,East,2,2.0,952,1510,1996,5.2,True,True,none,2025-01-14,65
+R00389,West,2,2.0,1065,1310,,8.7,False,True,in building,2025-05-02,9
+R00390,West,2,1.5,982,1460,1978,3.9,True,False,none,2025-11-25,23
+R00391,South,4,2.5,1561,1775,1970,7.9,True,True,in building,2025-10-15,35
+R00392,East,3,2.0,1222,1960,1969,1.4,True,False,in unit,2025-11-16,40
+R00393,West,4,2.5,1681,2435,1980,4.1,False,False,in building,2025-01-26,26
+R00394,South,3,2.0,1212,1355,1957,9.5,True,True,in unit,2025-12-10,9
+R00395,South,3,2.5,1219,1680,2011,3.7,False,False,in building,2025-11-19,16
+R00396,West,4,2.5,1615,2255,1986,5.2,True,True,in unit,2025-07-22,6
+R00397,West,1,1.0,753,1000,2004,4.3,False,False,none,2025-07-21,3
+R00398,Central,2,1.5,885,2020,1948,0.6,False,False,in unit,2025-03-27,27
+R00399,North,2,1.5,901,1570,1969,1.4,True,False,in unit,2025-11-27,12
+R00400,North,4,2.5,1500,2025,1944,3.9,False,True,in unit,2025-04-22,16
+R00401,West,0,1.0,657,955,1983,3.8,False,True,none,2025-04-09,18
+R00402,Central,3,2.0,1392,2895,1938,0.3,True,True,in unit,2025-04-04,67
+R00403,Central,0,1.5,353,595,1902,0.9,False,False,in building,2025-07-01,35
+R00404,West,2,2.0,866,1295,1993,7.5,False,False,in unit,2025-07-09,26
+R00405,West,3,2.5,1222,1660,1952,2.8,True,False,in building,2025-12-19,12
+R00406,West,2,1.5,1084,1675,1978,2.2,True,True,in unit,2025-07-04,29
+R00407,West,3,2.0,1088,1635,2024,5.8,False,False,none,2025-07-25,10
+R00408,West,4,2.5,1526,2180,1968,4.0,False,False,in building,2025-09-13,28
+R00409,West,2,2.0,908,1295,1967,5.5,True,False,in building,2025-05-19,33
+R00410,East,4,2.5,1497,1880,1959,4.2,True,False,in unit,2025-03-02,38
+R00411,West,2,2.0,854,1580,2007,4.6,True,True,in building,2025-09-24,4
+R00412,South,0,1.5,537,690,1991,6.6,False,True,in building,2025-02-01,28
+R00413,South,2,1.5,8670,1120,1970,4.6,True,False,in building,2025-01-03,13
+R00414,South,3,2.5,,1390,1969,5.3,False,False,in unit,2025-05-14,59
+R00415,West,3,2.0,1146,1590,1983,7.3,False,True,in building,2025-08-13,36
+R00416,South,2,2.0,886,1050,1970,3.8,False,False,in unit,2025-12-24,12
+R00417,North,2,1.5,1039,1570,1992,4.4,True,False,none,2025-10-02,2
+R00418,North,2,1.5,896,1560,1979,3.6,False,True,in building,2025-01-16,11
+R00419,North,2,1.5,794,1165,1948,8.2,True,False,in unit,2025-07-06,5
+R00420,North,1,1.0,653,1060,1960,1.9,True,True,in building,2025-02-16,17
+R00421,North,1,1.0,733,1225,1938,2.6,True,True,in unit,2025-03-05,23
+R00422,East,2,1.5,817,995,1982,4.5,False,False,in building,2025-07-16,4
+R00423,West,3,2.0,1279,1720,1963,3.8,False,False,in building,2025-07-17,13
+R00424,East,3,2.5,1300,1960,1999,1.5,True,True,in unit,2025-05-03,5
+R00425,Central,2,1.5,917,1725,1920,0.7,False,False,in unit,2025-03-24,4
+R00426,North,2,1.5,885,1240,1960,5.0,False,True,in unit,2025-03-28,15
+R00427,South,3,2.0,1060,1430,1995,5.7,True,True,in building,2025-06-12,10
+R00428,North,0,1.0,435,710,1948,3.1,True,False,in building,2025-08-27,20
+R00429,North,2,1.5,804,875,1980,17.5,False,True,in building,2025-12-08,7
+R00430,Central,4,3.0,1666,2925,1915,0.6,True,False,in unit,2025-06-14,27
+R00431,Harbor,1,1.0,748,2155,2004,1.3,True,False,in unit,2025-06-03,3
+R00432,South,2,1.5,775,840,1993,4.8,False,False,none,2025-02-05,16
+R00433,North,1,1.5,658,905,1966,6.5,False,False,in building,2025-11-22,12
+R00434,West,0,1.0,447,710,2003,5.5,False,True,none,2025-02-19,35
+R00435,East,2,2.0,1035,1690,1946,2.9,True,True,in unit,2025-12-16,7
+R00436,North,1,1.0,884,1300,2002,7.4,False,True,in building,2025-02-12,34
+R00437,East,3,2.0,1252,2000,1971,3.1,True,True,in unit,2025-04-09,45
+R00438,Harbor,0,1.0,394,1230,1998,2.1,True,False,in building,2025-03-05,37
+R00439,East,4,3.0,1553,2335,1983,1.5,True,False,in unit,2025-01-01,49
+R00440,West,3,2.5,1160,1870,1989,4.6,True,True,in building,2025-10-09,33
+R00441,East,1,1.0,782,1400,2008,4.3,True,False,in unit,2025-07-04,41
+R00442,West,2,1.5,946,1280,1991,8.4,True,False,in unit,2025-05-15,42
+R00443,South,1,1.0,626,830,1985,5.6,True,False,in unit,2025-05-17,38
+R00444,West,1,1.5,717,1215,1994,5.2,True,True,in building,2025-01-22,44
+R00445,East,3,2.0,1135,1500,1948,6.4,False,True,in unit,2025-11-25,5
+R00446,Central,1,1.5,836,1865,1941,0.2,False,True,in building,2025-07-25,25
+R00447,Harbor,0,1.5,420,1215,2016,1.1,True,True,in building,2025-11-25,45
+R00448,West,2,1.5,1008,1625,2015,5.3,True,True,in building,2025-08-26,18
+R00449,South,1,1.0,575,625,1945,14.6,True,True,in building,2025-11-01,13
+R00450,West,1,1.0,553,980,1990,6.6,True,True,in unit,2025-07-20,15
+R00451,West,3,2.0,1154,1670,2013,2.1,False,False,none,2025-09-06,1
+R00452,Central,0,1.0,546,1375,1956,0.6,True,True,in unit,2025-03-26,10
+R00453,South,1,1.0,676,915,1968,4.9,True,True,in unit,2025-11-03,17
+R00454,West,1,1.0,607,975,1998,5.4,True,False,in unit,2025-07-10,45
+R00455,North,4,3.0,1570,2050,1947,11.7,True,False,in unit,2025-11-17,23
+R00456,Harbor,4,3.0,1413,3470,1985,1.2,True,False,in unit,2025-04-03,13
+R00457,South,4,3.0,1557,1690,1935,4.8,True,True,none,2025-09-20,17
+R00458,East,2,1.5,,1530,2004,1.4,True,True,in building,2025-04-16,24
+R00459,South,2,1.5,1077,1195,1970,6.5,False,False,in building,2025-08-21,64
+R00460,North,4,3.0,1510,2180,1952,2.9,False,False,none,2025-10-17,31
+R00461,West,2,2.0,881,1170,1987,5.1,False,True,in building,2025-06-21,8
+R00462,West,1,1.5,480,640,1986,11.9,True,True,in building,2025-03-19,55
+R00463,North,1,1.0,746,1445,1980,2.6,True,True,in building,2025-06-09,60
+R00464,South,2,1.5,922,955,2000,11.5,False,False,in building,2025-06-12,8
+R00465,North,2,1.5,1001,1440,1965,7.6,False,True,in building,2025-03-10,10
+R00466,North,1,1.5,502,830,1945,2.8,False,False,in unit,2025-05-20,31
+R00467,South,2,1.5,1082,1260,1958,10.0,True,True,in unit,2025-02-02,9
+R00468,South,1,1.0,788,945,1976,13.9,True,True,in unit,2025-03-27,15
+R00469,East,4,3.0,1588,2160,1983,7.8,True,True,in unit,2025-05-11,29
+R00470,Harbor,1,1.0,662,2095,2018,3.1,False,False,in unit,2025-04-09,5
+R00471,East,1,1.0,483,690,1984,3.0,False,True,none,2025-06-20,18
+R00472,East,1,1.0,515,960,1983,1.1,True,True,in building,2025-06-13,12
+R00473,Central,4,2.5,1519,3775,1961,0.2,True,True,in unit,2025-07-19,25
+R00474,Harbor,1,1.0,654,1945,2006,1.3,True,False,in unit,2025-06-21,18
+R00475,Central,1,1.0,630,1260,1932,0.6,False,True,in building,2025-06-12,15
+R00476,East,3,2.5,1255,1930,,3.0,False,False,in unit,2025-06-10,8
+R00477,Central,3,2.5,1280,2915,1943,0.6,True,True,in unit,2025-07-26,36
+R00478,West,1,1.5,677,1010,1962,1.9,True,False,in building,2025-06-23,15
+R00479,West,1,1.0,812,1170,2008,11.4,True,True,in unit,2025-12-11,10
+R00480,East,1,1.5,828,1040,1974,3.9,False,True,in building,2025-07-16,1
+R00481,South,1,1.5,872,1115,1979,2.5,False,True,in building,2025-11-05,10
+R00482,North,0,1.0,571,910,1981,4.5,False,True,in unit,2025-07-02,36
+R00483,South,2,2.0,,1320,1985,6.5,False,True,in building,2025-12-10,9
+R00484,Harbor,1,1.0,625,1690,2001,1.2,False,False,in unit,2025-06-20,49
+R00485,East,3,2.0,1207,1960,2001,3.3,True,True,in building,2025-07-19,37
+R00486,West,2,2.0,952,1320,1983,7.1,True,False,in building,2025-12-18,31
+R00487,Central,2,1.5,860,1870,1917,0.2,False,True,in unit,2025-06-15,20
+R00488,North,2,1.5,853,1330,1951,2.5,False,True,in unit,2025-05-09,8
+R00489,North,4,2.5,1502,2245,1963,4.9,True,False,none,2025-04-11,30
+R00490,North,0,1.0,513,805,1995,3.2,False,True,none,2025-09-28,12
+R00491,Central,0,1.0,508,1360,1976,0.5,True,True,none,2025-11-19,34
+R00492,West,2,2.0,851,1285,1991,1.1,True,True,none,2025-03-02,10
+R00493,Central,4,2.5,1343,2490,1928,0.7,False,True,in building,2025-03-25,20
+R00494,Harbor,2,2.0,,2485,2011,0.4,True,False,in building,2025-06-26,2
+R00495,North,3,2.0,1191,1980,1991,3.7,False,True,none,2025-01-01,8
+R00496,East,3,2.0,1233,1665,1964,4.7,False,True,in building,2025-02-26,20
+R00497,East,2,1.5,843,1355,1966,4.7,True,True,in unit,2025-07-06,1
+R00498,South,1,1.0,566,565,1979,9.1,False,True,in building,2025-06-14,24
+R00499,North,3,2.5,1083,1555,1955,2.7,False,True,in unit,2025-10-27,5
+R00500,West,1,1.0,712,1130,1977,4.8,True,False,in building,2025-07-18,10
+R00501,West,3,2.0,1108,1595,2003,7.5,True,True,in building,2025-10-19,49
+R00502,Harbor,1,1.0,662,1695,2001,0.6,False,True,in building,2025-05-06,46
+R00503,North,0,1.5,603,1070,1995,3.6,True,False,none,2025-11-11,72
+R00504,West,1,1.5,798,1325,1997,6.7,True,True,in unit,2025-04-18,17
+R00505,West,2,2.0,1021,1470,1974,3.7,True,False,in building,2025-06-21,10
+R00506,West,3,2.0,1076,1705,2011,3.9,True,False,none,2025-08-26,13
+R00507,West,3,2.0,1384,1690,1989,8.3,False,True,in building,2025-08-23,12
+R00508,West,3,2.0,1229,1930,2025,1.3,True,True,none,2025-04-15,16
+R00509,Central,1,1.5,668,1420,1900,0.7,False,True,in building,2025-07-11,54
+R00510,West,4,2.5,1385,2055,2000,6.6,False,False,in unit,2025-01-06,18
+R00511,Central,3,2.0,1151,2450,1926,0.8,True,False,in unit,2025-06-01,31
+R00512,Harbor,2,2.0,871,1910,,2.4,False,True,none,2025-06-05,15
+R00513,North,1,1.0,690,1010,1979,12.0,True,True,in building,2025-07-18,49
+R00514,Central,0,1.0,522,1135,1926,1.0,False,True,in unit,2025-03-03,19
+R00515,West,2,1.5,1050,1570,1991,6.5,False,True,in building,2025-08-24,26
+R00516,South,4,3.0,1690,1975,1982,4.9,False,False,in building,2025-02-01,43
+R00517,East,0,1.0,504,710,1976,1.9,False,False,in building,2025-10-26,19
+R00518,East,3,2.0,954,1130,,5.2,False,True,in building,2025-11-04,11
+R00519,South,1,1.0,568,650,2002,7.9,False,True,in building,2025-06-07,12
+R00520,West,4,2.5,1500,1845,1969,5.8,True,False,in unit,2025-08-20,22
+R00521,South,1,1.0,774,980,1971,4.8,False,True,in unit,2025-04-25,22
+R00522,North,3,2.5,1181,1660,1952,4.8,False,True,in unit,2025-12-26,9
+R00523,West,1,1.5,756,1245,2009,3.3,True,True,in unit,2025-08-12,28
+R00524,North,3,2.5,1123,1690,1983,7.9,True,False,in unit,2025-05-27,45
+R00525,Central,0,1.5,363,730,1907,0.9,False,False,in building,2025-09-16,18
+R00526,Central,0,1.0,583,1445,1927,0.7,False,True,in unit,2025-04-15,35
+R00527,Central,3,2.5,1126,2635,1962,0.7,True,True,none,2025-09-18,13
+R00528,Central,1,1.5,833,1715,1922,1.6,False,False,in unit,2025-09-05,3
+R00529,West,3,2.0,1431,1695,1988,6.8,False,False,in building,2025-09-26,18
+R00530,West,2,2.0,979,1175,1981,12.6,True,False,none,2025-05-10,52
+R00531,South,3,2.0,1149,1575,1984,9.1,True,True,in unit,2025-05-14,21
+R00532,Central,3,2.0,1224,2405,1930,0.6,False,False,none,2025-12-11,3
+R00533,North,1,1.0,583,940,1960,3.0,True,True,none,2025-05-09,27
+R00534,West,0,1.5,505,880,1980,3.9,False,True,in unit,2025-10-09,72
+R00535,South,2,2.0,920,1015,1976,5.3,True,False,in building,2025-08-18,15
+R00536,West,3,2.0,1153,1820,2011,7.0,False,True,none,2025-10-02,47
+R00537,East,0,1.0,454,730,1980,1.9,True,True,none,2025-07-26,15
+R00538,Harbor,3,2.0,,2675,2013,1.2,True,True,in unit,2025-08-10,17
+R00539,South,1,1.0,788,725,1957,10.4,False,True,none,2025-09-05,10
+R00540,South,3,2.0,1236,1495,1975,6.7,True,False,none,2025-04-13,35
+R00541,South,1,1.0,692,1045,1987,2.5,True,False,in unit,2025-07-11,21
+R00542,East,2,1.5,895,1260,1936,5.6,True,False,in unit,2025-07-24,5
+R00543,North,4,2.5,,2375,1970,2.8,False,True,none,2025-12-17,19
+R00544,North,1,1.0,,1235,2002,3.2,True,True,in unit,2025-12-21,75
+R00545,Central,3,2.5,1180,2390,1920,0.8,False,False,in unit,2025-08-26,6
+R00546,Harbor,2,2.0,887,2315,2016,3.1,True,False,in building,2025-09-13,36
+R00547,West,2,1.5,859,1150,1980,10.2,True,False,none,2025-12-26,58
+R00548,Harbor,4,3.0,1617,3910,1985,1.4,True,True,in unit,2025-06-19,21
+R00549,Central,3,2.5,1178,2825,1971,0.4,False,False,in building,2025-04-11,34
+R00550,West,0,1.5,374,715,2012,7.5,True,False,in building,2025-01-23,155
+R00551,Central,1,1.0,,1305,1935,0.5,False,True,in building,2025-09-16,43
+R00552,Central,3,2.0,1212,2450,1953,1.2,False,True,in unit,2025-11-09,14
+R00553,Central,2,1.5,904,1565,1917,1.4,False,False,in building,2025-08-28,12
+R00554,South,2,1.5,884,970,1972,6.1,True,False,in building,2025-07-07,29
+R00555,East,1,1.5,,1095,1955,1.6,False,False,in unit,2025-10-06,35
+R00556,North,4,2.5,1626,2670,2013,4.3,False,False,in building,2025-02-14,10
+R00557,North,0,1.5,563,1125,1982,2.6,True,False,in unit,2025-10-27,36
+R00558,West,1,1.0,824,1325,1979,4.5,True,False,in building,2025-06-23,55
+R00559,South,0,1.0,430,860,2004,2.9,True,False,in unit,2025-03-12,71
+R00560,Harbor,3,2.0,,3135,,1.9,False,True,in building,2025-12-07,20
+R00561,South,4,3.0,1545,1700,1965,5.0,True,False,in building,2025-09-18,21
+R00562,East,1,1.0,720,1020,1962,3.6,False,True,in building,2025-06-16,8
+R00563,North,4,3.0,1379,1745,1953,6.1,False,False,in unit,2025-03-26,34
+R00564,South,1,1.0,642,770,1956,7.9,True,False,in building,2025-09-12,10
+R00565,North,1,1.0,537,970,,3.5,True,False,in unit,2025-06-25,95
+R00566,East,2,1.5,925,1450,1998,3.0,False,False,in unit,2025-06-15,11
+R00567,West,3,2.0,1094,1630,1971,8.5,True,True,in unit,2025-06-07,9
+R00568,West,1,1.0,753,1035,2007,8.0,False,True,none,2025-06-15,8
+R00569,West,3,2.0,1287,1570,1990,11.2,False,False,in building,2025-11-14,34
+R00570,North,0,1.0,579,940,1952,4.6,True,True,in building,2025-09-28,4
+R00571,West,2,1.5,749,1260,2023,6.0,True,False,in unit,2025-02-26,6
+R00572,South,3,2.0,1179,1630,1968,5.1,True,False,in unit,2025-06-04,37
+R00573,Harbor,3,2.0,1176,3190,2025,5.4,True,True,in unit,2025-05-18,21
+R00574,Central,2,1.5,1021,1965,1932,0.3,True,False,in building,2025-12-04,14
+R00575,North,4,3.0,1347,2015,1986,4.3,True,False,none,2025-11-12,24
+R00576,East,1,1.0,853,1020,1953,7.1,False,True,in building,2025-06-23,16
+R00577,Harbor,0,1.0,275,820,2025,1.0,True,False,in building,2025-12-13,16
+R00578,West,2,2.0,961,1460,1979,2.3,True,False,in building,2025-07-04,20
+R00579,North,3,2.0,983,1315,1952,2.8,False,False,in building,2025-02-24,9
+R00580,Central,1,1.5,636,955,1901,1.0,False,False,in building,2025-10-19,17
+R00581,North,2,2.0,,1325,1984,2.5,True,True,none,2025-10-12,5
+R00582,Harbor,2,1.5,836,2520,2025,1.7,True,True,in unit,2025-01-25,10
+R00583,North,2,1.5,1050,1605,1980,4.1,False,True,in building,2025-08-22,13
+R00584,North,0,1.5,667,985,1980,3.2,False,False,none,2025-07-14,35
+R00585,North,3,2.0,1211,1865,1967,4.2,True,False,in unit,2025-04-20,24
+R00586,North,2,1.5,775,1090,1947,3.8,False,True,none,2025-08-10,18
+R00587,West,2,2.0,886,1400,1984,5.2,False,True,in unit,2025-05-25,11
+R00588,West,4,2.5,1622,2260,1987,4.9,True,False,in building,2025-08-13,15
+R00589,North,2,1.5,792,1135,1950,4.5,True,True,none,2025-09-16,7
+R00590,West,1,1.0,614,865,1956,10.1,False,False,in unit,2025-05-19,13
+R00591,Harbor,2,1.5,876,2750,2021,1.3,True,True,in unit,2025-10-17,27
+R00592,North,2,2.0,960,1440,1957,2.7,True,True,in building,2025-03-08,10
+R00593,North,3,2.0,1195,1955,1944,2.4,True,True,in unit,2025-01-13,39
+R00594,East,1,1.0,696,1090,,4.1,True,False,in unit,2025-06-07,22
+R00595,North,1,1.5,,1215,1982,1.8,False,True,in unit,2025-04-22,24
+R00596,West,1,1.0,885,1205,1983,8.5,True,False,in unit,2025-05-10,16
+R00597,Central,0,1.0,397,870,1900,0.6,False,True,in unit,2025-10-22,74
+R00598,North,3,2.0,1023,1895,1955,2.7,True,True,none,2025-04-03,60
+R00599,Harbor,1,1.0,571,1385,1999,0.8,True,False,none,2025-01-15,6
+R00600,North,0,1.0,442,915,1974,1.9,True,False,in unit,2025-04-11,30
+R00601,West,1,1.0,733,920,1963,8.1,False,False,in building,2025-05-08,23
+R00602,West,2,1.5,909,1300,1955,2.8,True,True,in building,2025-12-10,39
+R00603,Central,2,2.0,867,1855,1953,1.4,False,True,in unit,2025-06-09,22
+R00604,West,1,1.0,747,1025,1964,1.4,False,False,in building,2025-03-26,2
+R00605,Central,1,1.0,659,1350,1934,0.9,False,True,in building,2025-11-22,27
+R00606,North,1,1.0,690,1110,1957,5.1,True,True,in unit,2025-01-13,51
+R00607,Harbor,2,1.5,930,2340,1991,1.6,True,True,in building,2025-02-19,14
+R00608,East,2,2.0,880,1610,1977,3.3,True,True,in unit,2025-08-23,29
+R00609,North,2,2.0,901,1445,1951,2.4,False,False,in unit,2025-05-12,10
+R00610,Harbor,3,2.0,1149,2830,2000,1.4,False,False,in unit,2025-01-27,10
+R00611,West,3,2.0,1281,1950,1953,6.1,True,True,in unit,2025-07-20,23
+R00612,West,2,2.0,883,1400,2011,3.6,True,True,none,2025-07-22,16
+R00613,Central,3,2.0,1260,2515,1951,0.8,False,True,in unit,2025-11-02,15
+R00614,North,2,1.5,989,1385,1977,4.6,False,True,in building,2025-04-02,21
+R00615,Harbor,2,1.5,946,2345,2025,2.1,True,True,in building,2025-02-23,2
+R00616,West,0,1.5,532,745,2013,13.3,False,False,in unit,2025-04-25,18
+R00617,North,4,2.5,1472,2200,1978,2.9,False,True,in unit,2025-06-01,9
+R00618,East,4,2.5,1586,1800,1931,4.6,False,True,in building,2025-05-25,25
+R00619,North,0,1.0,430,775,1983,5.4,True,True,in building,2025-04-20,21
+R00620,Central,3,2.0,1197,2285,1911,0.5,False,True,in building,2025-12-03,6
+R00621,South,2,1.5,949,1340,1992,7.7,True,True,none,2025-07-01,11
+R00622,North,0,1.0,362,590,,7.3,True,True,in building,2025-07-04,16
+R00623,South,2,1.5,913,1520,1999,1.7,True,True,in unit,2025-06-08,43
+R00624,West,1,1.0,586,905,1967,4.3,True,False,none,2025-06-02,26
+R00625,Central,2,1.5,952,2030,1931,0.5,False,True,in unit,2025-07-03,2
+R00626,South,2,1.5,999,1260,1992,6.6,True,False,in building,2025-12-14,15
+R00627,West,1,1.0,641,990,1996,2.0,False,True,none,2025-12-05,10
+R00628,South,0,1.5,,690,1979,4.1,True,True,in unit,2025-06-02,8
+R00629,West,4,2.5,1587,2320,1999,5.5,False,False,none,2025-04-22,36
+R00630,North,1,1.5,672,1215,1995,3.3,True,False,none,2025-07-02,36
+R00631,Harbor,2,1.5,834,2050,1979,2.8,False,True,in building,2025-03-02,24
+R00632,Central,0,1.0,521,1025,1941,0.8,False,False,in building,2025-08-23,11
+R00633,East,3,2.0,1233,1810,1962,1.4,False,True,in building,2025-10-15,31
+R00634,South,0,1.5,336,495,1948,4.8,False,False,in unit,2025-09-18,21
+R00635,East,4,2.5,1430,2445,1980,2.1,True,True,in building,2025-09-01,22
+R00636,North,3,2.0,1217,1720,1972,4.1,True,True,none,2025-02-06,27
+R00637,Harbor,1,1.0,630,1725,1981,3.0,True,False,in building,2025-11-10,9
+R00638,West,3,2.5,1157,1685,1992,11.3,False,True,in unit,2025-10-12,61
+R00639,West,2,2.0,969,1455,1986,7.3,True,True,in building,2025-11-19,84
+R00640,South,4,3.0,1373,1275,1986,11.9,False,False,none,2025-08-14,25
+R00641,Harbor,1,1.5,462,1405,2016,1.5,True,False,in building,2025-10-22,29
+R00642,North,1,1.0,651,1135,1964,2.5,False,True,in unit,2025-10-20,76
+R00643,Central,1,1.0,698,1435,1939,1.2,False,False,in unit,2025-12-18,33
+R00644,West,4,2.5,1363,2195,1977,3.0,True,False,in unit,2025-06-12,6
+R00645,Central,1,1.0,,1510,1961,0.9,True,True,in building,2025-08-13,21
+R00646,East,2,2.0,925,1240,1977,10.9,True,False,in unit,2025-10-10,34
+R00647,Central,2,2.0,953,1945,1931,0.6,True,False,in building,2025-07-23,6
+R00648,South,2,1.5,954,1260,1981,5.1,True,False,in building,2025-04-04,13
+R00649,West,2,2.0,,1480,2001,2.8,True,True,in building,2025-11-04,13
+R00650,South,1,1.0,732,1130,1963,3.0,True,True,in unit,2025-05-19,54
+R00651,South,2,2.0,954,1195,1971,6.2,True,False,in unit,2025-08-16,16
+R00652,South,2,1.5,926,1195,1967,1.3,False,True,none,2025-08-23,22
+R00653,Central,3,2.5,1287,2270,1941,1.3,False,True,in building,2025-04-01,12
+R00654,East,1,1.5,626,670,1945,3.7,False,False,in building,2025-03-05,19
+R00655,North,3,2.0,1179,1645,1966,8.1,True,True,in building,2025-10-07,13
+R00656,East,2,1.5,934,1200,1952,1.9,False,True,in building,2025-05-14,11
+R00657,West,0,1.0,449,615,1967,5.5,True,True,none,2025-02-16,30
+R00658,Harbor,2,1.5,958,2530,2024,1.4,False,True,in unit,2025-06-09,14
+R00659,West,2,1.5,1065,1880,2001,2.8,True,False,in unit,2025-06-05,41
+R00660,South,2,2.0,1102,1360,1973,3.1,False,False,none,2025-07-19,17
+R00661,Central,1,1.0,604,1315,1958,0.3,False,True,in building,2025-05-21,50
+R00662,South,1,1.5,818,1180,1980,3.2,True,False,in unit,2025-02-13,48
+R00663,East,3,2.5,995,1450,1995,4.7,False,True,none,2025-04-24,64
+R00664,Harbor,1,1.0,837,2155,2010,1.2,False,True,in unit,2025-05-21,16
+R00665,East,2,2.0,933,1275,1964,6.0,True,False,in building,2025-12-07,10
+R00666,East,0,1.0,482,765,1971,2.8,True,True,in building,2025-05-10,14
+R00667,Harbor,3,2.5,1243,3310,2025,1.5,True,False,in building,2025-03-28,12
+R00668,East,1,1.5,691,1070,1965,3.0,True,False,none,2025-07-28,7
+R00669,South,2,1.5,1046,1480,1972,6.4,True,True,in unit,2025-01-14,42
+R00670,West,3,2.0,1043,1465,2009,6.8,False,True,in unit,2025-05-08,23
+R00671,Central,1,1.0,526,1060,,1.7,False,False,in building,2025-08-09,21
+R00672,East,1,1.5,693,880,1944,3.7,True,False,in building,2025-07-13,11
+R00673,East,0,1.0,290,480,1963,2.2,False,False,in unit,2025-01-28,37
+R00674,West,0,1.0,403,770,1964,3.2,True,False,in unit,2025-02-01,80
+R00675,South,1,1.5,681,725,1984,5.5,False,False,none,2025-01-20,23
+R00676,East,2,1.5,789,1210,1970,2.3,True,True,in building,2025-06-23,21
+R00677,West,1,1.0,815,1175,2003,6.1,False,True,none,2025-06-02,18
+R00678,North,3,2.0,1282,1715,1969,8.3,False,False,none,2025-07-18,15
+R00679,North,2,1.5,993,1750,1977,3.5,True,False,in building,2025-03-16,35
+R00680,Harbor,1,1.0,769,2165,1996,1.7,True,True,in building,2025-03-14,33
+R00681,West,0,1.0,,655,,6.1,False,False,in building,2025-09-15,10
+R00682,Harbor,2,2.0,880,2120,2005,0.8,False,True,in building,2025-08-13,11
+R00683,North,2,1.5,933,1760,1992,2.8,True,False,none,2025-03-14,16
+R00684,Central,2,1.5,1050,2100,1941,0.3,False,True,none,2025-10-27,17
+R00685,North,1,1.0,647,1040,1971,4.0,False,False,in building,2025-11-24,33
+R00686,Central,2,1.5,773,1560,1923,1.6,False,True,in building,2025-07-12,15
+R00687,Central,1,1.5,700,1535,1925,1.7,True,False,none,2025-05-14,16
+R00688,Harbor,1,1.0,790,2185,2008,1.0,False,True,in building,2025-04-26,20
+R00689,Central,3,2.0,1154,2340,1921,0.8,False,True,in unit,2025-05-22,22
+R00690,East,3,2.0,1154,1535,1979,6.5,False,True,in building,2025-09-12,11
+R00691,South,2,2.0,856,990,1971,5.5,False,True,in unit,2025-06-26,14
+R00692,South,1,1.5,592,820,1979,3.1,True,False,in building,2025-10-04,45
+R00693,East,4,2.5,1472,1710,1958,4.0,False,True,none,2025-09-12,12
+R00694,North,3,2.0,1259,1695,1937,5.6,False,True,in unit,2025-04-02,12
+R00695,North,1,1.5,750,1190,1994,2.3,False,True,in building,2025-03-21,28
+R00696,Central,2,1.5,787,1655,1930,1.3,False,False,in unit,2025-03-26,8
+R00697,South,2,1.5,779,965,1961,3.4,False,True,in building,2025-07-19,14
+R00698,South,3,2.0,1162,1355,2000,3.9,True,True,none,2025-06-13,13
+R00699,Central,2,1.5,1043,2190,1957,0.2,False,False,in building,2025-11-19,7
+R00700,East,4,3.0,1591,1640,1952,7.6,False,False,in unit,2025-09-09,11
+R00701,North,1,1.5,763,1350,1959,2.3,True,False,in building,2025-07-14,16
+R00702,North,3,2.0,1170,1635,1933,4.3,True,True,in unit,2025-02-18,49
+R00703,West,2,2.0,972,1335,,8.9,False,False,none,2025-01-26,25
+R00704,Central,1,1.0,777,1665,,1.2,False,True,in building,2025-06-06,85
+R00705,Harbor,2,2.0,,2710,2025,1.5,True,True,in unit,2025-02-21,13
+R00706,Central,3,2.5,1310,2505,1911,0.8,False,False,in unit,2025-04-23,44
+R00707,Harbor,1,1.0,676,1450,2005,1.0,False,True,in building,2025-08-05,4
+R00708,South,3,2.5,1380,1815,1992,6.4,False,False,in building,2025-05-13,20
+R00709,Central,4,3.0,1512,3195,1931,0.9,False,False,in unit,2025-05-03,12
+R00710,Harbor,1,1.5,807,2015,1988,1.1,False,False,in unit,2025-09-27,2
+R00711,Harbor,2,1.5,977,2430,1996,1.9,True,False,in building,2025-11-28,26
+R00712,South,1,1.0,821,1040,2012,4.6,False,True,in building,2025-10-14,9
+R00713,Central,1,1.0,669,1565,1945,0.5,False,True,in building,2025-07-01,49
+R00714,Harbor,4,2.5,1565,4080,2025,1.5,False,True,none,2025-08-10,10
+R00715,East,2,2.0,910,1275,1966,9.0,True,True,in unit,2025-10-21,16
+R00716,West,2,1.5,797,1035,1972,3.5,False,False,in unit,2025-11-11,13
+R00717,North,3,2.5,1140,1755,1970,3.2,False,False,in building,2025-05-28,17
+R00718,South,3,2.0,1175,1325,1961,3.6,False,False,in building,2025-05-19,5
+R00719,Central,2,1.5,953,2045,1948,0.5,False,False,in building,2025-05-19,15
+R00720,Central,2,2.0,1081,2230,1941,0.6,False,True,in unit,2025-11-07,23
+R00721,South,1,1.0,561,735,1988,5.9,True,True,in building,2025-04-01,38
+R00722,Harbor,1,1.5,521,1260,1989,3.8,True,True,none,2025-04-01,24
+R00723,West,3,2.5,1422,2265,2009,8.7,True,False,in unit,2025-05-04,16
+R00724,East,0,1.5,464,545,1954,3.2,False,False,none,2025-10-11,6
+R00725,South,0,1.5,455,645,1966,3.6,False,True,in unit,2025-08-18,35
+R00726,East,3,2.0,1215,1600,1975,5.2,False,False,none,2025-07-24,19
+R00727,North,1,1.5,679,805,1948,5.6,False,True,none,2025-02-09,17
+R00728,Harbor,2,1.5,949,3100,2002,1.9,True,False,in unit,2025-09-25,27
+R00729,South,3,2.0,1363,1820,1966,4.7,True,True,in building,2025-08-26,30
+R00730,West,0,1.0,411,720,1979,7.5,True,True,in unit,2025-07-06,29
+R00731,West,2,1.5,917,1335,2002,8.6,True,True,none,2025-06-04,9
+R00732,West,2,2.0,,1635,1984,7.3,True,False,in unit,2025-12-02,22
+R00733,East,0,1.0,451,780,1945,3.9,True,True,in building,2025-09-22,95
+R00734,West,2,2.0,1116,1400,1965,3.4,True,False,none,2025-11-10,21
+R00735,South,0,1.5,488,855,,8.0,True,True,in unit,2025-06-13,52
+R00736,South,2,2.0,992,1280,1998,6.0,False,True,in building,2025-03-01,68
+R00737,East,2,1.5,1010,1285,1972,4.1,False,True,in building,2025-05-02,7
+R00738,West,0,1.0,574,810,1988,6.3,True,True,none,2025-07-04,10
+R00739,West,4,2.5,1418,2105,1978,6.0,False,True,in unit,2025-08-14,85
+R00740,East,1,1.0,684,1130,1972,2.3,True,False,in building,2025-09-12,33
+R00741,South,1,1.0,686,610,1941,15.7,True,True,none,2025-09-10,17
+R00742,South,3,2.0,1206,1805,1985,0.8,True,True,in building,2025-05-15,10
+R00743,South,1,1.0,827,1080,1977,2.7,False,True,in building,2025-08-19,22
+R00744,East,4,2.5,1694,2400,1994,2.9,True,True,in unit,2025-07-28,27
+R00745,Harbor,4,2.5,1509,4415,2023,1.4,False,True,in unit,2025-08-24,12
+R00746,West,1,1.0,695,1200,2011,3.5,False,True,in unit,2025-04-20,3
+R00747,Harbor,2,2.0,816,2125,1999,1.0,False,True,in building,2025-07-04,18
+R00748,North,0,1.5,505,650,1945,6.8,False,True,in building,2025-09-20,2
+R00749,South,1,1.0,478,725,1961,5.0,True,True,in unit,2025-07-03,53
+R00750,South,3,2.0,1264,1210,1956,8.9,False,True,in building,2025-08-23,19
+R00751,North,1,1.5,645,1190,1998,2.7,True,True,in building,2025-08-26,14
+R00752,North,2,2.0,1029,1720,1961,3.5,True,False,in unit,2025-11-26,36
+R00753,Central,2,2.0,972,1820,1922,0.8,True,False,in building,2025-08-23,25
+R00754,South,3,2.0,1235,1175,1976,5.3,False,False,in building,2025-03-18,5
+R00755,West,4,2.5,1522,2065,1990,6.2,True,False,in unit,2025-09-02,3
+R00756,North,1,1.5,704,1300,1978,3.1,True,True,in unit,2025-05-02,40
+R00757,North,2,1.5,,1460,1956,6.8,True,True,in building,2025-10-08,11
+R00758,North,1,1.0,626,980,1993,8.0,False,True,in unit,2025-07-26,25
+R00759,South,1,1.5,719,930,1987,9.7,True,True,in unit,2025-04-17,40
+R00760,South,3,2.5,,1730,1955,4.4,True,True,in building,2025-06-24,37
+R00761,Central,0,1.0,603,1505,1957,0.9,False,False,in unit,2025-08-03,43
+R00762,Central,1,1.0,640,1510,1939,1.7,False,True,in unit,2025-12-16,1
+R00763,East,3,2.0,1198,1860,2001,5.3,True,True,in unit,2025-04-02,22
+R00764,West,2,1.5,1089,1925,2006,1.8,False,True,in unit,2025-02-22,33
+R00765,West,1,1.5,,915,1949,2.0,True,False,in building,2025-07-08,28
+R00766,South,4,2.5,1432,1695,1999,8.2,True,True,none,2025-12-14,8
+R00767,Harbor,1,1.0,699,1910,2011,4.2,True,True,none,2025-05-03,33
+R00768,East,4,3.0,1305,2005,,1.4,True,True,in unit,2025-02-09,11
+R00769,East,2,1.5,797,1170,1981,6.3,True,False,none,2025-12-19,9
+R00770,South,2,1.5,1038,1085,1997,5.8,True,True,none,2025-11-13,12
+R00771,East,4,2.5,1469,1990,1976,6.2,True,True,none,2025-06-17,11
+R00772,Harbor,2,2.0,936,2530,2025,1.2,True,False,none,2025-12-12,17
+R00773,South,2,1.5,963,1100,1996,10.3,True,True,in building,2025-03-15,20
+R00774,West,0,1.0,496,805,1989,3.1,False,False,in building,2025-11-10,17
+R00775,West,3,2.0,1167,1505,1967,8.0,False,True,in building,2025-11-22,6
+R00776,West,1,1.0,621,855,1985,2.2,False,True,none,2025-04-25,8
+R00777,Central,1,1.5,,1565,1966,0.4,False,True,none,2025-04-08,19
+R00778,Harbor,2,1.5,1109,2760,,1.9,False,False,none,2025-06-08,21
+R00779,East,3,2.0,1196,1835,1967,4.0,True,True,in building,2025-06-14,12
+R00780,North,2,1.5,1014,1690,2010,3.6,True,True,in building,2025-03-17,7
+R00781,West,1,1.5,716,890,1993,10.8,False,True,in building,2025-11-27,13
+R00782,West,1,1.0,763,1075,1965,2.9,True,True,none,2025-07-16,13
+R00783,West,2,1.5,935,1415,1981,1.2,False,True,in building,2025-03-12,4
+R00784,West,2,1.5,836,1295,1992,4.1,True,True,none,2025-12-10,25
+R00785,South,1,1.0,766,1110,1978,4.1,False,True,in unit,2025-03-12,89
+R00786,East,1,1.0,656,845,1998,2.0,True,False,in unit,2025-08-28,5
+R00787,East,3,2.0,1109,1610,2001,7.6,False,False,none,2025-07-11,13
+R00788,South,2,2.0,992,1145,1989,6.1,True,False,in building,2025-12-11,24
+R00789,West,2,1.5,977,1555,,5.5,False,True,in unit,2025-03-25,23
+R00790,North,3,2.0,1231,1735,1956,10.1,True,True,in unit,2025-11-02,19
+R00791,South,2,1.5,917,1300,1972,5.4,True,True,in unit,2025-12-04,50
+R00792,East,1,1.5,568,845,1968,5.0,True,True,in building,2025-05-24,10
+R00793,Harbor,2,1.5,974,2615,2002,0.6,True,False,none,2025-03-09,18
+R00794,West,0,1.0,570,870,1964,7.3,False,False,in unit,2025-04-27,24
+R00795,West,2,2.0,763,1385,1982,4.6,True,True,in unit,2025-06-13,32
+R00796,North,2,1.5,842,1010,1936,10.1,True,False,in building,2025-10-01,38
+R00797,South,1,1.5,693,895,1997,11.7,True,False,none,2025-06-26,4
+R00798,North,1,1.0,473,785,1974,2.2,True,False,in building,2025-06-14,17
+R00799,Central,2,2.0,980,2350,2003,1.0,False,True,in unit,2025-05-10,14
+R00800,North,1,1.5,686,1105,,6.3,True,False,in building,2025-03-25,26
+R00801,Central,2,2.0,955,1735,1928,0.4,True,False,in unit,2025-11-25,20
+R00802,Harbor,2,1.5,1016,2460,1986,2.9,True,True,none,2025-06-02,27
+R00803,South,2,2.0,889,1120,1963,2.5,True,True,none,2025-11-10,29
+R00804,West,2,1.5,917,1430,1986,3.3,True,True,in building,2025-10-15,3
+R00805,Central,1,1.0,777,1505,1936,1.7,False,True,in unit,2025-10-20,42
+R00806,East,1,1.5,616,1065,2006,4.3,True,True,none,2025-06-17,10
+R00807,East,0,1.0,405,600,1956,3.2,False,False,none,2025-12-13,57
+R00808,Central,2,2.0,627,1370,1946,1.3,True,True,none,2025-08-18,57
+R00809,North,4,3.0,1627,2170,,7.7,True,False,in building,2025-04-04,32
+R00810,North,2,1.5,921,1320,1950,8.1,True,False,in building,2025-09-05,12
+R00811,West,2,1.5,982,1420,1998,9.5,True,True,in unit,2025-06-19,4
+R00812,South,2,2.0,880,1145,2001,7.0,True,True,in unit,2025-02-26,32
+R00813,East,1,1.0,710,1345,1978,8.0,True,True,in unit,2025-09-10,69
+R00814,South,4,3.0,1599,2105,1984,6.2,False,True,in unit,2025-09-23,32
+R00815,North,2,1.5,786,1160,1973,2.4,False,False,none,2025-11-10,29
+R00816,Harbor,2,2.0,965,2395,2025,2.8,False,True,in building,2025-03-15,20
+R00817,North,0,1.5,545,725,,4.1,False,True,none,2025-10-12,1
+R00818,West,3,2.0,1106,1485,1999,6.5,False,True,none,2025-08-22,28
+R00819,South,2,1.5,788,1095,1981,7.3,True,True,in unit,2025-07-23,16
+R00820,East,2,2.0,862,1440,1969,3.2,True,True,in unit,2025-07-04,19
+R00821,West,3,2.5,1184,1925,2003,3.2,True,False,in building,2025-10-22,29
+R00822,Central,3,2.5,1200,2870,1932,0.6,False,True,in unit,2025-06-22,76
+R00823,East,0,1.5,385,575,1985,4.5,False,False,none,2025-04-20,40
+R00824,West,3,2.5,1331,2275,2008,3.7,True,False,in unit,2025-04-19,5
+R00825,East,2,1.5,833,1315,1969,4.5,True,True,in building,2025-09-24,13
+R00826,Central,1,1.5,540,1070,1916,1.1,False,True,in building,2025-07-12,11
+R00827,East,4,2.5,1365,2175,1954,1.4,True,True,in unit,2025-04-05,19
+R00828,North,4,2.5,1343,2185,1956,5.3,True,True,in unit,2025-11-12,55
+R00829,South,3,2.0,1319,1625,1957,6.0,False,True,in unit,2025-02-01,8
+R00830,North,1,1.0,577,1005,1976,5.9,True,False,in building,2025-08-28,11
+R00831,East,1,1.0,,1045,1955,2.1,False,True,in unit,2025-06-15,7
+R00832,South,3,2.0,1227,1325,1956,9.1,True,False,in unit,2025-11-27,25
+R00833,North,0,1.0,262,620,2000,7.4,True,True,in unit,2025-02-24,24
+R00834,West,1,1.5,576,920,1996,8.0,True,False,in building,2025-09-13,18
+R00835,West,2,1.5,866,1305,1975,2.6,False,False,in building,2025-10-08,14
+R00836,North,2,2.0,858,1190,1946,6.5,True,True,in unit,2025-06-02,20
+R00837,East,1,1.0,642,890,1967,2.5,True,False,none,2025-02-19,6
+R00838,South,0,1.5,457,525,1946,8.2,False,True,in unit,2025-09-23,29
+R00839,West,0,1.0,376,780,1984,7.5,True,True,in unit,2025-11-23,45
+R00840,North,2,1.5,874,1380,1964,4.9,True,False,in building,2025-03-17,25
+R00841,South,2,1.5,705,895,1971,4.0,False,True,in unit,2025-01-12,19
+R00842,North,1,1.0,574,795,1987,12.3,False,False,in unit,2025-07-22,43
+R00843,Harbor,1,1.0,738,1830,2025,2.8,False,False,in building,2025-03-01,27
+R00844,West,1,1.0,579,1035,1995,2.8,True,True,in unit,2025-07-11,48
+R00845,North,0,1.0,452,730,1935,6.4,True,False,in unit,2025-05-12,60
+R00846,Harbor,3,2.5,1168,2595,1997,2.9,True,False,none,2025-05-23,4
+R00847,Central,4,2.5,1579,2940,1900,0.5,True,False,in unit,2025-06-24,15
+R00848,North,2,1.5,865,1175,1986,5.3,False,False,none,2025-11-01,6
+R00849,West,0,1.0,572,1045,1983,5.2,True,True,in unit,2025-12-23,3
+R00850,Central,1,1.5,569,1065,1932,1.3,False,True,in building,2025-08-06,9
+R00851,East,3,2.5,1285,1615,1941,5.1,True,False,none,2025-06-18,4
+R00852,Harbor,4,2.5,1547,3460,2018,1.9,False,False,in unit,2025-09-12,7
+R00853,South,1,1.0,550,675,2014,5.1,False,True,none,2025-06-07,12
+R00854,Harbor,4,2.5,1501,3525,2010,3.7,True,False,in building,2025-08-10,13
+R00855,Central,3,2.5,1237,2690,1951,1.0,True,True,in building,2025-06-06,41
+R00856,West,1,1.5,744,1145,2003,2.5,False,False,none,2025-06-10,28
+R00857,West,3,2.0,1197,1520,1968,5.8,True,True,in building,2025-05-27,26
+R00858,Harbor,3,2.0,1154,2975,2025,1.9,True,True,in building,2025-07-15,24
+R00859,Central,2,1.5,857,1860,1967,1.6,False,True,in unit,2025-09-07,9
+R00860,South,0,1.0,484,680,1987,5.0,True,True,in unit,2025-02-24,49
+R00861,Central,0,1.0,468,830,1902,1.8,False,True,in unit,2025-01-28,16
+R00862,North,2,2.0,882,1580,1991,2.3,True,True,none,2025-02-24,38
+R00863,North,3,2.5,1130,1910,1945,6.5,True,False,in unit,2025-12-25,98
+R00864,North,4,2.5,1557,2275,1981,3.8,True,False,in building,2025-08-22,6
+R00865,Harbor,3,2.5,1059,2880,2020,3.5,False,False,in building,2025-04-17,6
+R00866,Central,0,1.0,460,865,1919,0.5,False,False,in building,2025-06-10,9
+R00867,South,4,2.5,1424,1830,1955,3.4,True,False,in unit,2025-06-02,21
+R00868,West,3,2.0,1176,2015,2008,3.4,True,True,in unit,2025-06-28,6
+R00869,East,3,2.0,1203,1685,,2.4,True,True,in unit,2025-03-02,14
+R00870,East,2,2.0,938,1350,1957,3.9,True,True,in unit,2025-03-03,11
+R00871,Central,2,1.5,876,1770,1924,0.9,False,True,in unit,2025-11-22,21
+R00872,South,3,2.0,1143,1230,1981,11.7,True,True,in unit,2025-08-22,13
+R00873,West,1,1.0,735,960,1968,6.1,False,True,none,2025-10-22,15
+R00874,North,1,1.0,644,890,1960,2.8,False,True,in building,2025-09-21,36
+R00875,North,0,1.5,600,1025,1971,4.1,False,True,in building,2025-10-21,59
+R00876,East,4,3.0,1545,1965,1981,2.8,False,False,none,2025-06-17,23
+R00877,North,3,2.0,1154,1920,1993,6.5,True,False,in building,2025-07-28,28
+R00878,North,1,1.0,701,1245,1983,2.0,False,False,in unit,2025-06-26,5
+R00879,West,3,2.5,1127,1665,2008,5.0,True,True,in unit,2025-05-22,30
+R00880,West,0,1.0,435,705,2001,5.9,False,True,in unit,2025-09-23,8
+R00881,West,3,2.5,1295,1880,1989,6.4,True,True,none,2025-02-11,17
+R00882,Central,4,2.5,1431,2745,1931,0.6,False,True,in unit,2025-05-26,16
+R00883,South,3,2.0,1159,1350,1979,7.4,False,True,in building,2025-04-13,22
+R00884,North,4,2.5,1538,2015,1952,4.5,False,True,in building,2025-07-24,27
+R00885,Harbor,1,1.0,636,2000,2025,1.3,True,False,in unit,2025-06-07,20
+R00886,North,4,2.5,1482,2095,1939,5.4,False,True,in unit,2025-05-15,35
+R00887,East,3,2.0,1199,1940,1997,5.2,True,False,in unit,2025-03-26,46
+R00888,South,2,2.0,892,810,1973,8.0,False,False,none,2025-10-08,23
+R00889,South,3,2.0,1241,1455,1986,6.3,False,False,in unit,2025-12-18,14
+R00890,North,1,1.0,712,1095,1958,2.3,False,True,in unit,2025-10-04,13
+R00891,East,2,1.5,802,1075,1970,3.5,True,True,in unit,2025-11-14,8
+R00892,Central,2,1.5,1038,2080,1919,0.3,False,True,in unit,2025-12-14,11
+R00893,South,2,2.0,,1025,1996,6.6,False,False,in building,2025-03-23,11
+R00894,South,4,2.5,,2130,1967,2.9,True,True,in unit,2025-03-26,28
+R00895,North,2,1.5,983,1315,1953,5.0,False,False,in building,2025-06-15,45
+R00896,South,2,1.5,1054,1085,1969,15.5,True,False,in unit,2025-08-21,57
+R00897,West,0,1.5,467,605,1956,6.0,False,True,none,2025-01-13,5
+R00898,West,3,2.0,1039,1765,2017,6.2,True,False,in building,2025-09-07,57
+R00899,East,4,2.5,1483,1990,,3.9,False,False,in unit,2025-09-01,11
+R00900,North,1,1.5,767,1400,1985,1.6,True,False,in building,2025-03-10,9
+R00901,South,2,1.5,930,935,1985,12.1,False,True,in building,2025-01-28,5
+R00902,East,2,2.0,988,1470,1993,4.2,False,True,in building,2025-08-22,25
+R00903,North,2,1.5,865,1600,1990,4.4,True,True,in unit,2025-05-08,62
+R00904,Harbor,0,1.0,379,940,1992,2.0,True,False,in building,2025-08-08,10
+R00905,East,1,1.0,809,860,1906,3.8,False,True,none,2025-10-21,6
+R00906,South,4,3.0,1473,1730,1983,8.9,False,True,in unit,2025-07-08,11
+R00907,North,1,1.0,678,1240,1939,1.3,True,False,in building,2025-05-13,4
+R00908,South,4,2.5,1468,2045,1976,1.4,True,False,in unit,2025-04-21,23
+R00909,North,1,1.5,557,1000,1986,3.6,True,False,in unit,2025-10-07,7
+R00910,South,1,1.5,623,760,1990,7.4,False,True,in unit,2025-03-27,16
+R00911,South,1,1.5,647,750,1958,6.6,False,False,in building,2025-05-24,18
+R00912,East,1,1.0,762,1000,1966,2.9,False,False,none,2025-03-25,36
+R00913,East,0,1.0,514,665,1987,5.8,False,True,none,2025-05-26,8
+R00914,South,2,1.5,1087,1475,,6.1,True,True,in unit,2025-08-18,10
+R00915,South,0,1.0,442,735,1993,3.8,True,True,in unit,2025-04-26,29
+R00916,Harbor,0,1.0,535,1445,2010,1.2,False,False,in unit,2025-02-12,18
+R00917,Central,0,1.0,358,745,1933,0.8,False,True,in unit,2025-09-04,8
+R00918,South,2,1.5,946,1370,1963,4.6,True,False,in building,2025-04-14,121
+R00919,East,3,2.0,1070,1485,2009,4.3,False,True,in unit,2025-08-18,3
+R00920,West,4,2.5,1679,2515,1969,3.1,False,False,in building,2025-07-09,17
+R00921,Central,3,2.0,959,2045,1951,1.5,False,True,in building,2025-08-24,34
+R00922,Central,1,1.0,421,840,1939,0.5,False,False,in building,2025-10-03,34
+R00923,West,3,2.0,1148,1490,1977,7.4,False,True,in building,2025-01-07,44
+R00924,East,1,1.5,673,1175,1971,1.5,True,True,in building,2025-03-27,4
+R00925,West,3,2.5,1309,1755,1969,7.8,True,False,in building,2025-11-26,21
+R00926,South,2,1.5,844,1225,1981,3.1,True,False,in unit,2025-09-13,16
+R00927,West,3,2.0,1204,1675,1972,5.3,True,True,in unit,2025-11-07,7
+R00928,South,2,1.5,,985,1980,4.3,True,True,in building,2025-10-26,68
+R00929,Central,1,1.0,579,1160,1923,0.6,True,True,in building,2025-08-05,3
+R00930,Central,3,2.0,1255,2775,1946,1.4,False,False,in unit,2025-08-11,25
+R00931,Harbor,4,3.0,1313,3335,2025,1.6,True,True,in building,2025-03-23,5
+R00932,West,1,1.0,550,715,1977,7.6,True,False,in building,2025-10-21,25
+R00933,East,2,1.5,847,1270,1987,4.0,True,False,in building,2025-09-23,21
+R00934,South,3,2.0,1313,1595,2008,6.2,True,True,none,2025-07-03,23
+R00935,West,4,3.0,1500,2180,1986,2.0,True,False,none,2025-07-13,7
+R00936,Harbor,1,1.5,602,1790,2006,0.7,True,True,in unit,2025-11-20,46
+R00937,North,2,1.5,934,1410,1985,4.1,False,True,in building,2025-09-28,11
+R00938,West,3,2.0,1274,1915,1997,10.5,True,False,in unit,2025-07-11,10
+R00939,West,0,1.5,648,970,2014,8.5,False,True,in unit,2025-07-26,6
+R00940,South,2,1.5,717,930,1990,4.5,False,True,in building,2025-12-06,9
+R00941,Harbor,2,1.5,740,2180,,1.5,True,True,in unit,2025-05-24,28
+R00942,West,1,1.0,575,795,1979,4.8,False,False,in building,2025-02-11,5
+R00943,West,3,2.0,1265,1890,2012,2.8,True,False,in building,2025-05-22,31
+R00944,East,0,1.0,549,930,1964,2.6,True,True,in building,2025-07-16,7
+R00945,North,3,2.0,1336,1660,1949,5.0,True,True,none,2025-10-04,2
+R00946,East,2,1.5,781,980,1970,10.1,True,True,none,2025-06-22,59
+R00947,East,2,2.0,987,1490,1986,1.7,True,True,in building,2025-11-07,11
+R00948,Central,0,1.0,362,925,1954,0.6,False,True,in unit,2025-03-14,1
+R00949,Harbor,1,1.0,738,1605,1996,1.4,False,True,in building,2025-03-07,9
+R00950,West,3,2.5,1210,1960,1984,4.5,True,False,in unit,2025-06-06,28
+R00951,West,4,2.5,1528,2070,1966,2.6,False,False,in building,2025-09-16,11
+R00952,South,3,2.5,1131,1500,1985,7.7,True,True,none,2025-08-07,53
+R00953,North,3,2.0,1316,2100,,5.3,True,True,in unit,2025-06-21,46
+R00954,Central,1,1.0,787,1725,1943,1.1,False,False,in building,2025-11-18,27
+R00955,Harbor,4,2.5,1631,4135,2012,1.1,True,False,in unit,2025-09-26,20
+R00956,East,4,2.5,1470,2005,1982,2.6,False,False,in building,2025-02-01,37
+R00957,West,3,2.0,1074,1635,1978,6.6,True,False,none,2025-03-23,18
+R00958,Central,2,1.5,858,1875,1923,1.2,False,True,in building,2025-08-22,26
+R00959,Harbor,1,1.0,659,1600,2016,2.1,False,False,in building,2025-03-09,23
+R00960,East,1,1.5,863,1110,1965,6.5,True,False,none,2025-10-03,11
+R00961,East,4,2.5,1601,2125,1969,4.2,False,False,none,2025-08-09,14
+R00962,Central,3,2.0,1254,2490,1968,0.3,False,True,none,2025-07-10,3
+R00963,South,1,1.0,,770,1970,9.9,True,True,in building,2025-04-26,7
+R00964,Central,3,2.5,1107,1970,,1.1,False,False,in building,2025-06-21,38
+R00965,West,1,1.0,689,1040,1985,11.3,True,True,in unit,2025-09-05,7
+R00966,Harbor,1,1.5,700,2010,2025,1.9,True,True,none,2025-03-19,11
+R00967,South,1,1.0,823,1150,2004,2.7,True,False,in building,2025-10-01,1
+R00968,East,4,2.5,1283,2155,1994,3.5,True,False,in unit,2025-03-24,60
+R00969,North,3,2.5,1250,1660,1950,9.4,False,True,in building,2025-07-24,31
+R00970,Harbor,1,1.0,729,1870,2025,3.8,True,True,in unit,2025-07-28,20
+R00971,West,4,2.5,1459,2185,1988,3.6,False,False,in building,2025-02-18,19
+R00972,East,1,1.0,580,940,1993,4.9,False,True,in unit,2025-05-26,31
+R00973,East,1,1.0,672,925,1946,4.4,True,False,in unit,2025-09-07,13
+R00974,East,1,1.5,597,1015,,4.6,True,True,in building,2025-02-10,41
+R00975,West,1,1.5,534,775,1978,4.5,True,True,in building,2025-09-26,19
+R00976,West,0,1.5,472,690,1979,1.9,True,False,in building,2025-05-05,56
+R00977,South,3,2.5,1261,1615,,1.5,False,False,in building,2025-07-15,20
+R00978,West,3,2.0,1189,1955,1987,4.5,True,False,in unit,2025-09-12,17
+R00979,North,3,2.0,1142,1805,1955,1.6,True,False,in building,2025-03-02,25
+R00980,Central,3,2.0,1185,2455,1945,0.5,False,True,in unit,2025-04-09,8
+R00981,East,1,1.5,731,1090,1984,5.5,False,False,in unit,2025-08-16,37
+R00982,Central,2,2.0,825,1670,1934,0.5,False,False,in building,2025-07-08,4
+R00983,South,1,1.5,694,635,1972,10.4,False,False,in building,2025-04-04,53
+R00984,West,1,1.5,522,740,1992,5.1,False,False,in building,2025-07-09,13
+R00985,Harbor,3,2.0,1114,2800,2014,1.5,False,False,in building,2025-01-01,7
+R00986,West,1,1.0,694,920,1991,5.0,False,True,none,2025-01-03,61
+R00987,Central,3,2.5,1276,2515,1933,1.7,True,False,in unit,2025-05-23,11
+R00988,Harbor,2,2.0,834,2480,2024,2.3,True,False,none,2025-10-25,40
+R00989,South,2,2.0,826,835,1964,7.4,False,False,in building,2025-11-22,28
+R00990,South,2,1.5,884,980,1943,5.3,False,True,in building,2025-11-17,1
+R00991,South,1,1.0,738,1015,2002,3.9,True,False,in building,2025-05-13,41
+R00992,East,2,1.5,1045,1645,1988,3.8,True,True,in building,2025-09-26,8
+R00993,Harbor,1,1.0,440,1130,1986,2.1,False,False,in building,2025-07-04,4
+R00994,West,2,1.5,868,1360,1976,3.3,True,False,none,2025-03-08,12
+R00995,South,1,1.5,686,805,1974,6.5,True,False,in building,2025-10-25,12
+R00996,East,2,2.0,920,1325,1937,5.4,True,True,in unit,2025-08-11,14
+R00997,Central,1,1.0,718,1400,1925,0.9,False,False,in unit,2025-05-09,43
+R00998,East,1,1.5,,955,1959,4.9,True,False,in building,2025-07-08,28
+R00999,East,2,1.5,873,1095,1936,4.8,False,False,none,2025-04-11,56
+R01000,South,2,1.5,747,1020,1976,6.0,True,False,none,2025-07-20,57
+R01001,West,4,2.5,1512,2000,1974,4.3,True,False,in building,2025-04-28,16
+R01002,North,2,2.0,816,1135,1948,6.0,True,False,in building,2025-05-15,18
+R01003,South,2,2.0,900,1110,1959,1.4,False,False,in building,2025-01-03,14
+R01004,South,3,2.5,1095,1495,2012,2.8,True,True,in building,2025-09-20,7
+R01005,West,1,1.0,576,875,1992,7.4,True,True,in unit,2025-11-02,31
+R01006,West,3,2.0,1110,1805,2006,5.5,True,True,in unit,2025-09-28,74
+R01007,West,2,1.5,889,1140,2004,12.5,True,True,none,2025-07-08,73
+R01008,South,2,1.5,777,1095,1946,6.7,True,True,in unit,2025-01-08,32
+R01009,South,1,1.0,692,805,1970,6.2,True,False,in building,2025-06-23,39
+R01010,East,3,2.5,1306,1865,1960,5.0,False,True,in unit,2025-10-24,8
+R01011,Central,2,2.0,939,1870,,1.3,False,True,in unit,2025-01-25,29
+R01012,South,3,2.0,1292,1835,1963,3.6,True,True,in unit,2025-05-02,16
+R01013,Harbor,2,2.0,783,1810,1998,1.6,False,False,in building,2025-10-07,6
+R01014,South,1,1.0,727,930,1965,3.9,False,False,in unit,2025-03-21,5
+R01015,West,1,1.5,614,1120,2005,8.7,True,True,in unit,2025-07-07,65
+R01016,East,3,2.5,1075,1740,1983,1.2,True,False,in unit,2025-01-28,11
+R01017,North,2,1.5,942,1495,1960,7.3,True,True,in building,2025-04-23,24
+R01018,Harbor,1,1.0,649,1890,2025,2.2,True,True,none,2025-08-21,22
+R01019,West,2,1.5,909,1235,1978,6.2,True,True,in unit,2025-04-09,5
+R01020,Harbor,4,3.0,1500,4845,2025,1.1,True,True,in unit,2025-04-18,22
+R01021,Central,1,1.5,703,1440,1931,0.6,False,False,in unit,2025-05-28,9
+R01022,South,2,1.5,1104,1425,2005,6.1,True,True,in building,2025-08-07,11
+R01023,West,1,1.0,564,970,1987,3.2,True,True,in unit,2025-06-05,9
+R01024,West,2,1.5,936,1295,1985,3.4,False,False,none,2025-10-23,4
+R01025,South,0,1.5,398,470,2000,9.0,False,False,in building,2025-06-12,16
+R01026,South,1,1.0,619,795,1988,4.5,False,True,none,2025-05-27,39
+R01027,West,4,3.0,1501,2190,1968,3.5,True,True,in building,2025-07-11,13
+R01028,North,2,2.0,992,1250,1960,7.5,True,True,in building,2025-07-06,8
+R01029,West,3,2.0,1227,1625,1983,4.1,False,False,in building,2025-05-28,20
+R01030,North,2,1.5,685,885,1952,6.5,False,False,in building,2025-08-18,17
+R01031,West,2,2.0,792,1000,,4.9,False,False,none,2025-04-11,12
+R01032,North,0,1.0,404,680,1976,3.5,True,False,in building,2025-09-02,63
+R01033,West,3,2.0,1251,1920,2016,2.6,True,False,in building,2025-06-05,4
+R01034,East,2,1.5,936,1640,1979,3.1,True,True,in unit,2025-11-27,1
+R01035,Central,0,1.0,446,965,1948,1.0,False,True,in building,2025-07-22,3
+R01036,East,4,3.0,1303,1760,1956,2.9,True,True,none,2025-01-23,52
+R01037,East,3,2.0,1411,1900,1957,2.8,True,True,none,2025-07-17,16
+R01038,East,3,2.5,1041,1350,1967,4.7,False,False,in building,2025-05-19,61
+R01039,North,1,1.0,715,1310,1979,3.9,True,True,in unit,2025-03-26,19
+R01040,North,2,1.5,861,1640,,1.9,True,True,in unit,2025-05-02,53
+R01041,Harbor,0,1.0,428,1070,2007,1.1,False,False,in building,2025-07-10,9
+R01042,West,3,2.0,1328,1820,1971,3.7,True,True,none,2025-08-21,3
+R01043,East,0,1.5,489,725,1989,1.4,True,True,in building,2025-07-27,5
+R01044,North,2,2.0,1074,1585,1932,7.4,True,True,in unit,2025-11-20,13
+R01045,North,3,2.0,1115,1640,1950,4.2,True,True,in building,2025-06-09,29
+R01046,South,0,1.0,414,450,1978,5.4,False,True,none,2025-06-10,7
+R01047,East,3,2.0,1271,1820,1986,3.2,False,False,in building,2025-10-14,9
+R01048,West,2,1.5,901,1050,1973,7.6,True,True,in building,2025-08-22,34
+R01049,West,2,1.5,911,1250,1956,3.2,True,True,in building,2025-02-03,50
+R01050,South,0,1.0,438,440,,6.3,False,False,none,2025-05-04,9
+R01051,Central,1,1.0,508,1100,1929,1.3,True,True,in unit,2025-03-20,19
+R01052,West,0,1.0,393,645,2006,13.3,True,True,in building,2025-01-28,90
+R01053,North,4,3.0,1495,2635,2003,4.3,True,True,in unit,2025-08-24,18
+R01054,West,4,2.5,1479,2250,2007,4.5,False,False,in unit,2025-05-16,18
+R01055,North,3,2.0,1314,2355,1969,1.6,True,True,in unit,2025-09-05,7
+R01056,East,1,1.5,677,1025,1956,3.6,True,False,none,2025-10-22,12
+R01057,West,2,1.5,876,1080,1971,10.0,True,True,in unit,2025-07-24,10
+R01058,South,3,2.5,1203,1130,1945,5.6,True,True,in building,2025-08-02,17
+R01059,Central,1,1.0,,1195,1933,1.0,True,True,in unit,2025-05-25,41
+R01060,South,2,1.5,762,1145,1971,6.9,True,True,in unit,2025-03-14,47
+R01061,West,4,2.5,1444,1930,2010,9.1,True,False,none,2025-09-05,19
+R01062,East,1,1.0,,920,,2.6,False,True,in unit,2025-06-16,47
+R01063,North,2,2.0,860,1300,1951,3.7,False,True,none,2025-12-13,10
+R01064,South,0,1.5,417,610,1980,5.3,False,True,in unit,2025-11-06,36
+R01065,West,2,2.0,984,1305,1978,11.3,False,False,in building,2025-06-23,50
+R01066,North,3,2.5,1271,1705,1958,8.2,True,True,in unit,2025-11-23,5
+R01067,West,0,1.5,332,605,1976,1.7,True,False,in building,2025-02-09,71
+R01068,South,1,1.5,507,855,1970,4.6,True,True,in unit,2025-09-02,86
+R01069,North,3,2.0,1211,2100,1968,5.0,True,True,none,2025-07-15,21
+R01070,West,2,1.5,763,1225,1994,10.1,True,True,in unit,2025-08-18,13
+R01071,Central,2,1.5,973,2255,1943,0.9,False,True,in unit,2025-08-03,13
+R01072,South,3,2.0,,1220,1957,3.9,True,False,none,2025-08-14,12
+R01073,North,2,1.5,990,1430,1968,5.8,True,False,in building,2025-10-28,34
+R01074,West,3,2.0,1234,1955,2013,5.7,True,True,in building,2025-11-16,11
+R01075,Central,3,2.0,1126,1650,1900,1.4,False,True,in building,2025-02-25,1
+R01076,West,2,2.0,676,960,1977,10.7,True,False,in building,2025-03-04,39
+R01077,West,1,1.0,863,1190,1991,8.7,True,False,in building,2025-03-05,8
+R01078,North,3,2.0,1157,1755,1934,2.5,True,True,in building,2025-07-07,25
+R01079,Central,3,2.0,1086,1915,1925,1.3,False,True,in unit,2025-07-07,34
+R01080,South,1,1.5,742,870,1952,4.8,True,False,in building,2025-04-21,19
+R01081,West,1,1.0,660,900,1977,4.5,True,True,in building,2025-09-08,41
+R01082,West,2,1.5,841,1015,,11.8,True,False,none,2025-11-16,19
+R01083,East,3,2.0,1222,1770,1978,4.2,True,True,in unit,2025-05-22,3
+R01084,South,4,2.5,1583,1740,1970,8.7,True,False,in building,2025-10-19,20
+R01085,West,2,1.5,1038,1680,2003,3.3,False,False,in building,2025-02-25,5
+R01086,North,0,1.0,449,680,1981,3.3,False,False,none,2025-06-11,31
+R01087,North,2,1.5,893,1400,1976,1.6,False,True,in unit,2025-09-02,51
+R01088,East,3,2.5,1068,1210,1958,6.9,False,False,in building,2025-08-10,5
+R01089,North,1,1.0,799,1090,1935,4.5,True,True,in building,2025-01-15,41
+R01090,Central,3,2.0,1296,2975,1947,0.6,False,True,in unit,2025-05-18,42
+R01091,North,0,1.0,389,755,1962,2.2,True,True,in unit,2025-05-07,19
+R01092,East,2,1.5,967,1320,2013,7.3,False,False,in unit,2025-07-27,4
+R01093,South,2,1.5,808,1065,1958,5.2,True,True,none,2025-12-12,22
+R01094,South,2,2.0,903,1235,1995,7.6,True,False,in unit,2025-05-14,20
+R01095,West,0,1.0,,860,1977,3.8,True,False,in building,2025-01-26,53
+R01096,Harbor,1,1.5,757,2085,2008,1.5,False,True,in unit,2025-05-17,10
+R01097,Harbor,0,1.0,367,1090,2025,1.3,False,False,in unit,2025-02-01,58
+R01098,Central,0,1.0,531,1005,1930,1.4,False,True,none,2025-12-20,5
+R01099,Central,1,1.0,713,1465,1900,0.3,False,True,in unit,2025-05-01,3
+R01100,Central,4,2.5,1589,2965,1930,1.8,False,True,none,2025-02-02,15
+R01101,West,3,2.0,1288,2110,1954,2.0,True,True,in building,2025-05-28,33
+R01102,West,2,1.5,823,1310,1977,3.8,True,True,none,2025-05-02,45
+R01103,Central,3,2.0,1289,2470,1937,1.0,False,True,in building,2025-11-04,2
+R01104,East,0,1.0,371,605,1966,2.1,True,True,in building,2025-08-22,2
+R01105,North,3,2.5,1295,2510,1983,3.0,True,True,in unit,2025-05-25,22
+R01106,North,1,1.0,778,1145,1956,4.0,False,True,in building,2025-11-20,28
+R01107,Central,3,2.0,1169,2285,1959,0.5,False,True,in building,2025-04-28,14
+R01108,East,2,1.5,871,1285,1971,4.5,True,True,in unit,2025-07-11,26
+R01109,Central,3,2.5,,2355,1908,0.2,False,True,in unit,2025-07-03,14
+R01110,West,3,2.0,1210,1945,1992,5.7,True,True,in unit,2025-03-02,20
+R01111,Harbor,1,1.0,535,1475,2025,2.0,False,False,in unit,2025-03-15,22
+R01112,East,4,2.5,1497,2065,1989,3.1,True,False,none,2025-05-26,25
+R01113,Central,4,2.5,1498,3055,1930,1.8,False,False,in unit,2025-06-13,42
+R01114,North,2,1.5,732,1375,1985,1.8,False,False,in unit,2025-06-12,78
+R01115,North,1,1.0,777,1285,1960,3.2,True,True,in unit,2025-04-23,23
+R01116,Central,3,2.0,1302,2675,1930,0.6,False,True,in unit,2025-10-27,13
+R01117,South,3,2.5,,1600,2004,4.2,True,False,in unit,2025-02-26,5
+R01118,South,3,2.0,1141,1620,1996,7.3,True,True,in unit,2025-03-25,19
+R01119,Harbor,1,1.0,679,2040,2021,2.0,True,False,in unit,2025-11-20,32
+R01120,West,1,1.0,563,715,1986,6.6,False,False,in building,2025-05-05,5
+R01121,West,2,1.5,992,1375,2005,4.0,False,True,none,2025-07-09,19
+R01122,East,0,1.5,366,675,1961,2.7,True,True,in building,2025-05-16,31
+R01123,South,3,2.0,1332,1860,1981,3.8,False,False,in unit,2025-03-07,6
+R01124,East,2,2.0,660,910,1962,5.8,False,False,in unit,2025-08-09,23
+R01125,West,2,2.0,939,1145,1990,5.3,False,True,in building,2025-02-16,3
+R01126,Central,2,2.0,1041,1865,1925,0.7,False,False,in unit,2025-04-28,10
+R01127,Central,2,2.0,866,1800,1918,1.5,False,True,none,2025-03-26,32
+R01128,Central,0,1.5,402,945,,1.0,False,False,in unit,2025-10-19,8
+R01129,West,2,1.5,,1750,2008,8.9,True,False,in unit,2025-12-09,17
+R01130,West,2,2.0,906,1455,1997,1.3,False,False,in building,2025-08-07,35
+R01131,West,1,1.0,629,1240,2006,3.5,True,True,in building,2025-04-08,11
+R01132,West,4,3.0,1677,2575,1982,5.2,True,True,none,2025-09-14,13
+R01133,West,1,1.5,748,1150,1998,4.8,True,False,none,2025-07-04,23
+R01134,South,2,1.5,1063,1270,1984,3.7,True,True,none,2025-11-10,5
+R01135,East,3,2.0,1204,1870,1955,4.7,False,True,in unit,2025-06-25,3
+R01136,South,2,1.5,947,1390,1990,3.7,False,True,in unit,2025-10-14,60
+R01137,North,3,2.0,1289,1885,1967,6.2,True,False,in unit,2025-10-25,19
+R01138,Central,2,1.5,926,1955,1934,0.7,True,True,in building,2025-08-10,11
+R01139,West,2,2.0,861,1325,1981,5.8,True,True,in unit,2025-05-09,39
+R01140,North,1,1.0,660,885,1945,5.3,False,True,in building,2025-05-25,34
+R01141,South,2,1.5,1010,1305,1998,2.1,True,False,none,2025-08-16,54
+R01142,South,1,1.5,827,1155,1969,3.2,True,False,in building,2025-06-25,20
+R01143,Harbor,2,2.0,963,2565,2024,2.7,True,True,in building,2025-05-06,87
+R01144,South,1,1.0,694,1035,1963,1.4,True,True,in unit,2025-08-23,20
+R01145,North,0,1.0,498,855,,5.3,False,False,in unit,2025-07-19,24
+R01146,West,0,1.0,442,745,2004,3.9,False,False,in unit,2025-10-11,4
+R01147,North,1,1.0,550,780,1952,4.7,False,False,in building,2025-08-17,13
+R01148,West,2,1.5,818,1330,1983,4.0,False,True,in building,2025-05-23,14
+R01149,East,4,3.0,1570,2090,1947,4.8,False,True,in unit,2025-12-28,11
+R01150,South,3,2.5,1026,1315,2004,6.4,True,True,in building,2025-02-28,22
+R01151,West,3,2.5,1306,2075,1991,5.4,True,False,in unit,2025-01-16,42
+R01152,North,3,2.0,1281,2085,2022,4.0,False,False,none,2025-05-14,15
+R01153,Central,4,2.5,1506,2990,1955,1.9,False,False,in building,2025-05-01,16
+R01154,Central,2,1.5,923,1710,1929,0.8,True,True,in building,2025-01-22,12
+R01155,South,2,1.5,923,1210,1953,5.0,True,True,in unit,2025-05-18,82
+R01156,South,3,2.0,1004,1350,1998,5.5,True,True,in building,2025-12-22,23
+R01157,South,1,1.0,617,815,1995,3.9,False,True,in unit,2025-10-09,8
+R01158,South,1,1.0,696,925,2002,3.5,True,True,none,2025-10-04,20
+R01159,Central,3,2.0,1123,2660,1972,0.5,False,True,none,2025-12-12,9
+R01160,East,2,2.0,953,1385,1961,6.9,True,True,in unit,2025-12-15,34
+R01161,North,3,2.0,1166,1465,1931,3.0,False,False,in building,2025-06-24,28
+R01162,West,2,1.5,808,1135,2003,9.4,False,False,in building,2025-03-21,12
+R01163,Central,1,1.0,661,1075,1923,0.8,False,True,none,2025-12-13,11
+R01164,Harbor,1,1.5,642,1690,1987,0.6,False,False,in unit,2025-05-15,23
+R01165,East,0,1.0,661,880,1965,3.3,False,False,in building,2025-10-23,10
+R01166,West,2,2.0,827,935,1993,13.0,False,False,in building,2025-02-08,6
+R01167,East,1,1.5,687,945,1992,5.8,False,True,in building,2025-04-28,5
+R01168,North,1,1.0,716,925,1950,4.0,True,False,none,2025-12-28,17
+R01169,Harbor,1,1.0,788,2040,,0.9,False,False,in unit,2025-03-18,23
+R01170,North,2,2.0,844,1335,1963,5.3,True,True,in unit,2025-10-27,10
+R01171,West,1,1.0,541,670,1971,7.4,False,False,none,2025-08-07,15
+R01172,Harbor,1,1.5,775,2110,1979,1.7,True,False,in unit,2025-03-06,11
+R01173,East,0,1.0,335,610,1957,0.6,True,False,none,2025-06-26,14
+R01174,South,2,2.0,768,990,2015,3.8,False,False,in building,2025-10-19,28
+R01175,Central,1,1.0,651,1335,1923,0.7,True,False,in unit,2025-08-09,5
+R01176,East,4,2.5,1677,2135,,5.8,True,True,in unit,2025-04-03,18
+R01177,Harbor,2,1.5,748,1975,2011,3.3,True,False,in building,2025-05-16,15
+R01178,South,0,1.5,593,830,1983,5.5,True,False,in unit,2025-09-04,21
+R01179,Central,2,1.5,998,2200,1942,0.7,False,True,in unit,2025-09-10,43
+R01180,West,1,1.0,722,1025,1993,11.0,True,True,none,2025-09-24,11
+R01181,North,0,1.0,462,545,1965,10.0,False,True,in building,2025-11-18,16
+R01182,South,1,1.0,702,890,,5.3,True,False,none,2025-06-14,11
+R01183,North,3,2.5,1172,1955,1968,2.2,True,False,in unit,2025-03-11,17
+R01184,North,1,1.0,713,1105,1972,7.2,True,False,none,2025-05-02,6
+R01185,North,3,2.0,1341,2315,1987,1.7,True,True,none,2025-01-16,16
+R01186,West,2,1.5,934,1145,1963,13.4,True,False,in building,2025-03-04,15
+R01187,Harbor,0,1.0,420,1280,2008,3.0,True,True,in building,2025-10-25,62
+R01188,North,4,2.5,1378,2115,1961,2.0,False,False,in unit,2025-06-19,6
+R01189,West,3,2.0,1261,1840,2000,5.8,True,True,none,2025-08-07,15
+R01190,South,2,1.5,905,1105,1975,3.1,True,True,none,2025-07-15,14
+R01191,Central,1,1.0,667,1560,1948,0.4,False,False,in unit,2025-10-10,16
+R01192,West,3,2.5,1227,1965,1964,3.8,True,False,in unit,2025-06-26,15
+R01193,West,0,1.0,615,910,1992,7.6,True,False,in building,2025-07-06,18
+R01194,North,1,1.5,686,835,1947,6.7,False,True,in building,2025-05-18,7
+R01195,South,3,2.0,1329,1680,1973,3.2,False,False,in unit,2025-11-16,12
+R01196,West,1,1.0,674,1115,1996,4.7,True,False,in unit,2025-04-27,41
+R01197,South,2,1.5,1028,1290,1999,6.2,False,False,in building,2025-07-05,7
+R01198,West,1,1.0,514,985,2007,1.1,True,True,in building,2025-01-07,15
+R01199,West,1,1.0,662,895,1991,9.5,False,True,in building,2025-08-27,25
+R01200,South,1,1.0,548,865,1993,4.9,True,True,in unit,2025-11-23,37
+R01201,East,1,1.0,,1070,1972,5.0,False,False,in unit,2025-10-17,32
+R01202,East,0,1.0,367,715,1986,2.6,True,False,in unit,2025-09-23,21
+R01203,North,3,2.5,1167,1705,1954,7.0,True,True,in unit,2025-03-10,42
+R01204,East,1,1.0,892,1275,1989,2.9,True,False,none,2025-08-18,30
+R01205,West,1,1.0,802,1560,1994,2.3,True,False,in unit,2025-08-18,63
+R01206,North,2,2.0,607,975,1984,11.0,True,True,in building,2025-08-06,146
+R01207,Harbor,3,2.0,1130,3130,2019,2.9,False,False,none,2025-09-01,42
+R01208,Central,3,2.0,1233,2465,,0.9,False,False,none,2025-09-27,11
+R01209,West,4,2.5,1589,2470,1998,3.1,True,False,in building,2025-07-06,23
+R01210,Harbor,0,1.0,517,1390,1971,1.2,False,False,in unit,2025-07-18,30
+R01211,South,2,1.5,1053,1280,1968,5.2,True,True,in unit,2025-04-03,52
+R01212,Harbor,4,2.5,1627,3550,2025,2.7,False,False,in unit,2025-08-20,8
+R01213,South,3,2.0,1137,1220,1946,7.9,False,False,in building,2025-05-19,22
+R01214,South,1,1.0,595,715,1951,7.2,True,True,in building,2025-03-26,19
+R01215,East,3,2.0,1093,1830,1984,4.0,True,True,in building,2025-09-13,14
+R01216,North,1,1.0,648,1005,1971,4.0,True,False,in building,2025-09-17,2
+R01217,Central,4,2.5,1441,3225,1950,0.7,False,False,in unit,2025-01-13,17
+R01218,East,2,1.5,963,1325,1947,2.2,True,False,in building,2025-06-01,26
+R01219,Central,1,1.0,820,1740,1960,1.2,False,True,in building,2025-08-24,93
+R01220,North,3,2.5,1296,1860,1963,3.2,False,True,in unit,2025-06-09,8
+R01221,North,2,1.5,906,1290,1950,3.0,False,False,in building,2025-05-01,14
+R01222,South,1,1.0,679,740,1958,3.9,False,False,in building,2025-01-19,14
+R01223,South,1,1.0,584,825,2002,3.9,False,True,in unit,2025-10-03,91
+R01224,Central,1,1.0,599,1345,1937,0.6,True,True,in unit,2025-10-28,41
+R01225,Central,3,2.0,1111,2065,1926,0.5,False,False,in unit,2025-11-26,17
+R01226,East,4,2.5,1524,2450,1991,2.2,True,False,none,2025-10-23,10
+R01227,South,1,1.5,589,675,1984,11.4,True,False,in building,2025-01-06,27
+R01228,South,0,1.5,530,675,1959,8.0,True,True,in building,2025-03-27,41
+R01229,North,4,3.0,1544,2505,1981,2.9,True,True,in unit,2025-06-23,12
+R01230,West,2,1.5,783,1245,1992,6.0,True,False,in building,2025-07-23,19
+R01231,West,2,1.5,766,1335,1993,6.1,True,False,in unit,2025-08-13,45
+R01232,East,1,1.0,619,885,1967,5.2,False,True,in building,2025-10-28,4
+R01233,East,1,1.5,835,1100,1953,5.1,False,False,in building,2025-08-04,27
+R01234,Central,4,3.0,1531,3195,1949,1.0,False,True,in unit,2025-05-15,19
+R01235,South,2,1.5,788,1105,1985,7.7,True,False,in unit,2025-04-22,23
+R01236,Harbor,1,1.0,624,1900,2004,1.0,True,True,in building,2025-06-14,39
+R01237,Harbor,2,1.5,950,2115,1985,1.1,True,False,none,2025-12-20,6
+R01238,Harbor,0,1.0,531,1310,2025,4.7,False,False,none,2025-12-21,12
+R01239,Central,1,1.5,689,1480,1923,0.8,False,False,in unit,2025-05-23,37
+R01240,West,2,1.5,,1160,1966,3.3,True,True,in building,2025-04-13,3
+R01241,Harbor,1,1.0,562,1695,,1.6,False,True,in unit,2025-05-09,48
+R01242,East,4,3.0,1491,2015,1959,3.2,True,True,none,2025-09-15,32
+R01243,West,2,2.0,876,1070,2009,12.9,True,False,in building,2025-10-22,25
+R01244,West,3,2.5,1180,1565,1956,7.6,True,False,none,2025-06-21,24
+R01245,North,2,1.5,939,1460,1972,4.5,True,True,in building,2025-07-08,10
+R01246,West,1,1.0,740,1200,1990,5.1,True,False,in building,2025-02-20,5
+R01247,South,1,1.5,798,845,1981,18.0,False,True,in unit,2025-06-01,35
+R01248,South,4,3.0,1474,1750,1985,6.1,True,True,in building,2025-06-06,2
+R01249,North,3,2.5,1117,1465,1941,3.1,True,False,in building,2025-06-25,32
+R01250,West,1,1.0,631,1085,1982,9.0,True,False,in unit,2025-04-26,21
+R01251,East,1,1.5,649,915,1961,1.7,True,False,none,2025-07-28,37
+R01252,Harbor,1,1.5,738,1840,1992,1.6,True,True,in building,2025-08-08,41
+R01253,West,2,1.5,886,1305,,3.9,True,False,in building,2025-11-18,8
+R01254,Central,3,2.0,1303,2050,1936,0.4,False,False,in building,2025-04-23,8
+R01255,South,0,1.5,581,770,,4.9,False,True,in unit,2025-08-19,65
+R01256,South,3,2.5,1219,1325,1979,8.1,False,False,in building,2025-08-17,7
+R01257,North,3,2.5,1301,2085,1983,8.1,True,False,in unit,2025-10-10,50
+R01258,Central,4,2.5,1663,3820,1938,0.4,False,False,none,2025-05-17,16
+R01259,Harbor,2,2.0,894,1980,1994,0.6,False,False,none,2025-01-25,16
+R01260,East,2,1.5,,1115,1941,2.5,False,False,in building,2025-08-14,9
+R01261,East,3,2.0,1230,1905,1968,5.3,True,True,in unit,2025-04-10,22
+R01262,South,1,1.0,511,650,1979,8.0,False,False,in unit,2025-09-26,18
+R01263,East,0,1.0,630,825,1986,5.7,False,True,in building,2025-12-26,14
+R01264,North,4,2.5,1470,2240,1982,6.5,True,True,in unit,2025-11-15,41
+R01265,South,1,1.5,807,1160,1947,3.1,True,True,in unit,2025-04-22,22
+R01266,North,1,1.0,673,1110,1993,5.3,True,False,in building,2025-07-26,21
+R01267,East,0,1.5,413,550,1991,4.8,False,True,none,2025-06-19,8
+R01268,West,2,1.5,887,1325,2006,10.5,True,True,in unit,2025-12-10,65
+R01269,West,2,1.5,1030,1220,1958,3.1,False,True,in building,2025-09-16,6
+R01270,Central,1,1.0,709,1515,1900,0.5,False,True,in unit,2025-05-14,12
+R01271,West,1,1.0,853,1280,2025,10.6,True,True,in building,2025-11-24,50
+R01272,Harbor,2,1.5,1005,2550,2025,2.2,True,True,in building,2025-03-19,8
+R01273,Central,1,1.5,552,1225,1938,0.5,False,False,in unit,2025-01-27,40
+R01274,Central,1,1.0,669,1480,1957,1.8,False,True,in unit,2025-12-09,5
+R01275,East,1,1.5,567,900,1994,4.3,True,True,in building,2025-04-13,39
+R01276,Central,2,1.5,963,1945,1922,0.5,True,True,in building,2025-07-03,2
+R01277,North,2,1.5,929,1280,1948,11.3,True,True,in building,2025-08-13,32
+R01278,West,3,2.5,1163,1785,1996,6.4,False,False,in unit,2025-03-01,6
+R01279,East,2,1.5,885,1490,1998,0.6,True,False,in building,2025-03-23,65
+R01280,North,4,2.5,1579,2130,1950,4.2,True,False,in building,2025-01-06,28
+R01281,East,2,1.5,857,1475,1989,4.5,True,True,in building,2025-08-16,53
+R01282,South,1,1.5,794,1075,,3.4,True,True,in building,2025-11-21,8
+R01283,North,0,1.0,403,680,1952,5.8,False,True,in building,2025-09-26,87
+R01284,East,0,1.0,451,695,1969,6.5,True,True,none,2025-05-18,94
+R01285,South,4,3.0,1436,1775,1968,5.3,False,True,none,2025-08-13,11
+R01286,South,2,1.5,976,1150,1968,2.0,True,False,none,2025-10-04,15
+R01287,North,3,2.0,1105,1820,1977,4.8,False,True,in building,2025-09-01,10
+R01288,North,1,1.0,683,1355,1983,2.3,True,True,in unit,2025-06-28,35
+R01289,North,1,1.5,767,980,1957,7.2,True,True,in building,2025-02-04,29
+R01290,South,3,2.0,1158,1420,1992,10.2,True,False,in building,2025-10-14,15
+R01291,South,3,2.0,1035,1155,1962,4.6,False,False,in building,2025-09-08,29
+R01292,North,1,1.0,660,800,1951,6.0,False,True,none,2025-04-18,16
+R01293,North,3,2.5,1236,1825,1969,4.0,False,True,in building,2025-03-11,28
+R01294,South,2,1.5,1029,1300,1969,8.5,True,False,in building,2025-06-23,10
+R01295,North,2,2.0,1010,1445,1926,2.8,False,True,in unit,2025-02-21,6
+R01296,West,3,2.0,1168,1855,1974,5.1,True,True,in unit,2025-07-23,46
+R01297,Harbor,1,1.5,773,2140,2015,0.7,False,False,in unit,2025-07-13,2
+R01298,South,1,1.5,605,720,1974,8.4,False,False,in building,2025-06-02,22
+R01299,East,2,1.5,900,1360,2008,4.3,False,False,in unit,2025-07-24,10
+R01300,North,0,1.0,467,795,1973,3.9,True,False,in building,2025-04-28,8
+R01301,West,3,2.0,1256,2165,1993,3.2,True,True,in unit,2025-05-02,28
+R01302,West,2,1.5,949,1555,,1.2,True,True,in building,2025-04-18,9
+R01303,South,1,1.0,617,870,2025,4.6,True,False,none,2025-10-21,15
+R01304,South,0,1.0,558,700,1983,5.8,False,False,none,2025-07-21,19
+R01305,South,2,1.5,975,1295,1976,3.0,False,True,in unit,2025-06-21,12
+R01306,North,1,1.0,717,1205,1965,2.2,False,True,in unit,2025-07-06,62
+R01307,West,3,2.5,,1885,1989,4.1,True,False,none,2025-12-27,33
+R01308,North,1,1.0,607,885,1948,6.7,False,True,in building,2025-04-22,4
+R01309,South,2,1.5,983,1220,1968,7.5,True,True,in unit,2025-06-19,58
+R01310,Central,2,2.0,964,2055,1904,0.4,True,True,none,2025-09-06,70
+R01311,North,1,1.5,815,1485,1968,6.0,True,False,in unit,2025-01-10,107
+R01312,South,1,1.5,,720,1958,3.3,True,True,in building,2025-02-11,39
+R01313,West,3,2.0,1007,1795,1996,5.3,True,True,in building,2025-03-03,32
+R01314,North,2,2.0,827,1450,1964,1.8,True,True,in building,2025-10-16,21
+R01315,Central,3,2.0,1147,2355,1923,0.7,False,True,in unit,2025-07-13,19
+R01316,Central,1,1.0,534,1080,1912,1.4,False,False,in unit,2025-05-22,11
+R01317,Harbor,4,2.5,1538,3775,2025,3.7,True,False,in unit,2025-08-06,38
+R01318,South,4,3.0,1508,2280,2012,3.9,True,True,in building,2025-06-27,22
+R01319,West,3,2.5,1199,1890,1994,4.4,False,False,none,2025-07-04,68
+R01320,Central,2,1.5,849,1585,1935,1.0,False,True,none,2025-01-08,26
+R01321,South,0,1.0,615,905,1930,1.9,True,False,in building,2025-11-17,56
+R01322,West,3,2.0,1257,1835,2006,10.0,False,False,in unit,2025-05-21,9
+R01323,Harbor,3,2.5,1220,2975,2023,1.4,False,False,none,2025-08-10,23
+R01324,Harbor,3,2.0,1313,2590,1950,1.7,False,True,in unit,2025-04-02,15
+R01325,Harbor,1,1.0,823,1965,2025,1.7,True,False,in building,2025-02-17,8
+R01326,South,2,1.5,976,1275,2009,7.7,True,True,in building,2025-09-21,27
+R01327,Central,3,2.0,1176,2305,1927,1.1,False,False,in building,2025-06-05,9
+R01328,East,2,2.0,982,1510,1972,5.2,True,True,in unit,2025-07-06,11
+R01329,South,3,2.0,1183,1635,1965,2.0,True,False,in building,2025-05-21,35
+R01330,West,2,1.5,1027,1710,,4.6,True,True,in building,2025-04-18,31
+R01331,West,2,1.5,976,1420,1973,0.7,True,False,in building,2025-08-11,13
+R01332,West,0,1.5,,625,1982,9.9,False,True,in unit,2025-06-03,23
+R01333,Harbor,3,2.0,1141,3110,2025,1.2,True,False,in building,2025-08-18,25
+R01334,South,3,2.0,1234,1160,1943,11.4,True,True,in building,2025-03-12,88
+R01335,Central,2,1.5,853,1915,1944,1.0,False,False,in unit,2025-07-17,13
+R01336,South,1,1.0,680,1005,1967,3.5,True,True,in building,2025-10-07,55
+R01337,North,2,2.0,894,1175,1974,3.3,False,False,none,2025-06-21,5
+R01338,North,2,2.0,889,1615,1976,5.6,True,True,in unit,2025-03-28,28
+R01339,North,2,1.5,914,1560,1959,1.0,True,True,in building,2025-11-07,58
+R01340,South,1,1.5,665,840,1969,6.4,True,True,in building,2025-09-12,31
+R01341,East,0,1.0,507,665,1951,4.0,False,True,in building,2025-06-26,17
+R01342,South,3,2.0,1115,1325,1981,7.6,False,True,none,2025-06-25,33
+R01343,North,2,2.0,916,1590,1959,2.1,True,False,in unit,2025-07-26,7
+R01344,South,2,1.5,842,1040,1966,6.6,False,False,in unit,2025-10-04,57
+R01345,West,2,2.0,869,1245,1994,5.4,False,True,in unit,2025-08-09,8
+R01346,West,1,1.0,760,1125,2011,4.5,False,False,in unit,2025-11-08,43
+R01347,Central,2,2.0,959,1955,1908,0.4,False,True,in unit,2025-03-11,63
+R01348,East,1,1.0,653,1050,1995,3.6,True,False,in unit,2025-09-04,33
+R01349,Central,1,1.5,715,1450,1972,1.0,False,True,in building,2025-10-12,5
+R01350,West,2,1.5,951,1580,2019,5.2,False,True,none,2025-05-18,35
+R01351,South,2,2.0,890,1235,1973,4.9,True,True,in building,2025-07-04,44
+R01352,Central,0,1.0,594,1210,1912,0.4,False,True,in building,2025-06-04,15
+R01353,Harbor,3,2.5,1157,2940,2007,1.1,False,False,in building,2025-02-11,25
+R01354,East,2,1.5,1005,1515,,2.7,True,False,in unit,2025-07-23,8
+R01355,South,1,1.5,712,775,,9.7,True,True,in building,2025-05-05,20
+R01356,South,2,2.0,851,1090,1949,7.3,True,False,in unit,2025-06-26,25
+R01357,West,1,1.5,653,1075,1975,1.2,False,False,in unit,2025-06-04,8
+R01358,West,1,1.5,610,1070,2002,6.3,True,True,in unit,2025-08-16,43
+R01359,Harbor,2,1.5,936,2455,2013,2.5,False,True,in building,2025-05-27,22
+R01360,North,1,1.0,792,1220,2007,5.2,False,True,none,2025-01-09,23
+R01361,Central,2,1.5,881,1700,1938,0.7,False,True,in building,2025-08-21,6
+R01362,West,1,1.0,564,990,1994,3.6,True,True,none,2025-09-23,39
+R01363,East,3,2.0,1203,1450,1956,5.4,False,False,in unit,2025-12-22,33
+R01364,South,2,1.5,982,1405,,8.7,True,False,in unit,2025-11-25,15
+R01365,East,0,1.5,367,685,1975,5.0,True,False,in unit,2025-03-15,20
+R01366,North,3,2.5,1214,1750,,1.9,True,False,in building,2025-12-10,46
+R01367,South,1,1.0,847,1055,2000,7.4,True,False,none,2025-09-22,20
+R01368,West,1,1.0,557,840,1995,7.9,True,True,none,2025-07-28,17
+R01369,South,0,1.0,486,760,1993,2.9,False,True,in unit,2025-10-11,8
+R01370,Central,1,1.5,,1530,1925,0.3,False,False,in unit,2025-10-11,50
+R01371,East,3,2.0,1159,1345,,7.2,False,False,in building,2025-08-10,39
+R01372,Central,0,1.0,493,890,1933,0.5,False,True,in building,2025-11-08,20
+R01373,West,0,1.0,540,790,1969,3.9,False,False,in unit,2025-01-14,10
+R01374,East,2,1.5,834,910,1952,10.6,False,False,in unit,2025-07-09,48
+R01375,West,1,1.5,602,790,1993,3.9,False,False,none,2025-08-22,11
+R01376,South,1,1.5,863,1200,1980,1.5,False,False,in building,2025-05-12,13
+R01377,East,4,2.5,1568,1995,1976,4.9,True,True,in unit,2025-05-15,5
+R01378,East,2,1.5,965,1340,1996,2.6,True,True,none,2025-07-16,42
+R01379,Central,1,1.5,803,1915,1921,0.8,True,True,in unit,2025-04-05,26
+R01380,Harbor,3,2.0,1167,2705,1981,1.4,True,False,in unit,2025-12-09,1
+R01381,Harbor,1,1.5,748,1885,2019,0.7,True,False,in building,2025-10-02,28
+R01382,Harbor,3,2.0,1301,3745,2025,0.4,True,False,in building,2025-11-22,6
+R01383,West,1,1.0,675,1135,2003,7.7,False,True,in unit,2025-09-05,35
+R01384,West,4,3.0,,2215,1973,3.0,False,True,in unit,2025-04-15,17
+R01385,North,2,2.0,1031,1520,1939,0.9,False,False,in building,2025-05-16,59
+R01386,North,1,1.5,592,930,1936,2.4,False,True,none,2025-07-19,20
+R01387,Central,0,1.5,429,1035,1921,1.0,True,True,in unit,2025-06-02,37
+R01388,West,1,1.0,653,1175,,3.8,True,True,in building,2025-09-17,22
+R01389,East,3,2.5,1195,1785,,3.9,True,False,in unit,2025-08-19,15
+R01390,South,2,1.5,955,1185,1985,3.0,False,False,in building,2025-03-08,12
+R01391,Central,1,1.0,724,1575,1926,0.4,False,False,in unit,2025-06-06,6
+R01392,Harbor,1,1.5,731,1955,2017,1.1,False,True,in building,2025-06-04,24
+R01393,West,1,1.0,652,1130,2005,2.0,True,False,none,2025-12-09,27
+R01394,South,4,3.0,1447,1975,1984,5.5,False,True,in unit,2025-06-28,10
+R01395,South,1,1.0,690,1000,1984,3.8,False,False,in unit,2025-07-26,13
+R01396,West,3,2.5,1176,1625,1983,7.8,True,False,in unit,2025-08-07,22
+R01397,Central,1,1.5,539,1155,,0.6,False,True,in unit,2025-09-11,21
+R01398,South,1,1.0,,805,1957,6.8,True,True,in unit,2025-08-28,39
+R01399,West,1,1.0,616,920,1988,2.0,True,True,in building,2025-02-14,19
+R01400,South,4,3.0,1404,1390,1965,5.0,False,False,in building,2025-03-18,3
+R01401,North,1,1.0,706,1330,1965,3.3,True,True,in unit,2025-04-14,94
+R01402,Harbor,1,1.5,671,1750,2022,3.8,False,False,in building,2025-07-04,14
+R01403,East,0,1.0,590,865,1978,3.6,True,False,in unit,2025-05-04,57
+R01404,East,3,2.5,1241,1725,1945,4.7,True,False,none,2025-07-17,17
+R01405,East,2,1.5,820,1220,1954,2.1,False,True,in building,2025-02-06,19
+R01406,South,1,1.5,645,895,2021,7.6,False,True,none,2025-03-25,32
+R01407,North,1,1.5,656,1080,1989,3.7,True,False,in building,2025-03-28,9
+R01408,West,3,2.5,1191,1975,2002,6.5,True,True,in building,2025-10-08,46
+R01409,West,1,1.0,648,1160,1996,4.0,True,True,none,2025-02-20,18
+R01410,East,3,2.0,1148,1250,1944,4.5,False,False,none,2025-04-22,3
+R01411,North,1,1.0,849,1295,1944,3.0,True,True,in building,2025-05-26,40
+R01412,West,3,2.5,1202,1985,1999,4.6,True,False,in unit,2025-07-24,25
+R01413,South,1,1.5,741,770,,7.1,False,False,in building,2025-09-09,4
+R01414,North,0,1.5,201,520,1985,6.8,True,True,in unit,2025-05-28,30
+R01415,South,2,2.0,973,1215,1968,6.7,False,True,in building,2025-07-06,12
+R01416,North,2,1.5,1085,1730,1948,6.3,True,False,in building,2025-07-06,13
+R01417,South,2,1.5,913,1410,1983,2.2,False,True,in unit,2025-07-09,33
+R01418,West,2,1.5,852,1255,1983,5.4,True,False,none,2025-07-13,17
+R01419,West,3,2.0,1150,1755,,5.8,True,True,in building,2025-08-25,34
+R01420,North,2,1.5,922,1165,1964,9.3,False,True,in unit,2025-08-15,37
+R01421,South,3,2.0,1133,1200,1958,4.8,False,False,in unit,2025-08-19,10
+R01422,West,4,2.5,1510,2090,1980,3.4,False,False,in unit,2025-01-15,24
+R01423,East,2,1.5,1023,1540,1982,2.3,True,True,none,2025-11-09,13
+R01424,Central,2,1.5,953,1875,1923,0.4,False,True,none,2025-01-11,39
+R01425,Harbor,3,2.0,1098,3125,2019,1.4,True,True,in unit,2025-06-01,8
+R01426,North,1,1.0,809,1045,1946,12.1,False,True,in building,2025-11-26,36
+R01427,North,3,2.5,1274,1905,1966,6.0,True,True,in building,2025-05-13,20
+R01428,North,3,2.0,1165,1640,1979,2.6,False,False,in unit,2025-08-11,3
+R01429,West,3,2.0,1246,1925,1993,3.9,True,False,none,2025-08-17,15
+R01430,East,1,1.5,733,845,1955,2.8,False,False,none,2025-10-20,24
+R01431,East,1,1.0,727,1070,1996,2.7,False,False,in building,2025-07-28,22
+R01432,South,1,1.5,792,870,2024,9.7,True,False,none,2025-06-19,18
+R01433,West,1,1.0,765,1160,1997,7.1,True,False,in unit,2025-01-08,52
+R01434,West,2,1.5,925,1465,1975,5.9,True,True,in building,2025-06-16,34
+R01435,North,1,1.5,770,1170,1950,8.6,True,True,none,2025-10-23,32
+R01436,West,2,1.5,834,1305,1986,8.4,False,True,in unit,2025-07-18,44
+R01437,West,2,1.5,802,1410,1990,4.9,True,True,in unit,2025-09-19,16
+R01438,West,3,2.0,1308,1890,1942,1.2,True,False,in unit,2025-06-01,59
+R01439,East,2,1.5,941,1330,2012,3.7,False,False,in unit,2025-09-26,26
+R01440,Harbor,1,1.0,631,1610,,3.1,True,False,in unit,2025-02-09,7
+R01441,South,3,2.5,1381,1520,1959,2.4,False,True,in building,2025-03-19,4
+R01442,West,1,1.5,736,1125,2004,11.5,True,False,in unit,2025-04-10,6
+R01443,West,2,1.5,1001,1535,1958,1.8,False,True,in building,2025-06-04,24
+R01444,North,1,1.0,728,915,1977,10.0,True,False,none,2025-07-10,8
+R01445,Harbor,4,2.5,1394,3800,2009,1.1,True,True,in unit,2025-08-05,43
+R01446,East,4,2.5,1589,2130,1933,3.3,True,True,none,2025-01-08,29
+R01447,East,0,1.0,400,650,1956,5.7,True,False,in unit,2025-09-20,32
+R01448,Central,3,2.0,1221,2375,1942,0.2,False,False,in building,2025-11-13,26
+R01449,South,1,1.0,700,775,1978,9.3,True,False,in building,2025-06-07,41
+R01450,North,3,2.0,1086,1600,1947,4.5,True,True,in unit,2025-08-26,11
+R01451,North,2,1.5,895,1335,1950,3.1,True,True,in building,2025-10-05,14
+R01452,Central,1,1.0,692,1555,1931,0.4,True,True,in building,2025-04-22,17
+R01453,North,1,1.5,702,1230,1968,2.6,False,True,in unit,2025-09-06,51
+R01454,South,2,2.0,1015,1240,1961,3.5,True,True,in unit,2025-07-27,4
+R01455,Harbor,2,2.0,1069,2510,2011,3.1,True,False,in building,2025-05-23,9
+R01456,West,3,2.0,1058,1645,1995,4.9,False,True,in building,2025-06-03,26
+R01457,Central,2,1.5,880,1485,1911,1.0,False,True,in building,2025-07-25,1
+R01458,South,2,1.5,1019,1035,1987,6.0,True,False,in building,2025-08-24,12
+R01459,North,2,1.5,716,1345,1999,3.6,False,True,in unit,2025-10-11,87
+R01460,West,1,1.5,660,915,1970,6.9,True,False,in building,2025-02-19,17
+R01461,West,0,1.5,345,430,1991,5.0,False,True,none,2025-08-18,4
+R01462,East,1,1.0,594,895,1973,1.9,False,True,in building,2025-09-08,52
+R01463,North,3,2.0,1239,1470,1948,5.9,False,False,in building,2025-04-09,19
+R01464,Central,2,1.5,906,2305,1964,1.1,False,True,in building,2025-12-01,9
+R01465,Harbor,0,1.0,426,1300,,1.9,True,True,in unit,2025-10-03,10
+R01466,West,1,1.0,653,1005,1984,4.0,True,True,in building,2025-11-21,73
+R01467,West,1,1.0,638,1200,,2.7,True,False,in unit,2025-09-10,39
+R01468,Central,4,3.0,1414,2660,1930,0.2,False,False,in building,2025-08-11,13
+R01469,North,0,1.5,471,845,1961,3.3,True,False,in unit,2025-01-21,72
+R01470,Central,4,2.5,1497,2840,1906,0.9,False,True,in unit,2025-12-01,20
+R01471,Central,1,1.0,853,1635,1931,0.3,False,False,in building,2025-02-25,15
+R01472,South,1,1.0,904,1080,1965,11.8,True,True,in building,2025-02-15,43
+R01473,North,3,2.0,1181,1505,1963,1.3,False,False,in building,2025-08-05,2
+R01474,Central,1,1.5,665,1475,1963,0.9,False,True,in building,2025-04-23,7
+R01475,West,0,1.5,624,935,1997,8.9,True,False,in building,2025-03-25,37
+R01476,North,3,2.5,1191,1895,1943,1.0,True,False,in unit,2025-05-22,19
+R01477,Harbor,3,2.0,1144,2985,2025,1.1,True,False,in building,2025-09-06,13
+R01478,North,2,1.5,964,1445,1997,7.7,False,False,in unit,2025-06-26,44
+R01479,West,1,1.0,617,770,1991,7.6,True,False,none,2025-10-25,10
+R01480,North,0,1.0,540,845,1938,4.3,True,True,in building,2025-09-09,18
+R01481,West,3,2.0,1319,2140,2025,4.1,False,True,in unit,2025-05-17,40
+R01482,West,1,1.5,691,1085,1971,4.7,True,False,none,2025-01-02,42
+R01483,North,1,1.0,,1110,,7.0,True,False,in unit,2025-04-18,27
+R01484,West,1,1.0,751,1255,1988,1.2,True,True,in unit,2025-02-07,26
+R01485,Central,2,1.5,901,1820,1939,0.5,False,True,in unit,2025-06-05,4
+R01486,North,2,1.5,947,1460,1968,2.5,False,False,in unit,2025-09-21,33
+R01487,North,1,1.0,742,1200,1974,6.1,False,True,in unit,2025-03-13,8
+R01488,North,2,2.0,773,1455,1966,2.6,True,False,in building,2025-08-03,124
+R01489,Central,1,1.0,690,1385,1922,0.4,False,True,none,2025-07-27,14
+R01490,North,2,1.5,882,1410,1971,4.5,True,False,in building,2025-06-01,24
+R01491,Central,2,2.0,929,1935,1935,0.4,False,False,in building,2025-04-10,7
+R01492,West,1,1.5,664,1270,1999,3.4,True,False,in unit,2025-03-19,32
+R01493,East,1,1.0,743,1220,1987,1.2,False,False,in unit,2025-07-09,71
+R01494,East,2,1.5,924,1570,1958,2.4,True,True,in unit,2025-11-01,10
+R01495,North,4,2.5,1618,2350,,5.5,True,False,none,2025-08-05,19
+R01496,Central,3,2.5,1217,2170,1904,0.4,False,True,none,2025-02-21,19
+R01497,North,2,2.0,917,1430,1967,6.2,True,True,in building,2025-12-25,29
+R01498,North,3,2.0,1134,1670,,3.1,True,True,in building,2025-05-10,38
+R01499,South,3,2.0,1095,1320,2019,7.4,False,False,none,2025-05-14,7
+R01500,North,2,1.5,931,1460,1971,8.7,True,True,in unit,2025-12-15,25
+R01501,South,2,1.5,925,1050,2006,11.1,True,False,in building,2025-07-09,11
+R01502,South,0,1.0,482,660,1954,6.2,True,True,none,2025-09-09,50
+R01503,East,2,2.0,897,1245,1985,6.5,True,True,in building,2025-05-25,35
+R01504,North,3,2.5,,1955,1969,5.1,True,False,in unit,2025-09-19,18
+R01505,West,3,2.0,1005,1510,2004,4.9,True,True,in unit,2025-10-19,5
+R01506,East,3,2.0,1232,1670,1981,5.0,True,True,in unit,2025-07-09,11
+R01507,North,3,2.0,1162,1960,1990,2.8,False,False,none,2025-06-09,7
+R01508,North,3,2.0,1335,1920,1959,3.5,True,False,none,2025-08-09,2
+R01509,West,2,1.5,906,1315,1983,2.6,True,True,in building,2025-05-11,36
+R01510,East,2,2.0,964,1640,1978,2.6,True,True,in unit,2025-12-12,15
+R01511,Central,2,1.5,1025,2145,1954,0.5,True,False,in unit,2025-08-24,21
+R01512,Central,2,1.5,970,2190,1924,1.1,False,False,in unit,2025-03-11,16
+R01513,East,2,2.0,943,1315,1967,2.6,False,True,in building,2025-07-18,12
+R01514,Central,3,2.0,1281,1885,1922,0.7,True,True,in unit,2025-08-15,3
+R01515,Central,1,1.0,667,1435,1939,1.2,False,True,in unit,2025-07-04,12
+R01516,Central,2,1.5,970,2205,,1.0,True,False,in unit,2025-06-12,84
+R01517,East,2,1.5,836,1325,1997,3.2,True,False,in unit,2025-05-03,71
+R01518,West,0,1.5,214,430,2000,1.0,False,False,in unit,2025-06-13,21
+R01519,West,2,1.5,802,1175,,5.4,False,False,in building,2025-05-09,79
+R01520,West,2,1.5,972,1420,1988,11.6,True,False,in unit,2025-04-11,9
+R01521,North,2,1.5,900,1450,1983,5.1,True,True,in unit,2025-08-17,10
+R01522,South,2,2.0,962,1050,,10.5,True,False,in building,2025-08-12,54
+R01523,North,0,1.0,350,770,1976,4.2,True,True,in building,2025-08-09,37
+R01524,Harbor,2,1.5,868,2285,2012,1.8,False,False,in building,2025-03-19,15
+R01525,West,2,1.5,,1330,1957,1.8,True,False,in building,2025-10-28,11
+R01526,North,2,2.0,987,1560,1973,4.2,False,True,in unit,2025-12-07,54
+R01527,South,3,2.0,1159,1220,1957,8.8,False,True,none,2025-07-22,27
+R01528,West,4,2.5,1506,2540,,5.4,False,False,in unit,2025-03-11,41
+R01529,East,0,1.0,373,695,1970,2.6,True,True,in unit,2025-04-18,33
+R01530,South,4,2.5,1547,1890,1969,8.3,True,True,none,2025-08-17,19
+R01531,West,1,1.0,712,955,1980,5.8,True,False,none,2025-06-03,11
+R01532,South,1,1.0,778,955,1959,8.5,True,True,in unit,2025-09-24,23
+R01533,South,2,2.0,931,1075,1965,3.8,False,False,none,2025-07-07,18
+R01534,West,1,1.0,629,1180,1963,2.8,True,True,in unit,2025-06-02,4
+R01535,South,3,2.5,1247,1225,1963,9.9,False,True,in building,2025-12-18,31
+R01536,South,1,1.0,644,915,2003,6.2,True,True,in building,2025-03-10,37
+R01537,Central,2,1.5,874,1915,1942,0.9,False,False,in building,2025-05-14,67
+R01538,East,2,1.5,929,1180,1948,4.8,True,False,in building,2025-04-22,11
+R01539,West,2,2.0,959,1310,1968,7.1,False,True,in building,2025-07-19,1
+R01540,North,2,1.5,1111,1680,1982,4.8,True,True,none,2025-05-21,10
+R01541,South,2,1.5,926,1210,1954,2.8,True,True,in unit,2025-06-22,6
+R01542,South,2,2.0,858,1125,1992,4.9,True,True,in building,2025-10-12,9
+R01543,West,1,1.0,700,970,2010,8.3,False,False,in building,2025-04-25,3
+R01544,Central,1,1.0,747,1360,1916,0.7,True,False,in building,2025-12-26,23
+R01545,East,4,2.5,1607,2360,,6.9,True,True,in unit,2025-03-17,25
+R01546,Central,1,1.0,689,1365,1950,0.8,True,True,none,2025-11-05,7
+R01547,Central,2,1.5,960,2240,1973,0.8,False,False,in building,2025-04-14,12
+R01548,South,2,2.0,913,1090,1969,3.6,False,False,in building,2025-06-28,10
+R01549,North,2,1.5,787,1240,1950,3.5,False,True,in unit,2025-07-10,18
+R01550,South,0,1.5,447,570,1970,3.2,False,True,in building,2025-03-12,8
+R01551,North,1,1.0,722,1105,1942,5.7,True,False,none,2025-04-21,26
+R01552,South,1,1.0,762,885,1974,8.2,False,False,in building,2025-08-07,43
+R01553,East,3,2.0,1237,1715,1977,4.9,True,True,in unit,2025-08-11,21
+R01554,South,3,2.5,1167,1590,1976,4.3,False,True,in unit,2025-08-12,36
+R01555,East,3,2.0,,1935,1982,1.6,False,True,in unit,2025-07-02,84
+R01556,Central,3,2.0,1218,2345,1935,0.5,False,False,in building,2025-03-07,15
+R01557,North,1,1.0,693,1205,1982,5.9,True,True,in unit,2025-04-12,36
+R01558,West,0,1.5,549,780,1980,13.8,True,False,in unit,2025-11-23,75
+R01559,Central,1,1.0,746,1430,1906,1.3,True,False,in unit,2025-05-10,25
+R01560,North,0,1.0,500,790,,11.0,True,True,in unit,2025-05-19,25
+R01561,Central,2,1.5,832,1875,1923,0.5,True,True,in unit,2025-07-03,19
+R01562,East,4,2.5,1674,2770,1990,4.1,True,True,in unit,2025-09-27,43
+R01563,Central,4,2.5,1611,3560,1942,1.4,False,False,in unit,2025-08-04,20
+R01564,Harbor,3,2.0,,3035,2011,2.0,True,False,none,2025-12-20,18
+R01565,East,2,1.5,843,1230,1982,4.7,True,True,in building,2025-03-26,9
+R01566,South,3,2.0,1224,1345,,6.9,False,False,in building,2025-07-25,18
+R01567,North,0,1.0,485,815,1960,4.7,False,True,in building,2025-07-25,43
+R01568,North,1,1.0,679,1150,1977,5.6,False,False,in unit,2025-08-06,14
+R01569,West,4,2.5,1428,2115,1982,5.9,True,True,in unit,2025-08-06,7
+R01570,West,3,2.5,1072,1465,1996,5.3,False,False,in building,2025-04-06,11
+R01571,West,1,1.0,,955,2000,4.5,True,False,none,2025-11-04,43
+R01572,South,4,3.0,,1680,1962,11.2,True,True,in unit,2025-07-04,18
+R01573,East,4,3.0,1601,2205,1960,1.9,True,True,none,2025-05-18,57
+R01574,North,3,2.5,,1910,1943,3.8,True,False,in unit,2025-01-14,35
+R01575,Central,2,2.0,1114,2150,1900,0.6,False,True,in unit,2025-09-13,28
+R01576,North,1,1.0,714,1225,1988,1.8,True,True,in building,2025-03-27,19
+R01577,West,0,1.0,545,1020,1985,2.6,True,False,in unit,2025-06-13,24
+R01578,West,1,1.0,746,1005,1977,8.7,True,False,in building,2025-07-12,34
+R01579,South,0,1.0,433,500,1970,7.0,False,False,in unit,2025-12-20,41
+R01580,North,3,2.0,1167,1840,1969,5.9,True,True,none,2025-03-23,37
+R01581,East,2,1.5,785,1065,1967,8.1,False,True,in unit,2025-09-01,55
+R01582,Central,4,2.5,1419,2925,1941,1.4,False,True,in unit,2025-12-26,10
+R01583,East,1,1.5,675,870,1973,4.2,False,True,none,2025-08-26,14
+R01584,East,2,2.0,1009,1435,,3.6,False,False,in unit,2025-06-21,2
+R01585,West,1,1.5,661,965,1990,6.1,False,False,in building,2025-07-17,24
+R01586,North,3,2.0,1293,2015,1968,6.4,True,False,in building,2025-07-08,42
+R01587,South,3,2.0,1223,1285,1948,10.2,False,True,in unit,2025-07-23,24
+R01588,Central,1,1.0,588,1290,1932,0.7,False,True,in building,2025-03-15,15
+R01589,North,1,1.0,706,1195,1985,3.5,True,True,in building,2025-02-11,131
+R01590,North,1,1.5,584,790,1980,10.7,False,True,in unit,2025-08-20,10
+R01591,North,2,1.5,867,1375,1972,3.5,True,True,none,2025-05-21,18
+R01592,West,2,2.0,898,1165,1955,8.7,False,False,in unit,2025-03-19,32
+R01593,West,2,2.0,858,1275,1996,9.2,True,False,in unit,2025-01-09,6
+R01594,East,3,2.0,1216,1955,1994,1.9,True,False,none,2025-03-07,15
+R01595,Central,2,2.0,984,2230,1965,1.1,False,False,in unit,2025-05-14,22
+R01596,Central,2,1.5,831,1540,1921,1.2,False,False,in unit,2025-06-03,72
+R01597,West,2,1.5,915,1290,1970,8.3,True,False,in building,2025-09-14,36
+R01598,Central,2,1.5,968,1900,1922,1.5,True,False,none,2025-10-06,14
+R01599,Central,0,1.0,448,990,1948,1.1,True,True,in building,2025-04-28,37
+R01600,West,4,2.5,1621,2765,1996,5.1,True,True,in unit,2025-04-07,18
+R01601,North,1,1.0,734,1185,1982,4.2,False,False,in unit,2025-01-07,15
+R01602,South,2,1.5,904,890,1963,1.9,True,True,none,2025-09-12,5
+R01603,South,3,2.0,1154,1370,1986,6.0,False,False,in unit,2025-08-05,25
+R01604,South,3,2.0,1152,1445,1963,2.9,True,True,in building,2025-05-18,22
+R01605,Central,0,1.0,589,1285,1931,1.1,True,True,in building,2025-01-15,40
+R01606,North,1,1.0,689,950,1952,2.6,False,True,none,2025-04-07,14
+R01607,Central,2,1.5,922,1745,1948,0.5,False,False,none,2025-07-15,25
+R01608,East,2,1.5,,1705,2011,5.1,True,True,in unit,2025-08-19,33
+R01609,North,2,2.0,819,1230,1943,2.2,True,False,none,2025-10-12,38
+R01610,North,2,1.5,985,1455,1952,5.6,True,False,in unit,2025-07-16,13
+R01611,South,2,2.0,869,1090,1976,7.1,True,True,in building,2025-07-26,34
+R01612,South,1,1.0,635,915,1974,6.8,True,True,in unit,2025-04-26,41
+R01613,Harbor,1,1.5,714,1645,2008,2.9,True,True,none,2025-08-18,11
+R01614,Harbor,4,2.5,1559,3890,2022,0.6,False,True,in unit,2025-03-18,33
+R01615,East,1,1.0,732,1005,1990,1.6,True,True,in building,2025-03-28,17
+R01616,North,1,1.0,713,1370,1985,1.9,True,False,none,2025-04-19,65
+R01617,West,4,3.0,1682,2740,2013,8.5,True,True,in unit,2025-07-22,49
+R01618,East,3,2.5,1119,1600,1948,3.1,True,False,in building,2025-07-19,23
+R01619,Harbor,1,1.0,,2045,,0.7,False,True,in unit,2025-05-22,2
+R01620,Harbor,2,2.0,813,1900,1993,1.8,False,True,in unit,2025-04-09,22
+R01621,Harbor,0,1.0,360,1010,2013,4.3,True,True,in building,2025-03-21,9
+R01622,South,1,1.5,542,805,1982,6.0,True,True,in building,2025-07-19,30
+R01623,East,0,1.0,432,615,1932,3.5,True,True,none,2025-04-04,46
+R01624,Central,3,2.0,1211,2590,1943,0.7,False,True,in unit,2025-03-28,8
+R01625,North,0,1.5,430,800,1945,5.5,True,False,in unit,2025-09-16,61
+R01626,West,2,1.5,858,1330,1986,7.2,False,True,in unit,2025-03-27,16
+R01627,North,1,1.0,619,1145,1986,5.6,True,False,in unit,2025-06-23,16
+R01628,South,2,2.0,847,1075,1981,7.6,True,True,in unit,2025-09-26,54
+R01629,Harbor,3,2.0,1166,3105,2007,1.5,False,False,in building,2025-04-24,20
+R01630,South,3,2.5,1328,1735,1958,3.9,True,False,in unit,2025-06-05,25
+R01631,East,2,2.0,830,1130,1952,4.4,True,False,in building,2025-08-24,15
+R01632,Harbor,3,2.5,1312,3575,2023,0.6,False,True,in unit,2025-09-10,24
+R01633,North,1,1.0,723,1040,1969,2.6,False,False,in unit,2025-04-24,44
+R01634,Central,4,3.0,1385,3140,1951,0.3,False,True,in building,2025-05-06,14
+R01635,South,4,3.0,1551,1600,1954,12.7,True,True,in unit,2025-08-23,28
+R01636,East,1,1.5,588,930,2000,2.2,False,True,in building,2025-09-06,30
+R01637,South,1,1.0,829,975,1961,3.6,False,False,in building,2025-08-03,21
+R01638,Central,2,2.0,909,1950,1950,0.7,False,True,in unit,2025-02-27,30
+R01639,West,2,1.5,938,1500,1976,2.2,False,False,in building,2025-06-16,7
+R01640,North,1,1.0,804,1395,1972,3.4,False,True,in unit,2025-05-17,57
+R01641,Central,0,1.5,530,1100,1943,0.8,False,False,in building,2025-02-25,2
+R01642,Harbor,0,1.0,405,1230,2025,1.2,False,True,in unit,2025-02-10,30
+R01643,East,3,2.0,1095,1630,1959,3.7,True,False,none,2025-06-16,40
+R01644,South,4,2.5,1638,1640,1994,8.9,False,True,in unit,2025-07-03,30
+R01645,East,3,2.0,1253,1595,1993,9.6,True,True,in building,2025-07-10,9
+R01646,Central,1,1.0,781,1500,1927,0.8,False,True,in unit,2025-11-26,13
+R01647,North,3,2.5,1350,1960,1972,6.6,False,True,in building,2025-07-28,27
+R01648,West,3,2.0,1230,1790,1993,8.2,True,False,in building,2025-08-05,14
+R01649,West,0,1.0,568,830,2002,6.4,False,False,in unit,2025-10-10,52
+R01650,Central,1,1.0,700,1440,1950,1.7,False,True,none,2025-10-04,3
+R01651,Central,3,2.0,1261,2645,1960,0.8,False,True,in building,2025-03-27,41
+R01652,Central,3,2.0,1259,2660,1965,1.0,False,True,in building,2025-08-26,30
+R01653,North,3,2.5,1263,1680,,6.2,True,True,none,2025-09-21,28
+R01654,South,2,1.5,883,1345,1996,1.7,False,True,in unit,2025-08-05,32
+R01655,South,0,1.0,431,665,1989,3.8,True,True,in building,2025-06-28,43
+R01656,East,1,1.5,657,1120,1957,3.3,True,True,in building,2025-10-17,106
+R01657,North,2,2.0,730,1055,1951,2.0,False,False,in building,2025-11-28,2
+R01658,West,2,1.5,946,1350,1969,6.3,False,True,in building,2025-06-12,13
+R01659,North,2,2.0,902,1505,,1.3,True,False,in building,2025-08-20,35
+R01660,South,2,1.5,850,1190,,1.5,False,False,in unit,2025-11-27,19
+R01661,North,2,2.0,941,1310,1961,5.4,True,False,none,2025-03-12,7
+R01662,East,1,1.5,768,1085,1948,6.1,False,True,in unit,2025-05-14,46
+R01663,North,1,1.0,709,1165,1960,7.4,True,True,in unit,2025-07-21,41
+R01664,West,4,3.0,1384,1595,1956,8.0,True,False,none,2025-08-08,6
+R01665,East,2,2.0,949,1330,1965,6.3,True,True,in building,2025-09-18,25
+R01666,West,1,1.0,647,1055,1987,2.5,True,True,in building,2025-09-08,9
+R01667,Harbor,0,1.0,567,1535,1996,1.4,True,True,in building,2025-08-06,34
+R01668,East,3,2.5,1278,2060,1966,0.8,True,False,in unit,2025-10-03,16
+R01669,North,4,2.5,1555,2290,,4.6,False,False,in building,2025-09-10,21
+R01670,Harbor,0,1.0,365,1095,2025,2.0,True,True,none,2025-06-04,19
+R01671,West,1,1.5,776,1020,1949,7.1,True,True,none,2025-06-22,6
+R01672,Central,1,1.0,710,1465,1906,0.6,False,False,in building,2025-10-06,29
+R01673,West,2,1.5,892,1335,2002,10.8,True,False,in building,2025-05-24,1
+R01674,North,2,2.0,958,1525,1960,3.9,False,False,in building,2025-10-27,25
+R01675,East,0,1.5,373,645,1953,3.8,True,False,in unit,2025-04-25,15
+R01676,North,1,1.0,802,1285,1991,4.7,False,True,in unit,2025-02-20,11
+R01677,Central,1,1.0,612,1180,1945,1.2,False,True,none,2025-12-07,25
+R01678,Central,0,1.5,464,845,,1.4,False,True,none,2025-06-24,28
+R01679,East,3,2.0,1223,1465,1926,3.1,False,False,in unit,2025-08-25,13
+R01680,West,2,2.0,943,1175,1980,8.7,True,True,in building,2025-08-09,8
+R01681,Central,2,2.0,685,1400,1925,1.0,False,True,in unit,2025-10-12,10
+R01682,North,1,1.0,757,1250,1966,4.1,True,True,none,2025-05-09,5
+R01683,South,2,2.0,852,1195,1967,3.6,True,True,in building,2025-05-14,26
+R01684,Central,3,2.5,1177,2470,1931,1.1,False,True,in building,2025-03-04,35
+R01685,East,1,1.0,693,1245,2007,4.1,False,True,in unit,2025-08-28,128
+R01686,East,3,2.5,1080,1470,1977,6.2,True,True,in building,2025-11-05,10
+R01687,Central,0,1.0,418,835,1923,0.3,False,False,in building,2025-12-07,16
+R01688,North,2,2.0,868,1305,1984,5.6,True,True,none,2025-09-22,44
+R01689,South,3,2.0,1093,1620,1977,1.8,False,True,in unit,2025-05-03,20
+R01690,East,0,1.0,515,815,1997,2.4,False,True,in unit,2025-03-05,9
+R01691,South,1,1.0,751,840,1952,10.4,True,False,in unit,2025-10-16,29
+R01692,West,0,1.5,483,875,1988,3.2,True,False,in unit,2025-03-12,17
+R01693,West,1,1.5,772,1025,1972,6.3,True,False,in unit,2025-10-13,42
+R01694,South,3,2.0,1265,1680,1983,4.2,True,False,in building,2025-03-28,25
+R01695,Central,1,1.0,684,1295,1930,0.3,False,True,in building,2025-07-26,19
+R01696,North,0,1.5,519,950,1991,3.7,True,True,in unit,2025-06-03,11
+R01697,North,2,2.0,1049,1340,1967,5.3,False,True,in building,2025-01-10,4
+R01698,North,3,2.0,1252,1785,1943,5.2,True,False,in building,2025-08-06,11
+R01699,Central,0,1.5,467,1015,1926,0.7,False,True,in unit,2025-10-27,14
+R01700,Harbor,1,1.0,646,1570,2009,2.4,True,False,in building,2025-04-09,10
+R01701,Central,0,1.0,559,950,1917,0.5,False,True,in building,2025-07-19,16
+R01702,Harbor,2,2.0,918,2360,2022,1.7,False,True,in building,2025-02-20,10
+R01703,South,1,1.0,623,910,1953,3.6,True,False,in unit,2025-06-03,29
+R01704,Central,0,1.0,643,1400,1915,0.9,False,True,in unit,2025-06-02,19
+R01705,South,2,1.5,1027,1205,1950,5.1,False,False,in building,2025-10-07,37
+R01706,South,1,1.0,623,995,1994,3.1,True,True,in unit,2025-09-28,17
+R01707,West,3,2.5,1014,1705,2020,7.9,False,True,in unit,2025-07-03,26
+R01708,West,1,1.0,881,1245,2002,11.6,True,False,in unit,2025-09-02,28
+R01709,West,4,3.0,1431,2040,1990,5.1,True,False,in unit,2025-03-13,9
+R01710,South,1,1.0,872,1110,1985,7.7,True,True,in building,2025-02-08,74
+R01711,North,3,2.0,1273,1770,1967,7.8,True,True,in building,2025-07-18,57
+R01712,South,4,2.5,,1745,1972,2.5,True,False,in building,2025-04-28,27
+R01713,Central,2,2.0,1034,2410,1927,0.9,False,True,in unit,2025-10-28,13
+R01714,East,3,2.5,1284,1835,1993,3.2,False,True,none,2025-07-24,11
+R01715,North,1,1.5,643,840,1925,2.7,False,False,in building,2025-02-14,34
+R01716,North,4,2.5,1444,1955,1947,5.8,False,False,in unit,2025-08-20,37
+R01717,East,4,2.5,1431,2165,1954,4.0,False,True,in unit,2025-05-24,16
+R01718,South,1,1.0,513,675,1957,4.3,False,False,in unit,2025-07-22,35
+R01719,South,2,1.5,1014,1280,2006,2.7,True,False,none,2025-08-22,22
+R01720,West,2,1.5,875,1300,1997,4.9,False,True,none,2025-08-10,24
+R01721,South,2,1.5,818,1090,1988,9.0,True,True,in unit,2025-05-01,11
+R01722,South,1,1.5,588,840,1971,2.4,True,True,none,2025-03-05,27
+R01723,East,2,1.5,847,1210,1985,1.7,False,True,none,2025-07-22,29
+R01724,West,1,1.0,,785,1988,12.0,False,True,in building,2025-02-16,23
+R01725,Central,4,2.5,1427,2575,1914,1.2,True,False,in unit,2025-07-19,14
+R01726,East,2,1.5,969,1370,1949,4.3,False,True,in unit,2025-05-07,34
+R01727,Central,4,3.0,1339,2560,1952,0.9,False,False,in building,2025-08-02,12
+R01728,North,3,2.0,1303,1850,1942,3.2,True,True,none,2025-06-24,39
+R01729,East,3,2.0,1262,2130,1977,3.8,True,False,in unit,2025-05-16,24
+R01730,North,1,1.0,765,1280,1980,5.5,True,False,in unit,2025-09-13,14
+R01731,West,1,1.0,814,1445,1997,4.1,True,True,in unit,2025-12-22,40
+R01732,North,1,1.5,720,1245,1957,2.1,True,False,in building,2025-08-17,25
+R01733,North,2,1.5,957,1335,1949,2.2,False,False,in building,2025-05-08,4
+R01734,West,2,2.0,963,1375,1988,8.2,False,False,in building,2025-03-15,52
+R01735,West,4,2.5,1529,2560,2023,6.3,True,True,in unit,2025-05-27,59
+R01736,Central,1,1.0,677,1515,1945,0.2,False,True,in unit,2025-11-01,70
+R01737,North,3,2.5,1092,1675,,4.6,True,True,in building,2025-12-07,52
+R01738,West,3,2.0,1206,1695,1996,6.4,False,True,none,2025-07-27,50
+R01739,East,2,1.5,923,1450,1991,3.7,True,True,in building,2025-08-26,11
+R01740,Central,0,1.0,476,1175,1921,0.5,True,True,in unit,2025-11-26,17
+R01741,West,3,2.5,1216,1665,1993,5.1,False,True,in building,2025-01-05,20
+R01742,South,2,2.0,860,1250,1984,3.5,True,False,in building,2025-02-27,27
+R01743,North,2,1.5,943,1345,1981,4.3,True,True,in building,2025-09-11,7
+R01744,North,1,1.0,721,1010,1928,4.6,True,False,in building,2025-07-28,16
+R01745,East,3,2.0,1224,1900,1966,1.9,True,False,in building,2025-07-11,19
+R01746,North,3,2.5,1203,1670,1951,4.3,False,True,in unit,2025-09-08,9
+R01747,East,2,2.0,901,1280,1971,6.6,True,False,in unit,2025-11-14,7
+R01748,East,2,1.5,921,1165,1984,1.8,False,False,in building,2025-04-11,2
+R01749,East,1,1.5,644,955,1990,4.1,False,False,in building,2025-09-07,38
+R01750,West,2,2.0,823,1265,,8.1,True,True,none,2025-08-15,33
+R01751,Central,3,2.0,1121,2010,1924,0.4,False,False,in building,2025-10-20,11
+R01752,North,3,2.0,1331,2000,1958,5.2,True,False,in unit,2025-08-11,2
+R01753,East,1,1.5,661,870,1977,3.4,False,True,none,2025-04-23,9
+R01754,Harbor,2,1.5,930,2850,2019,1.7,True,True,in unit,2025-08-21,8
+R01755,Harbor,2,1.5,883,2345,2025,1.9,True,False,in building,2025-02-06,1
+R01756,East,2,1.5,,1755,1951,1.8,True,False,in unit,2025-09-12,76
+R01757,South,4,3.0,1455,1325,1970,13.7,False,False,none,2025-06-07,8
+R01758,West,1,1.5,787,1280,1992,3.2,False,True,in unit,2025-12-15,21
+R01759,East,2,1.5,788,955,1958,5.9,False,False,none,2025-02-17,13
+R01760,West,4,3.0,,2250,1970,5.4,False,True,in unit,2025-04-20,6
+R01761,South,3,2.0,1149,1275,1969,9.3,False,False,in unit,2025-10-01,3
+R01762,West,2,2.0,1137,1580,1989,4.0,False,True,none,2025-09-25,18
+R01763,North,1,1.0,674,910,,3.1,False,True,in building,2025-12-08,22
+R01764,West,3,2.0,1108,1690,,7.3,True,False,in unit,2025-08-21,40
+R01765,North,1,1.0,622,970,1965,3.2,True,True,in building,2025-09-21,24
+R01766,Harbor,4,2.5,1674,4430,1994,3.1,True,True,in unit,2025-06-28,53
+R01767,West,3,2.0,1303,2075,2000,4.2,False,False,in building,2025-03-04,23
+R01768,South,1,1.0,740,1090,1968,3.3,False,True,in unit,2025-05-18,26
+R01769,South,1,1.0,616,825,1973,8.0,False,False,in unit,2025-06-23,24
+R01770,East,3,2.5,1327,1535,1936,8.2,True,False,in unit,2025-07-28,20
+R01771,North,1,1.5,733,1320,1993,3.8,True,False,in unit,2025-12-12,27
+R01772,South,1,1.0,659,970,2004,5.1,True,False,in building,2025-12-13,38
+R01773,North,4,2.5,1569,1960,1958,7.4,True,True,in building,2025-07-16,41
+R01774,North,0,1.0,481,880,1961,1.8,True,True,none,2025-01-24,13
+R01775,East,0,1.0,440,660,1967,3.3,False,True,in building,2025-03-20,29
+R01776,South,2,1.5,931,1075,1992,8.2,False,False,in building,2025-01-24,15
+R01777,Central,1,1.5,641,1340,1961,1.3,True,True,in building,2025-11-01,10
+R01778,West,1,1.5,791,1125,1986,4.5,False,True,in unit,2025-02-04,13
+R01779,West,2,2.0,1015,1460,1996,4.0,False,True,none,2025-11-02,5
+R01780,West,2,1.5,1109,1585,1972,7.4,True,False,in building,2025-06-26,27
+R01781,South,1,1.5,680,1005,1985,3.7,True,False,in unit,2025-09-19,36
+R01782,North,2,1.5,967,1590,1958,3.9,False,True,in building,2025-05-14,76
+R01783,East,2,1.5,855,1245,1981,8.3,False,True,in unit,2025-02-23,19
+R01784,East,2,2.0,950,1280,1977,8.0,True,False,in building,2025-08-04,12
+R01785,Harbor,1,1.0,632,1670,1990,2.3,True,True,in unit,2025-05-17,61
+R01786,West,2,2.0,923,1480,1959,5.3,True,False,in building,2025-08-27,94
+R01787,North,1,1.5,690,1150,1987,8.3,True,True,none,2025-07-11,31
+R01788,North,2,2.0,914,1525,1939,2.7,True,True,in unit,2025-04-14,7
+R01789,North,2,1.5,1046,1155,1940,12.5,False,True,in unit,2025-06-25,6
+R01790,West,1,1.5,787,1220,2018,9.0,True,True,in unit,2025-02-21,81
+R01791,West,2,2.0,961,1540,1985,2.0,False,False,in unit,2025-12-05,18
+R01792,North,1,1.5,528,830,1962,5.4,True,True,in building,2025-09-22,31
+R01793,North,1,1.0,529,785,1956,2.3,False,False,in building,2025-06-15,24
+R01794,North,3,2.0,1219,1705,1949,1.9,True,False,none,2025-06-15,36
+R01795,South,2,2.0,965,1050,1977,16.8,True,True,in unit,2025-02-04,17
+R01796,Harbor,4,2.5,1493,3805,1991,2.0,True,True,in building,2025-05-03,39
+R01797,South,1,1.5,688,920,,4.9,False,False,in unit,2025-10-17,21
+R01798,East,1,1.5,637,1070,2004,2.9,True,False,in building,2025-10-27,22
+R01799,North,4,2.5,1563,2075,1963,6.6,True,False,in unit,2025-07-09,11
+R01800,East,1,1.0,822,1145,1973,5.0,False,True,in building,2025-05-20,25
