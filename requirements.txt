@@ -10,3 +10,10 @@ pyarrow==26.0.0
 SQLAlchemy==2.1.4
 python-dotenv==1.2.4
 jupyterlab==4.6.4
+# Part II: web data and scraping (Chapter 9 also needs a browser:
+#     python -m playwright install chromium)
+requests==2.34.2
+requests-cache==1.3.3
+beautifulsoup4==4.15.0
+lxml==6.1.3
+playwright==1.64.0

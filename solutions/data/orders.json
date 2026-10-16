@@ -1,0 +1,77 @@
+[
+  {
+    "order_id": "W-501",
+    "placed": "2026-04-02T09:14:00",
+    "customer": {
+      "name": "Asha Rao",
+      "city": "Pittsburgh"
+    },
+    "items": [
+      {
+        "sku": "MUG-01",
+        "qty": 2,
+        "price": 12.0
+      },
+      {
+        "sku": "TEA-07",
+        "qty": 1,
+        "price": 8.5
+      }
+    ]
+  },
+  {
+    "order_id": "W-502",
+    "placed": "2026-04-02T11:40:00",
+    "customer": {
+      "name": "Ben Ortiz",
+      "city": "Harrisburg"
+    },
+    "items": [
+      {
+        "sku": "PEN-03",
+        "qty": 10,
+        "price": 1.25
+      }
+    ]
+  },
+  {
+    "order_id": "W-503",
+    "placed": "2026-04-03T16:05:00",
+    "customer": {
+      "name": "Chen Li",
+      "city": "Pittsburgh"
+    },
+    "items": [
+      {
+        "sku": "MUG-01",
+        "qty": 1,
+        "price": 12.0
+      },
+      {
+        "sku": "NOTE-11",
+        "qty": 3,
+        "price": 4.75
+      },
+      {
+        "sku": "TEA-07",
+        "qty": 2,
+        "price": 8.5
+      }
+    ]
+  },
+  {
+    "order_id": "W-504",
+    "placed": "2026-04-04T08:22:00",
+    "customer": {
+      "name": "Dana Kim",
+      "city": "Erie"
+    },
+    "items": [
+      {
+        "sku": "LAMP-02",
+        "qty": 1,
+        "price": 39.0
+      }
+    ]
+  }
+]

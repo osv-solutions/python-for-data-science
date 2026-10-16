@@ -10,3 +10,13 @@ There is rarely only one correct solution. If your code gets the same result in 
 
 | Chapter | Solutions |
 |---|---|
+| 1. The Data Science Toolkit and Workflow | [ch01_solutions.md](ch01_solutions.md) |
+| 2. NumPy Essentials | [ch02_solutions.md](ch02_solutions.md) |
+| 3. pandas Essentials | [ch03_solutions.md](ch03_solutions.md) |
+| 4. Loading Data from Files | [ch04_solutions.md](ch04_solutions.md) |
+| 5. Data from SQL Databases | [ch05_solutions.md](ch05_solutions.md) |
+| 6. Data from REST APIs | [ch06_solutions.md](ch06_solutions.md) |
+| 7. Web Scraping with requests and Beautiful Soup | [ch07_solutions.md](ch07_solutions.md) |
+| 8. Scraping Many Pages | [ch08_solutions.md](ch08_solutions.md) |
+| 9. Scraping JavaScript Pages with Playwright | [ch09_solutions.md](ch09_solutions.md) |
+| 10. Scraping Responsibly | [ch10_solutions.md](ch10_solutions.md) |

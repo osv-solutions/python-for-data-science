@@ -19,7 +19,8 @@ ROOT = pathlib.Path(__file__).resolve().parent
 def scripts(pattern=""):
     for folder in ("chapters", "projects", "solutions"):
         for path in sorted((ROOT / folder).rglob("*.py")):
-            if "_snippet" in path.name or pattern not in str(path):
+            if ("_snippet" in path.name or path.name == "practice_web.py"
+                    or pattern not in str(path)):
                 continue
             yield path
 
@@ -29,7 +30,7 @@ def run(path):
     stdin = inputs.read_text(encoding="utf-8") if inputs.exists() else ""
     result = subprocess.run([sys.executable, path.name], cwd=path.parent,
                             input=stdin, capture_output=True, text=True,
-                            timeout=300)
+                            timeout=900)
     return result.returncode, result.stderr
 
 
@@ -48,7 +49,7 @@ def main():
                 continue
             result = subprocess.run(
                 [sys.executable, "-m", "pytest", "-q", "-p", "no:cacheprovider"],
-                cwd=folder, capture_output=True, text=True, timeout=300)
+                cwd=folder, capture_output=True, text=True, timeout=900)
             name = folder.relative_to(ROOT)
             print(f"{'ok  ' if result.returncode == 0 else 'FAIL'} {name} (pytest)")
             if result.returncode != 0:
