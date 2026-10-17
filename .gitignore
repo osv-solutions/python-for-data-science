@@ -4,3 +4,9 @@ __pycache__/
 .venv/
 .pytest_cache/
 .coverage
+
+# made by running the code
+projects/p09_bikeshare/rides/
+projects/p06_weather/raw/
+*.log
+bikes.sqlite

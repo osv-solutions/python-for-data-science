@@ -8,6 +8,8 @@ works without an internet connection and gives the same answers every time:
                        a rate limit, a flaky and a slow endpoint (Chapter 6)
     /v2/...            a development-indicators API in the World Bank's
                        format, serving Gapminder figures (Project 2)
+    /v1/archive        a historical weather API in Open-Meteo's format,
+                       with generated daily weather (Project 6)
     /shop/...          a bookstore website to scrape: catalog pages, book
                        pages, categories, a login form (Chapters 7, 8, 10)
     /data/...          pages with HTML tables (Chapter 7)
@@ -254,6 +256,79 @@ def price_on(product, day):
     if rng.random() < 0.12:
         factor *= 0.8                       # a 20% sale
     return round(product["base_price"] * factor, 2)
+
+
+# ------------------------------------------------- Open-Meteo-format API
+# Daily weather is generated, not measured: each place has a climate (the
+# normal daily high and its yearly swing, the day-to-day range, how often
+# and how much it rains by month), plus random weather around it and a slow
+# warming trend. Three cities have climates modeled on their real ones; any
+# other place gets a rough climate from its latitude.
+WX_FIRST, WX_LAST = date(2000, 1, 1), date(2026, 9, 30)   # data available
+WX_VARIABLES = {"temperature_2m_max": "°C", "temperature_2m_min": "°C",
+                "temperature_2m_mean": "°C", "precipitation_sum": "mm"}
+WX_CLIMATES = {   # high, swing, range, sd, wet chance by month, mean rain
+    (40.44, -80.0): (16.6, 12.6, 10.4, 3.8,
+                     [.45, .42, .45, .45, .45, .42, .38, .35, .33, .33,
+                      .40, .45], 6.4, 235),
+    (33.45, -112.07): (30.4, 10.6, 14.2, 2.4,
+                       [.10, .10, .08, .04, .02, .02, .13, .15, .08, .05,
+                        .05, .09], 6.0, 331),
+    (47.61, -122.33): (15.9, 8.6, 7.6, 2.7,
+                       [.62, .55, .58, .48, .38, .30, .14, .16, .27, .48,
+                        .65, .63], 5.4, 52),
+}
+WX_CACHE = {}
+
+
+def wx_climate(lat, lon):
+    for (clat, clon), climate in WX_CLIMATES.items():
+        if abs(lat - clat) < 0.3 and abs(lon - clon) < 0.3:
+            return climate
+    a = abs(lat)
+    high = 31 - 0.45 * max(a - 25, 0) if a > 25 else 31
+    return (high, min(2 + 0.35 * a, 18), 9.0, 3.0, [0.35] * 12, 6.0, 100)
+
+
+def wx_series(lat, lon):
+    """Daily weather from WX_FIRST to WX_LAST for one place, always the
+    same for the same coordinates."""
+    key = (round(lat, 2), round(lon, 2))
+    if key in WX_CACHE:
+        return WX_CACHE[key]
+    high, swing, spread, sd, wet, rain, elevation = wx_climate(*key)
+    south = -1 if lat < 0 else 1
+    rng = random.Random(f"weather-{key[0]:.2f}-{key[1]:.2f}")
+    year_shift = {y: rng.gauss(0, 0.3) for y in range(2000, 2027)}
+    days, anomaly, was_wet = {}, 0.0, False
+    day = WX_FIRST
+    while day <= WX_LAST:
+        doy = day.timetuple().tm_yday
+        season = math.cos(2 * math.pi * (doy - 200) / 365.25) * south
+        trend = 0.032 * (day.year - 2000 + doy / 365.25)
+        winter = 1.25 if season < 0 else 0.85    # winter is more variable
+        anomaly = 0.72 * anomaly + rng.gauss(0, sd * winter * 0.6)
+        chance = wet[day.month - 1] + (0.2 if was_wet else 0)
+        was_wet = rng.random() < min(chance, 0.9)
+        precip = round(rng.gammavariate(0.75, rain / 0.75), 1) if was_wet \
+            else 0.0
+        tmax = (high + swing * season + trend + year_shift[day.year]
+                + anomaly - (1.6 if was_wet else 0))
+        if key == (47.61, -122.33) and date(2021, 6, 25) <= day \
+                <= date(2021, 6, 29):              # the 2021 heat dome
+            tmax += [9, 14, 18, 20, 11][(day - date(2021, 6, 25)).days]
+        tmin = tmax - spread * (0.65 if was_wet else 1) + rng.gauss(0, 1.2)
+        days[day] = (round(tmax, 1), round(tmin, 1),
+                     round((tmax + tmin) / 2, 1), precip)
+        day += timedelta(days=1)
+    WX_CACHE[key] = (days, elevation)
+    return WX_CACHE[key]
+
+
+TIMEZONES = {"GMT": ("GMT", 0), "UTC": ("UTC", 0),
+             "America/New_York": ("EST", -18000),
+             "America/Phoenix": ("MST", -25200),
+             "America/Los_Angeles": ("PST", -28800)}
 
 
 # ------------------------------------------------------------------- pages
@@ -561,6 +636,8 @@ class Handler(BaseHTTPRequestHandler):
             return self.bike_api(path, query)
         if path.startswith("/v2/"):
             return self.indicators_api(path, query)
+        if path == "/v1/archive":
+            return self.weather_api(query)
         if path.startswith("/api/store/"):
             return self.store_api(path, query)
         if path == "/sitemap.xml":
@@ -704,6 +781,51 @@ class Handler(BaseHTTPRequestHandler):
                     "unit": "", "obs_status": "", "decimal": decimals})
         rows.sort(key=lambda d: (d["countryiso3code"], -int(d["date"])))
         return rows
+
+    # ----- Open-Meteo format
+    def weather_api(self, query):
+        def error(reason):
+            return self.json(400, {"error": True, "reason": reason})
+        try:
+            lat, lon = float(query["latitude"]), float(query["longitude"])
+        except (KeyError, ValueError):
+            return error("Parameter 'latitude' and 'longitude' must be "
+                         "numbers")
+        try:
+            first = date.fromisoformat(query["start_date"])
+            last = date.fromisoformat(query["end_date"])
+        except (KeyError, ValueError):
+            return error("Parameter 'start_date' and 'end_date' must be "
+                         "dates in the format yyyy-mm-dd")
+        if last < first:
+            return error("End-date must be larger or equal than "
+                         "start-date")
+        if first < WX_FIRST:
+            return error(f"Parameter 'start_date' is out of allowed range "
+                         f"from {WX_FIRST} to {WX_LAST}")
+        names = [n for n in query.get("daily", "").split(",") if n]
+        for n in names:
+            if n not in WX_VARIABLES:
+                return error(f"Cannot initialize WeatherVariable from "
+                             f"invalid String value {n}.")
+        zone = query.get("timezone", "GMT")
+        abbr, offset = TIMEZONES.get(zone, (zone, 0))
+        days, elevation = wx_series(lat, lon)
+        dates = [first + timedelta(days=i)
+                 for i in range((last - first).days + 1)]
+        column = list(WX_VARIABLES).index
+        daily = {"time": [d.isoformat() for d in dates]}
+        for n in names:
+            daily[n] = [days[d][column(n)] if d in days else None
+                        for d in dates]
+        self.json(200, {
+            "latitude": round(lat * 4) / 4 + 0.0, "longitude":
+            round(lon * 4) / 4 + 0.0, "generationtime_ms": 0.42,
+            "utc_offset_seconds": offset, "timezone": zone,
+            "timezone_abbreviation": abbr, "elevation": float(elevation),
+            "daily_units": {"time": "iso8601",
+                            **{n: WX_VARIABLES[n] for n in names}},
+            "daily": daily})
 
     # ----- JS store API
     def store_api(self, path, query):

@@ -50,18 +50,38 @@ is not found.
 | `transactions.csv`, `store_sales.xlsx`, `orders.json` | Created for this book | Free to use |
 | `shop_orders_raw.csv`, `shop_orders.parquet`, `shop_customers.csv`, `support_tickets.csv` (Part III) | Created for this book: a fictional coffee shop | Free to use |
 | `service_requests.csv`, `agencies.csv`, `districts.csv` (Project 5) | Created for this book, modeled on cities' open 311 data | Free to use |
+| `apartments.csv`, `ab_checkout.csv`, `bike_daily.csv` (Parts IV and V) | Created for this book | Free to use |
+| `trailhead.sqlite` (Project 7), `ab_signup.csv` (Project 8) | Created for this book: a fictional wholesaler and a fictional app | Free to use |
 
-## Part II: the practice server
+Two datasets are made when you run the code: the rides of Chapter 22 and of
+Project 9 (`make_rides.py`, about 100 MB in `projects/p09_bikeshare/rides/`),
+and the weather of Project 6, which the practice server generates.
 
-Chapters 6 to 10 and Projects 2 to 4 talk to `practice_web.py`, a small web
-server that runs on your own computer and plays the part of a bike-share API,
-a development-indicators API, an online bookstore and a JavaScript store. Each
-Part II folder has its own copy. The book's code starts it in the background
+## The practice server
+
+Chapters 6 to 10 and Projects 2, 3, 4, 6 and 10 talk to `practice_web.py`, a
+small web server that runs on your own computer and plays the part of a
+bike-share API, a development-indicators API, a weather archive API, an online
+bookstore and a JavaScript store. Each folder that uses it has its own copy. The book's code starts it in the background
 with `practice_web.start()`; you can also run `python practice_web.py` in a
-second terminal. Chapter 9 drives a real browser: install it once with
-`python -m playwright install chromium`, and run that chapter's code, and
-Project 4's, as a script rather than in a notebook (see the note in the
-chapter).
+second terminal.
+
+Chapters 9 and 23 and Projects 4 and 10 drive a real browser with
+Playwright: install it once with `python -m playwright install chromium`, and
+run their code as scripts rather than in a notebook, because Playwright's
+synchronous API can't run inside Jupyter's event loop (Chapter 9 explains).
+
+## Project 10: a pipeline and a dashboard
+
+`projects/p10_dashboard/` holds two programs besides the walkthrough:
+`pipeline.py` loads the last four weeks of trips into `bikes.sqlite`, and
+`dashboard.py` shows them. With the practice server running in another
+terminal:
+
+```bash
+python pipeline.py
+streamlit run dashboard.py
+```
 
 ## Part IV: interactive charts
 
