@@ -100,3 +100,38 @@ pictures uses Kaleido, which needs Chrome; if you don't have it, run
 python run_all.py            # everything
 python run_all.py ch04       # only the scripts whose path contains "ch04"
 ```
+
+## The Python for… series
+
+*Python for Data Science* is Book 2 of the *Python for…* series. Each book takes
+one field, with the same layout, fully tested code and complete projects. On
+Amazon, search for "Python for… series" to see every book released so far.
+Titles and order of the planned books may change.
+
+| # | Title | Status |
+|---|---|---|
+| 1 | Python for All | Coming soon |
+| 2 | Python for Data Science | This book |
+| 3 | Python for Machine Learning | Coming soon |
+| 4 | Python for Deep Learning | Coming soon |
+| 5 | Python for Office Automation | Planned |
+| 6 | Python for Generative AI and Agentic AI | Planned |
+| 7 | Python for Data Engineering | Planned |
+| 8 | Python for DevOps and Automation | Planned |
+| 9 | Python for Network Automation | Planned |
+| 10 | Python for Testing and QA | Planned |
+| 11 | Python for Cloud (AWS) | Planned |
+| 12 | Python for MLOps | Planned |
+| 13 | Python for NLP | Planned |
+| 14 | Python for Computer Vision | Planned |
+| 15 | Python for IoT: Raspberry Pi, Arduino and ESP32 | Planned |
+| 16 | Python for Robotics | Planned |
+| 17 | Python for Web Development | Planned |
+| 18 | Python for Desktop Applications (Tkinter and PySide6) | Planned |
+| 19 | Clean Python: Best Practices and Design Patterns | Planned |
+| 20 | Python for Cyber Security and Ethical Hacking | Planned |
+| 21 | Python for Healthcare Data | Planned |
+| 22 | Python for Finance and Trading | Planned |
+| 23 | Python for Kids | Planned |
+| 24 | Python for Game Development | Planned |
+| 25 | Python Interview Prep | Planned |
