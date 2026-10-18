@@ -245,7 +245,7 @@ longitude           171      7213
 55 negative durations, 30 closed in 1900
 ```
 
-Steps 2 and 3 find the problems Project 5 fixed: duplicate keys, 32 spellings of 10 complaint types, placeholder dates and impossible durations. For steps 4 to 6, the essential cleaning is in Project 5; here we only standardize the types quickly and look at days to close per agency, the question with the most at stake:
+Steps 2 and 3 find the problems Project 7 fixed: duplicate keys, 32 spellings of 10 complaint types, placeholder dates and impossible durations. For steps 4 to 6, the essential cleaning is in Project 7; here we only standardize the types quickly and look at days to close per agency, the question with the most at stake:
 
 ```python
 kind = (raw["complaint_type"].str.lower().str.replace("–", "-")
@@ -276,4 +276,4 @@ A five-line summary for a city manager:
 
 4. Agencies' response times range from hours (police) to weeks (Parks and Forestry); see the chart.
 
-5. Open question: street lights in the South district take twice as long as elsewhere (Project 5), which needs an explanation from the Department of Transportation.
+5. Open question: street lights in the South district take twice as long as elsewhere (Project 7), which needs an explanation from the Department of Transportation.

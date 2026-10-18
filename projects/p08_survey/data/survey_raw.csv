@@ -1,0 +1,1226 @@
+response_id,started,duration_s,email,age_group,q1_satisfaction,q2_recommend,q3_taste,q3_price,q3_delivery,q3_packaging,q3_website,q3_attention,q4_brew,q5_comment
+R4100,08/14/2026 18:54,257,customer2858@example.com,45-59,Very dissatisfied,6,2.0,1.0,1.0,3.0,2.0,4,Moka pot,
+R4101,08/13/2026 10:34,143,customer2483@example.com,45-59,4,7,4.0,4.0,4.0,3.0,2.0,4,Pour-over;Espresso machine;Drip,Too pricey
+R4102,08/06/2026 11:59,259,customer3685@example.com,30-44,Very satisfied,9,4.0,3.0,3.0,4.0,5.0,4,French press;Drip,
+R4103,08/08/2026 04:46,352,customer2747@example.com,45-59,Satisfied,8,4.0,4.0,3.0,4.0,3.0,4,French press;Drip,
+R4104,08/14/2026 15:10,352,customer1923@example.com,45-59,3,8,4.0,4.0,4.0,4.0,5.0,4,Espresso machine,
+R4105,08/06/2026 02:28,293,customer3190@example.com,30-44,Neutral,7,4.0,3.0,,5.0,5.0,4,Pour-over;Cold brew,
+R4106,08/07/2026 03:49,508,customer3732@example.com,18-29,Neutral,7,,2.0,4.0,5.0,5.0,4,French press;Other: aeropress,Love the Ethiopian!
+R4107,08/12/2026 18:22,347,customer2685@example.com,18-29,Very satisfied,7,4.0,3.0,5.0,4.0,4.0,4,Pour-over,
+R4108,08/11/2026 07:06,443,customer3881@example.com,45-59,Very satisfied,9,4.0,4.0,3.0,4.0,3.0,4,,
+R4109,08/04/2026 15:46,160,customer2093@example.com,18-29,2,8,4.0,2.0,3.0,4.0,5.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R4110,08/12/2026 08:53,36,customer0518@example.com,45-59,Dissatisfied,4,2.0,2.0,3.0,3.0,3.0,4,Pour-over;Moka pot,
+R4111,08/06/2026 16:16,186,customer4928@example.com,18-29,Satisfied,6,4.0,1.0,4.0,3.0,4.0,4,French press;Pour-over,Great packaging
+R4112,08/13/2026 09:05,246,customer4433@example.com,30-44,Very satisfied,9,4.0,4.0,4.0,4.0,5.0,4,French press;Espresso machine;Drip;Other: percolator,
+R4113,08/15/2026 01:44,501,customer4363@example.com,45-59,Neutral,7,4.0,3.0,5.0,3.0,3.0,4,French press;Pour-over;Other: AeroPress,
+R4114,08/09/2026 00:31,187,customer2036@example.com,30-44,Satisfied,7,5.0,5.0,5.0,4.0,4.0,4,French press;Pour-over;Espresso machine,
+R4115,08/06/2026 01:11,142,customer0417@example.com,60+,Very satisfied,9,5.0,3.0,4.0,5.0,4.0,4,Pour-over,
+R4116,08/05/2026 07:40,558,customer4493@example.com,30-44,Very satisfied,10,5.0,3.0,5.0,5.0,5.0,4,Cold brew,
+R4117,08/11/2026 20:25,224,customer1024@example.com,18-29,Satisfied,10,4.0,4.0,4.0,4.0,5.0,4,,Love the Ethiopian!
+R4118,08/08/2026 01:49,547,customer3887@example.com,18-29,Very satisfied,7,5.0,3.0,3.0,5.0,4.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R4119,08/04/2026 16:54,609,customer4455@example.com,30-44,Satisfied,8,5.0,4.0,4.0,5.0,5.0,4,Pour-over;Moka pot,Deliveries arrive late
+R4120,08/13/2026 04:21,567,customer3144@example.com,45-59,Satisfied,7,5.0,3.0,4.0,5.0,1.0,4,Pour-over,
+R4121,08/06/2026 07:39,215,customer0683@example.com,18-29,Neutral,7,5.0,1.0,3.0,5.0,5.0,4,French press;Espresso machine;Moka pot,
+R4122,08/10/2026 13:40,145,customer4733@example.com,45-59,Very satisfied,8,5.0,5.0,4.0,3.0,4.0,4,Pour-over;Espresso machine;Cold brew,
+R4123,08/06/2026 09:07,573,customer3478@example.com,45-59,Satisfied,8,5.0,3.0,4.0,5.0,,4,French press;Pour-over;Other: AeroPress,
+R4124,08/14/2026 00:41,249,customer4889@example.com,60+,3,5,4.0,4.0,2.0,4.0,2.0,4,Moka pot;Cold brew,
+R4125,08/06/2026 06:26,551,customer0415@example.com,18-29,Neutral,5,,3.0,4.0,1.0,3.0,4,,Shipping is too slow
+R4126,08/10/2026 08:38,590,customer1330@example.com,45-59,Satisfied,8,5.0,4.0,4.0,5.0,3.0,4,French press;Pour-over;Drip;Cold brew,Keep it up
+R4127,08/07/2026 18:17,139,customer4696@example.com,30-44,3,9,5.0,3.0,4.0,5.0,4.0,4,French press;Pour-over;Cold brew,Too pricey
+R4128,08/04/2026 23:38,625,customer4989@example.com,30-44,Very satisfied,8,5.0,5.0,5.0,5.0,4.0,4,Pour-over,
+R4129,08/16/2026 07:58,229,customer1002@example.com,45-59,Satisfied,9,5.0,3.0,3.0,3.0,3.0,4,French press;Drip,
+R4130,08/15/2026 04:08,444,customer2960@example.com,60+,Satisfied,10,5.0,4.0,4.0,5.0,4.0,4,Other: Chemex,
+R4131,08/07/2026 12:52,365,customer0172@example.com,30-44,Neutral,6,2.0,1.0,3.0,2.0,4.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R4132,08/05/2026 08:36,50,customer1187@example.com,60+,Neutral,5,3.0,2.0,3.0,4.0,3.0,4,Pour-over;Espresso machine;Drip;Other: Aero press,Keep it up
+R4133,08/08/2026 19:14,248,customer1425@example.com,30-44,Satisfied,9,5.0,4.0,2.0,4.0,3.0,4,Espresso machine;Cold brew,Website is confusing
+R4134,08/14/2026 16:13,447,customer0910@example.com,30-44,2,4,3.0,2.0,4.0,3.0,3.0,4,French press,
+R4135,08/13/2026 17:49,361,customer4866@example.com,30-44,Satisfied,7,4.0,4.0,3.0,3.0,4.0,4,Cold brew,Keep it up
+R4136,08/07/2026 04:31,165,customer1019@example.com,45-59,Satisfied,10,5.0,,4.0,5.0,4.0,4,French press;Pour-over;Drip,Keep it up
+R4137,08/07/2026 03:20,192,customer3306@example.com,30-44,Satisfied,9,5.0,4.0,3.0,5.0,5.0,4,Espresso machine,
+R4138,08/10/2026 12:45,559,customer0136@example.com,30-44,Very satisfied,10,4.0,4.0,5.0,4.0,4.0,4,Espresso machine;Other: AeroPress,
+R4139,08/16/2026 18:28,1124,customer3187@example.com,30-44,4,8,4.0,4.0,4.0,5.0,,4,,
+R4140,08/07/2026 15:11,287,customer2905@example.com,18-29,3,8,5.0,3.0,4.0,3.0,4.0,4,Pour-over;Drip,
+R4141,08/09/2026 16:37,517,customer2061@example.com,30-44,Satisfied,9,5.0,3.0,4.0,3.0,5.0,2,Cold brew,
+R4142,08/10/2026 13:45,151,customer1422@example.com,30-44,Very satisfied,10,4.0,3.0,4.0,5.0,4.0,4,Moka pot,Shipping is too slow
+R4143,08/12/2026 22:30,288,customer1598@example.com,60+,Very satisfied,9,5.0,3.0,5.0,5.0,5.0,4,French press;Drip,
+R4144,08/11/2026 09:52,230,customer3160@example.com,45-59,4,7,,3.0,3.0,3.0,3.0,4,French press;Pour-over;Espresso machine;Drip;Cold brew,
+R4145,08/11/2026 14:48,480,customer0304@example.com,60+,Satisfied,5,4.0,3.0,3.0,3.0,3.0,4,Pour-over;Drip,
+R4146,08/03/2026 22:50,217,customer4934@example.com,18-29,5,10,5.0,5.0,5.0,4.0,5.0,4,,
+R4147,08/07/2026 19:30,236,customer1352@example.com,30-44,Satisfied,9,5.0,2.0,,5.0,5.0,4,,Deliveries arrive late
+R4148,08/03/2026 09:23,425,customer3580@example.com,60+,Satisfied,7,4.0,,3.0,4.0,2.0,4,Cold brew,
+R4149,08/16/2026 04:49,459,customer1676@example.com,18-29,3,7,4.0,3.0,4.0,4.0,4.0,4,Cold brew;Other: Aero press,Love the Ethiopian!
+R4150,08/15/2026 15:20,573,customer1715@example.com,30-44,Satisfied,10,5.0,5.0,5.0,,5.0,4,Pour-over,
+R4151,08/13/2026 00:44,471,customer4554@example.com,18-29,Satisfied,9,5.0,4.0,5.0,5.0,5.0,4,,Love the Ethiopian!
+R4152,08/07/2026 05:42,312,customer4352@example.com,30-44,Satisfied,9,5.0,3.0,4.0,5.0,5.0,4,Drip,
+R4153,08/11/2026 20:44,167,customer4791@example.com,18-29,Very satisfied,10,5.0,4.0,3.0,5.0,5.0,4,Drip;Cold brew;Other: AeroPress,
+R4154,08/14/2026 20:18,249,customer4798@example.com,45-59,Satisfied,7,5.0,3.0,3.0,4.0,5.0,4,Drip;Moka pot,
+R4155,08/03/2026 05:46,333,customer1062@example.com,18-29,Satisfied,10,5.0,4.0,5.0,,5.0,4,Drip,
+R4156,08/06/2026 20:43,212,customer4312@example.com,30-44,Dissatisfied,6,4.0,2.0,5.0,3.0,3.0,4,French press;Drip,
+R4157,08/15/2026 22:48,500,customer3524@example.com,30-44,Very satisfied,9,5.0,,5.0,5.0,5.0,4,Cold brew,
+R4158,08/11/2026 03:12,305,customer3575@example.com,45-59,Very satisfied,8,5.0,4.0,5.0,5.0,3.0,4,French press;Drip;Moka pot;Cold brew,
+R4159,08/14/2026 04:00,399,customer4735@example.com,45-59,4,8,5.0,3.0,4.0,4.0,3.0,4,Espresso machine;Cold brew,
+R4160,08/13/2026 22:39,289,customer0845@example.com,60+,4,9,5.0,,5.0,5.0,4.0,4,,
+R4161,08/11/2026 13:45,348,customer3977@example.com,45-59,Neutral,8,4.0,3.0,3.0,3.0,3.0,4,Pour-over,Too pricey
+R4162,08/13/2026 22:04,258,customer2522@example.com,45-59,Satisfied,10,4.0,4.0,5.0,4.0,4.0,4,French press;Espresso machine;Moka pot,
+R4163,08/13/2026 07:22,339,customer3798@example.com,60+,Neutral,7,4.0,3.0,3.0,3.0,3.0,4,Drip;Moka pot,
+R4164,08/06/2026 18:50,782,customer4487@example.com,45-59,Very satisfied,10,5.0,4.0,4.0,3.0,5.0,4,Pour-over;Cold brew,
+R4165,08/12/2026 03:22,333,customer0558@example.com,60+,Satisfied,5,3.0,3.0,3.0,5.0,3.0,4,Espresso machine;Drip,
+R4166,08/06/2026 16:56,425,customer0411@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,4.0,4.0,4,Espresso machine;Moka pot;Cold brew;Other: Aero press,
+R4167,08/15/2026 10:57,231,customer2719@example.com,18-29,5,10,4.0,3.0,2.0,4.0,5.0,4,French press;Espresso machine;Drip,
+R4168,08/04/2026 01:04,51,customer4992@example.com,18-29,Satisfied,8,4.0,4.0,2.0,5.0,3.0,4,Moka pot,Shipping is too slow
+R4169,08/08/2026 18:46,426,customer2502@example.com,45-59,Very satisfied,9,5.0,2.0,5.0,5.0,3.0,4,Espresso machine,Keep it up
+R4170,08/09/2026 13:21,214,customer1838@example.com,18-29,Very satisfied,8,4.0,3.0,4.0,3.0,4.0,4,Espresso machine;Other: Aero press,
+R4171,08/06/2026 17:02,204,customer3961@example.com,60+,Satisfied,5,5.0,3.0,3.0,4.0,3.0,4,French press,
+R4172,08/12/2026 05:44,378,customer0120@example.com,60+,4,9,5.0,4.0,5.0,5.0,4.0,4,French press;Espresso machine;Other: Aero press,Keep it up
+R4173,08/12/2026 19:47,251,customer4250@example.com,18-29,Neutral,6,5.0,3.0,3.0,3.0,2.0,4,Espresso machine;Cold brew;Other: aeropress,
+R4174,08/16/2026 18:41,273,customer1589@example.com,60+,Satisfied,9,5.0,1.0,4.0,3.0,3.0,4,French press;Drip;Cold brew,More decaf please
+R4175,08/15/2026 14:28,322,customer1670@example.com,30-44,3,6,4.0,3.0,4.0,5.0,,4,French press,
+R4176,08/06/2026 12:33,377,customer3784@example.com,30-44,Satisfied,7,4.0,4.0,4.0,5.0,2.0,4,French press;Espresso machine;Drip,Too pricey
+R4177,08/16/2026 11:20,296,customer1473@example.com,45-59,Neutral,8,5.0,4.0,3.0,3.0,3.0,4,Cold brew,
+R4178,08/07/2026 18:42,430,customer3140@example.com,30-44,Very satisfied,8,5.0,,4.0,3.0,5.0,4,Pour-over,
+R4179,08/05/2026 22:31,280,customer4916@example.com,45-59,Satisfied,10,4.0,5.0,5.0,4.0,5.0,4,Pour-over;Drip,
+R4180,08/10/2026 01:47,433,customer1622@example.com,18-29,Very satisfied,9,5.0,4.0,5.0,3.0,4.0,4,Pour-over;Espresso machine;Cold brew,
+R4181,08/11/2026 10:51,160,customer2624@example.com,30-44,Neutral,8,4.0,3.0,3.0,,4.0,4,Cold brew,
+R4182,08/05/2026 09:01,99,customer4644@example.com,30-44,Very satisfied,10,5.0,4.0,4.0,5.0,5.0,4,Pour-over;Drip,
+R4183,08/12/2026 01:15,349,customer1677@example.com,60+,Very satisfied,8,5.0,4.0,5.0,5.0,4.0,4,Drip;Other: chemex,More decaf please
+R4184,08/04/2026 20:15,125,customer2228@example.com,18-29,Satisfied,8,4.0,4.0,1.0,3.0,4.0,4,Espresso machine;Drip,
+R4185,08/05/2026 15:40,371,customer2764@example.com,45-59,3,5,3.0,1.0,4.0,5.0,3.0,4,,
+R4186,08/04/2026 10:33,277,customer0832@example.com,45-59,3,7,5.0,3.0,3.0,3.0,2.0,4,French press;Pour-over;Espresso machine,
+R4187,08/16/2026 18:49,1143,customer3322@example.com,45-59,Neutral,4,4.0,3.0,3.0,2.0,1.0,4,,Deliveries arrive late
+R4188,08/14/2026 07:28,155,customer2227@example.com,60+,Very satisfied,8,5.0,4.0,5.0,5.0,5.0,4,Other: percolator,Website is confusing
+R4189,08/10/2026 23:09,645,customer2666@example.com,45-59,Neutral,7,5.0,3.0,3.0,5.0,2.0,4,Pour-over,
+R4190,08/15/2026 19:04,219,customer1336@example.com,45-59,Satisfied,9,,3.0,4.0,3.0,3.0,4,Drip,
+R4191,08/14/2026 11:48,242,customer3650@example.com,18-29,Very satisfied,10,5.0,4.0,4.0,5.0,4.0,4,Espresso machine;Drip,Too pricey
+R4192,08/12/2026 18:10,401,customer4773@example.com,45-59,Very satisfied,10,5.0,4.0,3.0,5.0,5.0,4,French press;Drip,
+R4193,08/11/2026 07:41,174,customer2403@example.com,45-59,Very satisfied,10,,5.0,5.0,4.0,4.0,4,French press;Espresso machine,
+R4194,08/12/2026 18:07,378,customer2276@example.com,60+,Very satisfied,10,5.0,4.0,3.0,4.0,4.0,4,,
+R4195,08/05/2026 09:54,297,customer4903@example.com,60+,3,5,4.0,2.0,4.0,4.0,2.0,4,Other: Turkish coffee,Keep it up
+R4196,08/10/2026 18:21,646,customer3640@example.com,45-59,Satisfied,7,5.0,2.0,3.0,3.0,2.0,4,Cold brew,Deliveries arrive late
+R4197,08/06/2026 03:28,291,customer2099@example.com,18-29,Satisfied,6,4.0,2.0,3.0,4.0,5.0,4,French press;Espresso machine,
+R4198,08/15/2026 08:05,588,customer4570@example.com,45-59,3,8,4.0,2.0,4.0,5.0,2.0,4,French press;Cold brew,
+R4199,08/15/2026 20:39,152,customer2827@example.com,45-59,Very dissatisfied,6,3.0,1.0,3.0,2.0,1.0,4,French press;Drip,
+R4200,08/10/2026 06:55,478,customer2124@example.com,30-44,Neutral,7,5.0,1.0,2.0,5.0,4.0,4,Moka pot,
+R4201,08/06/2026 18:14,554,customer0524@example.com,30-44,Satisfied,9,5.0,3.0,3.0,4.0,4.0,4,French press;Pour-over;Drip;Other: aeropress,
+R4202,08/10/2026 21:58,266,customer1965@example.com,45-59,Neutral,8,5.0,4.0,3.0,4.0,5.0,4,Espresso machine,Keep it up
+R4203,08/10/2026 21:15,254,customer3811@example.com,30-44,Satisfied,9,4.0,5.0,4.0,3.0,5.0,4,Cold brew,
+R4204,08/10/2026 23:26,570,customer3671@example.com,60+,Satisfied,7,5.0,2.0,4.0,4.0,3.0,4,Cold brew,
+R4205,08/15/2026 17:21,270,customer3955@example.com,30-44,Satisfied,9,4.0,2.0,3.0,4.0,3.0,4,French press;Pour-over,
+R4206,08/12/2026 21:06,383,customer0150@example.com,45-59,Neutral,7,3.0,3.0,2.0,4.0,3.0,4,Pour-over;Drip;Other: Turkish coffee,
+R4207,08/05/2026 06:26,115,customer1456@example.com,18-29,4,10,4.0,4.0,4.0,4.0,4.0,4,Pour-over,
+R4208,08/16/2026 11:42,743,customer0750@example.com,60+,Very satisfied,10,5.0,4.0,4.0,,4.0,4,,
+R4209,08/16/2026 10:21,383,customer2518@example.com,30-44,Very satisfied,10,5.0,5.0,4.0,5.0,5.0,4,Pour-over;Drip,Love the Ethiopian!
+R4210,08/14/2026 04:36,348,customer1251@example.com,45-59,4,8,4.0,5.0,5.0,4.0,2.0,4,,
+R4211,08/10/2026 16:55,484,customer1101@example.com,30-44,Very satisfied,8,5.0,,,4.0,4.0,4,Pour-over,Deliveries arrive late
+R4212,08/12/2026 11:01,162,customer2488@example.com,60+,4,7,4.0,2.0,2.0,4.0,3.0,4,French press;Pour-over;Cold brew,
+R4213,08/16/2026 23:16,259,customer2409@example.com,60+,Very satisfied,10,5.0,,4.0,5.0,5.0,4,French press;Pour-over;Cold brew,
+R4214,08/04/2026 12:44,205,customer0939@example.com,30-44,3,10,3.0,3.0,5.0,3.0,4.0,4,Moka pot,
+R4215,08/07/2026 08:58,230,customer3855@example.com,60+,Neutral,9,4.0,4.0,3.0,5.0,2.0,4,Drip,
+R4216,08/09/2026 16:23,269,customer0574@example.com,45-59,Satisfied,10,,3.0,4.0,5.0,4.0,4,Drip,
+R4217,08/14/2026 18:15,430,customer1718@example.com,30-44,3,5,4.0,2.0,3.0,4.0,3.0,4,French press;Pour-over;Drip,Too pricey
+R4218,08/05/2026 23:34,272,customer1488@example.com,18-29,Satisfied,6,5.0,3.0,5.0,3.0,3.0,4,French press;Drip,
+R4219,08/09/2026 14:17,365,customer0976@example.com,60+,Satisfied,6,5.0,3.0,5.0,4.0,3.0,4,French press;Moka pot,Keep it up
+R4220,08/03/2026 03:42,358,customer3602@example.com,45-59,Satisfied,8,5.0,5.0,5.0,5.0,4.0,4,French press;Pour-over,
+R4221,08/06/2026 12:08,412,customer1009@example.com,45-59,Neutral,7,4.0,3.0,4.0,3.0,2.0,4,Moka pot,Deliveries arrive late
+R4222,08/10/2026 00:16,497,customer1517@example.com,45-59,Very satisfied,10,4.0,4.0,4.0,4.0,5.0,4,French press;Pour-over;Other: Aero press,
+R4223,08/12/2026 04:24,349,customer1916@example.com,45-59,Very satisfied,10,5.0,4.0,5.0,5.0,4.0,4,Espresso machine;Cold brew;Other: aeropress,
+R4224,08/07/2026 03:05,457,customer3415@example.com,18-29,4,8,5.0,3.0,4.0,3.0,4.0,4,,
+R4225,08/13/2026 06:04,304,customer3469@example.com,18-29,Very satisfied,10,5.0,3.0,4.0,5.0,5.0,4,Espresso machine,
+R4226,08/06/2026 02:53,259,customer4788@example.com,30-44,4,9,3.0,2.0,4.0,,3.0,4,Other: Aero press,
+R4227,08/04/2026 02:14,369,customer4125@example.com,60+,3,8,4.0,3.0,3.0,3.0,2.0,4,,Great packaging
+R4228,08/04/2026 22:17,564,customer1908@example.com,45-59,Satisfied,9,4.0,4.0,4.0,2.0,4.0,4,Cold brew;Other: Aero press,
+R4229,08/12/2026 04:39,569,customer1997@example.com,18-29,Satisfied,7,4.0,3.0,4.0,3.0,3.0,4,Espresso machine;Drip,
+R4230,08/03/2026 20:45,201,customer1194@example.com,30-44,Satisfied,8,3.0,4.0,4.0,3.0,5.0,4,Drip;Other: siphon,
+R4231,08/13/2026 19:49,681,customer4577@example.com,30-44,Satisfied,10,5.0,4.0,4.0,4.0,4.0,4,Pour-over;Espresso machine;Cold brew,Love the Ethiopian!
+R4232,08/11/2026 14:48,494,customer2621@example.com,30-44,Satisfied,10,3.0,4.0,5.0,4.0,,4,Pour-over;Drip;Cold brew,
+R4233,08/09/2026 06:32,197,customer0303@example.com,45-59,Very satisfied,9,5.0,5.0,4.0,5.0,4.0,4,Drip,
+R4234,08/11/2026 00:45,365,customer3546@example.com,30-44,Very satisfied,9,4.0,5.0,5.0,5.0,,4,Cold brew,Shipping is too slow
+R4235,08/04/2026 10:12,628,customer2078@example.com,30-44,4,6,4.0,4.0,3.0,4.0,5.0,4,,
+R4236,08/05/2026 00:09,281,customer0894@example.com,45-59,Satisfied,8,5.0,4.0,4.0,5.0,5.0,4,French press,
+R4237,08/04/2026 18:50,286,customer2313@example.com,60+,Satisfied,10,4.0,2.0,3.0,4.0,2.0,4,Espresso machine;Drip,
+R4238,08/11/2026 14:46,327,customer4364@example.com,60+,Very satisfied,9,5.0,5.0,4.0,3.0,4.0,4,French press;Other: AeroPress,
+R4239,08/13/2026 00:50,273,customer0312@example.com,60+,Neutral,7,5.0,3.0,3.0,4.0,3.0,4,French press;Pour-over;Other: siphon,More decaf please
+R4240,08/05/2026 01:32,244,customer3480@example.com,30-44,Satisfied,6,5.0,3.0,3.0,4.0,5.0,4,Drip,
+R4241,08/14/2026 08:56,279,customer3238@example.com,45-59,Satisfied,8,5.0,3.0,4.0,5.0,4.0,4,Espresso machine;Cold brew,
+R4242,08/15/2026 01:37,924,customer0722@example.com,45-59,Neutral,9,5.0,2.0,2.0,5.0,2.0,4,,
+R4243,08/03/2026 00:39,245,customer1514@example.com,30-44,Satisfied,9,4.0,5.0,4.0,5.0,5.0,4,Drip,
+R4244,08/12/2026 21:56,220,customer3263@example.com,60+,Neutral,9,5.0,3.0,4.0,5.0,3.0,4,Pour-over,
+R4245,08/04/2026 13:13,292,customer2048@example.com,30-44,Satisfied,10,4.0,4.0,4.0,5.0,5.0,5,French press;Espresso machine;Drip;Cold brew,Love the Ethiopian!
+R4246,08/05/2026 00:19,261,customer4507@example.com,60+,Very satisfied,7,5.0,4.0,3.0,5.0,4.0,4,French press,
+R4247,08/08/2026 22:26,244,customer2423@example.com,60+,Satisfied,9,5.0,3.0,5.0,4.0,3.0,4,Drip,
+R4248,08/16/2026 12:03,270,customer0778@example.com,30-44,Satisfied,6,5.0,1.0,4.0,3.0,3.0,4,French press;Pour-over,
+R4249,08/11/2026 21:03,294,customer2915@example.com,60+,Dissatisfied,6,4.0,1.0,3.0,5.0,4.0,4,Pour-over;Cold brew,Deliveries arrive late
+R4250,08/07/2026 19:11,270,customer2540@example.com,30-44,Satisfied,8,4.0,2.0,4.0,5.0,5.0,4,Pour-over;Espresso machine,
+R4251,08/09/2026 12:34,261,customer2376@example.com,30-44,Satisfied,6,4.0,,3.0,4.0,4.0,4,Pour-over;Espresso machine;Drip;Moka pot,
+R4252,08/08/2026 17:13,635,customer0951@example.com,60+,5,8,5.0,4.0,4.0,3.0,2.0,4,Drip;Other: Aero press,
+R4253,08/07/2026 07:45,296,customer4187@example.com,60+,3,7,3.0,5.0,4.0,4.0,3.0,4,Drip,
+R4254,08/11/2026 18:59,460,customer2274@example.com,45-59,Very satisfied,8,5.0,4.0,4.0,5.0,3.0,4,Drip,
+R4255,08/06/2026 10:39,510,customer1769@example.com,45-59,Neutral,7,4.0,4.0,3.0,4.0,3.0,4,Drip;Cold brew;Other: percolator,
+R4256,08/04/2026 00:37,449,customer0911@example.com,45-59,Satisfied,10,4.0,3.0,5.0,5.0,4.0,4,Drip;Other: percolator,
+R4257,08/12/2026 01:52,230,customer3085@example.com,45-59,Very satisfied,10,5.0,3.0,5.0,3.0,5.0,4,Drip;Other: aeropress,
+R4258,08/07/2026 20:48,335,customer3219@example.com,45-59,5,8,3.0,4.0,3.0,4.0,3.0,4,,
+R4259,08/08/2026 13:02,393,customer2626@example.com,30-44,Neutral,8,4.0,2.0,3.0,2.0,5.0,4,French press;Pour-over;Espresso machine,
+R4260,08/07/2026 03:25,250,customer3059@example.com,30-44,Very satisfied,10,5.0,4.0,3.0,5.0,5.0,4,Drip;Cold brew,
+R4261,08/09/2026 13:37,635,customer4578@example.com,18-29,Satisfied,7,4.0,2.0,3.0,4.0,5.0,4,,
+R4262,08/10/2026 07:37,226,customer0190@example.com,45-59,Neutral,8,3.0,3.0,4.0,3.0,2.0,4,French press;Espresso machine;Other: Aero press,
+R4263,08/09/2026 13:21,337,customer2392@example.com,18-29,Satisfied,7,5.0,5.0,1.0,4.0,5.0,4,,
+R4264,08/14/2026 22:03,189,customer3786@example.com,18-29,Satisfied,7,5.0,3.0,4.0,4.0,5.0,4,French press,
+R4265,08/07/2026 12:29,38,customer4382@example.com,45-59,Satisfied,9,5.0,5.0,5.0,4.0,5.0,4,Other: aeropress,
+R4266,08/14/2026 16:33,399,customer2010@example.com,45-59,Very satisfied,9,5.0,4.0,4.0,4.0,3.0,4,French press,
+R4267,08/14/2026 00:39,124,customer4899@example.com,60+,Very satisfied,9,4.0,3.0,4.0,5.0,4.0,4,French press;Pour-over,Love the Ethiopian!
+R4268,08/14/2026 05:41,170,customer2233@example.com,18-29,5,10,5.0,5.0,5.0,5.0,5.0,4,French press;Drip;Cold brew,
+R4269,08/09/2026 22:23,115,customer3081@example.com,45-59,Very satisfied,7,5.0,3.0,4.0,4.0,4.0,1,French press,
+R4270,08/04/2026 19:32,531,customer3995@example.com,45-59,Neutral,6,3.0,2.0,2.0,4.0,2.0,4,Espresso machine;Other: siphon,Keep it up
+R4271,08/15/2026 11:23,294,customer2640@example.com,45-59,Neutral,5,3.0,2.0,3.0,3.0,2.0,4,Espresso machine,
+R4272,08/04/2026 08:37,497,customer0202@example.com,60+,Satisfied,6,4.0,3.0,2.0,4.0,2.0,4,French press;Pour-over;Drip,
+R4273,08/07/2026 07:06,501,customer2332@example.com,60+,Very satisfied,9,5.0,1.0,5.0,4.0,4.0,4,,
+R4274,08/12/2026 09:19,260,customer4302@example.com,60+,Neutral,7,5.0,3.0,3.0,4.0,3.0,4,Other: Turkish coffee,
+R4275,08/14/2026 20:47,206,customer3023@example.com,60+,Dissatisfied,6,4.0,,2.0,2.0,1.0,4,French press;Espresso machine;Moka pot,
+R4276,08/08/2026 04:19,478,customer3035@example.com,18-29,Satisfied,8,5.0,2.0,4.0,5.0,5.0,4,Cold brew,Deliveries arrive late
+R4277,08/06/2026 07:04,665,customer3315@example.com,45-59,Satisfied,6,,2.0,3.0,5.0,4.0,4,French press;Pour-over;Espresso machine;Drip;Cold brew,Shipping is too slow
+R4278,08/07/2026 11:01,402,customer1286@example.com,30-44,Satisfied,7,4.0,,3.0,4.0,3.0,4,French press;Espresso machine;Drip,
+R4279,08/11/2026 15:34,325,customer2425@example.com,45-59,3,8,5.0,2.0,3.0,4.0,4.0,4,,
+R4280,08/09/2026 22:48,455,customer2043@example.com,45-59,Very satisfied,10,5.0,4.0,4.0,4.0,5.0,4,Pour-over,
+R4281,08/16/2026 23:22,1003,customer3063@example.com,30-44,Very satisfied,9,5.0,4.0,5.0,4.0,5.0,4,Espresso machine,Keep it up
+R4282,08/11/2026 06:51,171,customer1298@example.com,18-29,Neutral,7,3.0,2.0,4.0,3.0,,4,Espresso machine;Cold brew,
+R4283,08/15/2026 22:09,372,customer3917@example.com,45-59,Very satisfied,8,,4.0,3.0,5.0,4.0,4,,
+R4284,08/07/2026 08:33,272,customer1072@example.com,30-44,2,6,4.0,3.0,4.0,3.0,4.0,4,French press;Cold brew,
+R4285,08/08/2026 18:17,242,customer3333@example.com,30-44,Satisfied,8,5.0,4.0,3.0,5.0,5.0,4,Pour-over;Drip,
+R4286,08/12/2026 20:47,393,customer0214@example.com,45-59,Very satisfied,8,,3.0,3.0,3.0,3.0,4,French press;Pour-over,
+R4287,08/11/2026 16:14,202,customer3357@example.com,45-59,Satisfied,10,5.0,5.0,5.0,5.0,3.0,2,Drip,
+R4288,08/15/2026 22:45,46,customer2921@example.com,18-29,Very satisfied,7,5.0,4.0,4.0,4.0,3.0,4,Pour-over,Great packaging
+R4289,08/14/2026 19:26,248,customer0198@example.com,45-59,Satisfied,6,4.0,4.0,4.0,5.0,4.0,4,Drip;Cold brew,
+R4290,08/07/2026 05:55,994,customer2344@example.com,45-59,4,8,4.0,3.0,5.0,4.0,4.0,4,French press,Deliveries arrive late
+R4291,08/14/2026 21:50,280,customer3134@example.com,30-44,2,7,4.0,1.0,3.0,3.0,3.0,4,Drip,
+R4292,08/14/2026 05:08,328,customer2983@example.com,60+,Satisfied,5,4.0,3.0,3.0,5.0,4.0,4,Cold brew,More decaf please
+R4293,08/07/2026 15:38,697,customer0957@example.com,45-59,Dissatisfied,6,5.0,3.0,3.0,5.0,3.0,4,,
+R4294,08/08/2026 08:08,238,customer3707@example.com,18-29,4,8,4.0,4.0,3.0,4.0,4.0,4,Pour-over,
+R4295,08/14/2026 11:47,474,customer4854@example.com,18-29,Satisfied,8,4.0,4.0,3.0,5.0,5.0,4,Pour-over;Drip,
+R4296,08/13/2026 00:51,215,customer3703@example.com,60+,3,8,5.0,4.0,3.0,4.0,,4,Pour-over;Moka pot,
+R4297,08/06/2026 07:54,849,customer2328@example.com,60+,4,6,5.0,4.0,4.0,5.0,5.0,4,French press;Espresso machine;Drip;Cold brew,
+R4298,08/09/2026 22:29,317,customer2478@example.com,18-29,Neutral,7,5.0,5.0,3.0,3.0,3.0,4,Pour-over;Drip,
+R4299,08/05/2026 23:59,141,customer1016@example.com,18-29,Neutral,6,3.0,3.0,2.0,3.0,4.0,4,French press;Drip;Moka pot;Other: chemex,
+R4300,08/11/2026 10:48,183,customer1235@example.com,60+,Dissatisfied,8,4.0,3.0,4.0,3.0,1.0,4,French press;Pour-over;Espresso machine;Drip;Cold brew,
+R4301,08/09/2026 21:04,436,customer2860@example.com,30-44,4,7,3.0,3.0,3.0,4.0,3.0,4,Pour-over;Other: Turkish coffee,
+R4302,08/10/2026 05:14,620,customer2973@example.com,45-59,4,9,3.0,3.0,3.0,,3.0,4,French press;Espresso machine,
+R4303,08/15/2026 01:48,328,customer3495@example.com,30-44,4,9,,3.0,5.0,5.0,5.0,4,Pour-over;Drip;Other: chemex,
+R4304,08/04/2026 23:19,151,customer0476@example.com,60+,Satisfied,7,4.0,2.0,4.0,5.0,3.0,4,Drip,
+R4305,08/04/2026 19:40,479,customer3216@example.com,60+,Satisfied,9,5.0,3.0,4.0,5.0,3.0,4,French press;Drip,
+R4306,08/05/2026 14:19,217,customer0669@example.com,45-59,3,8,3.0,3.0,4.0,4.0,2.0,4,French press;Pour-over;Espresso machine,
+R4307,08/10/2026 21:22,238,customer2638@example.com,60+,Satisfied,7,5.0,4.0,3.0,4.0,4.0,4,French press;Espresso machine,
+R4308,08/03/2026 16:04,79,customer0955@example.com,60+,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Drip;Moka pot,
+R4309,08/15/2026 13:26,151,customer4155@example.com,30-44,Satisfied,9,5.0,3.0,3.0,4.0,4.0,4,,
+R4310,08/13/2026 15:56,429,customer2413@example.com,30-44,5,8,5.0,3.0,3.0,5.0,5.0,4,Espresso machine;Moka pot,
+R4311,08/03/2026 19:06,428,customer2715@example.com,30-44,Neutral,8,4.0,4.0,4.0,5.0,4.0,4,Espresso machine;Drip;Other: aeropress,Deliveries arrive late
+R4312,08/03/2026 10:41,937,customer4005@example.com,45-59,Very satisfied,8,,5.0,5.0,5.0,5.0,4,Pour-over;Moka pot,Keep it up
+R4313,08/16/2026 20:22,530,customer1438@example.com,18-29,Neutral,8,4.0,3.0,3.0,3.0,5.0,4,Espresso machine;Drip;Other: chemex,
+R4314,08/04/2026 16:38,308,customer2163@example.com,30-44,Very satisfied,10,5.0,5.0,4.0,4.0,5.0,4,Pour-over;Espresso machine,
+R4315,08/06/2026 15:26,654,customer4002@example.com,45-59,5,10,5.0,5.0,5.0,5.0,5.0,4,French press;Drip,
+R4316,08/12/2026 14:49,77,customer1631@example.com,30-44,Satisfied,7,4.0,4.0,5.0,3.0,4.0,4,Pour-over;Espresso machine,Shipping is too slow
+R4317,08/04/2026 06:38,451,customer1433@example.com,45-59,Satisfied,9,5.0,4.0,,3.0,3.0,4,French press;Pour-over,
+R4318,08/11/2026 09:47,164,customer0912@example.com,30-44,Very satisfied,8,4.0,4.0,5.0,5.0,5.0,4,French press;Pour-over;Cold brew;Other: percolator,
+R4319,08/06/2026 20:41,266,customer1952@example.com,30-44,Very satisfied,10,4.0,4.0,4.0,4.0,5.0,4,French press;Espresso machine,
+R4320,08/10/2026 03:41,133,customer0676@example.com,18-29,Very satisfied,9,5.0,4.0,4.0,5.0,3.0,4,Espresso machine;Cold brew,
+R4321,08/05/2026 12:53,348,customer3565@example.com,18-29,Neutral,9,5.0,3.0,2.0,4.0,4.0,4,Pour-over;Other: percolator,
+R4322,08/04/2026 13:37,299,customer1585@example.com,30-44,Neutral,7,3.0,2.0,3.0,3.0,3.0,4,Pour-over;Espresso machine;Cold brew,
+R4323,08/11/2026 02:12,250,customer1192@example.com,30-44,3,7,5.0,2.0,3.0,4.0,4.0,4,,
+R4324,08/14/2026 13:20,259,customer3106@example.com,60+,Dissatisfied,4,3.0,1.0,1.0,2.0,,4,,
+R4325,08/12/2026 22:31,611,customer0374@example.com,30-44,Satisfied,9,4.0,4.0,3.0,5.0,4.0,4,French press;Pour-over;Drip;Moka pot;Cold brew;Other: percolator,
+R4326,08/05/2026 14:08,351,customer2854@example.com,30-44,Satisfied,7,3.0,3.0,5.0,4.0,4.0,4,Pour-over;Moka pot;Cold brew,
+R4327,08/07/2026 01:12,640,customer1100@example.com,30-44,Neutral,8,3.0,2.0,3.0,3.0,5.0,4,Pour-over,
+R4328,08/08/2026 07:19,205,customer2531@example.com,30-44,2,10,4.0,4.0,3.0,5.0,3.0,4,Drip,
+R4329,08/04/2026 01:11,374,customer2245@example.com,45-59,Satisfied,9,5.0,3.0,3.0,4.0,4.0,4,Drip;Moka pot;Cold brew,
+R4330,08/06/2026 12:19,140,customer0203@example.com,60+,4,7,5.0,2.0,3.0,5.0,3.0,4,Cold brew,
+R4331,08/12/2026 11:22,245,customer4403@example.com,45-59,2,7,4.0,3.0,1.0,3.0,4.0,4,French press;Drip;Cold brew;Other: siphon,
+R4332,08/15/2026 03:06,556,customer0854@example.com,30-44,5,10,4.0,3.0,5.0,5.0,5.0,4,Drip,
+R4333,08/13/2026 12:20,222,customer4429@example.com,30-44,Satisfied,8,5.0,3.0,4.0,4.0,4.0,4,Pour-over,
+R4334,08/04/2026 05:10,346,customer4568@example.com,30-44,Neutral,9,4.0,3.0,3.0,3.0,4.0,4,French press;Cold brew,
+R4335,08/11/2026 21:53,270,customer0511@example.com,30-44,Dissatisfied,6,3.0,2.0,2.0,3.0,3.0,4,,
+R4336,08/04/2026 03:02,415,customer4996@example.com,18-29,5,10,5.0,5.0,5.0,,5.0,4,French press;Moka pot;Other: Chemex,Deliveries arrive late
+R4337,08/06/2026 13:26,429,customer4653@example.com,60+,Neutral,5,4.0,2.0,3.0,5.0,2.0,4,Cold brew;Other: siphon,
+R4338,08/11/2026 21:16,912,customer3457@example.com,30-44,Satisfied,9,5.0,4.0,4.0,4.0,4.0,4,,
+R4339,08/10/2026 03:14,375,customer1239@example.com,30-44,5,9,5.0,4.0,4.0,5.0,5.0,4,French press;Moka pot;Cold brew,
+R4340,08/14/2026 20:36,491,customer0586@example.com,45-59,Satisfied,5,4.0,2.0,1.0,1.0,2.0,4,French press;Pour-over;Drip,
+R4341,08/09/2026 06:02,338,customer2741@example.com,45-59,Dissatisfied,5,4.0,2.0,3.0,3.0,3.0,4,Espresso machine;Cold brew,
+R4342,08/07/2026 06:29,168,customer2253@example.com,30-44,Neutral,9,2.0,3.0,3.0,4.0,2.0,4,Pour-over;Cold brew,
+R4343,08/13/2026 13:48,276,customer1129@example.com,45-59,Neutral,10,4.0,3.0,2.0,4.0,3.0,4,Moka pot,
+R4344,08/06/2026 17:10,411,customer4324@example.com,60+,Very satisfied,10,5.0,2.0,3.0,4.0,4.0,4,Espresso machine,
+R4345,08/09/2026 22:37,608,customer2452@example.com,30-44,Dissatisfied,7,4.0,3.0,3.0,4.0,3.0,4,,
+R4346,08/07/2026 17:34,300,customer1647@example.com,18-29,Very satisfied,7,4.0,3.0,3.0,4.0,5.0,4,French press;Drip,
+R4347,08/08/2026 05:23,112,customer0158@example.com,30-44,Neutral,4,4.0,2.0,3.0,4.0,4.0,4,,
+R4348,08/11/2026 13:55,530,customer4139@example.com,60+,Satisfied,10,5.0,4.0,,5.0,5.0,4,Drip,Great packaging
+R4349,08/06/2026 16:45,378,customer3797@example.com,30-44,5,10,5.0,4.0,5.0,4.0,5.0,4,Espresso machine,Love the Ethiopian!
+R4350,08/09/2026 07:13,352,customer4253@example.com,60+,Satisfied,7,4.0,4.0,3.0,3.0,2.0,4,French press;Pour-over,Too pricey
+R4351,08/10/2026 14:59,395,customer2147@example.com,18-29,Neutral,5,3.0,,3.0,3.0,4.0,4,Pour-over;Drip,
+R4352,08/13/2026 05:06,497,customer3151@example.com,45-59,3,7,3.0,2.0,2.0,4.0,,4,French press;Drip;Other: percolator,
+R4353,08/12/2026 05:45,348,customer1466@example.com,45-59,Very satisfied,9,5.0,4.0,5.0,5.0,4.0,4,Espresso machine;Cold brew,
+R4354,08/08/2026 06:12,228,customer1343@example.com,30-44,2,6,4.0,3.0,3.0,4.0,4.0,4,Pour-over;Cold brew,
+R4355,08/14/2026 17:21,282,customer3298@example.com,60+,Very satisfied,10,5.0,3.0,4.0,4.0,4.0,4,Drip,
+R4356,08/11/2026 04:32,434,customer4958@example.com,30-44,4,8,5.0,3.0,4.0,5.0,3.0,4,,
+R4357,08/11/2026 18:40,250,customer1654@example.com,60+,Satisfied,8,4.0,3.0,4.0,5.0,4.0,4,Pour-over,
+R4358,08/09/2026 11:35,373,customer3694@example.com,60+,Satisfied,9,5.0,4.0,4.0,5.0,4.0,4,French press;Pour-over,
+R4359,08/03/2026 20:20,659,customer0614@example.com,60+,Very satisfied,10,5.0,4.0,5.0,4.0,3.0,4,French press,
+R4360,08/10/2026 15:08,350,customer2186@example.com,30-44,Satisfied,6,4.0,2.0,3.0,4.0,4.0,4,Drip,Too pricey
+R4361,08/14/2026 16:29,55,customer4506@example.com,30-44,Very satisfied,6,4.0,2.0,4.0,3.0,,4,Pour-over;Espresso machine;Cold brew,Keep it up
+R4362,08/04/2026 21:22,214,customer4838@example.com,30-44,3,7,4.0,1.0,3.0,3.0,4.0,4,French press;Pour-over;Drip,
+R4363,08/07/2026 05:57,214,customer0428@example.com,60+,Satisfied,8,4.0,2.0,2.0,5.0,3.0,4,French press;Drip,More decaf please
+R4364,08/16/2026 00:10,348,customer4284@example.com,60+,Very satisfied,10,5.0,4.0,4.0,4.0,4.0,4,French press,
+R4365,08/08/2026 10:54,315,customer1044@example.com,18-29,4,10,5.0,3.0,5.0,5.0,5.0,4,Pour-over;Espresso machine;Moka pot,Website is confusing
+R4366,08/11/2026 01:04,353,customer0585@example.com,60+,Dissatisfied,7,2.0,2.0,3.0,4.0,3.0,4,Cold brew,
+R4367,08/14/2026 23:26,337,customer2142@example.com,45-59,Satisfied,10,5.0,2.0,5.0,5.0,5.0,4,French press;Drip,
+R4368,08/04/2026 13:23,402,customer2315@example.com,45-59,Neutral,8,5.0,2.0,2.0,5.0,3.0,2,Pour-over;Drip,Too pricey
+R4369,08/14/2026 05:00,160,customer1322@example.com,30-44,4,9,5.0,3.0,3.0,2.0,5.0,4,French press;Espresso machine;Drip,
+R4370,08/13/2026 00:05,466,customer3067@example.com,60+,Satisfied,7,3.0,2.0,4.0,4.0,3.0,4,Pour-over,
+R4371,08/09/2026 02:07,212,customer3888@example.com,45-59,Satisfied,7,5.0,3.0,4.0,4.0,,4,Drip,Keep it up
+R4372,08/05/2026 21:05,404,customer3320@example.com,45-59,Very satisfied,7,5.0,3.0,2.0,4.0,3.0,4,French press;Moka pot,
+R4373,08/08/2026 17:01,294,customer2756@example.com,30-44,Neutral,8,4.0,4.0,2.0,4.0,,4,Pour-over;Other: Turkish coffee,
+R4374,08/04/2026 11:21,374,customer0071@example.com,60+,Satisfied,9,5.0,2.0,2.0,4.0,2.0,4,French press;Espresso machine;Drip,
+R4375,08/06/2026 19:03,571,customer2442@example.com,45-59,Satisfied,10,5.0,4.0,4.0,5.0,3.0,4,Espresso machine,More decaf please
+R4376,08/15/2026 03:25,251,customer1225@example.com,18-29,Very satisfied,10,3.0,4.0,5.0,5.0,5.0,4,French press;Pour-over;Drip;Other: Chemex,
+R4377,08/13/2026 12:00,138,customer3647@example.com,60+,Very satisfied,9,5.0,3.0,4.0,4.0,4.0,5,Espresso machine;Cold brew,
+R4378,08/04/2026 21:56,560,customer2604@example.com,30-44,Dissatisfied,6,4.0,3.0,3.0,3.0,,4,French press,Website is confusing
+R4379,08/04/2026 04:44,286,customer2485@example.com,45-59,Neutral,9,5.0,2.0,,4.0,3.0,4,French press;Pour-over,Keep it up
+R4380,08/12/2026 20:29,224,customer2610@example.com,45-59,Neutral,10,3.0,5.0,3.0,4.0,3.0,4,French press;Pour-over;Espresso machine,
+R4381,08/11/2026 05:23,327,customer2479@example.com,45-59,Dissatisfied,7,3.0,,3.0,3.0,3.0,4,French press;Pour-over,
+R4382,08/04/2026 00:37,409,customer1949@example.com,30-44,Very satisfied,8,5.0,3.0,4.0,5.0,5.0,4,Espresso machine,
+R4383,08/03/2026 03:47,276,customer0567@example.com,60+,2,7,3.0,2.0,2.0,3.0,2.0,4,French press;Drip,
+R4384,08/04/2026 03:27,373,customer2635@example.com,45-59,Satisfied,7,5.0,3.0,4.0,4.0,3.0,4,Moka pot;Cold brew,
+R4385,08/04/2026 12:08,285,customer1316@example.com,60+,Satisfied,9,4.0,3.0,5.0,,3.0,4,,More decaf please
+R4386,08/07/2026 05:43,214,customer2706@example.com,60+,Satisfied,7,5.0,4.0,5.0,4.0,3.0,4,French press;Drip,
+R4387,08/08/2026 08:02,194,customer1359@example.com,45-59,5,10,5.0,5.0,5.0,4.0,5.0,4,French press;Pour-over;Espresso machine;Drip,
+R4388,08/16/2026 12:11,180,customer4015@example.com,60+,Neutral,7,5.0,3.0,4.0,3.0,4.0,4,Drip;Other: Aero press,
+R4389,08/12/2026 18:47,820,customer0245@example.com,45-59,Very satisfied,9,5.0,4.0,4.0,5.0,4.0,4,Drip;Cold brew,Keep it up
+R4390,08/12/2026 08:54,416,customer3015@example.com,18-29,Satisfied,9,4.0,2.0,3.0,3.0,3.0,4,,
+R4391,08/16/2026 14:42,265,customer2599@example.com,45-59,Satisfied,8,5.0,1.0,2.0,4.0,3.0,4,Pour-over,
+R4392,08/11/2026 09:33,247,customer2780@example.com,18-29,Neutral,7,4.0,4.0,2.0,3.0,3.0,4,Pour-over;Espresso machine;Drip,
+R4393,08/09/2026 00:50,429,customer3861@example.com,45-59,Satisfied,6,5.0,2.0,3.0,4.0,2.0,4,French press;Drip,
+R4394,08/05/2026 12:40,164,customer1984@example.com,60+,3,7,3.0,3.0,4.0,3.0,3.0,4,Pour-over;Drip;Other: AeroPress,
+R4395,08/04/2026 20:37,192,customer2004@example.com,45-59,Satisfied,9,5.0,5.0,4.0,5.0,3.0,4,Drip;Other: AeroPress,Shipping is too slow
+R4396,08/07/2026 15:41,306,customer1609@example.com,30-44,Very satisfied,8,4.0,2.0,3.0,4.0,3.0,4,Pour-over;Drip;Cold brew,
+R4397,08/15/2026 23:15,266,customer0221@example.com,30-44,Very satisfied,9,4.0,3.0,5.0,3.0,5.0,4,,
+R4398,08/04/2026 08:20,632,customer3125@example.com,30-44,Satisfied,9,3.0,3.0,3.0,3.0,4.0,4,French press;Pour-over;Espresso machine;Drip,
+R4399,08/11/2026 17:10,283,customer4531@example.com,30-44,Very satisfied,8,5.0,4.0,4.0,4.0,5.0,4,Pour-over,
+R4400,08/16/2026 09:07,237,customer2851@example.com,45-59,4,10,5.0,5.0,4.0,5.0,4.0,4,Pour-over;Drip,Love the Ethiopian!
+R4401,08/14/2026 19:14,302,customer4542@example.com,45-59,Neutral,8,3.0,2.0,3.0,3.0,1.0,4,Drip;Moka pot,
+R4402,08/11/2026 18:02,205,customer0706@example.com,45-59,4,8,5.0,2.0,2.0,3.0,4.0,4,,
+R4403,08/06/2026 05:57,79,customer2818@example.com,60+,Satisfied,7,5.0,3.0,3.0,4.0,4.0,4,Pour-over;Espresso machine;Drip,
+R4404,08/08/2026 23:47,488,customer3280@example.com,18-29,Satisfied,6,5.0,4.0,3.0,4.0,,4,,
+R4405,08/12/2026 05:13,65,customer1748@example.com,45-59,Satisfied,7,4.0,3.0,2.0,2.0,4.0,4,Cold brew;Other: percolator,
+R4406,08/15/2026 01:43,501,customer3559@example.com,30-44,Very satisfied,9,5.0,4.0,5.0,5.0,5.0,4,French press;Pour-over;Espresso machine;Moka pot;Cold brew,
+R4407,08/14/2026 09:33,253,customer0795@example.com,30-44,3,9,5.0,4.0,3.0,5.0,4.0,4,,
+R4408,08/04/2026 23:01,290,customer2597@example.com,45-59,Very satisfied,10,4.0,3.0,5.0,3.0,4.0,4,Pour-over;Cold brew;Other: siphon,
+R4409,08/03/2026 01:44,476,customer2943@example.com,60+,Satisfied,9,5.0,3.0,2.0,4.0,5.0,4,Drip,
+R4410,08/04/2026 12:46,169,customer0434@example.com,45-59,Satisfied,9,5.0,2.0,5.0,5.0,4.0,4,Pour-over;Moka pot,
+R4411,08/06/2026 13:10,256,customer0549@example.com,60+,Neutral,6,3.0,2.0,4.0,5.0,2.0,4,Drip;Moka pot,Love the Ethiopian!
+R4412,08/06/2026 22:36,409,customer4986@example.com,30-44,Satisfied,7,4.0,2.0,2.0,3.0,5.0,4,Pour-over;Moka pot,
+R4413,08/03/2026 20:32,217,customer0544@example.com,60+,Very satisfied,7,4.0,4.0,4.0,5.0,3.0,4,Pour-over;Drip;Moka pot,
+R4414,08/03/2026 23:33,178,customer0838@example.com,45-59,4,8,3.0,3.0,2.0,3.0,4.0,4,,
+R4415,08/15/2026 16:43,505,customer1625@example.com,18-29,Dissatisfied,8,4.0,3.0,3.0,3.0,3.0,4,Espresso machine,
+R4416,08/13/2026 02:36,345,customer3889@example.com,30-44,4,8,5.0,3.0,4.0,,5.0,4,,
+R4417,08/08/2026 00:44,260,customer4003@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,,
+R4418,08/16/2026 18:44,299,customer3880@example.com,45-59,3,7,4.0,3.0,5.0,3.0,2.0,4,Espresso machine;Drip,
+R4419,08/05/2026 17:46,195,customer0638@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,,5.0,4,,
+R4420,08/10/2026 05:08,303,customer2899@example.com,60+,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,French press,
+R4421,08/13/2026 12:12,286,customer0605@example.com,60+,Satisfied,9,5.0,2.0,4.0,5.0,4.0,4,Pour-over;Other: AeroPress,
+R4422,08/10/2026 02:34,263,customer3237@example.com,30-44,Very satisfied,9,4.0,2.0,4.0,5.0,4.0,4,,
+R4423,08/06/2026 10:05,288,customer0762@example.com,30-44,Satisfied,8,5.0,1.0,5.0,5.0,5.0,4,Pour-over;Drip,Keep it up
+R4424,08/07/2026 01:57,211,customer1039@example.com,30-44,5,10,5.0,3.0,4.0,5.0,5.0,4,Moka pot,
+R4425,08/04/2026 14:34,788,customer2265@example.com,45-59,Satisfied,10,4.0,4.0,5.0,5.0,4.0,4,French press,
+R4426,08/09/2026 08:30,277,customer0405@example.com,45-59,5,10,5.0,4.0,5.0,3.0,5.0,4,French press,
+R4427,08/11/2026 13:08,390,customer0525@example.com,60+,4,9,5.0,3.0,2.0,4.0,4.0,4,Pour-over;Other: aeropress,
+R4428,08/12/2026 08:50,611,customer0211@example.com,18-29,Neutral,7,4.0,2.0,4.0,3.0,3.0,4,Espresso machine;Cold brew;Other: AeroPress,
+R4429,08/07/2026 05:47,204,customer4268@example.com,30-44,4,8,5.0,5.0,3.0,5.0,3.0,4,Espresso machine,
+R4430,08/10/2026 06:25,525,customer2555@example.com,30-44,Very satisfied,10,4.0,4.0,5.0,5.0,5.0,4,French press;Pour-over,
+R4431,08/04/2026 16:18,297,customer0466@example.com,30-44,Neutral,8,4.0,3.0,4.0,4.0,3.0,4,Pour-over,
+R4432,08/13/2026 17:07,267,customer2105@example.com,18-29,Satisfied,10,5.0,4.0,4.0,3.0,4.0,4,Pour-over;Drip,
+R4433,08/11/2026 03:07,632,customer2129@example.com,45-59,Dissatisfied,6,3.0,1.0,3.0,4.0,3.0,4,French press;Pour-over;Drip,
+R4434,08/03/2026 16:50,346,customer4848@example.com,45-59,Neutral,10,5.0,3.0,5.0,5.0,4.0,4,Drip,Website is confusing
+R4435,08/11/2026 09:23,386,customer4619@example.com,45-59,Very satisfied,8,4.0,5.0,4.0,4.0,5.0,4,,
+R4436,08/11/2026 21:41,412,customer3097@example.com,60+,Satisfied,6,4.0,3.0,,5.0,2.0,4,French press;Espresso machine,
+R4437,08/06/2026 01:51,235,customer0040@example.com,60+,Very satisfied,10,4.0,4.0,4.0,5.0,5.0,4,Cold brew,
+R4438,08/08/2026 09:40,1053,customer0323@example.com,60+,Satisfied,10,5.0,,4.0,4.0,4.0,4,Espresso machine;Cold brew,
+R4439,08/04/2026 01:56,189,customer0923@example.com,18-29,Neutral,5,5.0,2.0,4.0,,5.0,4,French press;Espresso machine,Website is confusing
+R4440,08/07/2026 01:37,369,customer2662@example.com,30-44,Very satisfied,10,5.0,3.0,5.0,5.0,5.0,4,Espresso machine;Cold brew,
+R4441,08/14/2026 16:11,383,customer1142@example.com,30-44,5,9,5.0,5.0,4.0,5.0,5.0,4,Espresso machine,
+R4442,08/15/2026 00:37,852,customer0824@example.com,60+,Dissatisfied,4,4.0,1.0,2.0,,2.0,4,Drip,
+R4443,08/06/2026 06:52,104,customer0114@example.com,45-59,Satisfied,10,5.0,5.0,4.0,3.0,5.0,4,Moka pot;Other: aeropress,Too pricey
+R4444,08/16/2026 11:32,465,customer1523@example.com,60+,Neutral,4,4.0,2.0,3.0,4.0,2.0,4,Drip;Cold brew,
+R4445,08/13/2026 21:27,487,customer3750@example.com,45-59,Neutral,7,5.0,2.0,3.0,4.0,3.0,4,French press;Pour-over;Drip,
+R4446,08/05/2026 22:27,345,customer1727@example.com,60+,Satisfied,9,4.0,1.0,2.0,3.0,3.0,4,Pour-over,More decaf please
+R4447,08/11/2026 00:07,199,customer3029@example.com,60+,Satisfied,9,5.0,3.0,5.0,4.0,,4,French press;Pour-over;Drip;Other: chemex,Website is confusing
+R4448,08/04/2026 08:24,203,customer4815@example.com,18-29,3,6,5.0,2.0,2.0,,3.0,4,Pour-over,
+R4449,08/05/2026 13:41,80,customer3949@example.com,60+,Satisfied,6,5.0,1.0,,2.0,3.0,4,Drip;Moka pot,
+R4450,08/13/2026 06:04,497,customer1460@example.com,60+,Neutral,8,3.0,2.0,4.0,3.0,1.0,4,Other: Aero press,Keep it up
+R4451,08/11/2026 12:13,334,customer2192@example.com,18-29,Satisfied,6,4.0,2.0,,4.0,3.0,4,,
+R4452,08/12/2026 21:40,401,customer1043@example.com,30-44,4,8,5.0,5.0,4.0,5.0,5.0,4,French press;Drip,
+R4453,08/09/2026 22:20,418,customer1911@example.com,45-59,Very satisfied,10,4.0,4.0,5.0,5.0,4.0,4,Espresso machine,
+R4454,08/13/2026 21:32,207,customer0965@example.com,45-59,3,8,5.0,3.0,3.0,3.0,3.0,4,French press;Drip;Cold brew,
+R4455,08/11/2026 16:29,334,customer2148@example.com,45-59,Satisfied,9,5.0,2.0,5.0,5.0,5.0,4,,
+R4456,08/09/2026 14:06,291,customer4025@example.com,18-29,Neutral,5,4.0,2.0,3.0,4.0,4.0,4,Pour-over;Espresso machine;Drip,
+R4457,08/16/2026 02:27,225,customer3418@example.com,30-44,Satisfied,9,4.0,3.0,5.0,4.0,5.0,4,Pour-over;Drip,
+R4458,08/13/2026 22:27,477,customer0369@example.com,30-44,Satisfied,7,5.0,1.0,3.0,4.0,4.0,4,Pour-over,
+R4459,08/16/2026 18:04,65,customer0535@example.com,30-44,Very satisfied,8,5.0,,4.0,3.0,4.0,4,Espresso machine;Drip,
+R4460,08/09/2026 07:13,326,customer4337@example.com,30-44,Very satisfied,9,5.0,4.0,5.0,5.0,4.0,4,,
+R4461,08/13/2026 22:27,429,customer0672@example.com,60+,Very satisfied,8,5.0,4.0,4.0,5.0,4.0,4,French press,
+R4462,08/08/2026 06:34,679,customer3254@example.com,18-29,Satisfied,8,4.0,5.0,5.0,4.0,5.0,4,Pour-over;Espresso machine;Cold brew,
+R4463,08/16/2026 06:27,237,customer3420@example.com,60+,5,9,,3.0,5.0,5.0,4.0,4,French press;Pour-over;Drip;Moka pot,Deliveries arrive late
+R4464,08/09/2026 09:51,261,customer2889@example.com,30-44,Satisfied,9,5.0,3.0,3.0,3.0,3.0,4,French press;Drip;Other: Turkish coffee,
+R4465,08/04/2026 16:43,52,customer3700@example.com,45-59,Satisfied,9,,2.0,4.0,5.0,4.0,4,Moka pot;Cold brew,
+R4466,08/10/2026 15:59,352,customer2297@example.com,30-44,Satisfied,8,4.0,4.0,4.0,2.0,3.0,4,,
+R4467,08/12/2026 06:45,361,customer0763@example.com,45-59,Dissatisfied,6,3.0,1.0,2.0,3.0,3.0,4,French press,
+R4468,08/14/2026 12:28,208,customer0242@example.com,18-29,Very satisfied,10,5.0,5.0,4.0,5.0,5.0,4,French press;Cold brew,
+R4469,08/06/2026 09:43,223,customer2526@example.com,45-59,Satisfied,10,5.0,4.0,5.0,4.0,4.0,4,Drip;Cold brew,More decaf please
+R4470,08/08/2026 21:19,363,customer0687@example.com,18-29,Satisfied,8,4.0,3.0,2.0,4.0,5.0,4,,
+R4471,08/16/2026 11:33,596,customer3058@example.com,60+,Satisfied,8,4.0,4.0,4.0,,5.0,4,Pour-over;Drip,
+R4472,08/14/2026 18:34,35,customer4277@example.com,60+,Satisfied,8,4.0,2.0,4.0,5.0,3.0,4,,Too pricey
+R4473,08/05/2026 10:42,314,customer3740@example.com,18-29,Satisfied,8,4.0,4.0,4.0,4.0,4.0,4,French press;Drip,Keep it up
+R4474,08/14/2026 05:23,310,customer2557@example.com,45-59,Neutral,9,5.0,5.0,4.0,3.0,3.0,3,French press,Keep it up
+R4475,08/11/2026 05:56,351,customer0723@example.com,30-44,Neutral,6,,3.0,3.0,4.0,5.0,1,Drip;Cold brew,
+R4476,08/13/2026 18:01,214,customer3195@example.com,60+,Neutral,7,4.0,1.0,4.0,4.0,3.0,4,French press;Pour-over;Espresso machine,
+R4477,08/09/2026 21:46,490,customer0345@example.com,60+,Very satisfied,10,5.0,5.0,5.0,4.0,5.0,4,Cold brew,Deliveries arrive late
+R4478,08/08/2026 03:21,258,customer2910@example.com,45-59,Very satisfied,10,5.0,4.0,4.0,5.0,4.0,4,French press;Espresso machine;Drip,
+R4479,08/10/2026 00:13,293,customer1562@example.com,18-29,Neutral,8,5.0,2.0,3.0,5.0,4.0,4,Pour-over;Cold brew,
+R4480,08/12/2026 13:37,348,customer1474@example.com,45-59,Satisfied,8,5.0,4.0,4.0,4.0,,4,Pour-over;Espresso machine,
+R4481,08/14/2026 16:35,395,customer3930@example.com,60+,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Pour-over;Drip,
+R4482,08/05/2026 21:58,414,customer0006@example.com,30-44,Very satisfied,8,5.0,5.0,4.0,4.0,4.0,4,Espresso machine;Drip;Cold brew,
+R4483,08/08/2026 10:43,457,customer0929@example.com,45-59,Dissatisfied,6,5.0,2.0,3.0,3.0,3.0,4,French press,
+R4484,08/10/2026 23:18,570,customer1674@example.com,60+,Satisfied,7,5.0,4.0,4.0,5.0,5.0,4,French press;Pour-over;Drip;Other: AeroPress,
+R4485,08/05/2026 10:36,343,customer4978@example.com,45-59,Very satisfied,10,5.0,4.0,5.0,5.0,4.0,4,French press;Espresso machine;Drip;Cold brew,
+R4486,08/05/2026 09:55,152,customer0237@example.com,45-59,Satisfied,8,5.0,4.0,3.0,5.0,3.0,4,Pour-over;Drip;Moka pot,Great packaging
+R4487,08/14/2026 15:14,579,customer0008@example.com,60+,Satisfied,7,4.0,2.0,2.0,4.0,4.0,4,,
+R4488,08/16/2026 03:55,403,customer4246@example.com,45-59,Neutral,10,5.0,2.0,5.0,3.0,3.0,4,French press;Cold brew,
+R4489,08/12/2026 06:32,152,customer4270@example.com,45-59,Neutral,6,3.0,1.0,1.0,4.0,3.0,4,,
+R4490,08/11/2026 10:55,249,customer4298@example.com,30-44,Very satisfied,8,5.0,3.0,4.0,4.0,4.0,4,Pour-over;Cold brew,
+R4491,08/08/2026 01:56,376,customer4959@example.com,60+,Satisfied,9,5.0,3.0,5.0,4.0,4.0,4,Pour-over,
+R4492,08/05/2026 09:02,361,customer2918@example.com,60+,Neutral,7,5.0,3.0,2.0,4.0,2.0,4,French press;Pour-over;Espresso machine;Drip,
+R4493,08/13/2026 07:22,314,customer3607@example.com,30-44,4,9,5.0,5.0,4.0,3.0,4.0,4,French press;Drip,
+R4494,08/14/2026 21:37,235,customer4690@example.com,60+,4,9,5.0,2.0,5.0,4.0,4.0,4,French press;Pour-over;Moka pot,
+R4495,08/14/2026 17:44,249,customer1196@example.com,18-29,Very satisfied,10,5.0,2.0,3.0,5.0,4.0,4,Espresso machine;Cold brew,
+R4496,08/12/2026 17:14,484,customer0497@example.com,30-44,Neutral,6,3.0,2.0,2.0,3.0,3.0,4,French press,
+R4497,08/06/2026 00:28,318,customer2436@example.com,60+,4,7,5.0,5.0,4.0,4.0,4.0,4,Cold brew,
+R4498,08/10/2026 21:56,621,customer3291@example.com,45-59,Neutral,7,4.0,3.0,2.0,4.0,4.0,4,French press;Pour-over;Drip,
+R4499,08/11/2026 04:35,351,customer0726@example.com,30-44,Very satisfied,10,3.0,,4.0,4.0,4.0,4,Espresso machine;Moka pot,Keep it up
+R4500,08/03/2026 14:30,621,customer2240@example.com,30-44,Satisfied,8,5.0,5.0,3.0,4.0,5.0,4,French press;Drip,
+R4501,08/15/2026 18:26,237,customer4536@example.com,60+,Neutral,7,3.0,4.0,3.0,3.0,3.0,4,,
+R4502,08/08/2026 05:01,360,customer4925@example.com,18-29,Very satisfied,9,5.0,5.0,5.0,5.0,5.0,4,Cold brew,
+R4503,08/15/2026 05:55,324,customer2414@example.com,60+,Satisfied,6,4.0,3.0,4.0,4.0,3.0,4,Cold brew,
+R4504,08/16/2026 04:44,231,customer4602@example.com,45-59,Very satisfied,7,5.0,3.0,4.0,5.0,3.0,4,,
+R4505,08/14/2026 09:00,339,customer0072@example.com,45-59,Neutral,7,4.0,3.0,5.0,5.0,2.0,4,Drip;Cold brew,More decaf please
+R4506,08/08/2026 10:23,254,customer1696@example.com,30-44,5,10,5.0,5.0,3.0,5.0,5.0,4,Espresso machine;Cold brew,
+R4507,08/03/2026 22:40,579,customer4953@example.com,30-44,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Moka pot;Cold brew,
+R4508,08/03/2026 16:32,211,customer0897@example.com,45-59,Satisfied,7,3.0,4.0,1.0,4.0,3.0,4,,
+R4509,08/06/2026 07:26,794,customer2486@example.com,60+,Dissatisfied,6,3.0,3.0,3.0,5.0,3.0,4,Other: siphon,
+R4510,08/12/2026 23:53,1006,customer0126@example.com,30-44,Very satisfied,10,5.0,4.0,4.0,3.0,4.0,4,Drip;Moka pot,
+R4511,08/04/2026 06:58,359,customer2506@example.com,60+,Neutral,8,5.0,4.0,3.0,5.0,2.0,4,Moka pot,Shipping is too slow
+R4512,08/12/2026 16:46,235,customer3261@example.com,45-59,4,10,5.0,3.0,4.0,4.0,4.0,4,Espresso machine,More decaf please
+R4513,08/04/2026 20:02,457,customer1065@example.com,18-29,Very satisfied,7,4.0,4.0,4.0,4.0,5.0,4,French press;Drip,
+R4514,08/05/2026 04:12,662,customer0928@example.com,45-59,Satisfied,9,5.0,3.0,,4.0,5.0,4,French press;Drip;Cold brew,
+R4515,08/14/2026 12:29,557,customer4343@example.com,45-59,Neutral,8,5.0,3.0,4.0,3.0,4.0,4,Pour-over;Espresso machine;Drip,
+R4516,08/07/2026 14:14,472,customer4593@example.com,45-59,Neutral,7,5.0,4.0,3.0,3.0,2.0,4,,
+R4517,08/06/2026 17:41,172,customer2516@example.com,30-44,4,9,5.0,3.0,4.0,5.0,4.0,4,French press;Cold brew,Too pricey
+R4518,08/16/2026 04:02,407,customer4509@example.com,45-59,4,8,5.0,3.0,4.0,5.0,4.0,4,Drip;Moka pot,Keep it up
+R4519,08/06/2026 05:00,422,customer4604@example.com,45-59,3,10,4.0,4.0,3.0,4.0,4.0,4,Pour-over;Espresso machine;Drip;Other: siphon,
+R4520,08/06/2026 14:28,390,customer2603@example.com,30-44,Very satisfied,10,5.0,4.0,4.0,5.0,,4,Pour-over;Cold brew,
+R4521,08/03/2026 19:15,309,customer0317@example.com,30-44,5,8,4.0,2.0,3.0,5.0,4.0,4,French press;Pour-over,
+R4522,08/04/2026 20:13,486,customer0568@example.com,18-29,5,10,4.0,4.0,4.0,5.0,5.0,4,,
+R4523,08/07/2026 23:00,294,customer0602@example.com,60+,Neutral,7,5.0,3.0,5.0,3.0,3.0,4,Pour-over;Espresso machine,
+R4524,08/13/2026 22:24,361,customer0154@example.com,45-59,Very satisfied,9,5.0,5.0,4.0,5.0,2.0,4,,
+R4525,08/08/2026 21:29,288,customer0272@example.com,60+,Dissatisfied,6,5.0,2.0,4.0,4.0,3.0,4,Espresso machine,Keep it up
+R4526,08/08/2026 05:15,547,customer3147@example.com,18-29,Neutral,5,2.0,1.0,2.0,4.0,3.0,4,French press;Pour-over;Espresso machine;Other: Aero press,Shipping is too slow
+R4527,08/06/2026 04:19,319,customer3240@example.com,45-59,Very satisfied,7,5.0,2.0,3.0,4.0,3.0,4,Cold brew,
+R4528,08/03/2026 21:28,320,customer1513@example.com,30-44,Dissatisfied,6,5.0,,2.0,4.0,2.0,4,French press,Great packaging
+R4529,08/15/2026 10:51,266,customer0376@example.com,30-44,Satisfied,8,4.0,2.0,5.0,5.0,4.0,4,French press,Deliveries arrive late
+R4530,08/10/2026 01:11,275,customer4715@example.com,45-59,Very satisfied,10,5.0,3.0,5.0,5.0,3.0,4,,
+R4531,08/06/2026 07:55,309,customer2441@example.com,45-59,Dissatisfied,8,5.0,1.0,3.0,4.0,3.0,4,,
+R4532,08/12/2026 06:37,585,customer0591@example.com,45-59,Neutral,9,5.0,3.0,4.0,3.0,,4,Drip,
+R4533,08/03/2026 18:39,69,customer4629@example.com,60+,Neutral,6,3.0,1.0,3.0,4.0,3.0,4,,
+R4534,08/14/2026 21:37,331,customer0231@example.com,45-59,Neutral,7,3.0,2.0,3.0,2.0,2.0,4,French press;Drip,
+R4535,08/04/2026 12:44,198,customer3619@example.com,45-59,5,9,4.0,3.0,5.0,5.0,4.0,4,French press;Drip,
+R4536,08/05/2026 01:32,166,customer3183@example.com,30-44,Very satisfied,10,,4.0,4.0,4.0,4.0,4,Pour-over;Espresso machine;Cold brew,
+R4537,08/08/2026 05:49,149,customer3302@example.com,60+,3,5,3.0,1.0,3.0,2.0,2.0,4,French press,
+R4538,08/04/2026 21:57,467,customer2563@example.com,60+,Satisfied,9,5.0,4.0,4.0,4.0,3.0,4,,
+R4539,08/10/2026 12:47,156,customer1490@example.com,30-44,Satisfied,10,5.0,5.0,4.0,4.0,5.0,4,French press;Espresso machine,Keep it up
+R4540,08/07/2026 08:09,251,customer3025@example.com,18-29,Satisfied,5,5.0,3.0,4.0,5.0,4.0,4,Cold brew;Other: siphon,Keep it up
+R4541,08/12/2026 09:15,608,customer2788@example.com,60+,Satisfied,9,5.0,3.0,3.0,4.0,4.0,4,,
+R4542,08/10/2026 17:32,245,customer0090@example.com,60+,Neutral,8,4.0,3.0,3.0,4.0,2.0,4,Pour-over;Drip,
+R4543,08/11/2026 01:03,171,customer0290@example.com,30-44,Very satisfied,10,5.0,5.0,5.0,5.0,,4,Drip;Moka pot,
+R4544,08/13/2026 04:03,647,customer1849@example.com,30-44,Satisfied,10,4.0,2.0,4.0,5.0,5.0,4,Drip,
+R4545,08/14/2026 13:04,350,customer4085@example.com,30-44,Very satisfied,9,5.0,3.0,5.0,5.0,5.0,3,French press;Pour-over;Drip,
+R4546,08/16/2026 20:17,404,customer3983@example.com,30-44,Neutral,8,,3.0,3.0,2.0,3.0,4,Espresso machine;Drip,
+R4547,08/10/2026 02:28,200,customer3239@example.com,60+,Satisfied,7,5.0,3.0,4.0,4.0,4.0,4,French press;Pour-over;Drip;Other: chemex,
+R4548,08/05/2026 21:16,359,customer0755@example.com,30-44,Satisfied,9,5.0,2.0,3.0,5.0,5.0,4,,
+R4549,08/04/2026 01:35,281,customer4823@example.com,18-29,Satisfied,8,5.0,3.0,3.0,3.0,5.0,4,French press;Drip,
+R4550,08/16/2026 00:34,119,customer1680@example.com,45-59,Very satisfied,8,5.0,4.0,3.0,4.0,3.0,4,Drip;Cold brew,
+R4551,08/06/2026 11:58,507,customer3702@example.com,60+,Very satisfied,9,5.0,4.0,4.0,5.0,5.0,4,French press,
+R4552,08/06/2026 18:05,415,customer3556@example.com,60+,Very satisfied,9,5.0,3.0,5.0,5.0,3.0,4,Espresso machine;Drip;Cold brew,
+R4553,08/15/2026 11:10,125,customer2158@example.com,30-44,Neutral,7,4.0,3.0,5.0,5.0,3.0,4,French press;Pour-over;Cold brew,
+R4554,08/06/2026 08:52,404,customer2942@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,French press;Drip;Cold brew,
+R4555,08/14/2026 20:41,477,customer4679@example.com,18-29,4,8,5.0,3.0,,4.0,4.0,4,French press;Pour-over,Too pricey
+R4556,08/09/2026 01:18,40,customer3648@example.com,30-44,Very satisfied,9,5.0,2.0,4.0,5.0,5.0,4,French press;Pour-over;Drip;Cold brew,
+R4557,08/04/2026 11:08,389,customer1327@example.com,30-44,4,7,5.0,3.0,4.0,3.0,3.0,4,Pour-over;Espresso machine;Drip,
+R4558,08/15/2026 12:07,292,customer4118@example.com,45-59,Very satisfied,8,5.0,5.0,4.0,4.0,3.0,5,Drip,Love the Ethiopian!
+R4559,08/08/2026 19:23,419,customer3499@example.com,45-59,5,10,5.0,5.0,5.0,4.0,4.0,4,French press;Espresso machine;Cold brew,
+R4560,08/03/2026 03:04,137,customer0305@example.com,30-44,Very satisfied,9,5.0,4.0,4.0,4.0,5.0,4,Espresso machine;Cold brew;Other: percolator,Shipping is too slow
+R4561,08/07/2026 01:30,687,customer4373@example.com,45-59,Very satisfied,10,5.0,3.0,3.0,5.0,4.0,4,French press;Pour-over,
+R4562,08/04/2026 08:17,84,customer1976@example.com,45-59,Satisfied,7,5.0,4.0,3.0,5.0,3.0,4,Cold brew;Other: siphon,
+R4563,08/04/2026 18:11,438,customer1959@example.com,30-44,Neutral,8,3.0,4.0,3.0,5.0,5.0,4,Pour-over,Shipping is too slow
+R4564,08/12/2026 18:37,352,customer3869@example.com,60+,Neutral,8,5.0,4.0,4.0,5.0,3.0,4,Drip,Keep it up
+R4565,08/10/2026 23:20,242,customer4594@example.com,18-29,Satisfied,7,4.0,4.0,3.0,3.0,5.0,4,French press;Pour-over,
+R4566,08/04/2026 06:27,269,customer3433@example.com,30-44,Satisfied,10,4.0,2.0,4.0,4.0,4.0,4,Pour-over,
+R4567,08/10/2026 04:56,189,customer2950@example.com,45-59,Neutral,6,4.0,2.0,3.0,3.0,2.0,4,French press;Pour-over;Drip;Moka pot;Cold brew,
+R4568,08/10/2026 22:37,320,customer4946@example.com,60+,Very satisfied,10,5.0,2.0,5.0,5.0,3.0,4,Espresso machine;Drip,
+R4569,08/16/2026 05:10,347,customer1775@example.com,30-44,4,9,5.0,5.0,4.0,3.0,5.0,4,French press;Pour-over;Espresso machine,
+R4570,08/07/2026 07:30,833,customer2771@example.com,45-59,Satisfied,7,4.0,3.0,4.0,4.0,4.0,4,French press;Pour-over,
+R4571,08/09/2026 04:00,188,customer1084@example.com,30-44,Satisfied,8,4.0,4.0,4.0,5.0,5.0,4,Cold brew,
+R4572,08/14/2026 19:39,329,customer4540@example.com,45-59,Satisfied,8,3.0,3.0,,3.0,3.0,4,Pour-over;Drip;Moka pot,
+R4573,08/04/2026 04:06,512,customer4183@example.com,18-29,Neutral,6,4.0,1.0,4.0,4.0,2.0,4,French press,
+R4574,08/12/2026 04:34,89,customer3077@example.com,45-59,Very satisfied,8,5.0,5.0,4.0,4.0,4.0,4,Drip,
+R4575,08/06/2026 03:28,942,customer4043@example.com,60+,Satisfied,9,5.0,3.0,4.0,4.0,3.0,4,Pour-over;Espresso machine;Moka pot;Cold brew,
+R4576,08/13/2026 06:57,270,customer1197@example.com,60+,3,7,5.0,3.0,4.0,5.0,3.0,4,French press;Pour-over,
+R4577,08/16/2026 19:03,300,customer3102@example.com,45-59,Neutral,7,4.0,3.0,4.0,5.0,4.0,4,French press;Cold brew,
+R4578,08/05/2026 02:47,263,customer3639@example.com,45-59,Neutral,9,5.0,4.0,4.0,4.0,3.0,4,French press;Drip,
+R4579,08/07/2026 16:52,346,customer2451@example.com,45-59,Very satisfied,10,5.0,3.0,5.0,4.0,5.0,4,,
+R4580,08/11/2026 22:29,187,customer3399@example.com,45-59,Satisfied,10,4.0,2.0,4.0,5.0,,4,Espresso machine,Deliveries arrive late
+R4581,08/06/2026 00:26,522,customer3452@example.com,60+,Very satisfied,10,5.0,5.0,4.0,5.0,3.0,4,Pour-over;Drip;Other: AeroPress,
+R4582,08/09/2026 02:02,479,customer4961@example.com,30-44,Neutral,7,4.0,3.0,2.0,3.0,5.0,4,French press;Other: percolator,Love the Ethiopian!
+R4583,08/14/2026 01:30,208,customer4975@example.com,18-29,3,4,5.0,3.0,3.0,1.0,4.0,4,French press;Cold brew,Website is confusing
+R4584,08/10/2026 11:24,544,customer2085@example.com,18-29,Satisfied,8,5.0,4.0,3.0,5.0,4.0,4,French press;Pour-over;Cold brew;Other: siphon,
+R4585,08/16/2026 06:04,449,customer4128@example.com,45-59,Dissatisfied,5,5.0,2.0,4.0,5.0,3.0,4,Moka pot;Cold brew;Other: Chemex,
+R4586,08/14/2026 00:46,395,customer2252@example.com,30-44,5,10,5.0,4.0,5.0,5.0,5.0,4,French press;Pour-over,
+R4587,08/16/2026 13:43,578,customer2322@example.com,30-44,Very satisfied,9,5.0,4.0,5.0,4.0,5.0,4,,
+R4588,08/13/2026 19:35,510,customer3689@example.com,45-59,Neutral,9,5.0,4.0,4.0,5.0,4.0,4,Pour-over;Drip,
+R4589,08/06/2026 07:57,236,customer0060@example.com,30-44,Satisfied,8,4.0,4.0,5.0,4.0,4.0,4,French press;Cold brew,Shipping is too slow
+R4590,08/07/2026 16:34,87,customer1719@example.com,30-44,Dissatisfied,10,4.0,2.0,4.0,5.0,3.0,4,French press;Pour-over;Espresso machine,
+R4591,08/09/2026 17:46,138,customer2264@example.com,18-29,Satisfied,8,5.0,3.0,5.0,5.0,5.0,4,French press,
+R4592,08/09/2026 03:26,203,customer2433@example.com,45-59,Satisfied,8,5.0,3.0,4.0,4.0,4.0,4,French press;Drip,
+R4593,08/04/2026 23:02,675,customer0244@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,Espresso machine;Drip;Cold brew,
+R4594,08/07/2026 20:01,562,customer0164@example.com,30-44,Very satisfied,10,4.0,4.0,4.0,5.0,5.0,4,Pour-over,
+R4595,08/15/2026 21:32,267,customer4159@example.com,60+,Very satisfied,10,5.0,5.0,4.0,5.0,5.0,4,Pour-over;Espresso machine,
+R4596,08/05/2026 16:48,245,customer3044@example.com,30-44,Satisfied,9,,5.0,4.0,4.0,5.0,4,Pour-over;Espresso machine;Drip,Shipping is too slow
+R4597,08/05/2026 05:15,385,customer4825@example.com,18-29,Satisfied,7,5.0,3.0,4.0,3.0,5.0,4,Pour-over;Espresso machine,
+R4598,08/12/2026 09:07,179,customer4112@example.com,45-59,Neutral,7,5.0,3.0,2.0,3.0,2.0,4,French press;Drip,
+R4599,08/12/2026 06:34,190,customer4353@example.com,45-59,Very satisfied,10,5.0,5.0,5.0,5.0,4.0,4,French press;Drip,
+R4600,08/14/2026 23:55,67,customer4526@example.com,18-29,Satisfied,9,5.0,5.0,3.0,5.0,4.0,4,Drip,Great packaging
+R4601,08/15/2026 11:45,407,customer0966@example.com,18-29,Satisfied,6,4.0,3.0,4.0,5.0,4.0,4,Pour-over;Cold brew,
+R4602,08/09/2026 11:09,638,customer4523@example.com,60+,3,7,5.0,3.0,4.0,5.0,3.0,4,Pour-over,
+R4603,08/13/2026 21:28,455,customer1092@example.com,45-59,Neutral,8,4.0,3.0,3.0,4.0,2.0,4,,Deliveries arrive late
+R4604,08/16/2026 13:35,554,customer4983@example.com,45-59,Very satisfied,10,5.0,,5.0,5.0,4.0,4,French press;Pour-over,
+R4605,08/12/2026 07:01,201,customer1545@example.com,18-29,Very satisfied,6,4.0,3.0,4.0,5.0,4.0,4,Drip;Moka pot,
+R4606,08/07/2026 04:07,381,customer1682@example.com,45-59,Satisfied,6,4.0,3.0,4.0,5.0,4.0,4,Pour-over,
+R4607,08/15/2026 16:18,170,customer2305@example.com,30-44,Very satisfied,5,5.0,5.0,3.0,4.0,5.0,4,French press;Pour-over,
+R4608,08/08/2026 14:09,335,customer1968@example.com,30-44,Satisfied,9,2.0,4.0,3.0,4.0,4.0,4,Pour-over;Cold brew,More decaf please
+R4609,08/10/2026 12:00,252,customer3350@example.com,30-44,Satisfied,8,5.0,,4.0,4.0,3.0,4,Pour-over,
+R4610,08/04/2026 10:20,340,customer1745@example.com,60+,Dissatisfied,7,3.0,2.0,1.0,2.0,2.0,4,French press;Espresso machine,
+R4611,08/06/2026 02:04,75,customer3730@example.com,45-59,Satisfied,7,5.0,4.0,5.0,4.0,4.0,4,Drip,Love the Ethiopian!
+R4612,08/10/2026 22:56,80,customer1579@example.com,45-59,Very satisfied,8,5.0,4.0,4.0,5.0,3.0,4,Other: Chemex,Keep it up
+R4613,08/09/2026 15:41,263,customer1840@example.com,45-59,Neutral,9,5.0,2.0,3.0,5.0,4.0,4,Drip;Cold brew,Website is confusing
+R4614,08/08/2026 13:00,312,customer2579@example.com,30-44,Neutral,6,4.0,2.0,4.0,2.0,3.0,4,French press;Moka pot,
+R4615,08/16/2026 16:22,245,customer0758@example.com,45-59,Satisfied,7,5.0,2.0,4.0,4.0,2.0,4,French press;Espresso machine;Drip,
+R4616,08/03/2026 13:53,591,customer3935@example.com,60+,3,6,4.0,4.0,3.0,4.0,3.0,4,French press;Drip,
+R4617,08/15/2026 16:21,155,customer4463@example.com,45-59,4,7,4.0,3.0,4.0,3.0,3.0,4,Other: percolator,Too pricey
+R4618,08/12/2026 21:02,212,customer0983@example.com,60+,Satisfied,8,5.0,,3.0,5.0,3.0,4,,
+R4619,08/03/2026 18:27,663,customer4741@example.com,45-59,Satisfied,7,4.0,3.0,5.0,3.0,4.0,4,Espresso machine;Other: AeroPress,
+R4620,08/05/2026 14:51,176,customer3788@example.com,45-59,Neutral,5,3.0,2.0,4.0,3.0,2.0,4,Cold brew,
+R4621,08/08/2026 01:01,72,customer2377@example.com,18-29,Satisfied,9,3.0,5.0,5.0,4.0,4.0,4,Pour-over;Moka pot,
+R4622,08/03/2026 22:24,366,customer1334@example.com,45-59,Satisfied,7,4.0,3.0,3.0,4.0,3.0,4,,
+R4623,08/07/2026 13:58,395,customer4021@example.com,45-59,Satisfied,8,5.0,5.0,2.0,3.0,5.0,4,French press;Drip,
+R4624,08/10/2026 22:54,190,customer3968@example.com,45-59,Neutral,8,4.0,3.0,4.0,4.0,4.0,4,French press;Drip,
+R4625,08/10/2026 00:01,224,customer1383@example.com,30-44,Satisfied,9,5.0,2.0,3.0,4.0,5.0,4,,
+R4626,08/15/2026 14:50,422,customer4814@example.com,60+,Satisfied,8,5.0,3.0,3.0,5.0,4.0,4,Cold brew,
+R4627,08/05/2026 02:29,299,customer4252@example.com,18-29,5,8,5.0,3.0,5.0,4.0,5.0,4,,
+R4628,08/15/2026 12:05,69,customer0465@example.com,45-59,Satisfied,8,5.0,4.0,3.0,5.0,4.0,4,Espresso machine;Drip,
+R4629,08/06/2026 23:01,366,customer1626@example.com,30-44,Neutral,7,5.0,4.0,4.0,4.0,4.0,4,Espresso machine;Cold brew,
+R4630,08/13/2026 08:54,279,customer1172@example.com,45-59,Neutral,6,5.0,4.0,4.0,4.0,4.0,4,Drip;Moka pot;Cold brew,
+R4631,08/14/2026 04:25,147,customer4709@example.com,60+,Satisfied,9,5.0,3.0,3.0,3.0,4.0,4,French press;Pour-over;Espresso machine;Moka pot,
+R4632,08/06/2026 09:33,283,customer0326@example.com,45-59,3,5,3.0,3.0,4.0,3.0,3.0,4,,
+R4633,08/06/2026 14:17,456,customer0623@example.com,45-59,Very satisfied,10,,3.0,4.0,5.0,4.0,4,Espresso machine;Moka pot,
+R4634,08/06/2026 06:24,211,customer2877@example.com,45-59,5,10,4.0,4.0,5.0,4.0,4.0,4,Pour-over;Espresso machine;Drip;Cold brew;Other: siphon,
+R4635,08/10/2026 19:13,279,customer2270@example.com,30-44,Neutral,8,,3.0,3.0,3.0,3.0,4,Cold brew,
+R4636,08/09/2026 09:13,418,customer4194@example.com,45-59,Very satisfied,8,4.0,4.0,4.0,4.0,3.0,4,,
+R4637,08/08/2026 01:37,281,customer0879@example.com,18-29,Satisfied,10,4.0,3.0,5.0,4.0,,4,French press;Pour-over;Drip;Moka pot;Cold brew,Great packaging
+R4638,08/12/2026 01:37,211,customer2207@example.com,30-44,Very satisfied,9,5.0,5.0,3.0,5.0,5.0,4,French press;Pour-over;Cold brew,
+R4639,08/09/2026 14:28,250,customer4864@example.com,30-44,Satisfied,7,5.0,4.0,3.0,4.0,4.0,4,French press,
+R4640,08/12/2026 14:51,1145,customer1736@example.com,60+,Satisfied,9,5.0,3.0,4.0,5.0,4.0,4,French press;Pour-over;Espresso machine;Other: AeroPress,
+R4641,08/08/2026 20:11,51,customer4597@example.com,60+,Dissatisfied,6,5.0,2.0,3.0,3.0,3.0,4,French press,
+R4642,08/09/2026 17:12,245,customer1856@example.com,30-44,Very satisfied,6,5.0,5.0,5.0,4.0,,4,Other: AeroPress,
+R4643,08/12/2026 21:10,401,customer0082@example.com,30-44,Very satisfied,8,5.0,3.0,3.0,5.0,3.0,4,French press;Pour-over,
+R4644,08/12/2026 15:16,283,customer0873@example.com,45-59,Neutral,9,,3.0,2.0,3.0,2.0,4,Drip,
+R4645,08/16/2026 01:22,321,customer0437@example.com,30-44,Satisfied,7,4.0,3.0,5.0,3.0,4.0,4,Other: Turkish coffee,
+R4646,08/05/2026 04:50,177,customer4589@example.com,60+,Very satisfied,10,4.0,3.0,5.0,3.0,4.0,4,,
+R4647,08/10/2026 21:53,417,customer1302@example.com,60+,3,8,3.0,2.0,4.0,4.0,3.0,4,French press;Drip,
+R4648,08/10/2026 07:32,502,customer3871@example.com,45-59,Dissatisfied,7,3.0,3.0,4.0,4.0,2.0,4,Pour-over;Moka pot,
+R4649,08/05/2026 01:45,283,customer1419@example.com,45-59,Very satisfied,8,5.0,4.0,3.0,4.0,4.0,4,Drip,
+R4650,08/08/2026 23:46,474,customer2434@example.com,45-59,Very satisfied,9,5.0,5.0,3.0,5.0,5.0,4,French press;Other: percolator,More decaf please
+R4651,08/06/2026 21:48,371,customer4926@example.com,30-44,Satisfied,8,5.0,3.0,4.0,4.0,4.0,4,Pour-over;Espresso machine;Drip,
+R4652,08/06/2026 03:12,44,customer4900@example.com,60+,Satisfied,8,5.0,3.0,3.0,4.0,3.0,4,French press,Great packaging
+R4653,08/08/2026 22:01,365,customer0840@example.com,18-29,3,8,2.0,3.0,3.0,4.0,4.0,4,French press;Cold brew,Keep it up
+R4654,08/06/2026 07:02,96,customer0882@example.com,60+,Satisfied,8,5.0,,4.0,5.0,4.0,4,Other: siphon,
+R4655,08/12/2026 10:42,416,customer3525@example.com,45-59,Very satisfied,9,5.0,3.0,5.0,5.0,4.0,4,French press;Pour-over,
+R4656,08/08/2026 19:54,253,customer1551@example.com,45-59,Very satisfied,10,5.0,3.0,3.0,5.0,4.0,4,Drip,Too pricey
+R4657,08/13/2026 21:26,275,customer2467@example.com,60+,Neutral,9,4.0,3.0,3.0,3.0,3.0,4,Cold brew,
+R4658,08/12/2026 21:14,1291,customer2349@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,3.0,5.0,4,French press;Pour-over,
+R4659,08/11/2026 03:50,271,customer4936@example.com,60+,Satisfied,6,2.0,3.0,3.0,5.0,4.0,4,Drip,
+R4660,08/08/2026 10:59,269,customer3460@example.com,60+,Satisfied,6,5.0,2.0,4.0,5.0,4.0,4,Moka pot;Cold brew,
+R4661,08/08/2026 12:43,540,customer1720@example.com,45-59,Neutral,6,4.0,3.0,3.0,5.0,3.0,4,,
+R4662,08/14/2026 22:38,420,customer1303@example.com,18-29,Satisfied,9,5.0,5.0,3.0,5.0,4.0,4,French press;Moka pot;Cold brew;Other: chemex,Keep it up
+R4663,08/11/2026 03:46,441,customer2866@example.com,30-44,Neutral,7,5.0,1.0,3.0,5.0,4.0,4,Pour-over;Espresso machine;Drip,
+R4664,08/12/2026 06:27,321,customer1082@example.com,30-44,Dissatisfied,3,3.0,2.0,2.0,2.0,4.0,4,Drip;Cold brew,Love the Ethiopian!
+R4665,08/07/2026 14:59,635,customer3181@example.com,60+,Neutral,7,5.0,4.0,4.0,4.0,3.0,4,,Website is confusing
+R4666,08/05/2026 15:11,97,customer1707@example.com,30-44,Dissatisfied,8,5.0,2.0,3.0,5.0,3.0,4,Pour-over,Too pricey
+R4667,08/16/2026 14:47,210,customer3354@example.com,60+,Dissatisfied,8,4.0,3.0,1.0,3.0,2.0,4,Espresso machine,Deliveries arrive late
+R4668,08/13/2026 04:11,68,customer4623@example.com,30-44,Satisfied,9,4.0,3.0,3.0,5.0,5.0,4,Espresso machine;Cold brew,
+R4669,08/06/2026 13:38,379,customer2620@example.com,45-59,Neutral,6,4.0,3.0,4.0,5.0,3.0,4,Espresso machine;Drip,
+R4670,08/13/2026 19:37,530,customer2101@example.com,30-44,Satisfied,10,5.0,3.0,4.0,5.0,5.0,4,French press,
+R4671,08/14/2026 17:05,352,customer1403@example.com,45-59,5,10,5.0,5.0,5.0,5.0,5.0,4,French press,
+R4672,08/08/2026 19:37,254,customer2701@example.com,30-44,Satisfied,10,5.0,5.0,3.0,4.0,5.0,4,Drip;Cold brew;Other: percolator,
+R4673,08/03/2026 01:47,334,customer4131@example.com,45-59,Satisfied,5,5.0,1.0,2.0,4.0,2.0,4,Drip,
+R4674,08/04/2026 22:44,356,customer3840@example.com,30-44,Neutral,8,,5.0,4.0,3.0,4.0,4,French press;Espresso machine,
+R4675,08/14/2026 17:36,46,customer2251@example.com,45-59,Neutral,5,4.0,3.0,2.0,5.0,2.0,4,Drip,
+R4676,08/09/2026 10:23,178,customer3974@example.com,45-59,Very satisfied,8,4.0,3.0,4.0,5.0,3.0,4,French press;Drip;Other: percolator,
+R4677,08/16/2026 09:04,294,customer4584@example.com,18-29,Neutral,7,4.0,3.0,3.0,3.0,4.0,4,Pour-over;Espresso machine;Moka pot,Love the Ethiopian!
+R4678,08/15/2026 23:22,187,customer1481@example.com,30-44,Very satisfied,8,5.0,4.0,4.0,5.0,4.0,4,Drip;Cold brew,
+R4679,08/12/2026 22:14,313,customer2847@example.com,60+,4,7,5.0,4.0,3.0,4.0,3.0,4,Moka pot,
+R4680,08/14/2026 00:40,474,customer0627@example.com,60+,Very satisfied,10,5.0,3.0,4.0,5.0,3.0,4,Pour-over;Espresso machine;Drip;Moka pot,Deliveries arrive late
+R4681,08/04/2026 06:22,190,customer1026@example.com,18-29,4,10,5.0,4.0,4.0,5.0,5.0,4,French press;Espresso machine;Cold brew,
+R4682,08/05/2026 03:24,317,customer4707@example.com,45-59,Satisfied,10,5.0,4.0,4.0,5.0,5.0,4,Drip,Too pricey
+R4683,08/07/2026 11:36,231,customer1183@example.com,18-29,Neutral,8,4.0,3.0,4.0,4.0,5.0,4,French press;Pour-over,Great packaging
+R4684,08/06/2026 13:55,1138,customer4266@example.com,45-59,Satisfied,5,4.0,5.0,3.0,5.0,5.0,4,French press,
+R4685,08/06/2026 06:06,300,customer3448@example.com,30-44,5,8,5.0,3.0,4.0,4.0,3.0,4,French press;Pour-over,
+R4686,08/09/2026 04:28,365,customer1427@example.com,45-59,4,7,5.0,4.0,3.0,4.0,3.0,4,French press;Pour-over;Cold brew,
+R4687,08/09/2026 21:26,337,customer4907@example.com,30-44,3,6,5.0,4.0,2.0,4.0,3.0,4,,
+R4688,08/12/2026 14:13,496,customer2374@example.com,45-59,Very satisfied,10,5.0,5.0,4.0,5.0,5.0,4,,
+R4689,08/07/2026 02:13,303,customer0554@example.com,18-29,Satisfied,9,5.0,4.0,5.0,4.0,4.0,4,French press;Espresso machine,
+R4690,08/06/2026 01:04,248,customer3728@example.com,45-59,Satisfied,9,5.0,3.0,4.0,5.0,2.0,4,French press;Pour-over,Website is confusing
+R4691,08/11/2026 14:24,326,customer0355@example.com,45-59,Satisfied,9,5.0,3.0,2.0,3.0,3.0,4,French press;Pour-over;Moka pot,
+R4692,08/07/2026 18:42,556,customer4294@example.com,45-59,5,9,5.0,4.0,4.0,5.0,5.0,4,French press,
+R4693,08/03/2026 20:16,279,customer1552@example.com,18-29,Neutral,6,4.0,1.0,2.0,3.0,2.0,4,French press;Drip,
+R4694,08/14/2026 12:19,518,customer2390@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,,
+R4695,08/14/2026 09:53,360,customer4892@example.com,45-59,Very satisfied,9,4.0,3.0,4.0,4.0,5.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R4696,08/03/2026 09:37,459,customer0689@example.com,45-59,Very satisfied,10,5.0,5.0,5.0,4.0,5.0,4,French press;Pour-over;Drip;Moka pot,
+R4697,08/11/2026 04:06,400,customer4104@example.com,18-29,Satisfied,9,5.0,4.0,4.0,4.0,5.0,4,Espresso machine,
+R4698,08/14/2026 18:44,420,customer3751@example.com,60+,Very satisfied,9,5.0,3.0,4.0,5.0,,4,Espresso machine;Drip,
+R4699,08/06/2026 05:47,81,customer2073@example.com,45-59,5,8,4.0,3.0,4.0,4.0,5.0,4,French press;Cold brew,
+R4700,08/10/2026 17:03,80,customer1996@example.com,60+,Neutral,7,4.0,,4.0,3.0,,4,French press,More decaf please
+R4701,08/07/2026 10:35,250,customer4329@example.com,45-59,Very satisfied,10,5.0,5.0,5.0,5.0,3.0,4,French press;Espresso machine;Drip;Cold brew,Great packaging
+R4702,08/14/2026 09:22,359,customer0562@example.com,30-44,Very satisfied,7,4.0,3.0,4.0,4.0,5.0,4,Pour-over;Drip,
+R4703,08/11/2026 02:28,182,customer1452@example.com,30-44,4,9,5.0,2.0,3.0,4.0,3.0,4,French press;Cold brew,
+R4704,08/08/2026 03:46,193,customer3571@example.com,45-59,Neutral,8,3.0,3.0,2.0,3.0,2.0,4,French press;Pour-over;Espresso machine,
+R4705,08/13/2026 03:41,277,customer0717@example.com,18-29,Satisfied,10,5.0,2.0,3.0,4.0,4.0,4,Drip,
+R4706,08/07/2026 00:54,391,customer1211@example.com,18-29,Neutral,10,4.0,5.0,4.0,4.0,4.0,4,French press;Pour-over;Espresso machine;Moka pot,
+R4707,08/09/2026 14:21,216,customer3167@example.com,45-59,5,9,5.0,4.0,4.0,4.0,4.0,4,Drip;Moka pot,Too pricey
+R4708,08/04/2026 00:19,301,customer4954@example.com,18-29,Neutral,8,5.0,5.0,4.0,3.0,5.0,4,French press;Espresso machine,
+R4709,08/07/2026 00:28,215,customer1821@example.com,18-29,Very satisfied,9,4.0,4.0,3.0,5.0,5.0,4,French press;Drip,
+R4710,08/08/2026 09:29,254,customer3787@example.com,60+,Satisfied,7,4.0,5.0,4.0,5.0,3.0,4,French press;Espresso machine,
+R4711,08/13/2026 11:59,310,customer2267@example.com,18-29,Satisfied,6,5.0,,5.0,4.0,4.0,4,Moka pot,
+R4712,08/15/2026 21:29,342,customer2841@example.com,45-59,Neutral,7,5.0,3.0,3.0,4.0,3.0,4,Drip,
+R4713,08/11/2026 11:58,373,customer4076@example.com,45-59,Neutral,6,3.0,3.0,4.0,1.0,2.0,4,French press;Pour-over,
+R4714,08/12/2026 00:17,266,customer4762@example.com,18-29,5,10,5.0,4.0,5.0,5.0,5.0,4,French press;Cold brew,
+R4715,08/13/2026 22:08,443,customer0357@example.com,18-29,Very satisfied,7,5.0,4.0,3.0,3.0,4.0,4,Drip,More decaf please
+R4716,08/13/2026 20:40,220,customer4511@example.com,45-59,Satisfied,8,4.0,4.0,4.0,4.0,5.0,4,Cold brew,
+R4717,08/12/2026 17:03,480,customer4789@example.com,30-44,5,10,5.0,5.0,4.0,5.0,5.0,4,Drip;Cold brew,
+R4718,08/13/2026 01:55,209,customer2174@example.com,18-29,Satisfied,8,5.0,3.0,2.0,3.0,5.0,4,French press;Pour-over;Espresso machine,
+R4719,08/09/2026 23:17,352,customer2901@example.com,45-59,Satisfied,7,4.0,2.0,5.0,4.0,3.0,4,French press;Pour-over;Moka pot,
+R4720,08/03/2026 22:31,206,customer0502@example.com,30-44,Very satisfied,9,5.0,3.0,4.0,5.0,4.0,4,Pour-over;Drip,
+R4721,08/14/2026 16:20,494,customer2799@example.com,45-59,Satisfied,8,4.0,2.0,3.0,3.0,3.0,4,Espresso machine;Drip,
+R4722,08/15/2026 06:20,227,customer4342@example.com,30-44,Neutral,5,5.0,2.0,3.0,4.0,5.0,4,Drip,Deliveries arrive late
+R4723,08/15/2026 13:11,52,customer2350@example.com,45-59,Satisfied,9,5.0,4.0,3.0,5.0,2.0,4,Cold brew,Great packaging
+R4724,08/15/2026 21:01,314,customer4839@example.com,45-59,Very satisfied,10,5.0,3.0,,5.0,4.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R4725,08/14/2026 01:05,195,customer4213@example.com,30-44,Neutral,7,5.0,5.0,3.0,4.0,5.0,4,Pour-over;Espresso machine;Cold brew,
+R4726,08/12/2026 23:06,486,customer2381@example.com,30-44,Satisfied,10,5.0,4.0,4.0,3.0,3.0,4,Pour-over;Drip,
+R4727,08/15/2026 07:07,131,customer3423@example.com,45-59,3,7,4.0,3.0,4.0,4.0,3.0,4,,
+R4728,08/11/2026 17:06,379,customer2083@example.com,45-59,Very satisfied,10,5.0,4.0,5.0,4.0,4.0,4,,
+R4729,08/11/2026 10:32,218,customer2074@example.com,60+,Satisfied,8,5.0,2.0,3.0,5.0,3.0,4,French press;Espresso machine,
+R4730,08/13/2026 20:11,366,customer0662@example.com,45-59,Satisfied,9,3.0,4.0,4.0,3.0,4.0,4,Cold brew,
+R4731,08/06/2026 18:04,447,customer1396@example.com,30-44,Neutral,5,5.0,4.0,4.0,4.0,4.0,4,Espresso machine;Cold brew,
+R4732,08/13/2026 23:41,304,customer2925@example.com,60+,Very satisfied,9,5.0,3.0,4.0,4.0,4.0,4,French press;Pour-over;Espresso machine,
+R4733,08/10/2026 03:48,329,customer4174@example.com,30-44,Neutral,7,4.0,1.0,4.0,4.0,4.0,1,Pour-over;Espresso machine;Other: aeropress,Website is confusing
+R4734,08/11/2026 02:34,276,customer2836@example.com,60+,5,9,5.0,5.0,4.0,3.0,3.0,4,French press;Pour-over;Espresso machine,
+R4735,08/06/2026 00:28,302,customer2646@example.com,45-59,Satisfied,10,4.0,4.0,4.0,5.0,5.0,4,French press,Love the Ethiopian!
+R4736,08/08/2026 03:56,316,customer0419@example.com,45-59,Satisfied,6,4.0,3.0,3.0,3.0,2.0,4,French press,Too pricey
+R4737,08/04/2026 23:04,211,customer4338@example.com,30-44,Satisfied,7,4.0,1.0,,5.0,4.0,4,,
+R4738,08/12/2026 16:53,285,customer3726@example.com,45-59,Satisfied,6,3.0,2.0,4.0,3.0,2.0,4,Espresso machine;Moka pot,Great packaging
+R4739,08/15/2026 21:43,612,customer1000@example.com,18-29,2,6,3.0,1.0,2.0,5.0,1.0,4,,
+R4740,08/10/2026 23:20,396,customer4582@example.com,18-29,4,10,5.0,2.0,4.0,5.0,4.0,4,Cold brew;Other: siphon,
+R4741,08/13/2026 01:24,209,customer1738@example.com,30-44,Dissatisfied,5,2.0,2.0,2.0,3.0,3.0,4,French press;Drip;Moka pot,
+R4742,08/14/2026 05:12,595,customer2505@example.com,60+,Very satisfied,10,5.0,5.0,4.0,5.0,4.0,4,Pour-over,
+R4743,08/07/2026 02:31,417,customer0964@example.com,18-29,Satisfied,9,5.0,4.0,4.0,5.0,5.0,4,French press,
+R4744,08/09/2026 18:16,299,customer1871@example.com,18-29,Dissatisfied,8,3.0,1.0,2.0,3.0,4.0,4,,
+R4745,08/13/2026 17:46,455,customer1185@example.com,18-29,Neutral,5,5.0,3.0,3.0,4.0,3.0,4,Pour-over;Espresso machine;Cold brew,
+R4746,08/15/2026 11:09,432,customer2667@example.com,60+,Very satisfied,9,5.0,3.0,5.0,5.0,3.0,4,,
+R4747,08/10/2026 18:16,348,customer1788@example.com,45-59,Satisfied,9,3.0,,3.0,3.0,2.0,4,,Too pricey
+R4748,08/07/2026 15:23,519,customer1369@example.com,45-59,Very satisfied,7,4.0,5.0,4.0,5.0,2.0,4,,
+R4749,08/11/2026 06:37,328,customer4413@example.com,60+,Satisfied,7,5.0,5.0,4.0,4.0,3.0,4,,
+R4750,08/10/2026 09:11,470,customer2417@example.com,60+,Satisfied,7,4.0,2.0,3.0,4.0,3.0,4,Pour-over;Other: Aero press,
+R4751,08/13/2026 19:27,126,customer4702@example.com,60+,Very satisfied,8,4.0,2.0,4.0,4.0,4.0,4,French press,
+R4752,08/16/2026 13:11,374,customer3099@example.com,45-59,Neutral,7,,3.0,4.0,4.0,,4,French press;Espresso machine,
+R4753,08/06/2026 15:51,524,customer0025@example.com,30-44,Satisfied,8,5.0,2.0,3.0,5.0,4.0,4,French press;Espresso machine;Drip;Cold brew;Other: Aero press,
+R4754,08/03/2026 14:02,358,customer0037@example.com,60+,Neutral,7,4.0,3.0,3.0,2.0,3.0,4,French press,
+R4755,08/12/2026 14:53,435,customer2631@example.com,30-44,Very satisfied,8,4.0,3.0,5.0,3.0,,4,Cold brew,Love the Ethiopian!
+R4756,08/03/2026 09:23,454,customer2760@example.com,45-59,Dissatisfied,6,4.0,2.0,3.0,3.0,2.0,4,,
+R4757,08/08/2026 08:48,367,customer3189@example.com,18-29,Neutral,7,5.0,3.0,4.0,4.0,4.0,4,French press;Drip,Too pricey
+R4758,08/15/2026 14:50,348,customer4462@example.com,18-29,5,8,4.0,3.0,3.0,5.0,4.0,4,,
+R4759,08/15/2026 12:45,295,customer4100@example.com,30-44,Dissatisfied,6,4.0,2.0,2.0,4.0,2.0,4,Pour-over;Cold brew,
+R4760,08/08/2026 12:22,418,customer4375@example.com,30-44,Neutral,7,4.0,2.0,3.0,3.0,2.0,4,French press;Pour-over,Love the Ethiopian!
+R4761,08/11/2026 08:28,403,customer4399@example.com,60+,Satisfied,8,4.0,3.0,4.0,4.0,,4,Cold brew;Other: chemex,
+R4762,08/16/2026 16:03,350,customer0575@example.com,18-29,Satisfied,8,5.0,3.0,4.0,3.0,5.0,4,Espresso machine;Drip,
+R4763,08/08/2026 16:45,191,customer2622@example.com,60+,5,9,5.0,5.0,5.0,,5.0,4,Pour-over;Drip,
+R4764,08/04/2026 03:33,339,customer2940@example.com,18-29,Very satisfied,10,5.0,3.0,3.0,5.0,4.0,4,Pour-over,
+R4765,08/03/2026 22:06,226,customer3686@example.com,45-59,4,7,5.0,3.0,4.0,4.0,3.0,4,Espresso machine,
+R4766,08/04/2026 06:45,199,customer2586@example.com,45-59,Neutral,9,4.0,3.0,,4.0,2.0,4,,
+R4767,08/08/2026 21:48,314,customer0102@example.com,60+,Very satisfied,8,3.0,3.0,2.0,3.0,1.0,4,Drip;Cold brew,More decaf please
+R4768,08/07/2026 08:13,175,customer4929@example.com,30-44,Neutral,8,,2.0,4.0,4.0,5.0,4,French press;Pour-over,Love the Ethiopian!
+R4769,08/16/2026 10:00,264,customer0295@example.com,30-44,Satisfied,9,,3.0,3.0,4.0,4.0,4,Pour-over,
+R4770,08/12/2026 10:02,655,customer0553@example.com,18-29,Dissatisfied,6,4.0,2.0,3.0,,2.0,4,,
+R4771,08/10/2026 10:28,150,customer1115@example.com,30-44,Satisfied,6,3.0,4.0,4.0,4.0,5.0,4,Pour-over,More decaf please
+R4772,08/10/2026 21:02,448,customer4974@example.com,30-44,Neutral,8,5.0,4.0,5.0,5.0,4.0,4,French press;Drip;Cold brew,
+R4773,08/16/2026 11:53,342,customer2198@example.com,60+,Neutral,7,3.0,4.0,4.0,5.0,4.0,4,,Too pricey
+R4774,08/07/2026 19:52,416,customer4681@example.com,45-59,Neutral,7,4.0,3.0,3.0,,4.0,4,French press,
+R4775,08/09/2026 05:28,577,customer2833@example.com,18-29,Very satisfied,8,5.0,5.0,5.0,5.0,5.0,4,Pour-over;Cold brew,
+R4776,08/09/2026 14:53,491,customer1033@example.com,30-44,3,10,5.0,,3.0,5.0,4.0,4,French press;Drip,
+R4777,08/13/2026 22:33,273,customer0808@example.com,45-59,Satisfied,8,5.0,4.0,4.0,4.0,3.0,4,Pour-over;Moka pot,Too pricey
+R4778,08/05/2026 23:10,151,customer1436@example.com,60+,Very satisfied,8,5.0,3.0,4.0,5.0,,4,Espresso machine;Moka pot;Other: siphon,Great packaging
+R4779,08/06/2026 23:00,367,customer4416@example.com,45-59,Satisfied,6,4.0,3.0,3.0,5.0,,4,French press;Espresso machine;Drip,
+R4780,08/10/2026 05:17,250,customer4840@example.com,60+,4,8,3.0,3.0,2.0,2.0,2.0,4,Pour-over,Shipping is too slow
+R4781,08/05/2026 19:00,293,customer4641@example.com,30-44,Very satisfied,10,5.0,3.0,5.0,5.0,5.0,4,French press;Espresso machine,
+R4782,08/06/2026 10:58,390,customer4369@example.com,18-29,Satisfied,8,5.0,4.0,5.0,4.0,4.0,4,Pour-over;Drip;Cold brew;Other: Turkish coffee,
+R4783,08/15/2026 21:38,509,customer0089@example.com,30-44,Satisfied,7,5.0,2.0,3.0,3.0,4.0,4,Moka pot,
+R4784,08/15/2026 21:04,286,customer3264@example.com,18-29,4,7,4.0,2.0,2.0,2.0,4.0,4,Pour-over;Cold brew;Other: aeropress,
+R4785,08/16/2026 22:07,488,customer1420@example.com,30-44,Dissatisfied,9,5.0,2.0,4.0,5.0,5.0,4,Espresso machine,
+R4786,08/11/2026 05:57,263,customer1495@example.com,45-59,Neutral,10,4.0,2.0,3.0,3.0,3.0,4,Espresso machine;Drip,
+R4787,08/16/2026 11:07,322,customer3759@example.com,30-44,Satisfied,8,5.0,,4.0,5.0,4.0,4,Pour-over,
+R4788,08/16/2026 11:35,541,customer0874@example.com,60+,Neutral,8,5.0,3.0,2.0,3.0,4.0,4,French press;Drip;Cold brew,Too pricey
+R4789,08/14/2026 03:40,431,customer2024@example.com,60+,Satisfied,10,5.0,4.0,5.0,4.0,4.0,4,Drip;Moka pot,
+R4790,08/16/2026 13:28,388,customer4474@example.com,60+,Neutral,6,3.0,2.0,4.0,4.0,3.0,4,French press;Pour-over;Drip,
+R4791,08/09/2026 08:07,363,customer3489@example.com,18-29,5,8,5.0,4.0,4.0,5.0,5.0,4,Pour-over;Cold brew,
+R4792,08/14/2026 09:00,258,customer4794@example.com,30-44,Satisfied,8,5.0,4.0,4.0,4.0,4.0,4,Pour-over,
+R4793,08/12/2026 03:18,187,customer4795@example.com,45-59,Very satisfied,8,5.0,3.0,3.0,4.0,5.0,4,Pour-over,
+R4794,08/10/2026 07:52,293,customer3353@example.com,60+,Neutral,8,4.0,1.0,3.0,4.0,2.0,4,French press,Deliveries arrive late
+R4795,08/12/2026 10:21,294,customer1635@example.com,30-44,Satisfied,7,5.0,4.0,3.0,2.0,3.0,4,French press;Espresso machine;Other: Aero press,Love the Ethiopian!
+R4796,08/09/2026 20:43,412,customer3932@example.com,45-59,Very satisfied,7,4.0,4.0,4.0,5.0,2.0,4,Pour-over;Drip;Moka pot,Too pricey
+R4797,08/14/2026 12:16,338,customer2558@example.com,60+,Very satisfied,9,5.0,3.0,4.0,4.0,,5,French press;Pour-over;Espresso machine;Moka pot,
+R4798,08/03/2026 14:37,236,customer0334@example.com,45-59,Very satisfied,8,5.0,5.0,5.0,5.0,4.0,4,French press;Pour-over;Drip,
+R4799,08/15/2026 00:43,515,customer2033@example.com,60+,Neutral,10,5.0,4.0,5.0,5.0,4.0,4,French press;Pour-over;Drip,
+R4800,08/15/2026 14:44,186,customer2605@example.com,30-44,Neutral,10,4.0,3.0,4.0,4.0,5.0,4,,Great packaging
+R4801,08/13/2026 10:24,194,customer3117@example.com,45-59,Neutral,8,5.0,2.0,4.0,4.0,2.0,4,Espresso machine;Drip,
+R4802,08/16/2026 21:39,607,customer2641@example.com,30-44,3,7,4.0,3.0,2.0,,5.0,4,Espresso machine;Other: aeropress,
+R4803,08/05/2026 08:48,66,customer4748@example.com,45-59,3,7,4.0,2.0,4.0,4.0,3.0,4,Pour-over;Espresso machine;Drip,
+R4804,08/11/2026 01:01,219,customer2777@example.com,18-29,5,8,5.0,5.0,4.0,5.0,4.0,4,Pour-over;Espresso machine;Moka pot;Cold brew,
+R4805,08/03/2026 02:12,387,customer1794@example.com,18-29,Satisfied,7,3.0,3.0,5.0,5.0,5.0,1,Pour-over;Drip,
+R4806,08/07/2026 13:29,217,customer4968@example.com,18-29,Satisfied,8,,3.0,4.0,3.0,5.0,4,Cold brew,
+R4807,08/15/2026 05:30,417,customer4374@example.com,60+,Satisfied,6,5.0,4.0,1.0,5.0,4.0,4,,
+R4808,08/08/2026 01:25,171,customer2127@example.com,18-29,Dissatisfied,6,4.0,1.0,2.0,3.0,1.0,4,French press;Pour-over;Espresso machine,Website is confusing
+R4809,08/07/2026 11:11,312,customer0967@example.com,60+,Neutral,5,3.0,2.0,3.0,5.0,3.0,1,Espresso machine;Drip;Cold brew,
+R4810,08/10/2026 22:23,401,customer2800@example.com,30-44,Neutral,9,4.0,2.0,3.0,2.0,4.0,4,French press;Espresso machine;Cold brew,
+R4811,08/07/2026 16:35,354,customer4079@example.com,45-59,Neutral,6,,3.0,2.0,3.0,3.0,4,Pour-over;Espresso machine;Drip,
+R4812,08/14/2026 07:55,285,customer2462@example.com,18-29,Dissatisfied,8,5.0,3.0,3.0,4.0,4.0,4,Pour-over;Drip,
+R4813,08/03/2026 12:02,349,customer2216@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,3.0,5.0,4,,
+R4814,08/15/2026 21:40,678,customer1986@example.com,45-59,4,6,4.0,4.0,4.0,4.0,4.0,4,Moka pot,Shipping is too slow
+R4815,08/09/2026 07:24,654,customer0455@example.com,60+,Satisfied,10,5.0,3.0,3.0,4.0,4.0,4,French press;Drip,
+R4816,08/09/2026 03:20,347,customer2373@example.com,30-44,Neutral,7,5.0,2.0,4.0,3.0,3.0,4,Pour-over;Espresso machine,More decaf please
+R4817,08/08/2026 21:22,112,customer0177@example.com,30-44,Very satisfied,10,5.0,4.0,4.0,4.0,5.0,4,,
+R4818,08/11/2026 08:02,543,customer4469@example.com,60+,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,French press;Drip,
+R4819,08/06/2026 03:32,296,customer1990@example.com,60+,Neutral,6,5.0,3.0,4.0,4.0,3.0,4,Drip,
+R4820,08/16/2026 13:45,288,customer0453@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,5.0,3.0,4,French press,
+R4821,08/15/2026 08:28,277,customer3658@example.com,45-59,Very satisfied,7,,4.0,5.0,5.0,3.0,4,French press;Pour-over;Drip,More decaf please
+R4822,08/08/2026 11:47,373,customer4282@example.com,30-44,Neutral,5,3.0,2.0,2.0,5.0,4.0,4,Cold brew,
+R4823,08/09/2026 16:18,212,customer2655@example.com,30-44,Dissatisfied,6,4.0,3.0,3.0,5.0,4.0,4,Pour-over;Espresso machine;Drip,
+R4824,08/14/2026 06:01,226,customer1070@example.com,45-59,Very satisfied,9,5.0,3.0,3.0,4.0,3.0,4,Espresso machine,
+R4825,08/04/2026 12:07,460,customer2687@example.com,60+,Satisfied,4,,1.0,,3.0,2.0,4,Pour-over;Espresso machine,
+R4826,08/15/2026 05:59,464,customer0360@example.com,45-59,Very satisfied,10,5.0,3.0,5.0,5.0,4.0,4,Drip,
+R4827,08/05/2026 10:33,415,customer1050@example.com,60+,Neutral,10,5.0,3.0,3.0,4.0,3.0,4,French press;Pour-over,Love the Ethiopian!
+R4828,08/03/2026 16:48,353,customer1853@example.com,30-44,Satisfied,10,3.0,2.0,5.0,4.0,5.0,4,French press;Cold brew,Deliveries arrive late
+R4829,08/08/2026 17:59,189,customer4095@example.com,45-59,Very satisfied,8,5.0,4.0,4.0,3.0,3.0,4,Espresso machine,
+R4830,08/04/2026 17:49,369,customer4878@example.com,60+,Very satisfied,10,5.0,5.0,4.0,5.0,4.0,4,Drip;Moka pot,
+R4831,08/07/2026 13:02,1062,customer3867@example.com,30-44,Satisfied,9,5.0,4.0,4.0,4.0,5.0,4,French press;Pour-over,Keep it up
+R4832,08/14/2026 01:55,310,customer2976@example.com,45-59,Neutral,7,5.0,1.0,2.0,4.0,3.0,4,French press;Pour-over;Espresso machine,
+R4833,08/09/2026 22:31,78,customer0396@example.com,30-44,4,10,5.0,3.0,4.0,3.0,5.0,4,Drip,
+R4834,08/14/2026 08:30,239,customer4068@example.com,30-44,Neutral,5,3.0,2.0,3.0,3.0,4.0,4,French press;Espresso machine,
+R4835,08/05/2026 20:20,719,customer4859@example.com,18-29,Satisfied,6,5.0,3.0,5.0,4.0,4.0,4,Cold brew,
+R4836,08/16/2026 09:21,506,customer2695@example.com,18-29,Very satisfied,9,5.0,5.0,5.0,5.0,3.0,4,,
+R4837,08/09/2026 12:36,252,customer0051@example.com,60+,Satisfied,8,4.0,2.0,4.0,3.0,5.0,4,,
+R4838,08/03/2026 11:16,321,customer2670@example.com,30-44,Neutral,7,4.0,3.0,2.0,2.0,4.0,4,Pour-over;Drip;Cold brew,Deliveries arrive late
+R4839,08/08/2026 05:29,215,customer2293@example.com,60+,Very satisfied,8,5.0,3.0,4.0,,3.0,4,Pour-over;Espresso machine;Drip,Too pricey
+R4840,08/06/2026 09:00,200,customer2922@example.com,30-44,Neutral,7,5.0,4.0,5.0,4.0,5.0,4,Espresso machine;Drip;Other: Aero press,
+R4841,08/08/2026 10:37,331,customer4775@example.com,45-59,Satisfied,8,5.0,3.0,4.0,4.0,5.0,4,Pour-over;Other: siphon,
+R4842,08/14/2026 00:23,332,customer0519@example.com,45-59,Very satisfied,8,5.0,4.0,3.0,5.0,4.0,4,French press;Espresso machine,
+R4843,08/06/2026 12:27,201,customer3101@example.com,45-59,Very satisfied,10,5.0,5.0,5.0,5.0,4.0,4,Other: Chemex,
+R4844,08/09/2026 23:06,319,customer0385@example.com,30-44,Neutral,7,4.0,3.0,3.0,4.0,4.0,4,,
+R4845,08/06/2026 13:55,252,customer1355@example.com,30-44,Satisfied,6,4.0,5.0,4.0,5.0,5.0,4,Cold brew,
+R4846,08/07/2026 06:23,901,customer3721@example.com,45-59,Satisfied,6,4.0,4.0,3.0,,2.0,4,,
+R4847,08/11/2026 19:02,319,customer4873@example.com,60+,Satisfied,9,5.0,3.0,5.0,3.0,5.0,4,French press;Cold brew,
+R4848,08/12/2026 15:37,410,customer0489@example.com,45-59,Very satisfied,10,5.0,5.0,5.0,5.0,4.0,4,,
+R4849,08/15/2026 02:50,600,customer3586@example.com,18-29,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Pour-over,Website is confusing
+R4850,08/05/2026 00:24,513,customer2086@example.com,30-44,Satisfied,8,3.0,3.0,3.0,3.0,5.0,4,French press,
+R4851,08/12/2026 09:43,285,customer1668@example.com,45-59,Satisfied,8,4.0,4.0,4.0,2.0,3.0,4,Drip,Great packaging
+R4852,08/15/2026 04:11,385,customer0398@example.com,30-44,3,10,4.0,4.0,3.0,5.0,4.0,4,,
+R4853,08/13/2026 19:17,285,customer0175@example.com,60+,Neutral,8,3.0,3.0,3.0,4.0,3.0,4,Espresso machine;Drip;Moka pot,Shipping is too slow
+R4854,08/08/2026 11:50,389,customer3736@example.com,45-59,Neutral,7,5.0,2.0,3.0,4.0,3.0,4,French press;Pour-over;Espresso machine;Cold brew,
+R4855,08/12/2026 13:33,396,customer2394@example.com,45-59,Satisfied,7,4.0,3.0,2.0,5.0,4.0,4,French press;Moka pot;Cold brew;Other: AeroPress,
+R4856,08/13/2026 05:35,303,customer2103@example.com,45-59,4,5,4.0,4.0,,3.0,3.0,4,French press;Drip,Great packaging
+R4857,08/03/2026 15:34,302,customer3395@example.com,18-29,Very satisfied,8,4.0,2.0,3.0,4.0,5.0,4,,
+R4858,08/05/2026 21:33,286,customer3652@example.com,30-44,5,8,4.0,4.0,4.0,5.0,5.0,4,Other: Aero press,
+R4859,08/09/2026 02:36,168,customer4763@example.com,30-44,Neutral,8,5.0,2.0,4.0,2.0,4.0,4,Pour-over,Shipping is too slow
+R4860,08/10/2026 17:56,299,customer0445@example.com,60+,Dissatisfied,8,3.0,2.0,2.0,3.0,3.0,4,Pour-over;Other: percolator,More decaf please
+R4861,08/13/2026 01:54,429,customer3464@example.com,18-29,Very satisfied,9,5.0,4.0,5.0,4.0,5.0,4,Drip;Cold brew,
+R4862,08/16/2026 23:19,510,customer3789@example.com,30-44,Satisfied,9,5.0,3.0,5.0,4.0,5.0,4,Cold brew,
+R4863,08/13/2026 02:54,356,customer4723@example.com,45-59,Neutral,10,5.0,3.0,4.0,4.0,3.0,4,,
+R4864,08/05/2026 05:21,124,customer0456@example.com,18-29,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,French press;Pour-over;Other: Turkish coffee,Keep it up
+R4865,08/06/2026 09:29,549,customer1573@example.com,18-29,Neutral,6,3.0,3.0,3.0,3.0,4.0,4,Espresso machine;Drip,
+R4866,08/11/2026 09:23,385,customer2287@example.com,60+,Satisfied,8,4.0,3.0,4.0,2.0,3.0,4,French press;Pour-over;Drip,Too pricey
+R4867,08/09/2026 06:01,52,customer0208@example.com,45-59,Neutral,9,4.0,3.0,2.0,4.0,3.0,4,French press,
+R4868,08/10/2026 10:19,237,customer2432@example.com,18-29,Neutral,9,4.0,3.0,3.0,4.0,3.0,4,French press;Espresso machine;Cold brew,
+R4869,08/15/2026 18:31,245,customer0439@example.com,30-44,Satisfied,6,4.0,3.0,5.0,5.0,3.0,4,Moka pot,Great packaging
+R4870,08/05/2026 15:30,543,customer2239@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,,Deliveries arrive late
+R4871,08/04/2026 18:18,364,customer1091@example.com,60+,Very satisfied,10,5.0,5.0,4.0,4.0,5.0,4,,Website is confusing
+R4872,08/06/2026 14:16,288,customer3837@example.com,45-59,Satisfied,8,5.0,4.0,4.0,4.0,2.0,4,Pour-over;Moka pot,
+R4873,08/05/2026 18:01,341,customer1790@example.com,30-44,Satisfied,9,5.0,3.0,2.0,5.0,4.0,4,Drip;Cold brew,
+R4874,08/09/2026 16:54,179,customer0461@example.com,30-44,Very satisfied,10,4.0,5.0,3.0,5.0,5.0,4,French press;Pour-over,
+R4875,08/07/2026 14:31,207,customer0737@example.com,60+,Satisfied,9,5.0,5.0,4.0,5.0,4.0,4,Pour-over;Other: Chemex,
+R4876,08/14/2026 18:59,260,customer2019@example.com,45-59,Very satisfied,9,5.0,3.0,3.0,5.0,4.0,4,French press;Espresso machine;Drip,
+R4877,08/11/2026 05:30,151,customer4585@example.com,60+,4,10,5.0,4.0,4.0,3.0,5.0,4,Pour-over;Other: siphon,
+R4878,08/14/2026 13:03,309,customer4406@example.com,30-44,Very dissatisfied,6,3.0,1.0,2.0,1.0,3.0,4,Drip,
+R4879,08/06/2026 18:05,180,customer2217@example.com,60+,3,6,4.0,3.0,2.0,4.0,4.0,4,French press;Espresso machine,Shipping is too slow
+R4880,08/08/2026 16:58,654,customer0855@example.com,30-44,5,10,5.0,4.0,5.0,,5.0,4,Espresso machine,
+R4881,08/09/2026 06:34,326,customer2690@example.com,45-59,Satisfied,9,3.0,2.0,3.0,4.0,3.0,4,French press;Pour-over;Drip,
+R4882,08/13/2026 04:32,617,customer1428@example.com,45-59,Neutral,8,5.0,3.0,4.0,4.0,3.0,5,French press,
+R4883,08/08/2026 21:24,51,customer0851@example.com,60+,Satisfied,6,3.0,2.0,4.0,4.0,,4,Espresso machine,
+R4884,08/14/2026 07:04,539,customer0194@example.com,60+,Neutral,7,4.0,1.0,3.0,4.0,,4,French press;Drip,
+R4885,08/04/2026 10:19,249,customer1248@example.com,60+,Very satisfied,10,5.0,3.0,5.0,3.0,4.0,4,French press,
+R4886,08/11/2026 13:02,455,customer1095@example.com,30-44,Neutral,8,4.0,4.0,4.0,4.0,4.0,4,Espresso machine;Cold brew,
+R4887,08/12/2026 15:24,209,customer1113@example.com,30-44,Satisfied,7,5.0,1.0,3.0,3.0,4.0,4,,
+R4888,08/07/2026 21:51,223,customer1499@example.com,45-59,Satisfied,7,4.0,3.0,4.0,3.0,3.0,4,French press;Drip;Moka pot;Other: aeropress,
+R4889,08/05/2026 08:20,311,customer3438@example.com,30-44,Neutral,6,4.0,3.0,1.0,3.0,3.0,4,Espresso machine,
+R4890,08/07/2026 11:06,194,customer2018@example.com,60+,Very satisfied,9,5.0,3.0,4.0,5.0,4.0,4,French press,
+R4891,08/07/2026 16:23,380,customer0074@example.com,45-59,Satisfied,10,5.0,3.0,4.0,4.0,3.0,4,,
+R4892,08/05/2026 10:39,594,customer2583@example.com,60+,3,8,5.0,5.0,4.0,3.0,2.0,4,French press,
+R4893,08/11/2026 22:49,238,customer0392@example.com,30-44,Satisfied,8,5.0,3.0,4.0,4.0,3.0,4,French press,Love the Ethiopian!
+R4894,08/16/2026 18:27,160,customer2763@example.com,30-44,Satisfied,9,5.0,2.0,4.0,4.0,3.0,4,Drip;Cold brew;Other: percolator,
+R4895,08/14/2026 20:19,396,customer3406@example.com,30-44,Satisfied,10,4.0,3.0,3.0,4.0,5.0,4,Pour-over;Cold brew;Other: Chemex,
+R4896,08/09/2026 00:54,647,customer0484@example.com,30-44,Neutral,6,4.0,4.0,2.0,3.0,,4,Pour-over;Cold brew,
+R4897,08/05/2026 20:17,126,customer2014@example.com,30-44,Dissatisfied,9,4.0,2.0,3.0,4.0,5.0,4,French press,
+R4898,08/16/2026 07:29,254,customer1146@example.com,45-59,Neutral,6,5.0,3.0,2.0,2.0,4.0,4,French press;Pour-over;Drip,Too pricey
+R4899,08/14/2026 12:44,160,customer3225@example.com,18-29,Satisfied,6,4.0,2.0,5.0,5.0,5.0,4,French press;Pour-over;Drip,Too pricey
+R4900,08/13/2026 11:25,230,customer4288@example.com,60+,Satisfied,8,5.0,3.0,2.0,4.0,4.0,4,French press,
+R4901,08/08/2026 00:05,127,customer2571@example.com,30-44,Satisfied,8,5.0,3.0,3.0,5.0,5.0,4,French press;Pour-over;Cold brew,Website is confusing
+R4902,08/12/2026 21:25,151,customer2507@example.com,30-44,Satisfied,7,4.0,3.0,1.0,4.0,5.0,4,Pour-over;Drip;Other: Turkish coffee,
+R4903,08/04/2026 01:13,220,customer1890@example.com,18-29,Very satisfied,10,5.0,4.0,4.0,4.0,4.0,1,French press;Pour-over;Espresso machine;Drip,
+R4904,08/04/2026 21:42,620,customer0640@example.com,30-44,Very satisfied,8,5.0,4.0,4.0,5.0,5.0,4,,
+R4905,08/03/2026 20:53,83,customer0610@example.com,45-59,Neutral,6,4.0,2.0,3.0,3.0,3.0,1,French press;Cold brew,
+R4906,08/11/2026 12:29,242,customer3712@example.com,60+,Satisfied,9,5.0,4.0,5.0,5.0,4.0,4,Espresso machine;Drip,Too pricey
+R4907,08/10/2026 20:14,597,customer0580@example.com,45-59,Satisfied,10,5.0,3.0,5.0,5.0,5.0,4,Pour-over,
+R4908,08/07/2026 23:05,417,customer2119@example.com,18-29,Neutral,7,5.0,3.0,4.0,4.0,4.0,4,Pour-over;Espresso machine,
+R4909,08/15/2026 18:33,329,customer4969@example.com,18-29,Neutral,6,5.0,2.0,3.0,4.0,4.0,4,Moka pot,
+R4910,08/04/2026 07:17,235,customer4705@example.com,60+,Dissatisfied,7,3.0,4.0,3.0,3.0,2.0,4,Pour-over;Drip,Too pricey
+R4911,08/13/2026 22:10,370,customer3744@example.com,60+,4,9,5.0,3.0,3.0,3.0,4.0,4,Moka pot,
+R4912,08/11/2026 22:12,61,customer0904@example.com,60+,Very satisfied,10,5.0,3.0,5.0,5.0,5.0,4,Espresso machine;Drip;Other: percolator,
+R4913,08/14/2026 03:57,240,customer4309@example.com,60+,Satisfied,9,5.0,2.0,2.0,4.0,3.0,4,Cold brew,
+R4914,08/03/2026 14:55,120,customer4434@example.com,30-44,Neutral,8,5.0,4.0,3.0,5.0,4.0,4,French press;Pour-over,
+R4915,08/09/2026 01:21,876,customer1180@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,5.0,4.0,4,French press;Pour-over,
+R4916,08/07/2026 20:37,358,customer2574@example.com,18-29,Dissatisfied,2,4.0,2.0,3.0,3.0,1.0,4,French press,
+R4917,08/11/2026 16:37,69,customer2220@example.com,45-59,3,7,5.0,1.0,4.0,4.0,3.0,3,French press;Drip,Great packaging
+R4918,08/07/2026 13:26,528,customer0373@example.com,45-59,Very satisfied,9,5.0,4.0,3.0,3.0,4.0,4,Drip;Moka pot,
+R4919,08/10/2026 12:28,255,customer3303@example.com,30-44,Neutral,6,4.0,2.0,3.0,3.0,3.0,4,Espresso machine;Drip;Cold brew,
+R4920,08/05/2026 17:28,175,customer4672@example.com,18-29,3,8,3.0,3.0,3.0,2.0,5.0,4,Espresso machine,
+R4921,08/11/2026 20:51,447,customer3143@example.com,60+,Neutral,8,4.0,3.0,4.0,3.0,5.0,4,Pour-over,
+R4922,08/09/2026 22:42,187,customer4616@example.com,60+,Neutral,9,4.0,2.0,3.0,5.0,3.0,4,Moka pot,More decaf please
+R4923,08/03/2026 23:45,335,customer1157@example.com,18-29,Neutral,7,3.0,1.0,2.0,3.0,3.0,4,Drip,Too pricey
+R4924,08/13/2026 12:56,264,customer2834@example.com,18-29,Dissatisfied,5,4.0,2.0,3.0,3.0,3.0,4,Pour-over;Drip;Moka pot,Too pricey
+R4925,08/13/2026 05:52,310,customer4386@example.com,60+,Satisfied,8,5.0,5.0,3.0,5.0,5.0,4,French press;Espresso machine,
+R4926,08/10/2026 03:05,451,customer2366@example.com,30-44,Satisfied,7,5.0,3.0,5.0,5.0,5.0,4,Espresso machine;Drip,
+R4927,08/04/2026 13:11,360,customer4304@example.com,30-44,Satisfied,7,5.0,2.0,5.0,3.0,4.0,4,French press;Cold brew,Deliveries arrive late
+R4928,08/14/2026 05:36,366,customer3970@example.com,60+,4,7,3.0,3.0,3.0,2.0,2.0,4,French press;Moka pot,Website is confusing
+R4929,08/14/2026 02:10,236,customer1085@example.com,60+,Neutral,10,5.0,2.0,3.0,4.0,3.0,4,,
+R4930,08/11/2026 09:44,298,customer1988@example.com,30-44,Neutral,8,4.0,2.0,4.0,4.0,3.0,4,Espresso machine,
+R4931,08/13/2026 13:23,445,customer4275@example.com,18-29,Satisfied,8,5.0,4.0,4.0,4.0,5.0,4,French press,
+R4932,08/14/2026 12:32,771,customer3048@example.com,45-59,Dissatisfied,5,4.0,2.0,3.0,2.0,,4,French press;Espresso machine;Drip;Other: chemex,More decaf please
+R4933,08/06/2026 10:48,232,customer0020@example.com,30-44,Very satisfied,7,,3.0,4.0,5.0,4.0,4,Moka pot,
+R4934,08/08/2026 03:36,281,customer3041@example.com,60+,Satisfied,8,5.0,5.0,2.0,3.0,2.0,4,Cold brew,
+R4935,08/04/2026 10:49,411,customer0992@example.com,30-44,Satisfied,7,,4.0,4.0,5.0,4.0,4,French press;Espresso machine;Drip,
+R4936,08/15/2026 04:34,410,customer1475@example.com,18-29,Very satisfied,8,5.0,5.0,5.0,4.0,,4,Pour-over;Espresso machine,
+R4937,08/04/2026 07:52,141,customer0836@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,Pour-over;Cold brew,
+R4938,08/15/2026 13:50,233,customer3527@example.com,30-44,4,7,5.0,2.0,3.0,3.0,5.0,4,French press;Drip;Other: Aero press,
+R4939,08/13/2026 17:40,234,customer3010@example.com,30-44,Neutral,7,4.0,3.0,4.0,3.0,4.0,4,Espresso machine,
+R4940,08/03/2026 23:02,124,customer0890@example.com,18-29,Very satisfied,10,5.0,4.0,4.0,4.0,4.0,4,French press;Pour-over,
+R4941,08/04/2026 12:37,295,customer0986@example.com,18-29,Neutral,9,3.0,3.0,4.0,5.0,4.0,4,Espresso machine;Cold brew,Great packaging
+R4942,08/08/2026 06:50,83,customer4050@example.com,45-59,Satisfied,9,4.0,3.0,2.0,4.0,4.0,4,French press;Espresso machine,
+R4943,08/12/2026 19:52,204,customer0968@example.com,60+,4,10,5.0,3.0,4.0,5.0,4.0,4,French press;Pour-over;Espresso machine;Drip;Cold brew,
+R4944,08/14/2026 11:31,574,customer2049@example.com,18-29,Satisfied,8,2.0,4.0,5.0,3.0,4.0,4,Drip;Cold brew,
+R4945,08/05/2026 02:25,386,customer0576@example.com,30-44,Very satisfied,8,3.0,3.0,4.0,5.0,5.0,4,Cold brew,
+R4946,08/10/2026 12:48,592,customer0467@example.com,60+,Satisfied,10,5.0,5.0,3.0,5.0,,4,Espresso machine;Cold brew,
+R4947,08/11/2026 22:16,292,customer2999@example.com,30-44,4,9,5.0,5.0,3.0,5.0,4.0,4,Espresso machine,
+R4948,08/12/2026 17:33,489,customer4436@example.com,45-59,Neutral,7,,3.0,3.0,3.0,2.0,4,Drip;Other: AeroPress,
+R4949,08/15/2026 11:52,279,customer1362@example.com,30-44,Satisfied,9,5.0,4.0,4.0,5.0,4.0,4,Pour-over;Drip;Cold brew,
+R4950,08/08/2026 22:10,70,customer3687@example.com,45-59,Satisfied,10,5.0,4.0,4.0,4.0,,4,Drip,
+R4951,08/14/2026 03:16,687,customer4405@example.com,30-44,4,6,4.0,3.0,2.0,5.0,3.0,4,French press;Pour-over,
+R4952,08/09/2026 22:50,261,customer1277@example.com,30-44,5,10,5.0,5.0,5.0,4.0,5.0,4,,
+R4953,08/16/2026 01:45,220,customer4220@example.com,18-29,Satisfied,10,5.0,3.0,3.0,,5.0,4,Drip;Cold brew,
+R4954,08/07/2026 14:57,519,customer4732@example.com,45-59,Very satisfied,10,5.0,4.0,3.0,5.0,3.0,4,Drip,
+R4955,08/03/2026 02:18,968,customer3623@example.com,45-59,5,10,4.0,3.0,4.0,5.0,4.0,4,French press,
+R4956,08/05/2026 06:53,549,customer1575@example.com,60+,5,10,5.0,4.0,4.0,4.0,5.0,4,French press;Drip;Other: percolator,
+R4957,08/08/2026 10:05,421,customer4142@example.com,45-59,3,9,5.0,4.0,5.0,4.0,3.0,4,,
+R4958,08/14/2026 19:32,896,customer3669@example.com,30-44,Very satisfied,10,,5.0,5.0,5.0,5.0,4,French press;Cold brew,
+R4959,08/03/2026 00:06,355,customer2623@example.com,30-44,Very satisfied,10,5.0,5.0,5.0,5.0,4.0,4,Pour-over;Cold brew,
+R4960,08/03/2026 07:33,395,customer4089@example.com,60+,Satisfied,7,4.0,2.0,5.0,4.0,3.0,4,French press;Espresso machine;Drip;Other: chemex,
+R4961,08/11/2026 23:29,742,customer1181@example.com,45-59,Satisfied,9,5.0,3.0,,3.0,3.0,4,French press;Espresso machine;Drip,
+R4962,08/04/2026 11:16,251,customer3295@example.com,60+,Very satisfied,8,5.0,3.0,3.0,5.0,4.0,4,,
+R4963,08/09/2026 19:41,39,customer0707@example.com,45-59,5,8,5.0,4.0,3.0,3.0,3.0,4,Moka pot;Cold brew,
+R4964,08/13/2026 10:39,319,customer3516@example.com,18-29,Neutral,7,5.0,1.0,2.0,2.0,4.0,2,Pour-over;Espresso machine;Drip,
+R4965,08/07/2026 21:47,742,customer1311@example.com,60+,Satisfied,10,4.0,3.0,2.0,4.0,3.0,4,French press;Espresso machine;Drip;Other: Aero press,Love the Ethiopian!
+R4966,08/16/2026 21:09,527,customer3969@example.com,45-59,Satisfied,6,5.0,4.0,3.0,5.0,4.0,4,Drip,
+R4967,08/07/2026 17:10,451,customer4154@example.com,18-29,4,9,5.0,2.0,3.0,5.0,4.0,4,Pour-over;Espresso machine;Drip,Keep it up
+R4968,08/06/2026 14:25,637,customer3540@example.com,60+,Very satisfied,8,3.0,2.0,2.0,4.0,2.0,4,,
+R4969,08/05/2026 15:34,315,customer2803@example.com,60+,Neutral,9,5.0,3.0,3.0,2.0,4.0,4,Espresso machine;Drip,
+R4970,08/04/2026 19:44,404,customer4947@example.com,30-44,5,7,5.0,4.0,3.0,4.0,4.0,4,Pour-over;Moka pot,
+R4971,08/08/2026 08:57,252,customer4853@example.com,60+,Neutral,6,4.0,4.0,4.0,4.0,4.0,4,Pour-over;Drip,
+R4972,08/09/2026 09:35,191,customer2032@example.com,30-44,Satisfied,6,4.0,3.0,4.0,2.0,4.0,4,,
+R4973,08/13/2026 09:16,212,customer2657@example.com,60+,Satisfied,7,5.0,3.0,3.0,4.0,4.0,4,Pour-over;Drip,
+R4974,08/14/2026 22:07,177,customer4807@example.com,45-59,Satisfied,8,4.0,4.0,4.0,5.0,2.0,4,French press;Drip,
+R4975,08/08/2026 15:47,340,customer2440@example.com,18-29,Very satisfied,9,5.0,4.0,4.0,5.0,5.0,4,French press;Espresso machine;Cold brew,Love the Ethiopian!
+R4976,08/05/2026 08:56,145,customer4281@example.com,18-29,Satisfied,8,4.0,3.0,4.0,3.0,4.0,4,,Great packaging
+R4977,08/12/2026 08:36,281,customer3119@example.com,45-59,Satisfied,7,5.0,2.0,4.0,4.0,4.0,4,French press,Love the Ethiopian!
+R4978,08/12/2026 08:48,232,customer3866@example.com,18-29,Satisfied,9,5.0,5.0,4.0,4.0,5.0,4,Drip,Deliveries arrive late
+R4979,08/13/2026 20:11,467,customer1127@example.com,45-59,Neutral,10,5.0,4.0,5.0,3.0,4.0,4,Pour-over,
+R4980,08/07/2026 10:22,254,customer2308@example.com,30-44,Dissatisfied,7,3.0,2.0,3.0,,2.0,4,French press;Cold brew,
+R4981,08/08/2026 13:47,260,customer3152@example.com,30-44,Neutral,10,5.0,3.0,5.0,4.0,4.0,4,Pour-over;Drip,
+R4982,08/14/2026 18:06,292,customer3341@example.com,18-29,Dissatisfied,8,4.0,3.0,3.0,3.0,4.0,2,French press;Pour-over;Other: Aero press,
+R4983,08/09/2026 16:58,166,customer3723@example.com,30-44,Satisfied,10,5.0,3.0,5.0,5.0,5.0,4,Espresso machine;Cold brew,
+R4984,08/16/2026 12:16,404,customer1375@example.com,45-59,Satisfied,10,4.0,3.0,4.0,3.0,4.0,2,Pour-over;Espresso machine,Great packaging
+R4985,08/12/2026 02:50,731,customer4042@example.com,45-59,4,6,2.0,2.0,4.0,3.0,3.0,4,Pour-over;Drip;Cold brew,Deliveries arrive late
+R4986,08/04/2026 10:35,485,customer0682@example.com,45-59,Very satisfied,10,5.0,4.0,5.0,5.0,4.0,4,Drip;Other: aeropress,Shipping is too slow
+R4987,08/04/2026 00:16,346,customer3544@example.com,18-29,Very satisfied,8,5.0,4.0,4.0,4.0,5.0,4,French press;Pour-over,
+R4988,08/08/2026 21:18,562,customer0941@example.com,60+,Very satisfied,9,5.0,4.0,4.0,5.0,5.0,4,Espresso machine,Too pricey
+R4989,08/13/2026 11:20,466,customer4480@example.com,60+,Neutral,6,3.0,1.0,2.0,5.0,1.0,4,Espresso machine;Other: Aero press,Deliveries arrive late
+R4990,08/11/2026 08:03,478,customer2358@example.com,60+,Very satisfied,9,4.0,5.0,5.0,5.0,4.0,4,Espresso machine,
+R4991,08/16/2026 04:27,236,customer0201@example.com,18-29,Neutral,8,4.0,3.0,3.0,4.0,4.0,4,,
+R4992,08/11/2026 09:18,461,customer0184@example.com,30-44,Satisfied,8,5.0,,,4.0,5.0,4,French press;Pour-over,
+R4993,08/14/2026 06:30,367,customer2385@example.com,30-44,Very satisfied,8,5.0,3.0,4.0,4.0,5.0,4,,
+R4994,08/11/2026 09:47,185,customer0275@example.com,18-29,Satisfied,6,3.0,4.0,5.0,4.0,4.0,4,Espresso machine,Great packaging
+R4995,08/12/2026 11:27,714,customer2231@example.com,60+,Satisfied,9,5.0,2.0,5.0,4.0,3.0,4,Drip;Cold brew,
+R4996,08/12/2026 22:35,251,customer1989@example.com,60+,Dissatisfied,7,3.0,2.0,2.0,3.0,4.0,4,,
+R4997,08/09/2026 14:34,302,customer3553@example.com,45-59,Neutral,4,4.0,3.0,2.0,4.0,1.0,4,French press;Pour-over,
+R4998,08/16/2026 18:53,263,customer2141@example.com,18-29,4,7,3.0,4.0,3.0,4.0,5.0,4,Pour-over;Drip,
+R4999,08/12/2026 09:09,162,customer2235@example.com,30-44,Neutral,7,4.0,3.0,2.0,4.0,4.0,4,Pour-over;Drip;Moka pot;Cold brew,
+R5000,08/03/2026 19:40,384,customer4676@example.com,18-29,Dissatisfied,6,4.0,3.0,3.0,4.0,2.0,4,Pour-over;Espresso machine;Drip,
+R5001,08/11/2026 14:08,436,customer4332@example.com,45-59,Neutral,5,4.0,,4.0,4.0,4.0,4,Moka pot;Cold brew,Love the Ethiopian!
+R5002,08/16/2026 00:01,188,customer3803@example.com,30-44,Neutral,8,4.0,3.0,3.0,4.0,4.0,4,Pour-over;Cold brew,
+R5003,08/06/2026 19:52,229,customer4295@example.com,60+,Neutral,7,5.0,2.0,4.0,5.0,3.0,4,,
+R5004,08/13/2026 20:32,426,customer3923@example.com,45-59,Very satisfied,10,5.0,4.0,4.0,4.0,3.0,4,French press;Pour-over,
+R5005,08/07/2026 14:11,393,customer0709@example.com,30-44,4,10,5.0,3.0,4.0,4.0,4.0,4,Drip,
+R5006,08/04/2026 05:55,339,customer3996@example.com,30-44,Neutral,7,5.0,1.0,4.0,4.0,3.0,4,,
+R5007,08/05/2026 21:15,252,customer3810@example.com,30-44,Neutral,10,5.0,4.0,4.0,4.0,5.0,4,,
+R5008,08/11/2026 09:20,206,customer4188@example.com,45-59,Satisfied,9,5.0,4.0,4.0,4.0,5.0,4,French press;Drip;Other: Chemex,
+R5009,08/10/2026 01:51,348,customer3549@example.com,60+,4,7,5.0,3.0,3.0,3.0,5.0,4,Pour-over;Drip,
+R5010,08/13/2026 13:13,290,customer4475@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,4.0,4.0,4,French press;Espresso machine;Drip,More decaf please
+R5011,08/16/2026 20:02,271,customer1857@example.com,60+,Very satisfied,9,5.0,5.0,5.0,5.0,5.0,4,,
+R5012,08/13/2026 01:18,313,customer0382@example.com,18-29,Neutral,6,2.0,3.0,3.0,5.0,3.0,4,Espresso machine,
+R5013,08/04/2026 21:50,383,customer1632@example.com,45-59,Satisfied,10,3.0,3.0,4.0,4.0,3.0,4,Pour-over,
+R5014,08/12/2026 01:34,204,customer3765@example.com,30-44,Satisfied,8,5.0,3.0,4.0,5.0,4.0,4,,
+R5015,08/13/2026 03:45,906,customer3749@example.com,30-44,Neutral,8,5.0,4.0,,4.0,4.0,4,French press;Pour-over;Drip;Cold brew,
+R5016,08/14/2026 09:17,534,customer4559@example.com,18-29,Very satisfied,10,5.0,4.0,5.0,5.0,5.0,4,Pour-over;Espresso machine,
+R5017,08/12/2026 12:23,214,customer2680@example.com,45-59,4,8,5.0,3.0,5.0,5.0,4.0,4,French press,
+R5018,08/15/2026 21:11,524,customer3829@example.com,30-44,Very satisfied,10,5.0,,5.0,5.0,5.0,4,French press;Pour-over;Other: Turkish coffee,
+R5019,08/05/2026 07:41,392,customer2229@example.com,30-44,Neutral,9,4.0,3.0,3.0,4.0,4.0,4,Cold brew;Other: chemex,
+R5020,08/05/2026 04:59,403,customer2279@example.com,18-29,5,10,5.0,4.0,5.0,5.0,5.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R5021,08/14/2026 18:07,235,customer3604@example.com,60+,Neutral,6,5.0,2.0,,4.0,4.0,4,Drip,
+R5022,08/08/2026 09:50,224,customer1437@example.com,45-59,Neutral,8,4.0,3.0,3.0,4.0,3.0,4,Drip,More decaf please
+R5023,08/12/2026 10:12,212,customer2464@example.com,45-59,Very satisfied,10,5.0,3.0,5.0,5.0,5.0,4,,
+R5024,08/06/2026 10:17,378,customer1451@example.com,60+,Very satisfied,9,5.0,4.0,,4.0,5.0,4,Moka pot;Cold brew,
+R5025,08/15/2026 00:54,228,customer1338@example.com,45-59,Neutral,9,4.0,5.0,4.0,5.0,5.0,4,Pour-over,
+R5026,08/10/2026 09:28,292,customer0107@example.com,30-44,Dissatisfied,6,4.0,2.0,3.0,3.0,,4,Espresso machine;Cold brew,
+R5027,08/09/2026 09:05,151,customer4991@example.com,30-44,Neutral,8,4.0,3.0,3.0,3.0,3.0,4,Cold brew,
+R5028,08/13/2026 09:53,223,customer2576@example.com,45-59,Satisfied,10,4.0,3.0,3.0,3.0,4.0,4,Pour-over,
+R5029,08/15/2026 06:44,549,customer0956@example.com,18-29,Dissatisfied,6,4.0,2.0,2.0,2.0,4.0,4,,
+R5030,08/03/2026 20:55,266,customer1206@example.com,30-44,3,6,4.0,2.0,4.0,3.0,4.0,4,Pour-over;Espresso machine;Drip;Cold brew,
+R5031,08/07/2026 08:29,383,customer3096@example.com,30-44,Neutral,7,5.0,2.0,3.0,4.0,4.0,4,,Shipping is too slow
+R5032,08/06/2026 02:57,329,customer3463@example.com,30-44,3,8,4.0,3.0,3.0,5.0,4.0,4,Pour-over;Other: aeropress,
+R5033,08/07/2026 19:49,121,customer2792@example.com,45-59,Very satisfied,8,5.0,4.0,4.0,4.0,4.0,4,Espresso machine;Drip,
+R5034,08/03/2026 10:45,631,customer3456@example.com,60+,Neutral,10,,3.0,4.0,4.0,4.0,4,,Keep it up
+R5035,08/13/2026 08:08,384,customer2429@example.com,30-44,Very satisfied,10,5.0,3.0,,4.0,5.0,4,Moka pot;Cold brew,
+R5036,08/12/2026 04:15,913,customer0492@example.com,60+,Neutral,9,4.0,3.0,2.0,5.0,3.0,4,French press;Pour-over;Espresso machine;Cold brew,
+R5037,08/14/2026 06:01,187,customer1882@example.com,45-59,3,8,4.0,3.0,2.0,3.0,3.0,4,French press;Cold brew,
+R5038,08/04/2026 01:10,638,customer1339@example.com,45-59,Satisfied,8,5.0,3.0,4.0,3.0,2.0,4,,Keep it up
+R5039,08/16/2026 12:35,382,customer3492@example.com,30-44,Very satisfied,9,5.0,4.0,4.0,5.0,4.0,4,Cold brew,
+R5040,08/10/2026 11:41,233,customer0283@example.com,30-44,Satisfied,7,,4.0,5.0,4.0,5.0,2,,
+R5041,08/16/2026 05:12,150,customer3336@example.com,18-29,Satisfied,6,3.0,3.0,3.0,4.0,3.0,4,Pour-over;Cold brew,
+R5042,08/05/2026 00:28,427,customer3299@example.com,45-59,Satisfied,8,5.0,4.0,5.0,3.0,3.0,4,Drip,
+R5043,08/10/2026 09:13,241,customer2796@example.com,60+,Neutral,7,5.0,4.0,4.0,4.0,3.0,4,Pour-over;Drip;Other: Chemex,
+R5044,08/11/2026 11:24,679,customer3851@example.com,30-44,Neutral,7,5.0,3.0,3.0,2.0,4.0,4,,
+R5045,08/13/2026 17:28,277,customer4901@example.com,45-59,Very satisfied,8,5.0,5.0,2.0,4.0,3.0,4,Pour-over,
+R5046,08/11/2026 01:07,322,customer4370@example.com,45-59,Satisfied,8,4.0,5.0,4.0,5.0,3.0,4,,Website is confusing
+R5047,08/12/2026 10:36,368,customer0188@example.com,45-59,2,6,4.0,2.0,3.0,3.0,1.0,4,Espresso machine,
+R5048,08/12/2026 21:46,436,customer2208@example.com,60+,3,9,4.0,3.0,3.0,3.0,3.0,4,Pour-over;Drip,
+R5049,08/04/2026 00:33,396,customer4740@example.com,30-44,Satisfied,8,5.0,4.0,3.0,4.0,4.0,4,French press,
+R5050,08/09/2026 20:32,203,customer0947@example.com,30-44,Satisfied,9,5.0,2.0,5.0,5.0,4.0,4,Drip;Other: Aero press,
+R5051,08/06/2026 23:33,388,customer4160@example.com,45-59,4,9,5.0,3.0,5.0,5.0,5.0,4,Espresso machine;Drip,
+R5052,08/16/2026 08:41,340,customer2560@example.com,30-44,Very satisfied,10,5.0,4.0,5.0,4.0,5.0,4,French press;Pour-over;Drip;Cold brew,Website is confusing
+R5053,08/04/2026 23:42,379,customer0747@example.com,18-29,Neutral,9,,4.0,4.0,4.0,4.0,4,,
+R5054,08/15/2026 13:50,241,customer4867@example.com,30-44,Satisfied,7,5.0,3.0,4.0,4.0,4.0,4,French press;Cold brew,Keep it up
+R5055,08/13/2026 18:46,353,customer2497@example.com,18-29,Neutral,5,4.0,3.0,3.0,5.0,3.0,4,Pour-over;Other: Turkish coffee,
+R5056,08/16/2026 04:11,158,customer0162@example.com,18-29,5,10,5.0,5.0,5.0,5.0,5.0,4,Pour-over;Espresso machine,
+R5057,08/16/2026 01:16,371,customer0636@example.com,30-44,Very satisfied,8,5.0,3.0,5.0,4.0,5.0,2,French press;Espresso machine,
+R5058,08/10/2026 03:32,436,customer0884@example.com,60+,Satisfied,9,5.0,1.0,3.0,4.0,3.0,4,Pour-over;Espresso machine,
+R5059,08/15/2026 14:11,204,customer1047@example.com,60+,3,6,2.0,2.0,4.0,3.0,3.0,4,French press;Drip,
+R5060,08/11/2026 22:20,255,customer4736@example.com,18-29,Satisfied,8,5.0,3.0,,4.0,4.0,4,Cold brew,More decaf please
+R5061,08/05/2026 23:22,240,customer1512@example.com,45-59,Satisfied,7,4.0,2.0,4.0,3.0,3.0,4,,
+R5062,08/07/2026 15:43,615,customer0435@example.com,30-44,Very satisfied,10,5.0,5.0,4.0,4.0,5.0,4,French press,
+R5063,08/15/2026 03:31,109,customer1356@example.com,45-59,Neutral,6,5.0,3.0,4.0,3.0,5.0,4,Espresso machine;Other: aeropress,
+R5064,08/09/2026 18:24,779,customer1226@example.com,60+,3,8,4.0,2.0,4.0,5.0,2.0,4,French press;Espresso machine;Drip,
+R5065,08/11/2026 19:08,130,customer2020@example.com,30-44,Satisfied,10,5.0,4.0,5.0,5.0,5.0,4,French press;Pour-over;Drip,
+R5066,08/05/2026 16:08,239,customer2325@example.com,18-29,Satisfied,9,,3.0,4.0,3.0,5.0,4,,Too pricey
+R5067,08/04/2026 09:28,375,customer3632@example.com,45-59,Very satisfied,8,4.0,2.0,3.0,3.0,5.0,4,French press;Pour-over,
+R5068,08/16/2026 21:21,228,customer3743@example.com,30-44,Neutral,8,5.0,4.0,3.0,4.0,5.0,4,French press,
+R5069,08/09/2026 19:29,283,customer3328@example.com,30-44,Satisfied,8,4.0,4.0,5.0,3.0,4.0,3,French press;Cold brew;Other: aeropress,Website is confusing
+R5070,08/11/2026 13:42,178,customer2523@example.com,45-59,Very satisfied,9,5.0,4.0,4.0,4.0,4.0,4,Pour-over;Espresso machine;Drip,
+R5071,08/05/2026 00:02,396,customer1156@example.com,60+,Very satisfied,10,5.0,3.0,4.0,5.0,4.0,4,Pour-over;Espresso machine;Drip,More decaf please
+R5072,08/08/2026 05:51,364,customer4722@example.com,45-59,5,8,5.0,4.0,5.0,,5.0,4,Pour-over;Drip,
+R5073,08/09/2026 00:23,679,customer2387@example.com,45-59,Very satisfied,9,5.0,4.0,4.0,5.0,5.0,4,Pour-over,
+R5074,08/07/2026 01:05,241,customer3836@example.com,45-59,Satisfied,5,4.0,3.0,3.0,3.0,3.0,4,French press,Keep it up
+R5075,08/06/2026 20:38,333,customer1150@example.com,60+,Neutral,9,4.0,2.0,4.0,4.0,5.0,4,,
+R5076,08/11/2026 03:36,514,customer1064@example.com,45-59,Dissatisfied,5,3.0,1.0,2.0,3.0,3.0,4,Pour-over;Drip;Other: Aero press,Shipping is too slow
+R5077,08/10/2026 17:39,216,customer1665@example.com,30-44,Very satisfied,7,4.0,5.0,3.0,4.0,4.0,4,Espresso machine,Deliveries arrive late
+R5078,08/11/2026 00:17,478,customer4179@example.com,18-29,Satisfied,10,5.0,3.0,4.0,3.0,3.0,4,French press;Pour-over;Cold brew,
+R5079,08/03/2026 03:50,182,customer0771@example.com,60+,4,8,5.0,4.0,4.0,3.0,3.0,4,French press;Espresso machine,
+R5080,08/04/2026 16:32,345,customer3171@example.com,60+,Neutral,9,5.0,3.0,4.0,5.0,4.0,4,Drip;Cold brew,
+R5081,08/03/2026 21:42,444,customer4176@example.com,30-44,4,8,5.0,3.0,3.0,4.0,3.0,4,Pour-over,Shipping is too slow
+R5082,08/05/2026 06:31,582,customer0821@example.com,60+,Satisfied,7,4.0,3.0,4.0,4.0,3.0,4,French press;Drip,Love the Ethiopian!
+R5083,08/16/2026 01:59,328,customer0667@example.com,30-44,Satisfied,7,4.0,4.0,4.0,4.0,5.0,4,French press;Moka pot,
+R5084,08/08/2026 10:02,236,customer0144@example.com,60+,Very satisfied,8,4.0,5.0,4.0,5.0,5.0,4,Pour-over;Drip;Other: Turkish coffee,
+R5085,08/05/2026 21:16,117,customer2041@example.com,30-44,4,7,,4.0,5.0,3.0,4.0,4,Espresso machine;Cold brew,
+R5086,08/13/2026 08:39,65,customer3410@example.com,45-59,Satisfied,9,5.0,,3.0,4.0,5.0,4,,
+R5087,08/11/2026 08:15,194,customer3055@example.com,30-44,Very satisfied,9,5.0,4.0,3.0,4.0,4.0,4,Espresso machine;Drip,
+R5088,08/07/2026 14:25,408,customer1386@example.com,30-44,Very satisfied,9,3.0,3.0,3.0,5.0,4.0,4,Drip,
+R5089,08/03/2026 15:42,172,customer1491@example.com,30-44,Neutral,8,4.0,3.0,4.0,5.0,4.0,4,French press;Pour-over;Espresso machine,Shipping is too slow
+R5090,08/16/2026 10:36,336,customer0931@example.com,45-59,3,9,,2.0,3.0,3.0,2.0,4,Cold brew;Other: Turkish coffee,
+R5091,08/16/2026 06:45,83,customer4588@example.com,60+,Dissatisfied,7,3.0,1.0,3.0,2.0,2.0,4,Pour-over;Other: chemex,
+R5092,08/14/2026 22:47,863,customer0987@example.com,30-44,Dissatisfied,8,4.0,2.0,2.0,4.0,3.0,4,French press;Drip,
+R5093,08/04/2026 09:38,261,customer4826@example.com,30-44,Satisfied,8,4.0,3.0,4.0,5.0,4.0,4,Pour-over;Espresso machine;Drip,
+R5094,08/03/2026 01:06,313,customer1662@example.com,60+,3,7,3.0,2.0,3.0,4.0,1.0,4,Pour-over,Too pricey
+R5095,08/08/2026 15:58,751,customer3856@example.com,60+,Dissatisfied,8,4.0,2.0,1.0,3.0,2.0,4,Pour-over;Drip,
+R5096,08/10/2026 14:33,173,customer2927@example.com,30-44,Very satisfied,8,5.0,5.0,4.0,5.0,5.0,4,Drip;Cold brew;Other: aeropress,
+R5097,08/12/2026 16:10,435,customer1870@example.com,30-44,5,9,4.0,3.0,4.0,5.0,5.0,4,,
+R5098,08/08/2026 21:12,520,customer0216@example.com,45-59,Satisfied,8,5.0,3.0,3.0,4.0,3.0,4,Drip;Moka pot,
+R5099,08/15/2026 06:43,169,customer4488@example.com,45-59,5,10,5.0,3.0,4.0,4.0,4.0,4,Moka pot,
+R5100,08/08/2026 14:57,410,customer4659@example.com,45-59,Satisfied,7,5.0,4.0,4.0,5.0,2.0,4,Other: Chemex,More decaf please
+R5101,08/11/2026 08:29,190,customer3753@example.com,60+,Satisfied,6,5.0,3.0,4.0,3.0,4.0,4,Pour-over;Drip,
+R5102,08/13/2026 04:27,319,customer4801@example.com,45-59,Satisfied,9,4.0,3.0,2.0,5.0,3.0,4,French press;Pour-over;Drip;Cold brew,
+R5103,08/06/2026 23:39,186,customer4998@example.com,18-29,Neutral,7,3.0,3.0,2.0,5.0,4.0,4,French press;Pour-over;Other: chemex,
+R5104,08/07/2026 22:00,292,customer0827@example.com,45-59,Neutral,7,3.0,2.0,3.0,4.0,4.0,4,Drip,
+R5105,08/09/2026 08:48,429,customer1467@example.com,18-29,Satisfied,7,5.0,3.0,4.0,5.0,5.0,4,French press;Drip,Great packaging
+R5106,08/09/2026 11:47,512,customer4222@example.com,30-44,Satisfied,6,4.0,3.0,,5.0,4.0,4,Pour-over,Great packaging
+R5107,08/05/2026 21:59,416,customer1955@example.com,30-44,Neutral,8,4.0,4.0,4.0,3.0,5.0,4,French press;Espresso machine,
+R5108,08/03/2026 01:07,538,customer4066@example.com,45-59,Neutral,6,5.0,2.0,2.0,4.0,2.0,4,French press;Moka pot,
+R5109,08/08/2026 19:41,182,customer3230@example.com,30-44,4,10,5.0,4.0,4.0,4.0,5.0,4,Pour-over,
+R5110,08/13/2026 00:29,380,customer2513@example.com,45-59,Neutral,5,3.0,1.0,2.0,4.0,3.0,4,French press;Drip,
+R5111,08/06/2026 23:01,670,customer3402@example.com,18-29,Neutral,7,4.0,5.0,3.0,3.0,3.0,4,,
+R5112,08/09/2026 11:04,252,customer0443@example.com,60+,Very satisfied,10,5.0,4.0,5.0,4.0,4.0,4,Cold brew,
+R5113,08/16/2026 06:01,164,customer4571@example.com,60+,Neutral,6,4.0,2.0,3.0,3.0,2.0,4,Other: siphon,
+R5114,08/10/2026 18:44,349,customer3638@example.com,30-44,Satisfied,8,5.0,3.0,3.0,5.0,,4,French press;Drip,More decaf please
+R5115,08/14/2026 16:25,359,customer4110@example.com,30-44,Very satisfied,6,5.0,3.0,3.0,5.0,4.0,4,French press;Pour-over,
+R5116,08/11/2026 11:34,414,customer0658@example.com,30-44,Dissatisfied,4,3.0,1.0,4.0,2.0,3.0,4,French press;Other: chemex,
+R5117,08/05/2026 02:39,605,customer3451@example.com,60+,Satisfied,9,5.0,3.0,4.0,4.0,5.0,4,Drip,
+R5118,08/13/2026 02:08,212,customer0919@example.com,60+,Neutral,9,3.0,2.0,2.0,4.0,3.0,4,French press;Drip,Deliveries arrive late
+R5119,08/04/2026 06:58,397,customer0529@example.com,60+,Very satisfied,10,4.0,2.0,4.0,3.0,4.0,4,Espresso machine,
+R5120,08/10/2026 12:00,318,customer2115@example.com,30-44,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Drip,
+R5121,08/16/2026 09:02,580,customer0696@example.com,45-59,Dissatisfied,9,4.0,2.0,2.0,2.0,2.0,4,Drip,
+R5122,08/04/2026 13:00,274,customer1733@example.com,45-59,4,9,5.0,4.0,4.0,5.0,3.0,4,French press;Other: Turkish coffee,
+R5123,08/10/2026 03:26,175,customer3417@example.com,18-29,Neutral,8,4.0,4.0,4.0,3.0,4.0,4,Pour-over;Cold brew,Love the Ethiopian!
+R5124,08/07/2026 14:04,660,customer1663@example.com,60+,Satisfied,10,4.0,3.0,3.0,4.0,3.0,4,Moka pot;Other: AeroPress,Too pricey
+R5125,08/06/2026 10:03,266,customer0533@example.com,18-29,3,9,4.0,5.0,3.0,3.0,3.0,4,French press;Cold brew,
+R5126,08/06/2026 23:23,295,customer1960@example.com,18-29,Very satisfied,9,5.0,4.0,4.0,5.0,3.0,4,,
+R5127,08/08/2026 01:48,215,customer3828@example.com,30-44,Neutral,7,5.0,2.0,4.0,4.0,4.0,4,Pour-over,
+R5128,08/06/2026 17:52,485,customer0463@example.com,30-44,Satisfied,8,5.0,4.0,4.0,5.0,4.0,3,Pour-over;Cold brew,
+R5129,08/06/2026 07:01,653,customer2025@example.com,45-59,Neutral,8,3.0,3.0,5.0,,3.0,4,Espresso machine;Drip;Cold brew,
+R5130,08/14/2026 11:43,373,customer0860@example.com,30-44,Satisfied,3,5.0,3.0,3.0,3.0,4.0,4,Pour-over,
+R5131,08/12/2026 16:10,607,customer3259@example.com,60+,Very satisfied,8,5.0,4.0,5.0,5.0,4.0,4,French press,More decaf please
+R5132,08/07/2026 19:51,354,customer4708@example.com,30-44,Satisfied,7,4.0,3.0,3.0,4.0,5.0,4,French press;Espresso machine;Other: Turkish coffee,
+R5133,08/11/2026 06:42,213,customer1128@example.com,45-59,Satisfied,7,4.0,4.0,3.0,5.0,2.0,4,French press;Pour-over;Drip,Keep it up
+R5134,08/13/2026 17:13,203,customer1634@example.com,30-44,Satisfied,9,5.0,4.0,4.0,5.0,4.0,4,Cold brew,
+R5135,08/08/2026 16:53,403,customer4201@example.com,60+,Satisfied,10,4.0,4.0,3.0,,3.0,4,Pour-over;Espresso machine,
+R5136,08/08/2026 16:32,190,customer1412@example.com,60+,Neutral,8,4.0,3.0,2.0,3.0,3.0,4,,Shipping is too slow
+R5137,08/06/2026 16:00,425,customer1001@example.com,18-29,Neutral,5,4.0,3.0,2.0,5.0,4.0,4,Moka pot,Too pricey
+R5138,08/09/2026 16:27,401,customer0442@example.com,60+,Very satisfied,8,5.0,3.0,4.0,,3.0,4,French press;Drip,
+R5139,08/04/2026 08:50,125,customer0041@example.com,18-29,Dissatisfied,6,5.0,2.0,1.0,4.0,,4,Drip;Cold brew,
+R5140,08/06/2026 13:14,365,customer1750@example.com,45-59,Very satisfied,10,5.0,4.0,3.0,5.0,4.0,4,Drip,Keep it up
+R5141,08/15/2026 13:20,373,customer3412@example.com,45-59,4,10,5.0,3.0,5.0,5.0,3.0,4,French press;Pour-over;Drip,Website is confusing
+R5142,08/08/2026 19:37,243,customer4704@example.com,18-29,Very satisfied,9,5.0,4.0,4.0,5.0,5.0,3,French press;Pour-over;Espresso machine;Drip;Moka pot,
+R5143,08/08/2026 01:37,239,customer3879@example.com,18-29,Neutral,9,4.0,2.0,3.0,3.0,4.0,4,Drip;Other: aeropress,
+R5144,08/14/2026 19:40,337,customer1786@example.com,45-59,Satisfied,7,3.0,3.0,4.0,5.0,3.0,4,French press;Espresso machine;Drip;Moka pot,
+R5145,08/05/2026 15:29,375,customer1231@example.com,60+,Satisfied,8,5.0,3.0,5.0,5.0,3.0,4,French press;Pour-over;Espresso machine;Drip;Other: Chemex,
+R5146,08/04/2026 08:45,701,customer0869@example.com,45-59,Satisfied,10,5.0,4.0,4.0,4.0,5.0,4,French press;Pour-over;Espresso machine;Drip,Deliveries arrive late
+R5147,08/07/2026 02:00,698,customer0193@example.com,30-44,Satisfied,8,5.0,2.0,3.0,3.0,5.0,4,Pour-over,
+R5148,08/08/2026 08:42,718,customer2639@example.com,60+,Very satisfied,10,5.0,4.0,5.0,5.0,4.0,4,Pour-over;Drip,
+R5149,08/06/2026 12:39,199,customer2037@example.com,30-44,Satisfied,9,4.0,2.0,3.0,4.0,,4,Pour-over;Espresso machine,Love the Ethiopian!
+R5150,08/11/2026 09:20,125,customer0520@example.com,45-59,4,7,5.0,4.0,4.0,4.0,5.0,4,French press;Pour-over;Drip;Moka pot;Cold brew,
+R5151,08/07/2026 10:32,284,customer4683@example.com,45-59,Neutral,10,3.0,3.0,3.0,4.0,4.0,4,Espresso machine;Drip,Too pricey
+R5152,08/15/2026 17:47,480,customer1498@example.com,45-59,Satisfied,8,5.0,2.0,4.0,4.0,2.0,4,French press;Pour-over,
+R5153,08/06/2026 14:02,243,customer4680@example.com,45-59,Satisfied,7,5.0,3.0,5.0,3.0,5.0,4,,
+R5154,08/07/2026 01:58,617,customer3912@example.com,18-29,Very satisfied,9,5.0,3.0,5.0,5.0,5.0,4,French press;Cold brew,
+R5155,08/15/2026 01:59,266,customer0651@example.com,18-29,Satisfied,8,5.0,4.0,2.0,3.0,5.0,4,,
+R5156,08/13/2026 18:30,220,customer4596@example.com,60+,Satisfied,6,4.0,4.0,2.0,5.0,4.0,4,Drip;Moka pot,
+R5157,08/08/2026 11:37,362,customer2408@example.com,30-44,Satisfied,10,5.0,4.0,2.0,5.0,4.0,4,French press;Espresso machine;Drip,Shipping is too slow
+R5158,08/09/2026 20:09,72,customer0488@example.com,18-29,Satisfied,9,5.0,2.0,5.0,5.0,5.0,4,French press,
+R5159,08/08/2026 17:47,218,customer1310@example.com,30-44,Neutral,7,5.0,4.0,4.0,5.0,5.0,4,Pour-over;Drip;Cold brew,
+R5160,08/12/2026 00:37,447,customer1934@example.com,45-59,Very satisfied,9,5.0,5.0,5.0,4.0,2.0,4,Drip,Great packaging
+R5161,08/14/2026 15:44,539,customer3914@example.com,30-44,Satisfied,10,5.0,4.0,5.0,5.0,5.0,4,French press;Cold brew,
+R5162,08/08/2026 10:51,223,customer4464@example.com,18-29,Neutral,9,4.0,5.0,4.0,,4.0,4,Pour-over;Cold brew,
+R5163,08/12/2026 05:24,288,customer4862@example.com,60+,Very satisfied,9,5.0,5.0,5.0,5.0,5.0,4,Drip;Cold brew,
+R5164,08/09/2026 23:38,194,customer2975@example.com,45-59,Satisfied,8,4.0,3.0,4.0,4.0,3.0,4,French press;Drip;Other: Turkish coffee,
+R5165,08/05/2026 04:12,227,customer0347@example.com,30-44,Very satisfied,9,5.0,4.0,4.0,5.0,4.0,4,French press;Pour-over;Drip,
+R5166,08/13/2026 16:36,312,customer4595@example.com,60+,Very satisfied,7,5.0,3.0,4.0,4.0,2.0,4,French press,
+R5167,08/11/2026 01:54,355,customer0196@example.com,30-44,Satisfied,7,5.0,5.0,3.0,5.0,5.0,4,French press;Drip,
+R5168,08/09/2026 20:55,64,customer0592@example.com,30-44,3,10,5.0,3.0,4.0,5.0,4.0,4,French press;Pour-over,Shipping is too slow
+R5169,08/03/2026 13:17,55,customer1872@example.com,60+,Satisfied,9,5.0,4.0,4.0,4.0,4.0,4,Espresso machine,Deliveries arrive late
+R5170,08/13/2026 12:52,518,customer3426@example.com,60+,Very satisfied,10,5.0,5.0,3.0,4.0,5.0,4,French press;Espresso machine;Other: chemex,
+R5171,08/16/2026 16:30,57,customer1659@example.com,30-44,Neutral,9,4.0,3.0,4.0,4.0,4.0,4,Drip;Cold brew,
+R5172,08/04/2026 08:21,74,customer3741@example.com,45-59,Neutral,5,4.0,2.0,3.0,2.0,1.0,4,Moka pot,
+R5173,08/10/2026 11:26,671,customer4362@example.com,60+,Satisfied,10,5.0,4.0,4.0,4.0,5.0,4,Pour-over;Espresso machine;Drip,
+R5174,08/14/2026 19:39,321,customer2094@example.com,30-44,Neutral,7,3.0,,3.0,,3.0,4,French press;Cold brew,
+R5175,08/12/2026 06:40,288,customer3071@example.com,60+,Neutral,4,3.0,3.0,4.0,3.0,2.0,4,Pour-over;Drip;Cold brew,
+R5176,08/16/2026 05:47,353,customer0075@example.com,45-59,Neutral,9,4.0,3.0,4.0,4.0,3.0,4,French press;Other: aeropress,Deliveries arrive late
+R5177,08/16/2026 03:38,667,customer0106@example.com,18-29,Very satisfied,9,5.0,4.0,4.0,3.0,5.0,4,,
+R5178,08/16/2026 14:45,439,customer2190@example.com,30-44,Satisfied,8,,,4.0,2.0,3.0,4,Espresso machine;Cold brew,
+R5179,08/07/2026 13:44,928,customer3497@example.com,30-44,Dissatisfied,7,3.0,2.0,3.0,2.0,5.0,4,French press;Cold brew,
+R5180,08/13/2026 10:25,200,customer3967@example.com,60+,Very satisfied,7,5.0,4.0,3.0,5.0,4.0,4,Moka pot,Keep it up
+R5181,08/05/2026 15:38,230,customer0628@example.com,45-59,Very satisfied,9,3.0,4.0,,5.0,3.0,4,Pour-over;Drip,
+R5182,08/06/2026 11:02,211,customer0746@example.com,45-59,Neutral,8,5.0,4.0,3.0,3.0,4.0,4,Cold brew,
+R5183,08/14/2026 03:18,573,customer4306@example.com,30-44,4,10,3.0,4.0,5.0,4.0,5.0,4,French press;Drip;Cold brew,Deliveries arrive late
+R5184,08/14/2026 16:31,190,customer1945@example.com,60+,Satisfied,10,3.0,2.0,3.0,4.0,3.0,4,French press;Drip,
+R5185,08/16/2026 13:57,468,customer4196@example.com,45-59,Satisfied,8,4.0,2.0,3.0,3.0,2.0,4,French press;Pour-over,
+R5186,08/09/2026 00:15,174,customer0700@example.com,30-44,Satisfied,10,5.0,4.0,4.0,5.0,4.0,4,Espresso machine;Cold brew,Too pricey
+R5187,08/15/2026 02:14,383,customer2859@example.com,45-59,Neutral,8,4.0,,4.0,3.0,3.0,4,,
+R5188,08/06/2026 00:50,259,customer3659@example.com,30-44,Satisfied,8,4.0,3.0,2.0,3.0,3.0,4,Pour-over,Website is confusing
+R5189,08/05/2026 07:14,177,customer1402@example.com,45-59,Very satisfied,10,5.0,4.0,5.0,5.0,4.0,4,French press;Drip,
+R5190,08/04/2026 10:11,457,customer3020@example.com,30-44,Satisfied,6,4.0,1.0,3.0,4.0,4.0,4,Moka pot,
+R5191,08/16/2026 06:48,670,customer1380@example.com,18-29,4,9,5.0,5.0,4.0,3.0,4.0,4,Pour-over;Drip,
+R5192,08/06/2026 16:50,323,customer1693@example.com,30-44,Neutral,8,5.0,2.0,4.0,5.0,5.0,4,French press;Moka pot;Cold brew;Other: Turkish coffee,Website is confusing
+R5193,08/11/2026 17:47,205,customer0065@example.com,18-29,Neutral,6,5.0,3.0,2.0,4.0,4.0,4,Pour-over,More decaf please
+R5194,08/06/2026 07:41,889,customer3132@example.com,60+,Neutral,4,3.0,2.0,4.0,3.0,3.0,4,French press,
+R5195,08/09/2026 18:45,296,customer2477@example.com,30-44,Neutral,9,5.0,4.0,2.0,1.0,4.0,4,French press;Cold brew,
+R5196,08/13/2026 18:23,281,customer1079@example.com,45-59,Very satisfied,9,5.0,5.0,5.0,5.0,5.0,4,Pour-over;Other: chemex,
+R5197,08/08/2026 06:18,260,customer0161@example.com,60+,3,7,4.0,2.0,4.0,3.0,3.0,4,,Shipping is too slow
+R5198,08/06/2026 10:37,384,customer4678@example.com,45-59,Neutral,8,4.0,2.0,3.0,3.0,3.0,4,Drip,
+R5199,08/09/2026 21:53,229,customer4757@example.com,60+,5,10,4.0,3.0,5.0,5.0,4.0,4,French press,
+R5200,08/10/2026 08:44,244,customer3980@example.com,30-44,Dissatisfied,4,4.0,3.0,2.0,3.0,5.0,4,Cold brew,Great packaging
+R5201,08/06/2026 19:20,166,customer2136@example.com,30-44,Satisfied,8,3.0,4.0,4.0,4.0,5.0,4,Espresso machine,
+R5202,08/16/2026 03:47,464,customer4650@example.com,60+,Very satisfied,10,5.0,3.0,4.0,5.0,4.0,4,French press;Espresso machine;Other: percolator,Deliveries arrive late
+R5203,08/12/2026 01:25,524,customer1022@example.com,45-59,Satisfied,10,5.0,3.0,3.0,4.0,4.0,4,French press;Pour-over;Drip;Cold brew,
+R5204,08/14/2026 05:07,350,customer0481@example.com,60+,4,6,5.0,2.0,4.0,4.0,3.0,4,Pour-over;Drip;Cold brew,
+R5205,08/10/2026 03:51,248,customer2303@example.com,30-44,Dissatisfied,6,4.0,2.0,3.0,3.0,3.0,4,Pour-over;Cold brew,
+R5206,08/11/2026 23:24,610,customer2017@example.com,30-44,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Pour-over;Drip;Cold brew,
+R5207,08/08/2026 22:09,429,customer0757@example.com,45-59,Very satisfied,10,5.0,4.0,4.0,5.0,3.0,4,French press;Drip,Too pricey
+R5208,08/09/2026 20:39,270,customer1232@example.com,45-59,5,10,5.0,4.0,3.0,5.0,4.0,4,French press;Espresso machine,Deliveries arrive late
+R5209,08/06/2026 23:34,275,customer4061@example.com,45-59,Satisfied,9,5.0,4.0,2.0,4.0,3.0,4,Drip,
+R5210,08/12/2026 05:39,206,customer0868@example.com,18-29,Satisfied,9,5.0,3.0,2.0,,,4,,
+R5211,08/11/2026 10:47,286,customer3911@example.com,60+,Neutral,5,4.0,1.0,2.0,2.0,2.0,4,,
+R5212,08/13/2026 04:27,153,customer4796@example.com,30-44,Neutral,7,5.0,2.0,,4.0,5.0,4,,
+R5213,08/14/2026 16:40,246,customer2214@example.com,45-59,Neutral,7,5.0,1.0,3.0,2.0,2.0,4,French press;Espresso machine;Drip,
+R5214,08/05/2026 01:31,110,customer1154@example.com,45-59,Neutral,6,4.0,4.0,3.0,4.0,,4,Drip,Too pricey
+R5215,08/16/2026 13:29,220,customer2457@example.com,18-29,Neutral,7,5.0,3.0,3.0,5.0,3.0,4,Pour-over;Other: AeroPress,
+R5216,08/14/2026 16:07,322,customer1516@example.com,30-44,Satisfied,8,5.0,3.0,5.0,5.0,5.0,4,French press;Espresso machine;Moka pot,
+R5217,08/06/2026 20:09,269,customer4967@example.com,45-59,Satisfied,8,5.0,,3.0,5.0,3.0,4,Pour-over;Drip;Other: siphon,
+R5218,08/07/2026 17:09,165,customer0975@example.com,45-59,Satisfied,7,5.0,3.0,4.0,4.0,3.0,4,Espresso machine;Drip,
+R5219,08/09/2026 19:33,281,customer3878@example.com,30-44,Satisfied,7,3.0,4.0,4.0,3.0,3.0,4,French press;Moka pot,Love the Ethiopian!
+R5220,08/07/2026 04:15,226,customer0095@example.com,60+,Satisfied,10,5.0,5.0,3.0,5.0,3.0,4,,Deliveries arrive late
+R5221,08/14/2026 07:26,604,customer2753@example.com,30-44,Satisfied,10,5.0,4.0,5.0,5.0,5.0,4,Espresso machine,
+R5222,08/07/2026 04:19,635,customer2676@example.com,30-44,5,7,5.0,,5.0,4.0,5.0,4,Pour-over;Espresso machine;Cold brew,
+R5223,08/13/2026 10:29,383,customer3441@example.com,30-44,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,Drip;Cold brew,
+R5224,08/15/2026 05:17,170,customer4494@example.com,45-59,3,6,4.0,3.0,4.0,3.0,2.0,4,Drip;Cold brew,
+R5225,08/12/2026 09:51,322,customer1639@example.com,18-29,Satisfied,10,5.0,4.0,3.0,4.0,5.0,4,,
+R5226,08/15/2026 12:34,384,customer0350@example.com,30-44,Satisfied,8,4.0,4.0,3.0,3.0,5.0,4,Pour-over,
+R5227,08/16/2026 13:46,267,customer1450@example.com,30-44,Satisfied,9,4.0,3.0,5.0,3.0,5.0,4,Pour-over;Espresso machine,
+R5228,08/15/2026 19:08,469,customer0204@example.com,45-59,Satisfied,8,4.0,4.0,4.0,5.0,4.0,4,French press,
+R5229,08/10/2026 22:28,153,customer3467@example.com,18-29,4,7,4.0,3.0,2.0,2.0,4.0,4,French press;Espresso machine;Other: AeroPress,
+R5230,08/10/2026 16:13,434,customer2665@example.com,60+,Neutral,8,,3.0,3.0,5.0,4.0,4,Pour-over;Espresso machine;Drip,
+R5231,08/16/2026 12:20,458,customer3342@example.com,30-44,Very satisfied,9,5.0,4.0,5.0,5.0,5.0,4,Cold brew,
+R5232,08/09/2026 02:31,207,customer1808@example.com,45-59,Neutral,8,4.0,2.0,2.0,3.0,2.0,4,Moka pot;Cold brew;Other: percolator,
+R5233,08/05/2026 00:34,702,customer2438@example.com,30-44,Satisfied,8,5.0,4.0,4.0,4.0,3.0,4,Cold brew;Other: siphon,
+R5234,08/13/2026 20:01,277,customer1999@example.com,30-44,Neutral,4,4.0,2.0,1.0,2.0,,4,Cold brew,
+R5235,08/09/2026 06:32,1330,customer3792@example.com,18-29,Satisfied,6,3.0,2.0,3.0,,5.0,4,French press;Pour-over;Espresso machine;Drip;Cold brew,
+R5236,08/04/2026 12:48,301,customer2982@example.com,18-29,Very satisfied,10,5.0,3.0,4.0,5.0,5.0,4,French press;Pour-over,
+R5237,08/04/2026 20:17,585,customer1737@example.com,18-29,Satisfied,10,4.0,4.0,3.0,4.0,3.0,4,,
+R5238,08/04/2026 10:37,380,customer4805@example.com,30-44,Dissatisfied,6,5.0,2.0,3.0,3.0,3.0,4,French press;Cold brew,
+R5239,08/08/2026 19:31,195,customer1673@example.com,60+,Satisfied,9,4.0,2.0,4.0,5.0,2.0,4,,
+R5240,08/03/2026 16:56,52,customer0893@example.com,30-44,Neutral,6,5.0,3.0,3.0,3.0,3.0,4,Pour-over;Drip;Cold brew,
+R5241,08/14/2026 15:13,619,customer1293@example.com,18-29,Neutral,9,5.0,4.0,4.0,3.0,5.0,4,Drip;Cold brew,
+R5242,08/14/2026 03:59,126,customer3864@example.com,60+,Very satisfied,8,4.0,2.0,4.0,5.0,2.0,4,,Deliveries arrive late
+R5243,08/15/2026 03:47,278,customer3061@example.com,45-59,Satisfied,9,5.0,3.0,4.0,5.0,4.0,4,French press;Pour-over,
+R5244,08/16/2026 05:19,283,customer4710@example.com,30-44,Very satisfied,10,5.0,5.0,4.0,5.0,5.0,4,French press;Drip;Moka pot,
+R5245,08/09/2026 07:57,481,customer3584@example.com,30-44,5,10,,5.0,4.0,5.0,5.0,4,French press;Pour-over;Espresso machine;Drip,
+R5246,08/04/2026 05:05,274,customer1392@example.com,18-29,Very satisfied,7,5.0,3.0,4.0,4.0,4.0,4,French press;Espresso machine,
+R5247,08/14/2026 15:54,666,customer1630@example.com,45-59,Satisfied,7,5.0,3.0,4.0,5.0,4.0,4,Espresso machine,
+R5248,08/05/2026 22:08,270,customer1862@example.com,30-44,Very satisfied,10,3.0,4.0,5.0,4.0,5.0,4,French press;Pour-over;Espresso machine,
+R5249,08/12/2026 22:30,161,customer4478@example.com,45-59,Neutral,8,4.0,3.0,3.0,5.0,4.0,4,Espresso machine,
+R5250,08/03/2026 21:48,239,customer4458@example.com,60+,Very satisfied,10,5.0,5.0,5.0,5.0,3.0,4,Drip,
+R5251,08/06/2026 20:19,453,customer0936@example.com,60+,Satisfied,8,5.0,1.0,3.0,4.0,3.0,4,,
+R5252,08/04/2026 11:34,375,customer0725@example.com,45-59,4,10,5.0,4.0,4.0,4.0,2.0,4,French press;Drip,
+R5253,08/16/2026 06:39,358,customer2351@example.com,60+,Satisfied,8,5.0,5.0,4.0,4.0,4.0,4,Drip,
+R5254,08/06/2026 21:08,294,customer1462@example.com,30-44,Satisfied,10,3.0,4.0,4.0,4.0,5.0,4,Pour-over,Too pricey
+R5255,08/03/2026 05:51,461,customer3056@example.com,45-59,Very satisfied,10,5.0,3.0,4.0,5.0,4.0,4,,
+R5256,08/12/2026 16:34,70,customer3368@example.com,18-29,Neutral,8,5.0,3.0,2.0,4.0,3.0,4,Pour-over,
+R5257,08/05/2026 20:08,289,customer3386@example.com,30-44,Neutral,8,5.0,3.0,3.0,4.0,3.0,4,Cold brew,
+R5258,08/11/2026 22:17,405,customer3394@example.com,18-29,Satisfied,10,5.0,4.0,3.0,4.0,5.0,4,Drip;Cold brew,
+R5259,08/06/2026 01:41,350,customer3517@example.com,45-59,Satisfied,6,4.0,4.0,3.0,,3.0,4,Espresso machine;Moka pot,
+R5260,08/11/2026 19:33,258,customer1567@example.com,45-59,Satisfied,10,5.0,4.0,5.0,4.0,5.0,4,French press;Espresso machine,Love the Ethiopian!
+R5261,08/09/2026 13:25,185,customer2952@example.com,45-59,Satisfied,10,5.0,4.0,,,4.0,4,French press;Drip;Other: AeroPress,
+R5262,08/11/2026 15:29,335,customer1666@example.com,45-59,Very satisfied,9,5.0,4.0,5.0,5.0,4.0,4,,Keep it up
+R5263,08/14/2026 03:37,256,customer2144@example.com,45-59,Neutral,6,2.0,2.0,3.0,4.0,2.0,4,French press;Drip,
+R5264,08/12/2026 16:25,121,customer3004@example.com,60+,Satisfied,9,3.0,3.0,2.0,3.0,2.0,4,Espresso machine,
+R5265,08/04/2026 15:10,266,customer4726@example.com,30-44,Very satisfied,10,5.0,4.0,3.0,5.0,5.0,4,Pour-over;Drip,
+R5266,08/12/2026 02:13,351,customer2118@example.com,45-59,Neutral,9,4.0,3.0,5.0,4.0,3.0,4,Pour-over,
+R5267,08/11/2026 20:02,250,customer0256@example.com,60+,3,8,3.0,2.0,3.0,3.0,2.0,4,French press;Espresso machine;Drip;Other: aeropress,
+R5268,08/09/2026 21:41,373,customer2475@example.com,45-59,Satisfied,5,3.0,3.0,3.0,4.0,1.0,4,,
+R5269,08/07/2026 21:28,432,customer4077@example.com,45-59,Neutral,6,2.0,2.0,,,4.0,4,French press;Moka pot,
+R5270,08/05/2026 05:46,122,customer4742@example.com,45-59,Neutral,8,,4.0,5.0,5.0,,4,French press;Pour-over;Espresso machine,
+R5271,08/09/2026 17:41,452,customer3440@example.com,45-59,Satisfied,6,4.0,3.0,4.0,5.0,3.0,4,Espresso machine,
+R5272,08/15/2026 17:44,192,customer3936@example.com,30-44,Satisfied,10,5.0,3.0,,4.0,5.0,4,Espresso machine;Drip,
+R5273,08/08/2026 04:39,355,customer0026@example.com,18-29,Satisfied,8,5.0,3.0,4.0,4.0,5.0,4,French press,
+R5274,08/16/2026 22:57,82,customer1694@example.com,45-59,Satisfied,10,5.0,3.0,4.0,4.0,4.0,4,Espresso machine;Cold brew,
+R5275,08/11/2026 16:27,250,customer4289@example.com,30-44,Satisfied,7,2.0,3.0,4.0,5.0,5.0,4,Espresso machine,
+R5276,08/08/2026 12:43,636,customer4140@example.com,60+,Neutral,7,5.0,1.0,2.0,4.0,4.0,4,French press;Pour-over;Espresso machine;Drip;Cold brew,
+R5277,08/03/2026 20:31,413,customer1835@example.com,18-29,Very satisfied,10,5.0,5.0,5.0,5.0,5.0,4,,Deliveries arrive late
+R5278,08/04/2026 23:39,350,customer1045@example.com,18-29,Very satisfied,7,4.0,3.0,4.0,4.0,5.0,4,French press;Espresso machine,
+R5279,08/14/2026 20:19,56,customer1646@example.com,45-59,Satisfied,10,5.0,2.0,1.0,4.0,3.0,4,French press;Pour-over;Espresso machine,
+R5280,08/13/2026 04:14,519,customer2203@example.com,45-59,Satisfied,10,5.0,5.0,5.0,4.0,3.0,4,Pour-over;Drip,
+R5281,08/08/2026 20:05,414,customer0358@example.com,60+,Satisfied,9,4.0,2.0,4.0,4.0,3.0,4,Espresso machine;Drip;Cold brew,
+R5282,08/11/2026 13:51,230,customer3563@example.com,18-29,Neutral,8,4.0,3.0,3.0,4.0,5.0,4,Pour-over,
+R5283,08/13/2026 13:30,222,customer4601@example.com,30-44,Satisfied,7,4.0,3.0,3.0,4.0,,4,French press;Espresso machine;Drip;Cold brew,
+R5284,08/13/2026 20:08,453,customer0321@example.com,45-59,Neutral,6,4.0,3.0,4.0,3.0,1.0,4,Pour-over,
+R5285,08/11/2026 04:06,546,customer3962@example.com,60+,Satisfied,7,3.0,5.0,2.0,3.0,3.0,4,French press;Pour-over,
+R5286,08/11/2026 00:35,245,customer4944@example.com,45-59,Satisfied,7,5.0,3.0,3.0,4.0,5.0,4,,
+R5287,08/10/2026 04:25,1123,customer0310@example.com,60+,Satisfied,6,5.0,2.0,4.0,3.0,3.0,3,Drip;Cold brew,
+R5288,08/05/2026 09:01,165,customer0246@example.com,18-29,Very satisfied,10,5.0,3.0,4.0,5.0,5.0,4,Espresso machine;Cold brew,
+R5289,08/08/2026 09:20,337,customer1350@example.com,30-44,Neutral,7,5.0,2.0,2.0,2.0,4.0,4,French press,
+R5290,08/15/2026 11:10,480,customer0775@example.com,60+,Neutral,10,5.0,4.0,4.0,,3.0,4,French press;Drip;Cold brew,
+R5291,08/11/2026 16:04,670,customer4608@example.com,45-59,Satisfied,8,3.0,2.0,3.0,5.0,4.0,4,,
+R5292,08/09/2026 22:34,229,customer0035@example.com,45-59,Satisfied,10,5.0,4.0,4.0,5.0,5.0,4,Cold brew,
+R5293,08/16/2026 00:51,553,customer1464@example.com,18-29,Satisfied,7,4.0,5.0,4.0,4.0,5.0,4,Pour-over;Cold brew,Too pricey
+R5294,08/14/2026 11:49,299,customer2587@example.com,30-44,Neutral,6,3.0,2.0,1.0,3.0,,4,Drip;Cold brew,
+R5295,08/09/2026 21:39,213,customer0925@example.com,60+,Satisfied,8,4.0,3.0,3.0,3.0,4.0,4,French press,
+R5296,08/05/2026 06:12,316,customer3159@example.com,60+,3,6,3.0,4.0,3.0,3.0,2.0,4,Drip;Cold brew,
+R5297,08/12/2026 19:36,280,customer2653@example.com,45-59,Satisfied,6,5.0,4.0,3.0,5.0,3.0,5,,
+R5298,08/04/2026 17:35,238,customer1685@example.com,60+,Neutral,7,5.0,2.0,4.0,3.0,2.0,4,Drip,Website is confusing
+R5299,08/03/2026 00:34,230,customer1253@example.com,45-59,Neutral,7,4.0,3.0,2.0,4.0,3.0,4,Espresso machine;Moka pot,
+R6000,08/08/2026 13:02,236,customer0144@example.com,60+,Very satisfied,8,4.0,5.0,4.0,5.0,5.0,4,Pour-over;Drip;Other: Turkish coffee,
+R6001,08/04/2026 03:16,346,customer3544@example.com,18-29,Very satisfied,8,5.0,4.0,4.0,4.0,5.0,4,French press;Pour-over,
+R6002,08/06/2026 19:16,186,customer4928@example.com,18-29,Satisfied,6,4.0,1.0,4.0,3.0,4.0,4,French press;Pour-over,Great packaging
+R6003,08/12/2026 00:53,270,customer0511@example.com,30-44,Dissatisfied,6,3.0,2.0,2.0,3.0,3.0,4,,
+R6004,08/03/2026 12:37,459,customer0689@example.com,45-59,Very satisfied,10,5.0,5.0,5.0,4.0,5.0,4,French press;Pour-over;Drip;Moka pot,
+R6005,08/13/2026 00:06,383,customer0150@example.com,45-59,Neutral,7,3.0,3.0,2.0,4.0,3.0,4,Pour-over;Drip;Other: Turkish coffee,
+R6006,08/05/2026 20:28,175,customer4672@example.com,18-29,3,8,3.0,3.0,3.0,2.0,5.0,4,Espresso machine,
+R6007,08/16/2026 08:10,347,customer1775@example.com,30-44,4,9,5.0,5.0,4.0,3.0,5.0,4,French press;Pour-over;Espresso machine,
+R6008,08/16/2026 19:22,245,customer0758@example.com,45-59,Satisfied,7,5.0,2.0,4.0,4.0,2.0,4,French press;Espresso machine;Drip,
+R6009,08/07/2026 01:36,409,customer4986@example.com,30-44,Satisfied,7,4.0,2.0,2.0,3.0,5.0,4,Pour-over;Moka pot,
+R6010,08/13/2026 19:36,312,customer4595@example.com,60+,Very satisfied,7,5.0,3.0,4.0,4.0,2.0,4,French press,
+R6011,08/14/2026 19:13,447,customer0910@example.com,30-44,2,4,3.0,2.0,4.0,3.0,3.0,4,French press,
+R6012,08/06/2026 01:27,345,customer1727@example.com,60+,Satisfied,9,4.0,1.0,2.0,3.0,3.0,4,Pour-over,More decaf please
+R6013,08/13/2026 07:32,617,customer1428@example.com,45-59,Neutral,8,5.0,3.0,4.0,4.0,3.0,5,French press,
+R6014,08/16/2026 17:47,210,customer3354@example.com,60+,Dissatisfied,8,4.0,3.0,1.0,3.0,2.0,4,Espresso machine,Deliveries arrive late
+R6015,08/13/2026 06:45,906,customer3749@example.com,30-44,Neutral,8,5.0,4.0,,4.0,4.0,4,French press;Pour-over;Drip;Cold brew,
+R6016,08/16/2026 14:35,541,customer0874@example.com,60+,Neutral,8,5.0,3.0,2.0,3.0,4.0,4,French press;Drip;Cold brew,Too pricey
+R6017,08/07/2026 14:36,231,customer1183@example.com,18-29,Neutral,8,4.0,3.0,4.0,4.0,5.0,4,French press;Pour-over,Great packaging
+R6018,08/08/2026 16:00,312,customer2579@example.com,30-44,Neutral,6,4.0,2.0,4.0,2.0,3.0,4,French press;Moka pot,
+R6019,08/14/2026 19:33,399,customer2010@example.com,45-59,Very satisfied,9,5.0,4.0,4.0,4.0,3.0,4,French press,
+R6020,08/12/2026 17:53,435,customer2631@example.com,30-44,Very satisfied,8,4.0,3.0,5.0,3.0,,4,Cold brew,Love the Ethiopian!
+R6021,08/05/2026 12:01,165,customer0246@example.com,18-29,Very satisfied,10,5.0,3.0,4.0,5.0,5.0,4,Espresso machine;Cold brew,
+R6022,08/15/2026 19:21,155,customer4463@example.com,45-59,4,7,4.0,3.0,4.0,3.0,3.0,4,Other: percolator,Too pricey
+R6023,08/04/2026 16:00,274,customer1733@example.com,45-59,4,9,5.0,4.0,4.0,5.0,3.0,4,French press;Other: Turkish coffee,
+R6024,08/12/2026 00:03,294,customer2915@example.com,60+,Dissatisfied,6,4.0,1.0,3.0,5.0,4.0,4,Pour-over;Cold brew,Deliveries arrive late

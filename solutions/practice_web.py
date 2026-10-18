@@ -1,20 +1,22 @@
 """Practice web server for Part II of "Python for Data Science".
 
 It runs on your own computer and plays the part of several real websites
-and web APIs, so that every example in Chapters 6 to 10 and Projects 2 to 4
+and web APIs, so that every example in Chapters 6 to 10 and Projects 4 to 6
 works without an internet connection and gives the same answers every time:
 
     /api/v1/...        a city bike-share API: paginated JSON, an API key,
                        a rate limit, a flaky and a slow endpoint (Chapter 6)
     /v2/...            a development-indicators API in the World Bank's
-                       format, serving Gapminder figures (Project 2)
+                       format, serving Gapminder figures (Project 4)
     /v1/archive        a historical weather API in Open-Meteo's format,
-                       with generated daily weather (Project 6)
+                       with generated daily weather (Project 9)
+    /jobs/...          a job board with listing pages, posting pages and an
+                       RSS feed, archived by date (Project 14)
     /shop/...          a bookstore website to scrape: catalog pages, book
                        pages, categories, a login form (Chapters 7, 8, 10)
     /data/...          pages with HTML tables (Chapter 7)
     /js-store/...      a store whose products are loaded by JavaScript
-                       (Chapter 9, Project 4)
+                       (Chapter 9, Project 6)
     /robots.txt        the site's rules for crawlers (Chapter 10)
 
 Start it in a terminal and leave it running while you try the examples:
@@ -325,6 +327,273 @@ def wx_series(lat, lon):
     return WX_CACHE[key]
 
 
+# ---------------------------------------------------------------- job board
+ROLES = {   # title: base salary, skills that the role asks for often
+    "Data Analyst": (82000, ["SQL", "Excel", "Tableau", "Power BI",
+                             "Python", "statistics"]),
+    "Senior Data Analyst": (104000, ["SQL", "Python", "Tableau", "dbt",
+                                     "statistics", "A/B testing"]),
+    "Data Scientist": (138000, ["Python", "SQL", "scikit-learn",
+                                "statistics", "A/B testing", "R", "LLMs"]),
+    "Machine Learning Engineer": (162000, ["Python", "scikit-learn",
+                                           "PyTorch", "AWS", "Docker",
+                                           "Kubernetes", "LLMs"]),
+    "Data Engineer": (142000, ["Python", "SQL", "Spark", "Airflow", "dbt",
+                               "AWS", "Docker", "Hadoop"]),
+    "Analytics Engineer": (126000, ["SQL", "dbt", "Python", "Airflow",
+                                    "Tableau"]),
+    "BI Developer": (101000, ["SQL", "Power BI", "Tableau", "Excel"]),
+    "Business Analyst": (84000, ["Excel", "SQL", "Power BI",
+                                 "statistics"]),
+}
+SKILL_TEXT = {   # the ways postings write each skill
+    "Python": ["Python", "Python", "python", "Python 3"],
+    "SQL": ["SQL", "SQL", "PostgreSQL", "T-SQL"],
+    "Excel": ["Excel", "Microsoft Excel", "advanced Excel"],
+    "Tableau": ["Tableau"], "Power BI": ["Power BI", "PowerBI"],
+    "statistics": ["statistics", "statistical analysis"],
+    "A/B testing": ["A/B testing", "experimentation (A/B tests)"],
+    "dbt": ["dbt", "dbt Core"], "R": ["R"],
+    "scikit-learn": ["scikit-learn", "sklearn"], "PyTorch": ["PyTorch"],
+    "AWS": ["AWS", "Amazon Web Services"], "Docker": ["Docker"],
+    "Kubernetes": ["Kubernetes", "k8s"],
+    "Spark": ["Spark", "PySpark", "Apache Spark"],
+    "Airflow": ["Airflow", "Apache Airflow"], "Hadoop": ["Hadoop"],
+    "LLMs": ["LLMs", "large language models", "generative AI", "GenAI"],
+    "Polars": ["Polars"],
+}
+TRENDS = {"LLMs": (0.45, 2.6), "dbt": (0.8, 1.6), "Polars": (0.3, 3.0),
+          "Hadoop": (1.0, 0.35), "Tableau": (1.0, 0.85),
+          "Power BI": (1.0, 1.15), "R": (1.0, 0.8)}
+COMPANIES = ["Northwind Analytics", "Bluegate Health", "Cobalt Retail",
+             "Juniper Logistics", "Lakeshore Bank", "Meridian Media",
+             "Orbit Travel", "Pinecrest Insurance", "Quarry Labs",
+             "Redwood Energy", "Saltmarsh Foods", "Tidewater Games",
+             "Upland Robotics", "Vantage Telecom", "Willow Learning",
+             "Zephyr Mobility", "Brightpath Software", "Copperline Pay",
+             "Driftwood Home", "Evergreen Clinics", "Foundry Cloud",
+             "Granite Sports", "Hollow Pine Studios", "Ironclad Security"]
+CITIES = {"New York, NY": 1.15, "San Francisco, CA": 1.2,
+          "Seattle, WA": 1.12, "Boston, MA": 1.08, "Austin, TX": 1.0,
+          "Chicago, IL": 1.0, "Denver, CO": 0.98, "Atlanta, GA": 0.95,
+          "Pittsburgh, PA": 0.9, "Remote (US)": 1.0}
+JOB_TODAY = date(2026, 9, 28)
+
+
+def make_jobs():
+    rng = random.Random(1414)
+    jobs, first = [], date(2026, 5, 15)
+    for n in range(1100):
+        posted = first + timedelta(days=rng.randint(0, 135))
+        t = min(max((posted - date(2026, 6, 1)).days / 120, 0), 1)
+        if jobs and rng.random() < 0.05:          # a repost of an old ad
+            old = rng.choice(jobs[-200:])
+            jobs.append({**old, "id": f"J{10001 + n}", "posted": posted,
+                         "days": rng.randint(14, 42)})
+            continue
+        title = rng.choices(list(ROLES), weights=[18, 8, 14, 7, 14, 8, 7,
+                                                  9])[0]
+        base, wanted = ROLES[title]
+        skills = []
+        for skill in SKILL_TEXT:
+            p = (0.75 if skill in wanted[:2] else 0.42 if skill in wanted
+                 else 0.04)
+            if skill in TRENDS:
+                a, b = TRENDS[skill]
+                p *= a + (b - a) * t
+            if rng.random() < min(p, 0.95):
+                skills.append(skill)
+        city = rng.choices(list(CITIES), weights=[12, 7, 8, 6, 7, 8, 5, 5,
+                                                  4, 30])[0]
+        salary = base * CITIES[city] * rng.uniform(0.88, 1.12)
+        salary *= 1.1 if "LLMs" in skills else 1.0
+        jobs.append({"id": f"J{10001 + n}", "title": title,
+                     "company": rng.choice(COMPANIES), "location": city,
+                     "posted": posted, "days": rng.randint(14, 42),
+                     "skills": skills, "salary": salary,
+                     "pay_style": rng.choices(range(6), weights=[45, 15,
+                                                                 10, 8, 5,
+                                                                 17])[0],
+                     "seed": rng.random()})
+    for job in jobs:
+        job["salary_text"] = salary_text(job)
+        job["description"] = job_description(job)
+    return jobs
+
+
+def salary_text(job):
+    low, high = job["salary"] * 0.9, job["salary"] * 1.1
+    style = job["pay_style"]
+    if style == 2 and "Analyst" not in job["title"]:
+        style = 0
+    if style == 0:
+        return f"${round(low, -3):,.0f} - ${round(high, -3):,.0f} a year"
+    if style == 1:
+        return f"${low / 1000:.0f}K\u2013${high / 1000:.0f}K"
+    if style == 2:
+        return f"${low / 2080:.0f} - ${high / 2080:.0f} an hour"
+    if style == 3:
+        return f"Up to ${round(high, -3):,.0f} per year"
+    if style == 4:
+        return f"From ${round(low, -3):,.0f} a year"
+    return "Competitive" if job["seed"] < 0.5 else ""
+
+
+def job_description(job):
+    rng = random.Random(job["id"] + job["title"])
+    said = [rng.choice(SKILL_TEXT[s]) for s in job["skills"]]
+    intro = (f"{job['company']} is hiring a {job['title']} to join our "
+             f"{rng.choice(['analytics', 'data', 'insights', 'platform'])}"
+             " team.")
+    rd = (" You will partner with our R&D group on new products."
+          if rng.random() < 0.15 else "")
+    if said:
+        need = "You have experience with " + (
+            ", ".join(said[:-1]) + " and " + said[-1] if len(said) > 1
+            else said[0]) + "."
+    else:
+        need = "You are curious and love working with data."
+    return (f"{intro}{rd} {need} You will turn questions from the "
+            "business into clear answers and help others use data well.")
+
+
+JOBS = make_jobs()
+
+
+def active_jobs(day):
+    return sorted((j for j in JOBS if j["posted"] <= day
+                   < j["posted"] + timedelta(days=j["days"])),
+                  key=lambda j: (j["posted"], j["id"]), reverse=True)
+
+
+def ago(posted, day):
+    days = (day - posted).days
+    return ("Posted today" if days == 0 else "Posted yesterday"
+            if days == 1 else f"Posted {days} days ago" if days < 30
+            else "Posted 30+ days ago")
+
+
+def jobs_listing(day, number, per_page=25):
+    jobs = active_jobs(day)
+    pages = max(1, math.ceil(len(jobs) / per_page))
+    cards = []
+    for j in jobs[(number - 1) * per_page:number * per_page]:
+        pay = (f'<span class="salary">{html.escape(j["salary_text"])}'
+               "</span>" if j["salary_text"] else "")
+        cards.append(
+            f'<article class="job" data-id="{j["id"]}">'
+            f'<h2><a href="/jobs/posting/{j["id"]}.html">'
+            f'{html.escape(j["title"])}</a></h2>'
+            f'<p class="company">{html.escape(j["company"])}</p>'
+            f'<p class="location">{html.escape(j["location"])}</p>'
+            f'{pay}<p class="posted">{ago(j["posted"], day)}</p>'
+            "</article>")
+    nxt = (f'<a class="next" href="/jobs/?date={day}&amp;page={number + 1}"'
+           ">Next</a>" if number < pages else "")
+    feed = (f'<link rel="alternate" type="application/rss+xml" '
+            f'title="Jobs feed" href="/jobs/feed.xml?date={day}">')
+    body = (f"<h1>Data jobs</h1><p class=\"count\">{len(jobs)} open "
+            f"positions on {day:%B} {day.day}, {day.year}</p>" + "\n".join(cards)
+            + f'<nav class="pager">Page {number} of {pages} {nxt}</nav>')
+    return page("Data jobs | Riverton Careers", body).replace(
+        "</head>", feed + "</head>", 1)
+
+
+def job_page(job):
+    pay = job["salary_text"] or "Not listed"
+    ld = json.dumps({"@context": "https://schema.org/",
+                     "@type": "JobPosting", "title": job["title"],
+                     "datePosted": job["posted"].isoformat(),
+                     "hiringOrganization": {"name": job["company"]},
+                     "jobLocation": job["location"]})
+    body = (f'<h1>{html.escape(job["title"])}</h1>'
+            f'<p class="company">{html.escape(job["company"])}</p>'
+            f'<p class="location">{html.escape(job["location"])}</p>'
+            f'<p class="salary">{html.escape(pay)}</p>'
+            f'<p>Posted <time datetime="{job["posted"]}">'
+            f'{job["posted"]:%B} {job["posted"].day}, {job["posted"].year}'
+            '</time></p>'
+            f'<div class="description"><p>{html.escape(job["description"])}'
+            f'</p></div><a href="/jobs/apply/{job["id"]}">Apply</a>'
+            f'<script type="application/ld+json">{ld}</script>')
+    return page(f'{job["title"]} | Riverton Careers', body)
+
+
+def jobs_feed(day, number, per_page=50):
+    jobs = active_jobs(day)
+    pages = max(1, math.ceil(len(jobs) / per_page))
+    items = []
+    for j in jobs[(number - 1) * per_page:number * per_page]:
+        stamp = datetime(j["posted"].year, j["posted"].month,
+                         j["posted"].day, 9).strftime(
+                             "%a, %d %b %Y %H:%M:%S +0000")
+        items.append(
+            f"<item><guid>{j['id']}</guid>"
+            f"<title>{html.escape(j['title'])}</title>"
+            f"<link>{BASE}/jobs/posting/{j['id']}.html</link>"
+            f"<pubDate>{stamp}</pubDate>"
+            f"<job:company>{html.escape(j['company'])}</job:company>"
+            f"<job:location>{html.escape(j['location'])}</job:location>"
+            f"<job:salary>{html.escape(j['salary_text'])}</job:salary>"
+            f"<description>{html.escape(j['description'])}</description>"
+            "</item>")
+    nxt = (f'<atom:link rel="next" href="{BASE}/jobs/feed.xml?date={day}'
+           f'&amp;page={number + 1}"/>' if number < pages else "")
+    return ('<?xml version="1.0" encoding="utf-8"?>\n<rss version="2.0" '
+            'xmlns:atom="http://www.w3.org/2005/Atom" '
+            'xmlns:job="https://riverton.example/jobs">\n<channel>'
+            f"<title>Data jobs on {day}</title>{nxt}\n"
+            + "\n".join(items) + "\n</channel></rss>\n")
+
+
+# ----------------------------------------------------- a table to parse
+CITY_ROWS = [  # country, city, city proper, metro area, note
+    ("Japan", "Tokyo", 13_960_000, 37_194_000, 1),
+    ("Japan", "Osaka", 2_752_000, 19_059_000, 0),
+    ("India", "Delhi", 16_788_000, 32_941_000, 2),
+    ("India", "Mumbai", 12_478_000, 21_297_000, 0),
+    ("India", "Kolkata", 4_497_000, 15_333_000, 0),
+    ("China", "Shanghai", 24_870_000, 29_211_000, 3),
+    ("China", "Beijing", 21_893_000, 21_766_000, 3),
+    ("Brazil", "S\u00e3o Paulo", 11_451_000, 22_620_000, 0),
+    ("Mexico", "Mexico City", 9_209_000, 22_505_000, 0),
+    ("Egypt", "Cairo", 10_100_000, 22_183_000, 0),
+    ("United States", "New York", 8_336_000, 19_498_000, 0),
+    ("United States", "Los Angeles", 3_822_000, 12_799_000, 0),
+]
+
+
+def cities_page():
+    notes = {1: "Tokyo's 23 special wards.",
+             2: "National Capital Territory of Delhi.",
+             3: "Population of the whole municipality."}
+    rows, seen = [], {}
+    for country, *_ in CITY_ROWS:
+        seen[country] = seen.get(country, 0) + 1
+    done = set()
+    for country, city, proper, metro, note in CITY_ROWS:
+        mark = f'<sup><a href="#note-{note}">[{note}]</a></sup>' \
+            if note else ""
+        cell = ""
+        if country not in done:
+            cell = (f'<td rowspan="{seen[country]}">{country}</td>')
+            done.add(country)
+        slug = slugify(city)
+        rows.append(f'<tr>{cell}<td><a href="/data/city/{slug}.html">'
+                    f"{html.escape(city)}</a></td><td>{proper:,}{mark}</td>"
+                    f"<td>{metro:,}</td></tr>")
+    body = ("<h1>Large cities of the world</h1>"
+            '<table class="data"><thead>'
+            '<tr><th rowspan="2">Country</th><th rowspan="2">City</th>'
+            '<th colspan="2">Population</th></tr>'
+            "<tr><th>City proper</th><th>Metro area</th></tr></thead>"
+            "<tbody>" + "".join(rows) + "</tbody></table>"
+            '<ol class="notes">' + "".join(
+                f'<li id="note-{k}">{v}</li>' for k, v in notes.items())
+            + "</ol><p>Figures rounded, latest census or estimate.</p>")
+    return page("Large cities", body)
+
+
 TIMEZONES = {"GMT": ("GMT", 0), "UTC": ("UTC", 0),
              "America/New_York": ("EST", -18000),
              "America/Phoenix": ("MST", -25200),
@@ -429,6 +698,7 @@ ROBOTS = """# Corner Books practice site
 User-agent: *
 Disallow: /shop/admin/
 Disallow: /shop/cart
+Disallow: /jobs/apply/
 Crawl-delay: 1
 
 User-agent: GreedyBot
@@ -650,6 +920,10 @@ class Handler(BaseHTTPRequestHandler):
             return self.shop(path, query)
         if path == "/data/life-expectancy-2007.html":
             return self.send(200, table_page())
+        if path == "/data/largest-cities.html":
+            return self.send(200, cities_page())
+        if path.startswith("/jobs"):
+            return self.jobs(path, query)
         if path in ("/js-store", "/js-store/", "/js-store/index.html"):
             return self.send(200, JS_STORE)
         if path == "/js-store/feed.html":
@@ -826,6 +1100,25 @@ class Handler(BaseHTTPRequestHandler):
             "daily_units": {"time": "iso8601",
                             **{n: WX_VARIABLES[n] for n in names}},
             "daily": daily})
+
+    # ----- job board
+    def jobs(self, path, query):
+        try:
+            day = date.fromisoformat(query.get("date") or str(JOB_TODAY))
+        except ValueError:
+            return self.send(400, page("Bad date", "<h1>Bad date</h1>"))
+        number = max(int(query.get("page", 1)), 1)
+        if path in ("/jobs", "/jobs/", "/jobs/index.html"):
+            return self.send(200, jobs_listing(day, number))
+        if path == "/jobs/feed.xml":
+            return self.send(200, jobs_feed(day, number),
+                             "application/rss+xml; charset=utf-8")
+        if path.startswith("/jobs/posting/"):
+            ident = path.rsplit("/", 1)[-1].removesuffix(".html")
+            job = next((j for j in JOBS if j["id"] == ident), None)
+            if job:
+                return self.send(200, job_page(job))
+        self.send(404, page("Not found", "<h1>404: page not found</h1>"))
 
     # ----- JS store API
     def store_api(self, path, query):

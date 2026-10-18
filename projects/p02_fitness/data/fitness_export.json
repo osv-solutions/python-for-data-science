@@ -1,0 +1,6501 @@
+{
+ "app": "StrideLog",
+ "version": "4.2.0",
+ "exported_at": "2026-01-02T08:15:00",
+ "user": {
+  "name": "Sam Rivera",
+  "height_cm": 172,
+  "units": "metric"
+ },
+ "days": [
+  {
+   "date": "2025-01-01",
+   "steps": 3030,
+   "distance_m": 2299,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-01-01T22:21",
+    "end": "2025-01-02T04:48",
+    "stages_min": {
+     "deep": 63,
+     "rem": 89,
+     "light": 221,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-02",
+   "steps": 6597,
+   "distance_m": 5158,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-01-02T23:28",
+    "end": "2025-01-03T06:20",
+    "stages_min": {
+     "deep": 78,
+     "rem": 91,
+     "light": 233,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-04",
+   "steps": 5686,
+   "distance_m": 4397,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-01-04T23:46",
+    "end": "2025-01-05T08:03",
+    "stages_min": {
+     "deep": 95,
+     "rem": 93,
+     "light": 296,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-05",
+   "steps": 6608,
+   "distance_m": 4925,
+   "resting_hr": 63,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-01-06",
+   "steps": 5639,
+   "distance_m": 4247,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-06T23:23",
+    "end": "2025-01-07T07:01",
+    "stages_min": {
+     "deep": 69,
+     "rem": 97,
+     "light": 266,
+     "awake": 25
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-01-06T12:50",
+     "duration_s": 1595,
+     "calories": 263,
+     "distance_m": 4373
+    }
+   ]
+  },
+  {
+   "date": "2025-01-07",
+   "steps": 4496,
+   "distance_m": 3456,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-07T22:59",
+    "end": "2025-01-08T06:10",
+    "stages_min": {
+     "deep": 59,
+     "rem": 81,
+     "light": 259,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-01-07T12:40",
+     "duration_s": 3357,
+     "calories": 274,
+     "distance_m": 4674
+    }
+   ]
+  },
+  {
+   "date": "2025-01-08",
+   "steps": 2427,
+   "distance_m": 1861,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-08T23:35",
+    "end": "2025-01-09T06:57",
+    "stages_min": {
+     "deep": 72,
+     "rem": 104,
+     "light": 255,
+     "awake": 11
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-01-08T12:06",
+     "duration_s": 2533,
+     "calories": 417,
+     "distance_m": 16888
+    }
+   ]
+  },
+  {
+   "date": "2025-01-09",
+   "steps": 5124,
+   "distance_m": 4017,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-01-09T20:59",
+    "end": "2025-01-10T03:56",
+    "stages_min": {
+     "deep": 58,
+     "rem": 78,
+     "light": 269,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-10",
+   "steps": 5531,
+   "distance_m": 4247,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-01-10T22:42",
+    "end": "2025-01-11T04:25",
+    "stages_min": {
+     "deep": 43,
+     "rem": 81,
+     "light": 200,
+     "awake": 19
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-01-10T12:18",
+     "duration_s": 2772,
+     "calories": 493,
+     "distance_m": 8071
+    }
+   ]
+  },
+  {
+   "date": "2025-01-11",
+   "steps": 8883,
+   "distance_m": 6762,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-01-11T23:49",
+    "end": "2025-01-12T06:47",
+    "stages_min": {
+     "deep": 62,
+     "rem": 81,
+     "light": 240,
+     "awake": 35
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-01-11T07:55",
+     "duration_s": 2727,
+     "calories": 373,
+     "distance_m": 1687
+    }
+   ]
+  },
+  {
+   "date": "2025-01-12",
+   "steps": 10061,
+   "distance_m": 7990,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-01-13T00:59",
+    "end": "2025-01-13T10:07",
+    "stages_min": {
+     "deep": 92,
+     "rem": 116,
+     "light": 317,
+     "awake": 23
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-13",
+   "steps": 5177,
+   "distance_m": 3880,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-01-13T22:46",
+    "end": "2025-01-14T05:05",
+    "stages_min": {
+     "deep": 62,
+     "rem": 85,
+     "light": 203,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-14",
+   "steps": 3602,
+   "distance_m": 2847,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-01-14T22:30",
+    "end": "2025-01-15T06:42",
+    "stages_min": {
+     "deep": 64,
+     "rem": 89,
+     "light": 309,
+     "awake": 30
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-01-14T18:12",
+     "duration_s": 3778,
+     "calories": 273,
+     "distance_m": 5172
+    }
+   ]
+  },
+  {
+   "date": "2025-01-15",
+   "steps": 1276,
+   "distance_m": 969,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-15T22:18",
+    "end": "2025-01-16T04:45",
+    "stages_min": {
+     "deep": 52,
+     "rem": 78,
+     "light": 227,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-16",
+   "steps": 4472,
+   "distance_m": 3560,
+   "resting_hr": 64,
+   "sleep": {
+    "start": "2025-01-16T23:12",
+    "end": "2025-01-17T06:37",
+    "stages_min": {
+     "deep": 61,
+     "rem": 95,
+     "light": 267,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-01-16T07:31",
+     "duration_s": 1634,
+     "calories": 142
+    }
+   ]
+  },
+  {
+   "date": "2025-01-17",
+   "steps": 4479,
+   "distance_m": 3471,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-01-17T22:54",
+    "end": "2025-01-18T05:36",
+    "stages_min": {
+     "deep": 52,
+     "rem": 75,
+     "light": 248,
+     "awake": 27
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-18",
+   "steps": 6373,
+   "distance_m": 4758,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-19T00:03",
+    "end": "2025-01-19T10:09",
+    "stages_min": {
+     "deep": 81,
+     "rem": 110,
+     "light": 390,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-19",
+   "steps": 7396,
+   "distance_m": 5584,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-01-19T23:54",
+    "end": "2025-01-20T08:19",
+    "stages_min": {
+     "deep": 80,
+     "rem": 101,
+     "light": 293,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-01-19T07:44",
+     "duration_s": 2718,
+     "calories": 436,
+     "distance_m": 7958
+    }
+   ]
+  },
+  {
+   "date": "2025-01-20",
+   "steps": 2929,
+   "distance_m": 2200,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-01-20T22:28",
+    "end": "2025-01-21T06:42",
+    "stages_min": {
+     "deep": 65,
+     "rem": 84,
+     "light": 309,
+     "awake": 36
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-01-20T07:36",
+     "duration_s": 2467,
+     "calories": 488,
+     "distance_m": 7289
+    }
+   ]
+  },
+  {
+   "date": "2025-01-21",
+   "steps": 7372,
+   "distance_m": 5864,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-01-21T20:59",
+    "end": "2025-01-22T04:15",
+    "stages_min": {
+     "deep": 66,
+     "rem": 91,
+     "light": 249,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-22",
+   "steps": 3000,
+   "distance_m": 2313,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-01-22T22:52",
+    "end": "2025-01-23T06:48",
+    "stages_min": {
+     "deep": 81,
+     "rem": 97,
+     "light": 288,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-23",
+   "steps": 6428,
+   "distance_m": 4957,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-23T23:40",
+    "end": "2025-01-24T07:04",
+    "stages_min": {
+     "deep": 62,
+     "rem": 92,
+     "light": 274,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-24",
+   "steps": 5434,
+   "distance_m": 4338,
+   "resting_hr": 65,
+   "sleep": {
+    "start": "2025-01-24T23:50",
+    "end": "2025-01-25T08:19",
+    "stages_min": {
+     "deep": 96,
+     "rem": 118,
+     "light": 272,
+     "awake": 23
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-25",
+   "steps": 6059,
+   "distance_m": 4662,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-01-25T23:26",
+    "end": "2025-01-26T07:35",
+    "stages_min": {
+     "deep": 80,
+     "rem": 103,
+     "light": 277,
+     "awake": 28
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-01-25T07:28",
+     "duration_s": 3155,
+     "calories": 234,
+     "distance_m": 4703
+    }
+   ]
+  },
+  {
+   "date": "2025-01-26",
+   "steps": 6860,
+   "distance_m": 5101,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-01-27T01:02",
+    "end": "2025-01-27T09:09",
+    "stages_min": {
+     "deep": 83,
+     "rem": 104,
+     "light": 285,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-27",
+   "steps": 7724,
+   "distance_m": 5922,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-01-27T23:25",
+    "end": "2025-01-28T07:14",
+    "stages_min": {
+     "deep": 63,
+     "rem": 92,
+     "light": 280,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-28",
+   "steps": 2412,
+   "distance_m": 1904,
+   "resting_hr": 61,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-01-29",
+   "steps": 5367,
+   "distance_m": 4058,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-01-29T22:25",
+    "end": "2025-01-30T05:04",
+    "stages_min": {
+     "deep": 73,
+     "rem": 67,
+     "light": 232,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-30",
+   "steps": 7264,
+   "distance_m": 5663,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-01-30T22:41",
+    "end": "2025-01-31T05:39",
+    "stages_min": {
+     "deep": 64,
+     "rem": 89,
+     "light": 255,
+     "awake": 11
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-01-31",
+   "steps": 5458,
+   "distance_m": 4343,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-01-31T22:26",
+    "end": "2025-02-01T05:05",
+    "stages_min": {
+     "deep": 62,
+     "rem": 81,
+     "light": 239,
+     "awake": 17
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-01-31T12:28",
+     "duration_s": 3906,
+     "calories": 284,
+     "distance_m": 5354
+    }
+   ]
+  },
+  {
+   "date": "2025-02-01",
+   "steps": 4498,
+   "distance_m": 3405,
+   "resting_hr": 64,
+   "sleep": {
+    "start": "2025-02-01T23:51",
+    "end": "2025-02-02T07:47",
+    "stages_min": {
+     "deep": 63,
+     "rem": 111,
+     "light": 271,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-02",
+   "steps": 6486,
+   "distance_m": 5167,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-02-02T23:49",
+    "end": "2025-02-03T08:48",
+    "stages_min": {
+     "deep": 98,
+     "rem": 112,
+     "light": 299,
+     "awake": 30
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-02-02T12:21",
+     "duration_s": 1725,
+     "calories": 325,
+     "distance_m": 5160
+    }
+   ]
+  },
+  {
+   "date": "2025-02-03",
+   "steps": 5700,
+   "distance_m": 4219,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-02-03T22:59",
+    "end": "2025-02-04T06:40",
+    "stages_min": {
+     "deep": 56,
+     "rem": 90,
+     "light": 281,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-04",
+   "steps": 3650,
+   "distance_m": 2762,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-04T22:26",
+    "end": "2025-02-05T04:04",
+    "stages_min": {
+     "deep": 52,
+     "rem": 66,
+     "light": 213,
+     "awake": 7
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-05",
+   "steps": 6090,
+   "distance_m": 4516,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-02-05T22:55",
+    "end": "2025-02-06T05:35",
+    "stages_min": {
+     "deep": 68,
+     "rem": 83,
+     "light": 232,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-06",
+   "steps": 2621,
+   "distance_m": 1985,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-06T22:25",
+    "end": "2025-02-07T05:43",
+    "stages_min": {
+     "deep": 82,
+     "rem": 85,
+     "light": 251,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-07",
+   "steps": 6902,
+   "distance_m": 5417,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-02-07T22:47",
+    "end": "2025-02-08T07:12",
+    "stages_min": {
+     "deep": 90,
+     "rem": 111,
+     "light": 277,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-08",
+   "steps": 7437,
+   "distance_m": 5587,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-09T00:26",
+    "end": "2025-02-09T09:16",
+    "stages_min": {
+     "deep": 84,
+     "rem": 100,
+     "light": 325,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-09",
+   "steps": 6215,
+   "distance_m": 4626,
+   "resting_hr": 63,
+   "sleep": null,
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-02-09T18:52",
+     "duration_s": 2748,
+     "calories": 424,
+     "distance_m": 19408
+    }
+   ]
+  },
+  {
+   "date": "2025-02-10",
+   "steps": 8774,
+   "distance_m": 6585,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-02-10T21:33",
+    "end": "2025-02-11T06:43",
+    "stages_min": {
+     "deep": 95,
+     "rem": 114,
+     "light": 310,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-02-10T07:20",
+     "duration_s": 3879,
+     "calories": 593,
+     "distance_m": 29131
+    }
+   ]
+  },
+  {
+   "date": "2025-02-11",
+   "steps": 4730,
+   "distance_m": 3672,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-02-11T22:43",
+    "end": "2025-02-12T06:22",
+    "stages_min": {
+     "deep": 61,
+     "rem": 83,
+     "light": 295,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-12",
+   "steps": 5683,
+   "distance_m": 4507,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-12T22:03",
+    "end": "2025-02-13T04:37",
+    "stages_min": {
+     "deep": 65,
+     "rem": 88,
+     "light": 229,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-13",
+   "steps": 3742,
+   "distance_m": 2925,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-02-13T22:54",
+    "end": "2025-02-14T05:34",
+    "stages_min": {
+     "deep": 55,
+     "rem": 73,
+     "light": 249,
+     "awake": 21
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-02-13T12:46",
+     "duration_s": 2544,
+     "calories": 432,
+     "distance_m": 6690
+    }
+   ]
+  },
+  {
+   "date": "2025-02-14",
+   "steps": 6434,
+   "distance_m": 5101,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-14T22:25",
+    "end": "2025-02-15T05:49",
+    "stages_min": {
+     "deep": 64,
+     "rem": 103,
+     "light": 270,
+     "awake": 8
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-15",
+   "steps": 6308,
+   "distance_m": 4937,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-02-16T00:01",
+    "end": "2025-02-16T07:12",
+    "stages_min": {
+     "deep": 59,
+     "rem": 87,
+     "light": 249,
+     "awake": 36
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-02-15T12:28",
+     "duration_s": 3309,
+     "calories": 508,
+     "distance_m": 21728
+    }
+   ]
+  },
+  {
+   "date": "2025-02-17",
+   "steps": 6266,
+   "distance_m": 4939,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-02-17T22:59",
+    "end": "2025-02-18T06:11",
+    "stages_min": {
+     "deep": 59,
+     "rem": 84,
+     "light": 279,
+     "awake": 9
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-02-17T12:51",
+     "duration_s": 1531,
+     "calories": 141
+    }
+   ]
+  },
+  {
+   "date": "2025-02-18",
+   "steps": 1689,
+   "distance_m": 1291,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-02-18T22:39",
+    "end": "2025-02-19T05:01",
+    "stages_min": {
+     "deep": 58,
+     "rem": 74,
+     "light": 231,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-19",
+   "steps": 3837,
+   "distance_m": 2955,
+   "resting_hr": 65,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-02-20",
+   "steps": 7871,
+   "distance_m": 5842,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-02-20T22:17",
+    "end": "2025-02-21T04:57",
+    "stages_min": {
+     "deep": 59,
+     "rem": 90,
+     "light": 245,
+     "awake": 6
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-02-20T07:21",
+     "duration_s": 2208,
+     "calories": 184,
+     "distance_m": 3004
+    }
+   ]
+  },
+  {
+   "date": "2025-02-21",
+   "steps": 4454,
+   "distance_m": 3421,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-21T22:31",
+    "end": "2025-02-22T06:55",
+    "stages_min": {
+     "deep": 72,
+     "rem": 87,
+     "light": 320,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-22",
+   "steps": 10166,
+   "distance_m": 7583,
+   "resting_hr": 64,
+   "sleep": {
+    "start": "2025-02-22T23:31",
+    "end": "2025-02-23T08:06",
+    "stages_min": {
+     "deep": 86,
+     "rem": 88,
+     "light": 313,
+     "awake": 27
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-02-22T12:34",
+     "duration_s": 1342,
+     "calories": 258,
+     "distance_m": 3711
+    }
+   ]
+  },
+  {
+   "date": "2025-02-23",
+   "steps": 6882,
+   "distance_m": 5474,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-02-23T23:40",
+    "end": "2025-02-24T09:21",
+    "stages_min": {
+     "deep": 101,
+     "rem": 131,
+     "light": 338,
+     "awake": 11
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-24",
+   "steps": 7392,
+   "distance_m": 5867,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-02-24T21:47",
+    "end": "2025-02-25T05:18",
+    "stages_min": {
+     "deep": 77,
+     "rem": 94,
+     "light": 268,
+     "awake": 12
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-02-24T12:36",
+     "duration_s": 2924,
+     "calories": 248,
+     "distance_m": 4351
+    }
+   ]
+  },
+  {
+   "date": "2025-02-25",
+   "steps": 6088,
+   "distance_m": 4508,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-02-25T22:18",
+    "end": "2025-02-26T04:59",
+    "stages_min": {
+     "deep": 51,
+     "rem": 66,
+     "light": 249,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-26",
+   "steps": 8655,
+   "distance_m": 6644,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-02-26T22:33",
+    "end": "2025-02-27T05:51",
+    "stages_min": {
+     "deep": 60,
+     "rem": 75,
+     "light": 276,
+     "awake": 28
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-02-26T18:40",
+     "duration_s": 3842,
+     "calories": 302,
+     "distance_m": 5483
+    }
+   ]
+  },
+  {
+   "date": "2025-02-27",
+   "steps": 9020,
+   "distance_m": 6768,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-02-27T21:59",
+    "end": "2025-02-28T05:22",
+    "stages_min": {
+     "deep": 72,
+     "rem": 104,
+     "light": 247,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-02-28",
+   "steps": 1815,
+   "distance_m": 1420,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-02-28T23:32",
+    "end": "2025-03-01T06:05",
+    "stages_min": {
+     "deep": 59,
+     "rem": 70,
+     "light": 250,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-01",
+   "steps": 8347,
+   "distance_m": 6643,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-02T00:06",
+    "end": "2025-03-02T09:09",
+    "stages_min": {
+     "deep": 81,
+     "rem": 93,
+     "light": 345,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-02",
+   "steps": 9897,
+   "distance_m": 7593,
+   "resting_hr": 65,
+   "sleep": {
+    "start": "2025-03-02T23:32",
+    "end": "2025-03-03T08:12",
+    "stages_min": {
+     "deep": 87,
+     "rem": 102,
+     "light": 318,
+     "awake": 15
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-03",
+   "steps": 7121,
+   "distance_m": 5689,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-03-03T23:11",
+    "end": "2025-03-04T07:14",
+    "stages_min": {
+     "deep": 85,
+     "rem": 83,
+     "light": 282,
+     "awake": 33
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-03-03T07:09",
+     "duration_s": 2729,
+     "calories": 197,
+     "distance_m": 3903
+    }
+   ]
+  },
+  {
+   "date": "2025-03-04",
+   "steps": 4690,
+   "distance_m": 3553,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-04T22:33",
+    "end": "2025-03-05T06:01",
+    "stages_min": {
+     "deep": 80,
+     "rem": 86,
+     "light": 257,
+     "awake": 25
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-03-04T07:08",
+     "duration_s": 1947,
+     "calories": 157,
+     "distance_m": 2837
+    }
+   ]
+  },
+  {
+   "date": "2025-03-05",
+   "steps": 3255,
+   "distance_m": 2500,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-03-05T22:42",
+    "end": "2025-03-06T05:38",
+    "stages_min": {
+     "deep": 54,
+     "rem": 84,
+     "light": 260,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-06",
+   "steps": 4175,
+   "distance_m": 3164,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-03-06T22:30",
+    "end": "2025-03-07T07:34",
+    "stages_min": {
+     "deep": 95,
+     "rem": 131,
+     "light": 309,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-08",
+   "steps": 9254,
+   "distance_m": 7148,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-09T00:34",
+    "end": "2025-03-09T10:10",
+    "stages_min": {
+     "deep": 110,
+     "rem": 118,
+     "light": 328,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-09",
+   "steps": 11820,
+   "distance_m": 8923,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-03-09T23:11",
+    "end": "2025-03-10T08:08",
+    "stages_min": {
+     "deep": 84,
+     "rem": 115,
+     "light": 303,
+     "awake": 36
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-10",
+   "steps": 4619,
+   "distance_m": 3614,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-03-10T23:39",
+    "end": "2025-03-11T07:46",
+    "stages_min": {
+     "deep": 63,
+     "rem": 86,
+     "light": 304,
+     "awake": 34
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-03-10T07:32",
+     "duration_s": 1425,
+     "calories": 278,
+     "distance_m": 3865
+    }
+   ]
+  },
+  {
+   "date": "2025-03-11",
+   "steps": 7720,
+   "distance_m": 6103,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-11T23:54",
+    "end": "2025-03-12T06:52",
+    "stages_min": {
+     "deep": 68,
+     "rem": 82,
+     "light": 234,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-13",
+   "steps": 4213,
+   "distance_m": 3120,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-13T23:21",
+    "end": "2025-03-14T06:57",
+    "stages_min": {
+     "deep": 64,
+     "rem": 86,
+     "light": 280,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-14",
+   "steps": 4991,
+   "distance_m": 3753,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-14T23:02",
+    "end": "2025-03-15T07:24",
+    "stages_min": {
+     "deep": 66,
+     "rem": 103,
+     "light": 318,
+     "awake": 15
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-15",
+   "steps": 5694,
+   "distance_m": 4440,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-15T23:52",
+    "end": "2025-03-16T06:51",
+    "stages_min": {
+     "deep": 69,
+     "rem": 71,
+     "light": 247,
+     "awake": 34
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-03-15T18:35",
+     "duration_s": 6199,
+     "calories": 1019,
+     "distance_m": 40202
+    }
+   ]
+  },
+  {
+   "date": "2025-03-16",
+   "steps": 169,
+   "distance_m": 127,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-03-17",
+   "steps": 4987,
+   "distance_m": 3987,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-03-17T22:06",
+    "end": "2025-03-18T04:50",
+    "stages_min": {
+     "deep": 78,
+     "rem": 83,
+     "light": 231,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-18",
+   "steps": 5993,
+   "distance_m": 4694,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-18T22:26",
+    "end": "2025-03-19T06:22",
+    "stages_min": {
+     "deep": 65,
+     "rem": 95,
+     "light": 297,
+     "awake": 18
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-03-18T07:17",
+     "duration_s": 4770,
+     "calories": 721,
+     "distance_m": 34231
+    }
+   ]
+  },
+  {
+   "date": "2025-03-19",
+   "steps": 6543,
+   "distance_m": 5089,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-19T23:09",
+    "end": "2025-03-20T06:02",
+    "stages_min": {
+     "deep": 73,
+     "rem": 96,
+     "light": 222,
+     "awake": 23
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-20",
+   "steps": 7699,
+   "distance_m": 6113,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-20T21:58",
+    "end": "2025-03-21T04:49",
+    "stages_min": {
+     "deep": 57,
+     "rem": 70,
+     "light": 251,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-21",
+   "steps": 9604,
+   "distance_m": 7158,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-03-21T22:34",
+    "end": "2025-03-22T05:59",
+    "stages_min": {
+     "deep": 76,
+     "rem": 74,
+     "light": 260,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-22",
+   "steps": 9665,
+   "distance_m": 7687,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-03-22T23:35",
+    "end": "2025-03-23T07:38",
+    "stages_min": {
+     "deep": 77,
+     "rem": 105,
+     "light": 273,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-23",
+   "steps": 6293,
+   "distance_m": 5015,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-23T23:15",
+    "end": "2025-03-24T07:43",
+    "stages_min": {
+     "deep": 82,
+     "rem": 117,
+     "light": 279,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-24",
+   "steps": 7329,
+   "distance_m": 5580,
+   "resting_hr": 60,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-03-25",
+   "steps": 4234,
+   "distance_m": 3348,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-25T23:25",
+    "end": "2025-03-26T06:54",
+    "stages_min": {
+     "deep": 66,
+     "rem": 105,
+     "light": 262,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-26",
+   "steps": 8363,
+   "distance_m": 6296,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-03-26T23:35",
+    "end": "2025-03-27T07:04",
+    "stages_min": {
+     "deep": 71,
+     "rem": 103,
+     "light": 245,
+     "awake": 29
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-27",
+   "steps": 6587,
+   "distance_m": 5097,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-03-27T23:15",
+    "end": "2025-03-28T07:41",
+    "stages_min": {
+     "deep": 96,
+     "rem": 102,
+     "light": 288,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-28",
+   "steps": 7390,
+   "distance_m": 5618,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-28T22:29",
+    "end": "2025-03-29T04:22",
+    "stages_min": {
+     "deep": 51,
+     "rem": 62,
+     "light": 216,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-03-29",
+   "steps": 10080,
+   "distance_m": 7810,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-03-30T00:28",
+    "end": "2025-03-30T08:00",
+    "stages_min": {
+     "deep": 67,
+     "rem": 97,
+     "light": 276,
+     "awake": 12
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-03-29T18:12",
+     "duration_s": 2539,
+     "calories": 433,
+     "distance_m": 7019
+    }
+   ]
+  },
+  {
+   "date": "2025-03-30",
+   "steps": 9487,
+   "distance_m": 7257,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-03-30T22:39",
+    "end": "2025-03-31T07:37",
+    "stages_min": {
+     "deep": 84,
+     "rem": 104,
+     "light": 330,
+     "awake": 21
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-03-30T12:51",
+     "duration_s": 2855,
+     "calories": 484,
+     "distance_m": 2004
+    }
+   ]
+  },
+  {
+   "date": "2025-03-31",
+   "steps": 2364,
+   "distance_m": 1863,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-03-31T22:52",
+    "end": "2025-04-01T06:05",
+    "stages_min": {
+     "deep": 81,
+     "rem": 89,
+     "light": 240,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-03-31T18:33",
+     "duration_s": 2508,
+     "calories": 214,
+     "distance_m": 3682
+    }
+   ]
+  },
+  {
+   "date": "2025-04-01",
+   "steps": 3707,
+   "distance_m": 2820,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-04-01T23:08",
+    "end": "2025-04-02T06:07",
+    "stages_min": {
+     "deep": 68,
+     "rem": 73,
+     "light": 254,
+     "awake": 24
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-04-01T07:28",
+     "duration_s": 4379,
+     "calories": 601,
+     "distance_m": 31498
+    }
+   ]
+  },
+  {
+   "date": "2025-04-02",
+   "steps": 6364,
+   "distance_m": 5065,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-04-02T22:38",
+    "end": "2025-04-03T07:02",
+    "stages_min": {
+     "deep": 91,
+     "rem": 90,
+     "light": 299,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-04-02T12:47",
+     "duration_s": 1972,
+     "calories": 160,
+     "distance_m": 2891
+    }
+   ]
+  },
+  {
+   "date": "2025-04-03",
+   "steps": 6916,
+   "distance_m": 5224,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-04-03T22:50",
+    "end": "2025-04-04T06:07",
+    "stages_min": {
+     "deep": 55,
+     "rem": 81,
+     "light": 278,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-04-03T12:15",
+     "duration_s": 4874,
+     "calories": 674,
+     "distance_m": 34306
+    }
+   ]
+  },
+  {
+   "date": "2025-04-04",
+   "steps": 7814,
+   "distance_m": 5901,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-04-04T23:31",
+    "end": "2025-04-05T06:54",
+    "stages_min": {
+     "deep": 81,
+     "rem": 90,
+     "light": 261,
+     "awake": 11
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-05",
+   "steps": 5881,
+   "distance_m": 4620,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-04-06T00:09",
+    "end": "2025-04-06T10:19",
+    "stages_min": {
+     "deep": 97,
+     "rem": 144,
+     "light": 352,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-06",
+   "steps": 10985,
+   "distance_m": 8238,
+   "resting_hr": 58,
+   "sleep": null,
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-04-06T12:44",
+     "duration_s": 1505,
+     "calories": 259,
+     "distance_m": 4084
+    }
+   ]
+  },
+  {
+   "date": "2025-04-07",
+   "steps": 6133,
+   "distance_m": 4777,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-04-07T22:30",
+    "end": "2025-04-08T06:03",
+    "stages_min": {
+     "deep": 85,
+     "rem": 98,
+     "light": 243,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-08",
+   "steps": 2950,
+   "distance_m": 2328,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-04-08T21:49",
+    "end": "2025-04-09T06:05",
+    "stages_min": {
+     "deep": 79,
+     "rem": 95,
+     "light": 296,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-09",
+   "steps": 6695,
+   "distance_m": 5125,
+   "resting_hr": 58,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-04-10",
+   "steps": 2502,
+   "distance_m": 1952,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-04-11T00:12",
+    "end": "2025-04-11T08:15",
+    "stages_min": {
+     "deep": 76,
+     "rem": 91,
+     "light": 289,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-11",
+   "steps": 8057,
+   "distance_m": 6150,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-04-11T22:14",
+    "end": "2025-04-12T03:51",
+    "stages_min": {
+     "deep": 43,
+     "rem": 75,
+     "light": 199,
+     "awake": 19
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-12",
+   "steps": 10761,
+   "distance_m": 8334,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-04-13T00:43",
+    "end": "2025-04-13T08:57",
+    "stages_min": {
+     "deep": 95,
+     "rem": 101,
+     "light": 287,
+     "awake": 11
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-13",
+   "steps": 6464,
+   "distance_m": 4858,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-04-13T23:31",
+    "end": "2025-04-14T07:31",
+    "stages_min": {
+     "deep": 68,
+     "rem": 85,
+     "light": 316,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-14",
+   "steps": 9065,
+   "distance_m": 6722,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-04-14T22:58",
+    "end": "2025-04-15T06:00",
+    "stages_min": {
+     "deep": 75,
+     "rem": 94,
+     "light": 225,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-15",
+   "steps": 7532,
+   "distance_m": 5711,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-04-15T23:27",
+    "end": "2025-04-16T06:17",
+    "stages_min": {
+     "deep": 62,
+     "rem": 87,
+     "light": 229,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-16",
+   "steps": 5680,
+   "distance_m": 4540,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-04-16T23:13",
+    "end": "2025-04-17T05:54",
+    "stages_min": {
+     "deep": 63,
+     "rem": 88,
+     "light": 226,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-17",
+   "steps": 10839,
+   "distance_m": 8605,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-04-17T22:32",
+    "end": "2025-04-18T05:42",
+    "stages_min": {
+     "deep": 77,
+     "rem": 94,
+     "light": 241,
+     "awake": 17
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-04-17T07:51",
+     "duration_s": 2315,
+     "calories": 444,
+     "distance_m": 6521
+    }
+   ]
+  },
+  {
+   "date": "2025-04-18",
+   "steps": 4155,
+   "distance_m": 3136,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-04-18T22:57",
+    "end": "2025-04-19T06:19",
+    "stages_min": {
+     "deep": 62,
+     "rem": 77,
+     "light": 287,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-19",
+   "steps": 6851,
+   "distance_m": 5149,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-04-19T23:27",
+    "end": "2025-04-20T06:38",
+    "stages_min": {
+     "deep": 68,
+     "rem": 77,
+     "light": 279,
+     "awake": 6
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-04-19T12:52",
+     "duration_s": 2869,
+     "calories": 306
+    }
+   ]
+  },
+  {
+   "date": "2025-04-20",
+   "steps": 8269,
+   "distance_m": 6600,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-04-20T23:46",
+    "end": "2025-04-21T07:09",
+    "stages_min": {
+     "deep": 78,
+     "rem": 80,
+     "light": 277,
+     "awake": 8
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-04-20T07:02",
+     "duration_s": 1472,
+     "calories": 126
+    }
+   ]
+  },
+  {
+   "date": "2025-04-21",
+   "steps": 11708,
+   "distance_m": 9041,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-04-21T22:58",
+    "end": "2025-04-22T05:52",
+    "stages_min": {
+     "deep": 75,
+     "rem": 71,
+     "light": 243,
+     "awake": 25
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-04-21T07:47",
+     "duration_s": 2891,
+     "calories": 243,
+     "distance_m": 4331
+    }
+   ]
+  },
+  {
+   "date": "2025-04-22",
+   "steps": 6302,
+   "distance_m": 4888,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-04-22T21:45",
+    "end": "2025-04-23T05:19",
+    "stages_min": {
+     "deep": 56,
+     "rem": 78,
+     "light": 286,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-23",
+   "steps": 8543,
+   "distance_m": 6650,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-04-23T22:21",
+    "end": "2025-04-24T05:40",
+    "stages_min": {
+     "deep": 67,
+     "rem": 89,
+     "light": 251,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-24",
+   "steps": 9986,
+   "distance_m": 7943,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-04-24T23:02",
+    "end": "2025-04-25T05:36",
+    "stages_min": {
+     "deep": 53,
+     "rem": 86,
+     "light": 227,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-25",
+   "steps": 9627,
+   "distance_m": 7585,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-04-25T21:38",
+    "end": "2025-04-26T04:48",
+    "stages_min": {
+     "deep": 80,
+     "rem": 81,
+     "light": 247,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-04-26",
+   "steps": 12249,
+   "distance_m": 9101,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-04-26T23:53",
+    "end": "2025-04-27T07:58",
+    "stages_min": {
+     "deep": 84,
+     "rem": 88,
+     "light": 299,
+     "awake": 15
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-04-26T07:56",
+     "duration_s": 1269,
+     "calories": 224,
+     "distance_m": 3722
+    }
+   ]
+  },
+  {
+   "date": "2025-04-27",
+   "steps": 8258,
+   "distance_m": 6239,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-04-27T23:08",
+    "end": "2025-04-28T07:21",
+    "stages_min": {
+     "deep": 95,
+     "rem": 108,
+     "light": 272,
+     "awake": 18
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-04-27T07:02",
+     "duration_s": 4186,
+     "calories": 309,
+     "distance_m": 6216
+    }
+   ]
+  },
+  {
+   "date": "2025-04-28",
+   "steps": 7066,
+   "distance_m": 5262,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-04-28T22:57",
+    "end": "2025-04-29T06:20",
+    "stages_min": {
+     "deep": 70,
+     "rem": 98,
+     "light": 242,
+     "awake": 33
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-04-28T12:56",
+     "duration_s": 6094,
+     "calories": 973,
+     "distance_m": 40494
+    }
+   ]
+  },
+  {
+   "date": "2025-04-29",
+   "steps": 11766,
+   "distance_m": 9050,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-04-29T22:46",
+    "end": "2025-04-30T06:14",
+    "stages_min": {
+     "deep": 56,
+     "rem": 87,
+     "light": 274,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-04-29T12:45",
+     "duration_s": 1574,
+     "calories": 301,
+     "distance_m": 4384
+    }
+   ]
+  },
+  {
+   "date": "2025-04-30",
+   "steps": 12188,
+   "distance_m": 9268,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-04-30T22:33",
+    "end": "2025-05-01T05:21",
+    "stages_min": {
+     "deep": 69,
+     "rem": 90,
+     "light": 241,
+     "awake": 8
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-01",
+   "steps": 8808,
+   "distance_m": 6695,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-05-01T22:02",
+    "end": "2025-05-02T05:21",
+    "stages_min": {
+     "deep": 81,
+     "rem": 93,
+     "light": 236,
+     "awake": 29
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-05-01T18:22",
+     "duration_s": 2959,
+     "calories": 280
+    }
+   ]
+  },
+  {
+   "date": "2025-05-02",
+   "steps": 10315,
+   "distance_m": 7939,
+   "resting_hr": 62,
+   "sleep": {
+    "start": "2025-05-02T22:59",
+    "end": "2025-05-03T06:11",
+    "stages_min": {
+     "deep": 68,
+     "rem": 104,
+     "light": 251,
+     "awake": 8
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-03",
+   "steps": 14373,
+   "distance_m": 10650,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-03T22:57",
+    "end": "2025-05-04T06:52",
+    "stages_min": {
+     "deep": 66,
+     "rem": 95,
+     "light": 305,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-04",
+   "steps": 8170,
+   "distance_m": 6455,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-04T23:36",
+    "end": "2025-05-05T07:31",
+    "stages_min": {
+     "deep": 62,
+     "rem": 93,
+     "light": 302,
+     "awake": 18
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-05",
+   "steps": 340,
+   "distance_m": 261,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-05-06",
+   "steps": 5953,
+   "distance_m": 4724,
+   "resting_hr": 66,
+   "sleep": {
+    "start": "2025-05-06T23:19",
+    "end": "2025-05-07T06:39",
+    "stages_min": {
+     "deep": 80,
+     "rem": 85,
+     "light": 257,
+     "awake": 18
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-07",
+   "steps": 10269,
+   "distance_m": 7906,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-05-07T22:27",
+    "end": "2025-05-08T06:05",
+    "stages_min": {
+     "deep": 81,
+     "rem": 83,
+     "light": 259,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-08",
+   "steps": 9262,
+   "distance_m": 6907,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-05-08T21:37",
+    "end": "2025-05-09T05:03",
+    "stages_min": {
+     "deep": 77,
+     "rem": 88,
+     "light": 252,
+     "awake": 28
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-05-08T18:49",
+     "duration_s": 2236,
+     "calories": 370,
+     "distance_m": 6149
+    }
+   ]
+  },
+  {
+   "date": "2025-05-09",
+   "steps": 7464,
+   "distance_m": 5906,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-05-09T22:27",
+    "end": "2025-05-10T06:17",
+    "stages_min": {
+     "deep": 79,
+     "rem": 85,
+     "light": 274,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-10",
+   "steps": 9482,
+   "distance_m": 7228,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-05-10T23:57",
+    "end": "2025-05-11T07:54",
+    "stages_min": {
+     "deep": 73,
+     "rem": 95,
+     "light": 279,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-11",
+   "steps": 10659,
+   "distance_m": 8325,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-05-11T23:47",
+    "end": "2025-05-12T07:02",
+    "stages_min": {
+     "deep": 64,
+     "rem": 87,
+     "light": 251,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-12",
+   "steps": 10626,
+   "distance_m": 7943,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-12T21:59",
+    "end": "2025-05-13T06:08",
+    "stages_min": {
+     "deep": 63,
+     "rem": 98,
+     "light": 295,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-13",
+   "steps": 9641,
+   "distance_m": 7190,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-05-13T21:18",
+    "end": "2025-05-14T05:13",
+    "stages_min": {
+     "deep": 79,
+     "rem": 110,
+     "light": 251,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-14",
+   "steps": 8952,
+   "distance_m": 6865,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-14T22:10",
+    "end": "2025-05-15T06:30",
+    "stages_min": {
+     "deep": 64,
+     "rem": 92,
+     "light": 310,
+     "awake": 34
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-05-14T12:25",
+     "duration_s": 2588,
+     "calories": 438,
+     "distance_m": 8121
+    }
+   ]
+  },
+  {
+   "date": "2025-05-15",
+   "steps": 10052,
+   "distance_m": 7846,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-05-15T22:22",
+    "end": "2025-05-16T06:26",
+    "stages_min": {
+     "deep": 90,
+     "rem": 93,
+     "light": 271,
+     "awake": 29
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-16",
+   "steps": 9590,
+   "distance_m": 7458,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-16T22:19",
+    "end": "2025-05-17T05:14",
+    "stages_min": {
+     "deep": 78,
+     "rem": 86,
+     "light": 240,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-17",
+   "steps": 12341,
+   "distance_m": 9714,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-05-18T01:07",
+    "end": "2025-05-18T08:44",
+    "stages_min": {
+     "deep": 63,
+     "rem": 99,
+     "light": 269,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-18",
+   "steps": 12315,
+   "distance_m": 9520,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-05-19T00:00",
+    "end": "2025-05-19T07:23",
+    "stages_min": {
+     "deep": 63,
+     "rem": 78,
+     "light": 277,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-19",
+   "steps": 127,
+   "distance_m": 94,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-05-20",
+   "steps": 11100,
+   "distance_m": 8227,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-05-20T22:41",
+    "end": "2025-05-21T05:46",
+    "stages_min": {
+     "deep": 55,
+     "rem": 92,
+     "light": 251,
+     "awake": 27
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-05-20T18:48",
+     "duration_s": 3276,
+     "calories": 300,
+     "distance_m": 4773
+    }
+   ]
+  },
+  {
+   "date": "2025-05-21",
+   "steps": 8815,
+   "distance_m": 6927,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-05-21T22:59",
+    "end": "2025-05-22T07:42",
+    "stages_min": {
+     "deep": 97,
+     "rem": 122,
+     "light": 270,
+     "awake": 35
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-05-21T18:55",
+     "duration_s": 3431,
+     "calories": 276,
+     "distance_m": 4918
+    }
+   ]
+  },
+  {
+   "date": "2025-05-22",
+   "steps": 11368,
+   "distance_m": 8690,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-05-22T23:56",
+    "end": "2025-05-23T07:05",
+    "stages_min": {
+     "deep": 63,
+     "rem": 79,
+     "light": 270,
+     "awake": 18
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-05-22T18:51",
+     "duration_s": 2362,
+     "calories": 407,
+     "distance_m": 7034
+    }
+   ]
+  },
+  {
+   "date": "2025-05-23",
+   "steps": 8686,
+   "distance_m": 6922,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-23T22:27",
+    "end": "2025-05-24T07:07",
+    "stages_min": {
+     "deep": 72,
+     "rem": 110,
+     "light": 304,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-24",
+   "steps": 9810,
+   "distance_m": 7737,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-05-25T01:10",
+    "end": "2025-05-25T10:14",
+    "stages_min": {
+     "deep": 86,
+     "rem": 99,
+     "light": 331,
+     "awake": 27
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-05-24T12:07",
+     "duration_s": 2967,
+     "calories": 340
+    }
+   ]
+  },
+  {
+   "date": "2025-05-26",
+   "steps": 9827,
+   "distance_m": 7703,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-05-26T23:28",
+    "end": "2025-05-27T06:43",
+    "stages_min": {
+     "deep": 76,
+     "rem": 74,
+     "light": 254,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-27",
+   "steps": 12647,
+   "distance_m": 9377,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-05-27T22:57",
+    "end": "2025-05-28T07:07",
+    "stages_min": {
+     "deep": 85,
+     "rem": 111,
+     "light": 288,
+     "awake": 6
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-28",
+   "steps": 230,
+   "distance_m": 177,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-05-29",
+   "steps": 12191,
+   "distance_m": 9697,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-05-29T22:16",
+    "end": "2025-05-30T06:09",
+    "stages_min": {
+     "deep": 88,
+     "rem": 89,
+     "light": 268,
+     "awake": 29
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-05-31",
+   "steps": 11999,
+   "distance_m": 9223,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-05-31T23:34",
+    "end": "2025-06-01T07:37",
+    "stages_min": {
+     "deep": 70,
+     "rem": 102,
+     "light": 295,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-01",
+   "steps": 11159,
+   "distance_m": 8589,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-02T00:53",
+    "end": "2025-06-02T07:59",
+    "stages_min": {
+     "deep": 71,
+     "rem": 86,
+     "light": 260,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-02",
+   "steps": 10912,
+   "distance_m": 8127,
+   "resting_hr": 63,
+   "sleep": {
+    "start": "2025-06-02T21:03",
+    "end": "2025-06-03T04:20",
+    "stages_min": {
+     "deep": 74,
+     "rem": 89,
+     "light": 253,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-03",
+   "steps": 8422,
+   "distance_m": 6473,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-06-03T23:02",
+    "end": "2025-06-04T06:36",
+    "stages_min": {
+     "deep": 60,
+     "rem": 83,
+     "light": 286,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-04",
+   "steps": 12082,
+   "distance_m": 9466,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-06-04T23:18",
+    "end": "2025-06-05T05:42",
+    "stages_min": {
+     "deep": 52,
+     "rem": 91,
+     "light": 229,
+     "awake": 13
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-06-04T12:49",
+     "duration_s": 3707,
+     "calories": 587,
+     "distance_m": 24090
+    }
+   ]
+  },
+  {
+   "date": "2025-06-05",
+   "steps": 11436,
+   "distance_m": 8953,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-05T22:23",
+    "end": "2025-06-06T04:57",
+    "stages_min": {
+     "deep": 49,
+     "rem": 84,
+     "light": 239,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-06",
+   "steps": 10953,
+   "distance_m": 8215,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-06-06T22:27",
+    "end": "2025-06-07T05:32",
+    "stages_min": {
+     "deep": 75,
+     "rem": 85,
+     "light": 231,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-07",
+   "steps": 10005,
+   "distance_m": 7667,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-06-07T22:58",
+    "end": "2025-06-08T06:37",
+    "stages_min": {
+     "deep": 75,
+     "rem": 94,
+     "light": 279,
+     "awake": 11
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-06-07T18:31",
+     "duration_s": 1772,
+     "calories": 281,
+     "distance_m": 5218
+    }
+   ]
+  },
+  {
+   "date": "2025-06-08",
+   "steps": 7508,
+   "distance_m": 5675,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-08T23:38",
+    "end": "2025-06-09T08:02",
+    "stages_min": {
+     "deep": 76,
+     "rem": 116,
+     "light": 306,
+     "awake": 7
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-09",
+   "steps": 6935,
+   "distance_m": 5166,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-06-09T22:01",
+    "end": "2025-06-10T06:10",
+    "stages_min": {
+     "deep": 90,
+     "rem": 117,
+     "light": 264,
+     "awake": 18
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-06-09T07:34",
+     "duration_s": 3335,
+     "calories": 290
+    }
+   ]
+  },
+  {
+   "date": "2025-06-10",
+   "steps": 9430,
+   "distance_m": 6986,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-10T21:47",
+    "end": "2025-06-11T05:29",
+    "stages_min": {
+     "deep": 86,
+     "rem": 82,
+     "light": 268,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-11",
+   "steps": 14284,
+   "distance_m": 10697,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-11T21:07",
+    "end": "2025-06-12T04:24",
+    "stages_min": {
+     "deep": 71,
+     "rem": 96,
+     "light": 245,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-12",
+   "steps": 10621,
+   "distance_m": 7875,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-06-12T23:31",
+    "end": "2025-06-13T07:13",
+    "stages_min": {
+     "deep": 72,
+     "rem": 89,
+     "light": 267,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-13",
+   "steps": 11116,
+   "distance_m": 8599,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-13T23:08",
+    "end": "2025-06-14T06:42",
+    "stages_min": {
+     "deep": 73,
+     "rem": 105,
+     "light": 262,
+     "awake": 14
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-14",
+   "steps": 9085,
+   "distance_m": 7264,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-15T00:14",
+    "end": "2025-06-15T09:20",
+    "stages_min": {
+     "deep": 99,
+     "rem": 95,
+     "light": 319,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-15",
+   "steps": 13465,
+   "distance_m": 10744,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-16T00:04",
+    "end": "2025-06-16T08:21",
+    "stages_min": {
+     "deep": 86,
+     "rem": 94,
+     "light": 310,
+     "awake": 8
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-06-15T12:27",
+     "duration_s": 1294,
+     "calories": 259,
+     "distance_m": 3844
+    }
+   ]
+  },
+  {
+   "date": "2025-06-16",
+   "steps": 14739,
+   "distance_m": 11607,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-06-16T22:49",
+    "end": "2025-06-17T04:59",
+    "stages_min": {
+     "deep": 61,
+     "rem": 69,
+     "light": 230,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-17",
+   "steps": 11907,
+   "distance_m": 9014,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-17T22:54",
+    "end": "2025-06-18T06:08",
+    "stages_min": {
+     "deep": 75,
+     "rem": 93,
+     "light": 255,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-18",
+   "steps": 8851,
+   "distance_m": 6839,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-18T22:34",
+    "end": "2025-06-19T06:43",
+    "stages_min": {
+     "deep": 91,
+     "rem": 105,
+     "light": 282,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-19",
+   "steps": 11318,
+   "distance_m": 8745,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-06-19T21:53",
+    "end": "2025-06-20T05:48",
+    "stages_min": {
+     "deep": 81,
+     "rem": 98,
+     "light": 261,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-20",
+   "steps": 9514,
+   "distance_m": 7450,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-06-20T21:41",
+    "end": "2025-06-21T06:03",
+    "stages_min": {
+     "deep": 84,
+     "rem": 119,
+     "light": 282,
+     "awake": 18
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-21",
+   "steps": 11860,
+   "distance_m": 9095,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-06-21T23:51",
+    "end": "2025-06-22T08:48",
+    "stages_min": {
+     "deep": 77,
+     "rem": 123,
+     "light": 329,
+     "awake": 8
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-06-21T12:46",
+     "duration_s": 1177,
+     "calories": 193,
+     "distance_m": 3460
+    }
+   ]
+  },
+  {
+   "date": "2025-06-22",
+   "steps": 13679,
+   "distance_m": 10529,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-06-22T22:18",
+    "end": "2025-06-23T05:12",
+    "stages_min": {
+     "deep": 53,
+     "rem": 92,
+     "light": 258,
+     "awake": 11
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-23",
+   "steps": 13198,
+   "distance_m": 10266,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-06-23T22:21",
+    "end": "2025-06-24T06:34",
+    "stages_min": {
+     "deep": 74,
+     "rem": 114,
+     "light": 280,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-24",
+   "steps": 12742,
+   "distance_m": 9627,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-24T22:38",
+    "end": "2025-06-25T06:37",
+    "stages_min": {
+     "deep": 60,
+     "rem": 91,
+     "light": 292,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-25",
+   "steps": 8622,
+   "distance_m": 6717,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-25T21:57",
+    "end": "2025-06-26T03:24",
+    "stages_min": {
+     "deep": 55,
+     "rem": 65,
+     "light": 197,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-26",
+   "steps": 10978,
+   "distance_m": 8512,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-06-26T21:41",
+    "end": "2025-06-27T05:41",
+    "stages_min": {
+     "deep": 79,
+     "rem": 88,
+     "light": 305,
+     "awake": 7
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-27",
+   "steps": 8255,
+   "distance_m": 6382,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-06-27T22:07",
+    "end": "2025-06-28T05:21",
+    "stages_min": {
+     "deep": 64,
+     "rem": 91,
+     "light": 253,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-28",
+   "steps": 16295,
+   "distance_m": 12614,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-06-29T01:18",
+    "end": "2025-06-29T09:35",
+    "stages_min": {
+     "deep": 89,
+     "rem": 115,
+     "light": 281,
+     "awake": 12
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-06-28T12:13",
+     "duration_s": 1982,
+     "calories": 321,
+     "distance_m": 6242
+    }
+   ]
+  },
+  {
+   "date": "2025-06-29",
+   "steps": 11495,
+   "distance_m": 8783,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-29T22:46",
+    "end": "2025-06-30T07:11",
+    "stages_min": {
+     "deep": 80,
+     "rem": 98,
+     "light": 300,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-06-30",
+   "steps": 11462,
+   "distance_m": 9085,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-06-30T23:01",
+    "end": "2025-07-01T06:53",
+    "stages_min": {
+     "deep": 86,
+     "rem": 113,
+     "light": 263,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-01",
+   "steps": 13919,
+   "distance_m": 10774,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-07-01T22:24",
+    "end": "2025-07-02T04:35",
+    "stages_min": {
+     "deep": 50,
+     "rem": 77,
+     "light": 218,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-02",
+   "steps": 9469,
+   "distance_m": 7060,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-07-02T21:30",
+    "end": "2025-07-03T06:40",
+    "stages_min": {
+     "deep": 89,
+     "rem": 124,
+     "light": 313,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-03",
+   "steps": 11494,
+   "distance_m": 9076,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-07-03T22:20",
+    "end": "2025-07-04T06:37",
+    "stages_min": {
+     "deep": 77,
+     "rem": 116,
+     "light": 282,
+     "awake": 21
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-07-03T12:19",
+     "duration_s": 2792,
+     "calories": 246,
+     "distance_m": 4027
+    }
+   ]
+  },
+  {
+   "date": "2025-07-04",
+   "steps": 6833,
+   "distance_m": 5187,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-07-04T22:00",
+    "end": "2025-07-05T04:34",
+    "stages_min": {
+     "deep": 75,
+     "rem": 85,
+     "light": 226,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-07",
+   "steps": 12107,
+   "distance_m": 9684,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-07-07T21:52",
+    "end": "2025-07-08T05:46",
+    "stages_min": {
+     "deep": 70,
+     "rem": 107,
+     "light": 270,
+     "awake": 27
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-07-07T18:08",
+     "duration_s": 2501,
+     "calories": 426,
+     "distance_m": 7364
+    }
+   ]
+  },
+  {
+   "date": "2025-07-08",
+   "steps": 15006,
+   "distance_m": 11383,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-07-08T23:48",
+    "end": "2025-07-09T07:24",
+    "stages_min": {
+     "deep": 60,
+     "rem": 79,
+     "light": 292,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-09",
+   "steps": 8863,
+   "distance_m": 7031,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-07-09T22:30",
+    "end": "2025-07-10T05:48",
+    "stages_min": {
+     "deep": 63,
+     "rem": 96,
+     "light": 255,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-10",
+   "steps": 10845,
+   "distance_m": 8487,
+   "resting_hr": 56,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-07-11",
+   "steps": 13454,
+   "distance_m": 10539,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-07-11T22:23",
+    "end": "2025-07-12T04:49",
+    "stages_min": {
+     "deep": 73,
+     "rem": 90,
+     "light": 202,
+     "awake": 22
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-07-11T12:22",
+     "duration_s": 2979,
+     "calories": 486,
+     "distance_m": 2061
+    }
+   ]
+  },
+  {
+   "date": "2025-07-12",
+   "steps": 18106,
+   "distance_m": 14391,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-07-12T23:41",
+    "end": "2025-07-13T07:28",
+    "stages_min": {
+     "deep": 82,
+     "rem": 99,
+     "light": 278,
+     "awake": 9
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-07-12T12:06",
+     "duration_s": 6129,
+     "calories": 834,
+     "distance_m": 43377
+    }
+   ]
+  },
+  {
+   "date": "2025-07-13",
+   "steps": 11623,
+   "distance_m": 9171,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-07-14T00:19",
+    "end": "2025-07-14T09:27",
+    "stages_min": {
+     "deep": 95,
+     "rem": 96,
+     "light": 334,
+     "awake": 23
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-14",
+   "steps": 10054,
+   "distance_m": 7958,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-07-14T22:43",
+    "end": "2025-07-15T05:11",
+    "stages_min": {
+     "deep": 57,
+     "rem": 81,
+     "light": 216,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-15",
+   "steps": 14102,
+   "distance_m": 10579,
+   "resting_hr": 57,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-07-16",
+   "steps": 13058,
+   "distance_m": 9763,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-07-16T22:48",
+    "end": "2025-07-17T05:29",
+    "stages_min": {
+     "deep": 71,
+     "rem": 97,
+     "light": 222,
+     "awake": 11
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-07-16T18:08",
+     "duration_s": 2228,
+     "calories": 365,
+     "distance_m": 1411
+    }
+   ]
+  },
+  {
+   "date": "2025-07-17",
+   "steps": 12318,
+   "distance_m": 9749,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-07-17T22:26",
+    "end": "2025-07-18T05:15",
+    "stages_min": {
+     "deep": 56,
+     "rem": 87,
+     "light": 246,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-18",
+   "steps": 12599,
+   "distance_m": 9808,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-07-18T22:13",
+    "end": "2025-07-19T04:19",
+    "stages_min": {
+     "deep": 64,
+     "rem": 69,
+     "light": 218,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-19",
+   "steps": 11117,
+   "distance_m": 8573,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-07-19T23:48",
+    "end": "2025-07-20T07:05",
+    "stages_min": {
+     "deep": 75,
+     "rem": 94,
+     "light": 259,
+     "awake": 8
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-20",
+   "steps": 13162,
+   "distance_m": 10234,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-07-21T00:37",
+    "end": "2025-07-21T09:37",
+    "stages_min": {
+     "deep": 102,
+     "rem": 120,
+     "light": 297,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-21",
+   "steps": 9519,
+   "distance_m": 7239,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-07-21T21:26",
+    "end": "2025-07-22T05:46",
+    "stages_min": {
+     "deep": 93,
+     "rem": 89,
+     "light": 304,
+     "awake": 15
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-22",
+   "steps": 14128,
+   "distance_m": 11117,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-07-22T21:16",
+    "end": "2025-07-23T04:58",
+    "stages_min": {
+     "deep": 65,
+     "rem": 96,
+     "light": 280,
+     "awake": 22
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-07-22T18:17",
+     "duration_s": 5021,
+     "calories": 732,
+     "distance_m": 33492
+    }
+   ]
+  },
+  {
+   "date": "2025-07-23",
+   "steps": 11887,
+   "distance_m": 9318,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-07-23T22:28",
+    "end": "2025-07-24T03:48",
+    "stages_min": {
+     "deep": 51,
+     "rem": 61,
+     "light": 196,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-24",
+   "steps": 8991,
+   "distance_m": 6770,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-07-24T21:32",
+    "end": "2025-07-25T04:51",
+    "stages_min": {
+     "deep": 82,
+     "rem": 85,
+     "light": 251,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-25",
+   "steps": 8820,
+   "distance_m": 6786,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-07-25T22:08",
+    "end": "2025-07-26T04:54",
+    "stages_min": {
+     "deep": 59,
+     "rem": 76,
+     "light": 239,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-27",
+   "steps": 18168,
+   "distance_m": 13751,
+   "resting_hr": 56,
+   "sleep": null,
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-07-27T18:40",
+     "duration_s": 3021,
+     "calories": 266,
+     "distance_m": 4520
+    }
+   ]
+  },
+  {
+   "date": "2025-07-28",
+   "steps": 12350,
+   "distance_m": 9544,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-07-28T23:30",
+    "end": "2025-07-29T07:06",
+    "stages_min": {
+     "deep": 76,
+     "rem": 107,
+     "light": 261,
+     "awake": 11
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-29",
+   "steps": 10195,
+   "distance_m": 7794,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-07-29T22:58",
+    "end": "2025-07-30T05:32",
+    "stages_min": {
+     "deep": 58,
+     "rem": 76,
+     "light": 229,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-30",
+   "steps": 11298,
+   "distance_m": 8908,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-07-30T22:34",
+    "end": "2025-07-31T05:52",
+    "stages_min": {
+     "deep": 58,
+     "rem": 93,
+     "light": 262,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-07-31",
+   "steps": 13168,
+   "distance_m": 10382,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-07-31T21:53",
+    "end": "2025-08-01T03:59",
+    "stages_min": {
+     "deep": 48,
+     "rem": 62,
+     "light": 226,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-01",
+   "steps": 15443,
+   "distance_m": 11601,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-08-01T22:26",
+    "end": "2025-08-02T05:16",
+    "stages_min": {
+     "deep": 73,
+     "rem": 77,
+     "light": 251,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-02",
+   "steps": 6185,
+   "distance_m": 4686,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-08-02T23:50",
+    "end": "2025-08-03T07:06",
+    "stages_min": {
+     "deep": 62,
+     "rem": 101,
+     "light": 248,
+     "awake": 26
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-08-02T18:09",
+     "duration_s": 1748,
+     "calories": 333,
+     "distance_m": 5354
+    }
+   ]
+  },
+  {
+   "date": "2025-08-03",
+   "steps": 16835,
+   "distance_m": 12735,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-08-04T00:20",
+    "end": "2025-08-04T08:20",
+    "stages_min": {
+     "deep": 61,
+     "rem": 106,
+     "light": 301,
+     "awake": 13
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-08-03T18:37",
+     "duration_s": 1307,
+     "calories": 184,
+     "distance_m": 854
+    }
+   ]
+  },
+  {
+   "date": "2025-08-04",
+   "steps": 8722,
+   "distance_m": 6604,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-08-04T23:01",
+    "end": "2025-08-05T06:03",
+    "stages_min": {
+     "deep": 80,
+     "rem": 82,
+     "light": 251,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-05",
+   "steps": 11986,
+   "distance_m": 9139,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-08-05T23:00",
+    "end": "2025-08-06T05:20",
+    "stages_min": {
+     "deep": 62,
+     "rem": 89,
+     "light": 223,
+     "awake": 7
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-06",
+   "steps": 14058,
+   "distance_m": 11174,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-08-06T23:12",
+    "end": "2025-08-07T06:56",
+    "stages_min": {
+     "deep": 89,
+     "rem": 104,
+     "light": 255,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-07",
+   "steps": 8672,
+   "distance_m": 6892,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-08-07T22:39",
+    "end": "2025-08-08T05:48",
+    "stages_min": {
+     "deep": 75,
+     "rem": 73,
+     "light": 250,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-08",
+   "steps": 16101,
+   "distance_m": 12470,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-08-08T21:49",
+    "end": "2025-08-09T05:11",
+    "stages_min": {
+     "deep": 74,
+     "rem": 79,
+     "light": 262,
+     "awake": 28
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-08-08T18:12",
+     "duration_s": 6245,
+     "calories": 831,
+     "distance_m": 41768
+    }
+   ]
+  },
+  {
+   "date": "2025-08-09",
+   "steps": 13380,
+   "distance_m": 10014,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-08-09T23:44",
+    "end": "2025-08-10T09:00",
+    "stages_min": {
+     "deep": 85,
+     "rem": 107,
+     "light": 357,
+     "awake": 7
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-18",
+   "steps": 10787,
+   "distance_m": 8006,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-08-18T23:07",
+    "end": "2025-08-19T05:07",
+    "stages_min": {
+     "deep": 49,
+     "rem": 63,
+     "light": 236,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-19",
+   "steps": 10706,
+   "distance_m": 8143,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-08-19T22:59",
+    "end": "2025-08-20T05:47",
+    "stages_min": {
+     "deep": 76,
+     "rem": 84,
+     "light": 227,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-20",
+   "steps": 7847,
+   "distance_m": 5984,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-08-20T22:43",
+    "end": "2025-08-21T06:46",
+    "stages_min": {
+     "deep": 89,
+     "rem": 113,
+     "light": 252,
+     "awake": 28
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-21",
+   "steps": 91,
+   "distance_m": 71,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-08-22",
+   "steps": 13024,
+   "distance_m": 10318,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-08-22T22:39",
+    "end": "2025-08-23T07:20",
+    "stages_min": {
+     "deep": 95,
+     "rem": 111,
+     "light": 301,
+     "awake": 13
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-08-22T18:59",
+     "duration_s": 1471,
+     "calories": 157
+    }
+   ]
+  },
+  {
+   "date": "2025-08-23",
+   "steps": 8987,
+   "distance_m": 6689,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-08-24T00:04",
+    "end": "2025-08-24T08:13",
+    "stages_min": {
+     "deep": 82,
+     "rem": 85,
+     "light": 292,
+     "awake": 30
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-08-23T12:42",
+     "duration_s": 2678,
+     "calories": 481,
+     "distance_m": 9327
+    }
+   ]
+  },
+  {
+   "date": "2025-08-24",
+   "steps": 11316,
+   "distance_m": 8466,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-08-24T23:20",
+    "end": "2025-08-25T06:09",
+    "stages_min": {
+     "deep": 72,
+     "rem": 90,
+     "light": 221,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-25",
+   "steps": 10066,
+   "distance_m": 7491,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-08-25T21:24",
+    "end": "2025-08-26T04:32",
+    "stages_min": {
+     "deep": 70,
+     "rem": 100,
+     "light": 246,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-26",
+   "steps": 12467,
+   "distance_m": 9565,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-08-26T22:35",
+    "end": "2025-08-27T08:18",
+    "stages_min": {
+     "deep": 91,
+     "rem": 113,
+     "light": 352,
+     "awake": 27
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-08-26T18:12",
+     "duration_s": 3582,
+     "calories": 340,
+     "distance_m": 4893
+    }
+   ]
+  },
+  {
+   "date": "2025-08-27",
+   "steps": 11168,
+   "distance_m": 8889,
+   "resting_hr": 56,
+   "sleep": null,
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-08-27T12:05",
+     "duration_s": 3727,
+     "calories": 353,
+     "distance_m": 5005
+    }
+   ]
+  },
+  {
+   "date": "2025-08-28",
+   "steps": 12338,
+   "distance_m": 9232,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-08-28T22:06",
+    "end": "2025-08-29T05:10",
+    "stages_min": {
+     "deep": 61,
+     "rem": 75,
+     "light": 274,
+     "awake": 14
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-08-28T18:26",
+     "duration_s": 2192,
+     "calories": 435,
+     "distance_m": 7138
+    }
+   ]
+  },
+  {
+   "date": "2025-08-29",
+   "steps": 10237,
+   "distance_m": 8050,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-08-29T22:12",
+    "end": "2025-08-30T04:08",
+    "stages_min": {
+     "deep": 51,
+     "rem": 75,
+     "light": 213,
+     "awake": 16
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-08-30",
+   "steps": 16444,
+   "distance_m": 12308,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-08-30T22:16",
+    "end": "2025-08-31T06:24",
+    "stages_min": {
+     "deep": 88,
+     "rem": 105,
+     "light": 263,
+     "awake": 32
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-08-30T18:22",
+     "duration_s": 2873,
+     "calories": 479,
+     "distance_m": 1920
+    }
+   ]
+  },
+  {
+   "date": "2025-08-31",
+   "steps": 13694,
+   "distance_m": 10593,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-08-31T23:50",
+    "end": "2025-09-01T08:36",
+    "stages_min": {
+     "deep": 97,
+     "rem": 94,
+     "light": 320,
+     "awake": 15
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-01",
+   "steps": 10503,
+   "distance_m": 8009,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-09-01T22:48",
+    "end": "2025-09-02T06:16",
+    "stages_min": {
+     "deep": 82,
+     "rem": 95,
+     "light": 254,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-02",
+   "steps": 10307,
+   "distance_m": 7645,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-09-02T22:53",
+    "end": "2025-09-03T05:24",
+    "stages_min": {
+     "deep": 51,
+     "rem": 79,
+     "light": 248,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-03",
+   "steps": 13331,
+   "distance_m": 10413,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-09-03T22:15",
+    "end": "2025-09-04T05:55",
+    "stages_min": {
+     "deep": 62,
+     "rem": 96,
+     "light": 293,
+     "awake": 10
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-09-03T18:58",
+     "duration_s": 3610,
+     "calories": 326,
+     "distance_m": 5445
+    }
+   ]
+  },
+  {
+   "date": "2025-09-04",
+   "steps": 11492,
+   "distance_m": 8936,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-09-04T22:20",
+    "end": "2025-09-05T05:38",
+    "stages_min": {
+     "deep": 82,
+     "rem": 93,
+     "light": 250,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-05",
+   "steps": 13662,
+   "distance_m": 10660,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-09-05T23:06",
+    "end": "2025-09-06T07:03",
+    "stages_min": {
+     "deep": 81,
+     "rem": 98,
+     "light": 283,
+     "awake": 15
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-06",
+   "steps": 7544,
+   "distance_m": 5970,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-09-06T23:35",
+    "end": "2025-09-07T07:02",
+    "stages_min": {
+     "deep": 65,
+     "rem": 91,
+     "light": 278,
+     "awake": 13
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-09-06T07:51",
+     "duration_s": 2096,
+     "calories": 369,
+     "distance_m": 6434
+    }
+   ]
+  },
+  {
+   "date": "2025-09-07",
+   "steps": 11265,
+   "distance_m": 8572,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-09-08T00:28",
+    "end": "2025-09-08T08:51",
+    "stages_min": {
+     "deep": 89,
+     "rem": 101,
+     "light": 293,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-08",
+   "steps": 10308,
+   "distance_m": 7863,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-09-08T21:47",
+    "end": "2025-09-09T06:21",
+    "stages_min": {
+     "deep": 91,
+     "rem": 95,
+     "light": 295,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-09",
+   "steps": 12653,
+   "distance_m": 9406,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-09-09T22:42",
+    "end": "2025-09-10T06:23",
+    "stages_min": {
+     "deep": 67,
+     "rem": 87,
+     "light": 286,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-10",
+   "steps": 10898,
+   "distance_m": 8443,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-09-10T22:44",
+    "end": "2025-09-11T07:20",
+    "stages_min": {
+     "deep": 82,
+     "rem": 121,
+     "light": 292,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-11",
+   "steps": 11052,
+   "distance_m": 8373,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-09-11T21:46",
+    "end": "2025-09-12T04:54",
+    "stages_min": {
+     "deep": 53,
+     "rem": 79,
+     "light": 269,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-12",
+   "steps": 11429,
+   "distance_m": 8899,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-09-12T22:55",
+    "end": "2025-09-13T05:12",
+    "stages_min": {
+     "deep": 62,
+     "rem": 71,
+     "light": 235,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-13",
+   "steps": 8590,
+   "distance_m": 6457,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-09-13T23:44",
+    "end": "2025-09-14T07:14",
+    "stages_min": {
+     "deep": 57,
+     "rem": 83,
+     "light": 288,
+     "awake": 22
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-09-13T12:26",
+     "duration_s": 1763,
+     "calories": 165
+    }
+   ]
+  },
+  {
+   "date": "2025-09-14",
+   "steps": 9236,
+   "distance_m": 7112,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-09-15T00:02",
+    "end": "2025-09-15T07:43",
+    "stages_min": {
+     "deep": 87,
+     "rem": 86,
+     "light": 279,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-15",
+   "steps": 16693,
+   "distance_m": 12811,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-09-15T23:10",
+    "end": "2025-09-16T07:27",
+    "stages_min": {
+     "deep": 81,
+     "rem": 87,
+     "light": 310,
+     "awake": 20
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-09-15T07:28",
+     "duration_s": 3070,
+     "calories": 424,
+     "distance_m": 23170
+    }
+   ]
+  },
+  {
+   "date": "2025-09-16",
+   "steps": 11785,
+   "distance_m": 9236,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-09-16T22:25",
+    "end": "2025-09-17T05:06",
+    "stages_min": {
+     "deep": 67,
+     "rem": 76,
+     "light": 223,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-17",
+   "steps": 7815,
+   "distance_m": 5980,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-09-17T21:54",
+    "end": "2025-09-18T04:50",
+    "stages_min": {
+     "deep": 63,
+     "rem": 74,
+     "light": 254,
+     "awake": 25
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-09-17T12:36",
+     "duration_s": 1753,
+     "calories": 274,
+     "distance_m": 5579
+    }
+   ]
+  },
+  {
+   "date": "2025-09-18",
+   "steps": 9100,
+   "distance_m": 7035,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-09-18T22:36",
+    "end": "2025-09-19T05:24",
+    "stages_min": {
+     "deep": 75,
+     "rem": 82,
+     "light": 228,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-09-18T18:32",
+     "duration_s": 2764,
+     "calories": 528,
+     "distance_m": 8333
+    }
+   ]
+  },
+  {
+   "date": "2025-09-19",
+   "steps": 12575,
+   "distance_m": 9742,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-09-19T22:44",
+    "end": "2025-09-20T07:48",
+    "stages_min": {
+     "deep": 95,
+     "rem": 120,
+     "light": 293,
+     "awake": 36
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-09-19T07:02",
+     "duration_s": 3695,
+     "calories": 341,
+     "distance_m": 5218
+    }
+   ]
+  },
+  {
+   "date": "2025-09-20",
+   "steps": 12266,
+   "distance_m": 9274,
+   "resting_hr": 52,
+   "sleep": {
+    "start": "2025-09-20T22:58",
+    "end": "2025-09-21T06:42",
+    "stages_min": {
+     "deep": 84,
+     "rem": 103,
+     "light": 244,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-22",
+   "steps": 170,
+   "distance_m": 131,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-09-23",
+   "steps": 11727,
+   "distance_m": 9028,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-09-23T22:51",
+    "end": "2025-09-24T06:28",
+    "stages_min": {
+     "deep": 85,
+     "rem": 101,
+     "light": 243,
+     "awake": 29
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-09-23T12:10",
+     "duration_s": 2307,
+     "calories": 195,
+     "distance_m": 3116
+    }
+   ]
+  },
+  {
+   "date": "2025-09-24",
+   "steps": 10697,
+   "distance_m": 8087,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-09-24T22:16",
+    "end": "2025-09-25T06:08",
+    "stages_min": {
+     "deep": 72,
+     "rem": 89,
+     "light": 280,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-09-24T12:36",
+     "duration_s": 5494,
+     "calories": 736,
+     "distance_m": 40759
+    }
+   ]
+  },
+  {
+   "date": "2025-09-25",
+   "steps": 8736,
+   "distance_m": 6475,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-09-25T22:33",
+    "end": "2025-09-26T06:55",
+    "stages_min": {
+     "deep": 93,
+     "rem": 85,
+     "light": 294,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-26",
+   "steps": 10718,
+   "distance_m": 8172,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-09-26T22:19",
+    "end": "2025-09-27T04:20",
+    "stages_min": {
+     "deep": 47,
+     "rem": 84,
+     "light": 215,
+     "awake": 14
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-27",
+   "steps": 10669,
+   "distance_m": 8151,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-09-27T23:17",
+    "end": "2025-09-28T08:28",
+    "stages_min": {
+     "deep": 83,
+     "rem": 118,
+     "light": 319,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-28",
+   "steps": 12267,
+   "distance_m": 9562,
+   "resting_hr": 50,
+   "sleep": {
+    "start": "2025-09-28T23:51",
+    "end": "2025-09-29T08:03",
+    "stages_min": {
+     "deep": 70,
+     "rem": 108,
+     "light": 283,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-09-28T12:03",
+     "duration_s": 4733,
+     "calories": 738,
+     "distance_m": 33371
+    }
+   ]
+  },
+  {
+   "date": "2025-09-29",
+   "steps": 14127,
+   "distance_m": 10704,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-09-29T22:26",
+    "end": "2025-09-30T07:19",
+    "stages_min": {
+     "deep": 72,
+     "rem": 107,
+     "light": 329,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-09-30",
+   "steps": 8521,
+   "distance_m": 6686,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-09-30T21:32",
+    "end": "2025-10-01T05:42",
+    "stages_min": {
+     "deep": 93,
+     "rem": 96,
+     "light": 288,
+     "awake": 14
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-01",
+   "steps": 8112,
+   "distance_m": 6256,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-10-01T22:00",
+    "end": "2025-10-02T05:39",
+    "stages_min": {
+     "deep": 85,
+     "rem": 84,
+     "light": 274,
+     "awake": 18
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-03",
+   "steps": 11968,
+   "distance_m": 8881,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-10-03T23:41",
+    "end": "2025-10-04T07:19",
+    "stages_min": {
+     "deep": 82,
+     "rem": 89,
+     "light": 273,
+     "awake": 14
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-04",
+   "steps": 15904,
+   "distance_m": 12386,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-10-05T01:07",
+    "end": "2025-10-05T08:59",
+    "stages_min": {
+     "deep": 74,
+     "rem": 105,
+     "light": 269,
+     "awake": 24
+    }
+   },
+   "workouts": [
+    {
+     "type": "swim",
+     "start": "2025-10-04T12:28",
+     "duration_s": 1767,
+     "calories": 281,
+     "distance_m": 1154
+    }
+   ]
+  },
+  {
+   "date": "2025-10-05",
+   "steps": 15569,
+   "distance_m": 12453,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-10-05T23:20",
+    "end": "2025-10-06T07:10",
+    "stages_min": {
+     "deep": 74,
+     "rem": 91,
+     "light": 296,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-06",
+   "steps": 10824,
+   "distance_m": 8579,
+   "resting_hr": 52,
+   "sleep": {
+    "start": "2025-10-07T00:20",
+    "end": "2025-10-07T07:56",
+    "stages_min": {
+     "deep": 72,
+     "rem": 107,
+     "light": 268,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-07",
+   "steps": 10422,
+   "distance_m": 8124,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-07T22:16",
+    "end": "2025-10-08T04:28",
+    "stages_min": {
+     "deep": 57,
+     "rem": 80,
+     "light": 226,
+     "awake": 8
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-10-07T18:45",
+     "duration_s": 3367,
+     "calories": 292
+    }
+   ]
+  },
+  {
+   "date": "2025-10-08",
+   "steps": 8136,
+   "distance_m": 6417,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-08T23:09",
+    "end": "2025-10-09T07:05",
+    "stages_min": {
+     "deep": 72,
+     "rem": 109,
+     "light": 264,
+     "awake": 31
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-09",
+   "steps": 9810,
+   "distance_m": 7635,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-10-09T22:44",
+    "end": "2025-10-10T06:17",
+    "stages_min": {
+     "deep": 60,
+     "rem": 102,
+     "light": 258,
+     "awake": 32
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-10-09T18:42",
+     "duration_s": 2540,
+     "calories": 401,
+     "distance_m": 8203
+    }
+   ]
+  },
+  {
+   "date": "2025-10-10",
+   "steps": 9993,
+   "distance_m": 7580,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-10-10T22:09",
+    "end": "2025-10-11T05:12",
+    "stages_min": {
+     "deep": 73,
+     "rem": 76,
+     "light": 241,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-11",
+   "steps": 7348,
+   "distance_m": 5531,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-10-11T23:49",
+    "end": "2025-10-12T07:42",
+    "stages_min": {
+     "deep": 66,
+     "rem": 80,
+     "light": 301,
+     "awake": 27
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-12",
+   "steps": 12390,
+   "distance_m": 9359,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-13T00:19",
+    "end": "2025-10-13T08:15",
+    "stages_min": {
+     "deep": 75,
+     "rem": 117,
+     "light": 278,
+     "awake": 7
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-10-12T07:39",
+     "duration_s": 2609,
+     "calories": 245,
+     "distance_m": 3562
+    }
+   ]
+  },
+  {
+   "date": "2025-10-13",
+   "steps": 9532,
+   "distance_m": 7189,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-10-13T22:08",
+    "end": "2025-10-14T04:09",
+    "stages_min": {
+     "deep": 46,
+     "rem": 69,
+     "light": 222,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-14",
+   "steps": 12033,
+   "distance_m": 9000,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-10-14T23:45",
+    "end": "2025-10-15T07:06",
+    "stages_min": {
+     "deep": 60,
+     "rem": 95,
+     "light": 278,
+     "awake": 8
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-10-14T18:50",
+     "duration_s": 2595,
+     "calories": 495,
+     "distance_m": 8839
+    }
+   ]
+  },
+  {
+   "date": "2025-10-15",
+   "steps": 12177,
+   "distance_m": 9051,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-10-15T23:02",
+    "end": "2025-10-16T05:06",
+    "stages_min": {
+     "deep": 68,
+     "rem": 71,
+     "light": 211,
+     "awake": 14
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-16",
+   "steps": 7033,
+   "distance_m": 5234,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-10-16T22:13",
+    "end": "2025-10-17T05:19",
+    "stages_min": {
+     "deep": 65,
+     "rem": 87,
+     "light": 264,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-17",
+   "steps": 6416,
+   "distance_m": 4754,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-17T23:21",
+    "end": "2025-10-18T06:07",
+    "stages_min": {
+     "deep": 51,
+     "rem": 92,
+     "light": 229,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-18",
+   "steps": 11633,
+   "distance_m": 8649,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-19T00:18",
+    "end": "2025-10-19T07:35",
+    "stages_min": {
+     "deep": 64,
+     "rem": 97,
+     "light": 266,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-19",
+   "steps": 12035,
+   "distance_m": 9325,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-10-20T00:06",
+    "end": "2025-10-20T07:57",
+    "stages_min": {
+     "deep": 65,
+     "rem": 80,
+     "light": 291,
+     "awake": 34
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-10-19T18:44",
+     "duration_s": 1229,
+     "calories": 193,
+     "distance_m": 3973
+    }
+   ]
+  },
+  {
+   "date": "2025-10-20",
+   "steps": 10973,
+   "distance_m": 8165,
+   "resting_hr": 54,
+   "sleep": null,
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-10-20T07:08",
+     "duration_s": 3594,
+     "calories": 476,
+     "distance_m": 26206
+    }
+   ]
+  },
+  {
+   "date": "2025-10-21",
+   "steps": 13153,
+   "distance_m": 10473,
+   "resting_hr": 55,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-10-22",
+   "steps": 12492,
+   "distance_m": 9374,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-22T21:47",
+    "end": "2025-10-23T05:49",
+    "stages_min": {
+     "deep": 82,
+     "rem": 99,
+     "light": 293,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-23",
+   "steps": 8972,
+   "distance_m": 7113,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-23T21:37",
+    "end": "2025-10-24T03:48",
+    "stages_min": {
+     "deep": 52,
+     "rem": 75,
+     "light": 221,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-24",
+   "steps": 8904,
+   "distance_m": 6863,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-10-24T22:31",
+    "end": "2025-10-25T06:29",
+    "stages_min": {
+     "deep": 68,
+     "rem": 106,
+     "light": 296,
+     "awake": 9
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-25",
+   "steps": 10047,
+   "distance_m": 7808,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-10-26T00:01",
+    "end": "2025-10-26T09:01",
+    "stages_min": {
+     "deep": 82,
+     "rem": 105,
+     "light": 324,
+     "awake": 29
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-10-25T12:08",
+     "duration_s": 1281,
+     "calories": 207,
+     "distance_m": 4360
+    }
+   ]
+  },
+  {
+   "date": "2025-10-26",
+   "steps": 14294,
+   "distance_m": 10661,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-10-26T23:18",
+    "end": "2025-10-27T08:48",
+    "stages_min": {
+     "deep": 112,
+     "rem": 104,
+     "light": 347,
+     "awake": 8
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-10-26T18:50",
+     "duration_s": 3175,
+     "calories": 292,
+     "distance_m": 4787
+    }
+   ]
+  },
+  {
+   "date": "2025-10-27",
+   "steps": 10803,
+   "distance_m": 8176,
+   "resting_hr": 56,
+   "sleep": null,
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-10-27T18:09",
+     "duration_s": 2244,
+     "calories": 255
+    }
+   ]
+  },
+  {
+   "date": "2025-10-28",
+   "steps": 8591,
+   "distance_m": 6641,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-10-28T22:39",
+    "end": "2025-10-29T06:56",
+    "stages_min": {
+     "deep": 89,
+     "rem": 89,
+     "light": 297,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-29",
+   "steps": 7062,
+   "distance_m": 5254,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-10-29T22:07",
+    "end": "2025-10-30T04:52",
+    "stages_min": {
+     "deep": 68,
+     "rem": 79,
+     "light": 238,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-30",
+   "steps": 6618,
+   "distance_m": 4952,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-10-30T23:18",
+    "end": "2025-10-31T08:33",
+    "stages_min": {
+     "deep": 81,
+     "rem": 115,
+     "light": 328,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-10-31",
+   "steps": 7159,
+   "distance_m": 5689,
+   "resting_hr": 61,
+   "sleep": {
+    "start": "2025-10-31T22:53",
+    "end": "2025-11-01T06:59",
+    "stages_min": {
+     "deep": 92,
+     "rem": 105,
+     "light": 266,
+     "awake": 22
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-10-31T18:12",
+     "duration_s": 2972,
+     "calories": 238,
+     "distance_m": 4150
+    }
+   ]
+  },
+  {
+   "date": "2025-11-01",
+   "steps": 11805,
+   "distance_m": 9414,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-11-01T23:31",
+    "end": "2025-11-02T07:01",
+    "stages_min": {
+     "deep": 71,
+     "rem": 105,
+     "light": 253,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-02",
+   "steps": 10323,
+   "distance_m": 8075,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-11-02T23:42",
+    "end": "2025-11-03T08:56",
+    "stages_min": {
+     "deep": 77,
+     "rem": 131,
+     "light": 328,
+     "awake": 18
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-11-02T12:39",
+     "duration_s": 4412,
+     "calories": 690,
+     "distance_m": 30148
+    }
+   ]
+  },
+  {
+   "date": "2025-11-03",
+   "steps": 7900,
+   "distance_m": 5857,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-11-03T23:53",
+    "end": "2025-11-04T07:22",
+    "stages_min": {
+     "deep": 64,
+     "rem": 106,
+     "light": 256,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-04",
+   "steps": 8314,
+   "distance_m": 6303,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-11-04T23:22",
+    "end": "2025-11-05T06:53",
+    "stages_min": {
+     "deep": 65,
+     "rem": 82,
+     "light": 290,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-05",
+   "steps": 176,
+   "distance_m": 135,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-11-06",
+   "steps": 8078,
+   "distance_m": 6069,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-11-06T22:03",
+    "end": "2025-11-07T04:17",
+    "stages_min": {
+     "deep": 70,
+     "rem": 66,
+     "light": 220,
+     "awake": 18
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-11-06T12:56",
+     "duration_s": 1212,
+     "calories": 212,
+     "distance_m": 3774
+    }
+   ]
+  },
+  {
+   "date": "2025-11-07",
+   "steps": 7029,
+   "distance_m": 5377,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-11-07T21:59",
+    "end": "2025-11-08T05:33",
+    "stages_min": {
+     "deep": 63,
+     "rem": 92,
+     "light": 283,
+     "awake": 16
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-11-07T07:43",
+     "duration_s": 1576,
+     "calories": 313,
+     "distance_m": 5463
+    }
+   ]
+  },
+  {
+   "date": "2025-11-08",
+   "steps": 16160,
+   "distance_m": 12008,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-11-09T00:42",
+    "end": "2025-11-09T09:59",
+    "stages_min": {
+     "deep": 70,
+     "rem": 111,
+     "light": 354,
+     "awake": 22
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-11-08T07:10",
+     "duration_s": 4016,
+     "calories": 330,
+     "distance_m": 6326
+    }
+   ]
+  },
+  {
+   "date": "2025-11-09",
+   "steps": 9867,
+   "distance_m": 7344,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-11-09T23:32",
+    "end": "2025-11-10T07:13",
+    "stages_min": {
+     "deep": 71,
+     "rem": 100,
+     "light": 282,
+     "awake": 7
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-11-09T18:51",
+     "duration_s": 2828,
+     "calories": 270
+    }
+   ]
+  },
+  {
+   "date": "2025-11-10",
+   "steps": 10779,
+   "distance_m": 8038,
+   "resting_hr": 51,
+   "sleep": {
+    "start": "2025-11-10T22:21",
+    "end": "2025-11-11T04:58",
+    "stages_min": {
+     "deep": 62,
+     "rem": 69,
+     "light": 235,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-11",
+   "steps": 10566,
+   "distance_m": 7933,
+   "resting_hr": 56,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-11-12",
+   "steps": 7462,
+   "distance_m": 5742,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-11-12T22:34",
+    "end": "2025-11-13T05:59",
+    "stages_min": {
+     "deep": 73,
+     "rem": 89,
+     "light": 250,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-13",
+   "steps": 8618,
+   "distance_m": 6499,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-11-13T22:18",
+    "end": "2025-11-14T05:42",
+    "stages_min": {
+     "deep": 84,
+     "rem": 95,
+     "light": 258,
+     "awake": 6
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-11-13T12:17",
+     "duration_s": 5124,
+     "calories": 752,
+     "distance_m": 33151
+    }
+   ]
+  },
+  {
+   "date": "2025-11-14",
+   "steps": 5215,
+   "distance_m": 3993,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-11-14T22:28",
+    "end": "2025-11-15T06:07",
+    "stages_min": {
+     "deep": 64,
+     "rem": 105,
+     "light": 259,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-15",
+   "steps": 358,
+   "distance_m": 274,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-11-16",
+   "steps": 10447,
+   "distance_m": 7959,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-11-16T23:55",
+    "end": "2025-11-17T08:26",
+    "stages_min": {
+     "deep": 77,
+     "rem": 92,
+     "light": 336,
+     "awake": 7
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-11-16T07:25",
+     "duration_s": 1953,
+     "calories": 382,
+     "distance_m": 6117
+    }
+   ]
+  },
+  {
+   "date": "2025-11-17",
+   "steps": 9590,
+   "distance_m": 7348,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-11-17T23:01",
+    "end": "2025-11-18T07:20",
+    "stages_min": {
+     "deep": 86,
+     "rem": 86,
+     "light": 296,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-11-17T12:57",
+     "duration_s": 2017,
+     "calories": 322,
+     "distance_m": 6453
+    }
+   ]
+  },
+  {
+   "date": "2025-11-18",
+   "steps": 6891,
+   "distance_m": 5247,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-11-18T23:00",
+    "end": "2025-11-19T06:00",
+    "stages_min": {
+     "deep": 77,
+     "rem": 82,
+     "light": 239,
+     "awake": 21
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-19",
+   "steps": 11924,
+   "distance_m": 8893,
+   "resting_hr": 61,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-11-20",
+   "steps": 8978,
+   "distance_m": 6693,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-11-20T23:02",
+    "end": "2025-11-21T06:30",
+    "stages_min": {
+     "deep": 56,
+     "rem": 101,
+     "light": 273,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-21",
+   "steps": 11183,
+   "distance_m": 8620,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-11-21T22:51",
+    "end": "2025-11-22T05:01",
+    "stages_min": {
+     "deep": 65,
+     "rem": 77,
+     "light": 211,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-22",
+   "steps": 10797,
+   "distance_m": 8497,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-11-23T00:13",
+    "end": "2025-11-23T09:30",
+    "stages_min": {
+     "deep": 86,
+     "rem": 117,
+     "light": 344,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-23",
+   "steps": 12606,
+   "distance_m": 9543,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-11-24T00:47",
+    "end": "2025-11-24T07:47",
+    "stages_min": {
+     "deep": 62,
+     "rem": 89,
+     "light": 260,
+     "awake": 10
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-24",
+   "steps": 7789,
+   "distance_m": 6175,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-11-24T23:25",
+    "end": "2025-11-25T07:14",
+    "stages_min": {
+     "deep": 69,
+     "rem": 109,
+     "light": 280,
+     "awake": 11
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-11-24T18:41",
+     "duration_s": 2952,
+     "calories": 243,
+     "distance_m": 4227
+    }
+   ]
+  },
+  {
+   "date": "2025-11-25",
+   "steps": 8692,
+   "distance_m": 6466,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-11-25T22:15",
+    "end": "2025-11-26T04:31",
+    "stages_min": {
+     "deep": 66,
+     "rem": 85,
+     "light": 200,
+     "awake": 26
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-26",
+   "steps": 12219,
+   "distance_m": 9233,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-11-26T23:13",
+    "end": "2025-11-27T06:13",
+    "stages_min": {
+     "deep": 60,
+     "rem": 81,
+     "light": 249,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-27",
+   "steps": 10860,
+   "distance_m": 8094,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-11-27T22:20",
+    "end": "2025-11-28T05:35",
+    "stages_min": {
+     "deep": 70,
+     "rem": 78,
+     "light": 253,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-28",
+   "steps": 12975,
+   "distance_m": 10018,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-11-28T23:05",
+    "end": "2025-11-29T04:35",
+    "stages_min": {
+     "deep": 50,
+     "rem": 74,
+     "light": 194,
+     "awake": 12
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-29",
+   "steps": 12426,
+   "distance_m": 9701,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-11-29T23:38",
+    "end": "2025-11-30T08:00",
+    "stages_min": {
+     "deep": 72,
+     "rem": 89,
+     "light": 317,
+     "awake": 23
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-11-30",
+   "steps": 7781,
+   "distance_m": 6088,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-11-30T23:47",
+    "end": "2025-12-01T07:00",
+    "stages_min": {
+     "deep": 78,
+     "rem": 102,
+     "light": 233,
+     "awake": 20
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-11-30T12:00",
+     "duration_s": 2718,
+     "calories": 203,
+     "distance_m": 4147
+    }
+   ]
+  },
+  {
+   "date": "2025-12-01",
+   "steps": 8768,
+   "distance_m": 6808,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-01T21:48",
+    "end": "2025-12-02T05:35",
+    "stages_min": {
+     "deep": 66,
+     "rem": 90,
+     "light": 288,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-12-01T07:33",
+     "duration_s": 1806,
+     "calories": 318,
+     "distance_m": 5774
+    }
+   ]
+  },
+  {
+   "date": "2025-12-02",
+   "steps": 244,
+   "distance_m": 190,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-12-03",
+   "steps": 9702,
+   "distance_m": 7539,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-12-03T22:32",
+    "end": "2025-12-04T05:59",
+    "stages_min": {
+     "deep": 70,
+     "rem": 90,
+     "light": 261,
+     "awake": 25
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-04",
+   "steps": 12927,
+   "distance_m": 9885,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-12-04T22:48",
+    "end": "2025-12-05T06:29",
+    "stages_min": {
+     "deep": 85,
+     "rem": 92,
+     "light": 260,
+     "awake": 23
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-12-04T07:53",
+     "duration_s": 3967,
+     "calories": 377,
+     "distance_m": 5418
+    }
+   ]
+  },
+  {
+   "date": "2025-12-05",
+   "steps": 11471,
+   "distance_m": 9084,
+   "resting_hr": 53,
+   "sleep": {
+    "start": "2025-12-05T21:05",
+    "end": "2025-12-06T05:24",
+    "stages_min": {
+     "deep": 65,
+     "rem": 85,
+     "light": 318,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-06",
+   "steps": 13474,
+   "distance_m": 10551,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-12-07T00:24",
+    "end": "2025-12-07T07:39",
+    "stages_min": {
+     "deep": 80,
+     "rem": 74,
+     "light": 254,
+     "awake": 27
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-07",
+   "steps": 10305,
+   "distance_m": 7765,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-12-07T23:22",
+    "end": "2025-12-08T06:16",
+    "stages_min": {
+     "deep": 74,
+     "rem": 86,
+     "light": 221,
+     "awake": 32
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-08",
+   "steps": 9892,
+   "distance_m": 7389,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-08T23:01",
+    "end": "2025-12-09T05:39",
+    "stages_min": {
+     "deep": 54,
+     "rem": 81,
+     "light": 250,
+     "awake": 13
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-12-08T18:06",
+     "duration_s": 1368,
+     "calories": 214,
+     "distance_m": 4284
+    }
+   ]
+  },
+  {
+   "date": "2025-12-09",
+   "steps": 84,
+   "distance_m": 66,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-12-10",
+   "steps": 10137,
+   "distance_m": 7794,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-12-10T23:13",
+    "end": "2025-12-11T07:34",
+    "stages_min": {
+     "deep": 79,
+     "rem": 102,
+     "light": 286,
+     "awake": 33
+    }
+   },
+   "workouts": [
+    {
+     "type": "strength",
+     "start": "2025-12-10T07:52",
+     "duration_s": 1559,
+     "calories": 157
+    }
+   ]
+  },
+  {
+   "date": "2025-12-11",
+   "steps": 10858,
+   "distance_m": 8068,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-12-11T22:51",
+    "end": "2025-12-12T06:17",
+    "stages_min": {
+     "deep": 70,
+     "rem": 105,
+     "light": 249,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-12",
+   "steps": 10129,
+   "distance_m": 7502,
+   "resting_hr": 58,
+   "sleep": {
+    "start": "2025-12-12T22:19",
+    "end": "2025-12-13T04:40",
+    "stages_min": {
+     "deep": 63,
+     "rem": 89,
+     "light": 208,
+     "awake": 20
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-13",
+   "steps": 7698,
+   "distance_m": 5800,
+   "resting_hr": 59,
+   "sleep": {
+    "start": "2025-12-13T23:22",
+    "end": "2025-12-14T07:34",
+    "stages_min": {
+     "deep": 88,
+     "rem": 104,
+     "light": 284,
+     "awake": 16
+    }
+   },
+   "workouts": [
+    {
+     "type": "walk",
+     "start": "2025-12-13T18:25",
+     "duration_s": 2652,
+     "calories": 225,
+     "distance_m": 4073
+    }
+   ]
+  },
+  {
+   "date": "2025-12-14",
+   "steps": 13578,
+   "distance_m": 10711,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-15T00:11",
+    "end": "2025-12-15T07:57",
+    "stages_min": {
+     "deep": 68,
+     "rem": 103,
+     "light": 267,
+     "awake": 29
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-15",
+   "steps": 9988,
+   "distance_m": 7624,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-15T22:24",
+    "end": "2025-12-16T06:01",
+    "stages_min": {
+     "deep": 84,
+     "rem": 101,
+     "light": 255,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-16",
+   "steps": 10327,
+   "distance_m": 8099,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-16T22:50",
+    "end": "2025-12-17T06:55",
+    "stages_min": {
+     "deep": 88,
+     "rem": 82,
+     "light": 279,
+     "awake": 35
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-17",
+   "steps": 9926,
+   "distance_m": 7581,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-12-17T23:38",
+    "end": "2025-12-18T07:25",
+    "stages_min": {
+     "deep": 59,
+     "rem": 93,
+     "light": 295,
+     "awake": 21
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-12-17T07:53",
+     "duration_s": 2131,
+     "calories": 363,
+     "distance_m": 6856
+    }
+   ]
+  },
+  {
+   "date": "2025-12-18",
+   "steps": 115,
+   "distance_m": 90,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-12-19",
+   "steps": 10138,
+   "distance_m": 7856,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-12-19T22:09",
+    "end": "2025-12-20T03:25",
+    "stages_min": {
+     "deep": 51,
+     "rem": 59,
+     "light": 186,
+     "awake": 19
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-20",
+   "steps": 8273,
+   "distance_m": 6325,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-12-20T22:47",
+    "end": "2025-12-21T06:17",
+    "stages_min": {
+     "deep": 72,
+     "rem": 93,
+     "light": 250,
+     "awake": 34
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-21",
+   "steps": 11798,
+   "distance_m": 9315,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-12-22T00:36",
+    "end": "2025-12-22T08:35",
+    "stages_min": {
+     "deep": 85,
+     "rem": 87,
+     "light": 274,
+     "awake": 33
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-22",
+   "steps": 9422,
+   "distance_m": 7412,
+   "resting_hr": 60,
+   "sleep": {
+    "start": "2025-12-22T23:27",
+    "end": "2025-12-23T06:51",
+    "stages_min": {
+     "deep": 58,
+     "rem": 89,
+     "light": 279,
+     "awake": 17
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-23",
+   "steps": 11146,
+   "distance_m": 8575,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-23T22:41",
+    "end": "2025-12-24T06:31",
+    "stages_min": {
+     "deep": 77,
+     "rem": 93,
+     "light": 287,
+     "awake": 13
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-24",
+   "steps": 10105,
+   "distance_m": 7910,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-24T22:16",
+    "end": "2025-12-25T05:42",
+    "stages_min": {
+     "deep": 83,
+     "rem": 97,
+     "light": 245,
+     "awake": 22
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-25",
+   "steps": 8074,
+   "distance_m": 6219,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-12-25T21:16",
+    "end": "2025-12-26T05:23",
+    "stages_min": {
+     "deep": 62,
+     "rem": 99,
+     "light": 296,
+     "awake": 30
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-26",
+   "steps": 8622,
+   "distance_m": 6429,
+   "resting_hr": 56,
+   "sleep": {
+    "start": "2025-12-26T21:14",
+    "end": "2025-12-27T04:46",
+    "stages_min": {
+     "deep": 66,
+     "rem": 98,
+     "light": 264,
+     "awake": 24
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-27",
+   "steps": 12922,
+   "distance_m": 10019,
+   "resting_hr": 57,
+   "sleep": {
+    "start": "2025-12-27T23:50",
+    "end": "2025-12-28T08:21",
+    "stages_min": {
+     "deep": 95,
+     "rem": 110,
+     "light": 282,
+     "awake": 23
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-28",
+   "steps": 314,
+   "distance_m": 244,
+   "resting_hr": null,
+   "sleep": null,
+   "workouts": []
+  },
+  {
+   "date": "2025-12-29",
+   "steps": 9556,
+   "distance_m": 7170,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-12-29T22:35",
+    "end": "2025-12-30T06:55",
+    "stages_min": {
+     "deep": 79,
+     "rem": 117,
+     "light": 297,
+     "awake": 7
+    }
+   },
+   "workouts": []
+  },
+  {
+   "date": "2025-12-30",
+   "steps": 3244,
+   "distance_m": 2483,
+   "resting_hr": 55,
+   "sleep": {
+    "start": "2025-12-30T21:35",
+    "end": "2025-12-31T04:28",
+    "stages_min": {
+     "deep": 70,
+     "rem": 85,
+     "light": 228,
+     "awake": 31
+    }
+   },
+   "workouts": [
+    {
+     "type": "run",
+     "start": "2025-12-30T12:58",
+     "duration_s": 2332,
+     "calories": 459,
+     "distance_m": 7443
+    }
+   ]
+  },
+  {
+   "date": "2025-12-31",
+   "steps": 11088,
+   "distance_m": 8833,
+   "resting_hr": 54,
+   "sleep": {
+    "start": "2025-12-31T22:06",
+    "end": "2026-01-01T06:03",
+    "stages_min": {
+     "deep": 76,
+     "rem": 83,
+     "light": 301,
+     "awake": 17
+    }
+   },
+   "workouts": [
+    {
+     "type": "ride",
+     "start": "2025-12-31T18:33",
+     "duration_s": 5141,
+     "calories": 705,
+     "distance_m": 38181
+    }
+   ]
+  }
+ ]
+}

@@ -124,7 +124,39 @@ world["GDP per person"] = pd.to_numeric(
 print(world.shape)
 print(world.groupby("continent")["Life expectancy"].median())
 
-# %% 7.8 Putting it together: a catalog page to a clean table
+# %% 7.8 When read_html isn't enough: tables by hand
+page = requests.get(f"{BASE}/data/largest-cities.html",
+                    timeout=10).text
+cities = pd.read_html(StringIO(page))[0]
+for column in cities.columns:
+    print(column)
+print(cities.head(3))
+
+# %% 7.8 When read_html isn't enough: tables by hand
+table = BeautifulSoup(page, "lxml").select_one("table.data")
+rows, country = [], None
+for tr in table.select("tbody tr"):
+    cells = tr.find_all("td")
+    if cells[0].has_attr("rowspan"):      # a new country starts
+        country = cells[0].get_text(strip=True)
+        cells = cells[1:]
+    link = cells[0].find("a")
+    note = cells[1].find("sup")
+    rows.append({"country": country, "city": link.get_text(),
+                 "url": urljoin(BASE, link["href"]),
+                 "note": note.get_text(strip=True) if note else "",
+                 "proper": cells[1].contents[0],
+                 "metro": cells[2].text})
+
+# %% 7.8 When read_html isn't enough: tables by hand
+big = pd.DataFrame(rows)
+for col in ["proper", "metro"]:
+    big[col] = pd.to_numeric(big[col].str.replace(",", ""))
+big["metro_x"] = (big["metro"] / big["proper"]).round(1)
+print(big[["country", "city", "note", "metro_x"]].head(4))
+print(big.loc[0, "url"])
+
+# %% 7.9 Putting it together: a catalog page to a clean table
 def scrape_listing(url, session=requests):
     """Return the raw book records on one catalog or category page."""
     response = session.get(url, timeout=10)
@@ -142,7 +174,7 @@ def clean_books(raw):
         in_stock=books["stock"].eq("In stock"),
     ).drop(columns="stock")
 
-# %% 7.8 Putting it together: a catalog page to a clean table
+# %% 7.9 Putting it together: a catalog page to a clean table
 url = f"{BASE}/shop/category/poetry/page-1.html"
 poetry = clean_books(scrape_listing(url))
 print(len(poetry), poetry["price"].mean().round(2))

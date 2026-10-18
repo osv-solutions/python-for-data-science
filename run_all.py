@@ -2,7 +2,7 @@
 
 Scripts that ask for keyboard input are fed the answers used in the book,
 from the matching <name>.inputs.txt file. Scripts that expect the practice
-server to be running in another terminal, such as Project 10's pipeline.py,
+server to be running in another terminal, such as Project 15's pipeline.py,
 get one for the length of their run.
 
 With pytest installed, the tests in examples/ run too.
@@ -22,7 +22,11 @@ ROOT = pathlib.Path(__file__).resolve().parent
 
 def scripts(pattern=""):
     for folder in ("chapters", "projects", "solutions"):
-        for path in sorted((ROOT / folder).rglob("*.py")):
+        # a dashboard reads what its folder's other scripts build, so last
+        paths = (ROOT / folder).rglob("*.py")
+        for path in sorted(paths, key=lambda p: (p.parent,
+                                                 p.name == "dashboard.py",
+                                                 p.name)):
             if ("_snippet" in path.name or path.name == "practice_web.py"
                     or pattern not in str(path)):
                 continue
