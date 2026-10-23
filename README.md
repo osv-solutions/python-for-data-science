@@ -101,6 +101,20 @@ python run_all.py            # everything
 python run_all.py ch04       # only the scripts whose path contains "ch04"
 ```
 
+## Feedback and errata
+
+Found a mistake, a program that doesn't run as described, or something that
+could be explained better? Please tell me:
+
+- **Report a problem:** [open an issue](https://github.com/osv-solutions/python-for-data-science/issues/new/choose),
+  with the page or listing number.
+- **Ask a question or share an idea:** use the **Discussions** tab.
+- **Anything private** (for example, using the book in a course):
+  email pythonforseries@osvsolutions.com.
+
+Confirmed corrections are listed in [ERRATA.md](ERRATA.md) and fixed in later
+printings.
+
 ## The Python for… series
 
 *Python for Data Science* is Book 2 of the *Python for…* series. Each book takes

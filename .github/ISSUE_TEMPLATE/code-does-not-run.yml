@@ -1,0 +1,27 @@
+name: Code does not run
+description: A program from the book or this repository fails or prints something different
+labels: ["code"]
+body:
+  - type: input
+    id: file
+    attributes:
+      label: Which program
+      placeholder: "chapters/ch07_scraping/ch07_scraping.py, or page 85"
+    validations:
+      required: true
+  - type: textarea
+    id: output
+    attributes:
+      label: What happened
+      description: Paste the full error message or output
+      render: text
+    validations:
+      required: true
+  - type: input
+    id: python
+    attributes:
+      label: Python version and system
+      description: The output of python --version, and Windows, macOS or Linux
+      placeholder: "Python 3.14.0 on Windows 11"
+    validations:
+      required: true

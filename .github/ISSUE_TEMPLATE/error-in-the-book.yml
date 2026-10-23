@@ -1,0 +1,19 @@
+name: Error in the book
+description: A mistake in the text, a code listing or an output
+labels: ["erratum"]
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Where
+      description: Page number, and the chapter, section or listing
+      placeholder: "Page 142, Chapter 11, section 11.3"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What is wrong
+      description: Quote the text or code, and say what you expected instead
+    validations:
+      required: true
