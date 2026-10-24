@@ -280,7 +280,7 @@ print(counts, f"one by one {seq:.1f} s, together {par:.1f} s")
 Output:
 
 ```text
-[60, 60, 60] one by one 7.2 s, together 2.7 s
+[60, 60, 60] one by one 7.1 s, together 2.6 s
 ```
 
 All three days load all 60 products. Loading them together takes about as long as loading one, because most of the time is spent waiting for the server, and the three pages wait at the same time (*Python for All*, Chapter 21). In a notebook, which already runs an event loop, replace `asyncio.run(compare(days))` with `await compare(days)`.

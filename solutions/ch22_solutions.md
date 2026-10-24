@@ -154,7 +154,7 @@ print(f"lambda {t_slow:.2f} s, vectorized {t_fast:.2f} s, same: "
 Output:
 
 ```text
-lambda 0.20 s, vectorized 0.08 s, same: True
+lambda 0.26 s, vectorized 0.15 s, same: True
 ```
 
 The vectorized version computes the Boolean column once for all rows, in compiled code, and then takes a grouped mean, which pandas does very fast. The `lambda` version calls Python once per group and compares strings group by group. With only 12 groups the gap is modest; with thousands of groups, such as one per station and day, it grows to many times.
@@ -242,7 +242,7 @@ Output:
 
 ```text
 month = 6              0.01 s [154381, 174132, 181924]
-month(start_time) = 6  0.30 s [154381, 174132, 181924]
+month(start_time) = 6  0.34 s [154381, 174132, 181924]
 ```
 
 `scale=3` keeps the three years to a manageable size. Both queries count the same June rides. Filtering on the partition column `month` lets DuckDB open only the three June folders; filtering on `month(start_time)` must read the timestamps of every file. The partition filter is about 30 times faster here, and on real datasets of hundreds of files, the difference is between seconds and minutes.
