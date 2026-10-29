@@ -47,6 +47,8 @@ print(stores.columns.tolist())
 print(stores.dtypes)
 
 # %% 3.3 Looking at a new dataset
+import pandas as pd
+
 penguins = pd.read_csv("data/penguins.csv")
 print(penguins.sample(4, random_state=1))
 
