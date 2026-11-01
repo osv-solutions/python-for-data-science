@@ -124,7 +124,7 @@ Titles and order of the planned books may change.
 
 | # | Title | Status |
 |---|---|---|
-| 1 | Python for All | Coming soon |
+| 1 | Python for All | Available now on Amazon |
 | 2 | Python for Data Science | This book |
 | 3 | Python for Machine Learning | Coming soon |
 | 4 | Python for Deep Learning | Coming soon |
